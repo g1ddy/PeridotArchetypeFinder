@@ -7,6 +7,20 @@ function Invoke-PeridotArchetypeFinder {
         Set-StrictMode -Version Latest
         $ErrorActionPreference = "Stop"
 
+        $archetypes = Get-Archetypes -Path $Path
+
+        $peridotCombinations = Invoke-PeridotCombinationGenerator -Archetypes $archetypes
+    }
+}
+
+function Get-Archetypes {
+    [CmdletBinding()]
+    param(
+        [ValidateScript({ if ($_) { Test-Path $_ } })]
+        [Parameter(Mandatory = $true)]
+        [string]$Path
+    )
+    process {
         $archetypeHash = @{}
 
         Import-Csv -Path $Path | ForEach-Object {
