@@ -59,7 +59,7 @@ function Format-PeridotArchetype {
                 if (!$peridotsWithArchetypes.ContainsKey($hashKey)) {
                     $peridotArchetypeList = @{
                         peridots = New-Object 'System.Collections.Generic.List[Peridot]'
-                        count      = $matchingArchetypes.Count
+                        count    = $matchingArchetypes.Count
                     }
                     $peridotsWithArchetypes.Add($hashKey, $peridotArchetypeList) | Out-Null
                 }
@@ -69,7 +69,7 @@ function Format-PeridotArchetype {
         }
 
         Write-Host "# Peridot with Multi Archetype"
-        $orderedPeridotsArchetypes = $peridotsWithArchetypes.GetEnumerator() | Sort-Object -Property Count -Descending
+        $orderedPeridotsArchetypes = $peridotsWithArchetypes.GetEnumerator() | Sort-Object -Property @{Expression = { $_.Value.count } } -Descending
         $orderedPeridotsArchetypes | ForEach-Object {
             $archetypeKey = $_.Key
             $archetypeCount = $_.Value.count

@@ -9,7 +9,7 @@ function Invoke-PeridotCombinationGenerator {
         if (!$Archetypes) {
             throw "Archetypes cannot be null"
         }
-        
+
         $patterns = @($archetypes.Pattern | Get-Unique)
         $tails = @($archetypes.Tail | Get-Unique)
         $horns = @($archetypes.Horn | Get-Unique)
@@ -17,7 +17,7 @@ function Invoke-PeridotCombinationGenerator {
         $materials = @($archetypes.Material | Get-Unique)
         $faces = @($archetypes.Face | Get-Unique)
         $ears = @($archetypes.Ear | Get-Unique)
-        
+
         foreach ($pattern in $patterns) {
             foreach ($tail in $tails) {
                 foreach ($horn in $horns) {
