@@ -10,6 +10,8 @@ function Invoke-PeridotArchetypeFinder {
         $archetypes = Get-Archetypes -Path $Path
 
         $peridotCombinations = Invoke-PeridotCombinationGenerator -Archetypes $archetypes
+
+        Format-PeridotArchetype -Archetypes $archetypes -Peridots $peridotCombinations
     }
 }
 
@@ -30,5 +32,54 @@ function Get-Archetypes {
         }
 
         $archetypeHash.Values
+    }
+}
+
+function Format-PeridotArchetype {
+    [CmdletBinding()]
+    param(
+        [Archetype[]]$Archetypes,
+        [Peridot[]]$Peridots
+    )
+    process {
+        Set-StrictMode -Version Latest
+        $ErrorActionPreference = "Stop"
+
+        $peridotsWithArchetypes = @{}
+        foreach ($peridot in $Peridots) {
+            $matchingArchetypes = New-Object System.Collections.ArrayList
+            foreach ($archetype in $Archetypes) {
+                if ($peridot.MatchesArchetype($archetype)) {
+                    $matchingArchetypes.Add($archetype.Archetype) | Out-Null
+                }
+            }
+
+            if ($matchingArchetypes.Count -gt 1) {
+                $hashKey = $matchingArchetypes -join ', '
+                if (!$peridotsWithArchetypes.ContainsKey($hashKey)) {
+                    $peridotArchetypeList = @{
+                        peridots = New-Object 'System.Collections.Generic.List[Peridot]'
+                        count      = $matchingArchetypes.Count
+                    }
+                    $peridotsWithArchetypes.Add($hashKey, $peridotArchetypeList) | Out-Null
+                }
+
+                $peridotsWithArchetypes[$hashKey].peridots.Add($peridot) | Out-Null
+            }
+        }
+
+        Write-Host "# Peridot with Multi Archetype"
+        $orderedPeridotsArchetypes = $peridotsWithArchetypes.GetEnumerator() | Sort-Object -Property Count -Descending
+        $orderedPeridotsArchetypes | ForEach-Object {
+            $archetypeKey = $_.Key
+            $archetypeCount = $_.Value.count
+            $possibilities = $_.Value.peridots.Count
+
+            Write-Host "## Archetypes: $archetypeKey, Count: $archetypeCount, Possibilities: $possibilities"
+
+            $archetypeNames = $_.Key.Split(', ')
+            $matchingArchetypes = $Archetypes | Where-Object { $archetypeNames.Contains($_.Archetype) }
+            $matchingArchetypes | Format-MarkdownTableTableStyle Archetype, Ear, Face, Horn, Material, Pattern, Plumage, Tail -ShowMarkdown -DoNotCopyToClipboard -HideStandardOutput
+        }
     }
 }
