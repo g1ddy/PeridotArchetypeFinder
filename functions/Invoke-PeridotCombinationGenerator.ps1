@@ -4,9 +4,6 @@ function Invoke-PeridotCombinationGenerator {
         [Archetype[]]$Archetypes
     )
     process {
-        Set-StrictMode -Version Latest
-        $ErrorActionPreference = "Stop"
-
         if (!$Archetypes) {
             throw "Archetypes cannot be null"
         }
@@ -15,7 +12,7 @@ function Invoke-PeridotCombinationGenerator {
         $validArchetypeCombinations = New-Object 'System.Collections.Generic.List[Peridot]'
 
         foreach ($archetypeCombination in $allArchetypeCombinations) {
-            $validArchetype = Confirm-ArchitypeCombination -Archetypes $archetypeCombination
+            $validArchetype = New-PeridotArchitypeCombination -Archetypes $archetypeCombination
 
             if ($validArchetype) {
                 $validArchetypeCombinations.Add($validArchetype)
@@ -27,28 +24,34 @@ function Invoke-PeridotCombinationGenerator {
 }
 
 function Find-ArchitypeCombinations {
+    [OutputType([Archetype[][]])]
     [CmdletBinding()]
     param(
-        [Archetype[]]$Archetypes
+        [Archetype[]]$Archetypes,
+        [Archetype[]]$CurrentCombination = @()
     )
     process {
-        if ($Archetypes.Count -eq 0) {
-            return $null
+        Set-StrictMode -Version Latest
+        $ErrorActionPreference = "Stop"
+
+        if (!$Archetypes) {
+            return @(, $CurrentCombination)
         }
 
         $first = $Archetypes[0]
         $rest = ($Archetypes | Select-Object -Skip 1) ?? @()
 
-        [Archetype[][]]$combinationsWihoutFirst = (Find-ArchitypeCombinations -Archetypes $rest) ?? @(, @())
-        $combinationsWithFirst = New-Object System.Collections.Generic.List[Archetype[]]
+        [Archetype[][]]$combinationsWithoutFirst = @(Find-ArchitypeCombinations -Archetypes $rest -CurrentCombination $CurrentCombination) ?? @(, @())
+        $result = New-Object System.Collections.Generic.List[Archetype[]]
 
-        foreach ($combination in $combinationsWihoutFirst) {
-            [Archetype[]]$combined = $combination + $first
-            $combinationsWithFirst.Add($combined) | Out-Null
-        }
+        $compatibleRest = $rest | Where-Object { Confirm-ArchetypeCompatibility -Archetype $first -Other $_ }
+        $currentWithFirst = $CurrentCombination + $first
 
-        $combinationsWithFirst.AddRange($combinationsWihoutFirst) | Out-Null
-        return $combinationsWithFirst
+        [Archetype[][]]$combinationsWithFirst = @(Find-ArchitypeCombinations -Archetypes $compatibleRest -CurrentCombination $currentWithFirst) ?? @(, @())
+
+        $result.AddRange($combinationsWithoutFirst) | Out-Null
+        $result.AddRange($combinationsWithFirst) | Out-Null
+        return $result
     }
 }
 
@@ -56,12 +59,11 @@ function Confirm-ArchetypeCompatibility {
     [CmdletBinding()]
     param(
         [Archetype]$Archetype,
-        [Peridot]$Other
+        [Archetype]$other
     )
     process {
         if (!$Archetype -or !$Other) {
             return $true
-            # throw "Archetypes cannot be null"
         }
 
         $matchesArchetype = (!$Archetype.Ear -or !$Other.Ear -or $Archetype.Ear -eq $Other.Ear) -and
@@ -76,7 +78,7 @@ function Confirm-ArchetypeCompatibility {
     }
 }
 
-function Confirm-ArchitypeCombination {
+function New-PeridotArchitypeCombination {
     [CmdletBinding()]
     param(
         [Archetype[]]$Archetypes
@@ -92,12 +94,6 @@ function Confirm-ArchitypeCombination {
         $other = [Peridot]::new($first.Pattern, $first.Tail, $first.Horn, $first.Plumage, $first.Material, $first.Face, $first.Ear)
 
         foreach ($archetype in $rest) {
-            $matchesArchetype = Confirm-ArchetypeCompatibility -Archetype $archetype -Other $other
-
-            if (!$matchesArchetype) {
-                return $null
-            }
-
             $other.Pattern = $other.Pattern ? $other.Pattern : $archetype.Pattern
             $other.Tail = $other.Tail ? $other.Tail : $archetype.Tail
             $other.Horn = $other.Horn ? $other.Horn : $archetype.Horn

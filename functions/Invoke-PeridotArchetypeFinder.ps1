@@ -55,7 +55,7 @@ function Format-PeridotArchetype {
             }
 
             if ($matchingArchetypes.Count -gt 1) {
-                $hashKey = $matchingArchetypes -join ', '
+                $hashKey = ($matchingArchetypes | Sort-Object) -join ', '
                 if (!$peridotsWithArchetypes.ContainsKey($hashKey)) {
                     $peridotArchetypeList = @{
                         peridots = New-Object 'System.Collections.Generic.List[Peridot]'
@@ -68,18 +68,19 @@ function Format-PeridotArchetype {
             }
         }
 
-        Write-Host "# Peridot with Multi Archetype"
-        $orderedPeridotsArchetypes = $peridotsWithArchetypes.GetEnumerator() | Sort-Object -Property @{Expression = { $_.Value.count } } -Descending
+        Write-Output "# Peridot with Multi Archetype"
+        $orderedPeridotsArchetypes = $peridotsWithArchetypes.GetEnumerator() | Sort-Object -Property @{Expression = { $_.Value.count }; Descending = $true }, Key
         $orderedPeridotsArchetypes | ForEach-Object {
             $archetypeKey = $_.Key
             $archetypeCount = $_.Value.count
-            $possibilities = $_.Value.peridots.Count
 
-            Write-Host "## Archetypes: $archetypeKey, Count: $archetypeCount, Possibilities: $possibilities"
+            Write-Output "## Archetypes: $archetypeKey, Count: $archetypeCount"
 
             $archetypeNames = $_.Key.Split(', ')
-            $matchingArchetypes = $Archetypes | Where-Object { $archetypeNames.Contains($_.Archetype) }
+            $matchingArchetypes = $Archetypes | Where-Object { $archetypeNames.Contains($_.Archetype) } | Sort-Object -Property Archetype
             $matchingArchetypes | Format-MarkdownTableTableStyle Archetype, Ear, Face, Horn, Material, Pattern, Plumage, Tail -ShowMarkdown -DoNotCopyToClipboard -HideStandardOutput
+
+            Write-Output ''
         }
     }
 }
