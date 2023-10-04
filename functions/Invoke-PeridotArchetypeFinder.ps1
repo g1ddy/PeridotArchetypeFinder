@@ -28,7 +28,7 @@ function Get-Archetypes {
         Import-Csv -Path $Path | ForEach-Object {
             $hashObject = @{}
             $_.PSObject.Properties.ForEach({ $hashObject[$_.Name] = $_.Value })
-            $archetypeHash.Add($hashObject.Archetype, [Archetype]$hashObject)
+            $archetypeHash.Add($hashObject.Name, [Archetype]$hashObject)
         }
 
         $archetypeHash.Values
@@ -50,7 +50,7 @@ function Format-PeridotArchetype {
             $matchingArchetypes = New-Object System.Collections.ArrayList
             foreach ($archetype in $Archetypes) {
                 if ($peridot.MatchesArchetype($archetype)) {
-                    $matchingArchetypes.Add($archetype.Archetype) | Out-Null
+                    $matchingArchetypes.Add($archetype.Name) | Out-Null
                 }
             }
 
@@ -77,8 +77,8 @@ function Format-PeridotArchetype {
             Write-Output "## Archetypes: $archetypeKey, Count: $archetypeCount"
 
             $archetypeNames = $_.Key.Split(', ')
-            $matchingArchetypes = $Archetypes | Where-Object { $archetypeNames.Contains($_.Archetype) } | Sort-Object -Property Archetype
-            $matchingArchetypes | Format-MarkdownTableTableStyle Archetype, Ear, Face, Horn, Material, Pattern, Plumage, Tail -ShowMarkdown -DoNotCopyToClipboard -HideStandardOutput
+            $matchingArchetypes = $Archetypes | Where-Object { $archetypeNames.Contains($_.Name) } | Sort-Object -Property Name
+            $matchingArchetypes | Format-MarkdownTableTableStyle Name, Ear, Face, Horn, Material, Pattern, Plumage, Tail -ShowMarkdown -DoNotCopyToClipboard -HideStandardOutput
 
             Write-Output ''
         }

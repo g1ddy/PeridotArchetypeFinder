@@ -1,7 +1,7 @@
 Set-StrictMode -Version Latest
 
 Class Archetype {
-    [string]$Archetype
+    [string]$Name
     [string]$Pattern
     [string]$Tail
     [string]$Horn
