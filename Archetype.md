@@ -257,6 +257,13 @@
 | Sunset       |      |      |         |          | Sunset  |         | Fleur |
 
 
+## Archetypes: Cotton Candy, Vampire, Count: 2
+| Name         | Ear  | Face  | Horn    | Material | Pattern | Plumage | Tail    |
+| :----------- | :--- | :---- | :------ | :------- | :------ | :------ | :------ |
+| Cotton Candy |      |       | Narwhal | Furry    |         |         |         |
+| Vampire      | Bat  | Fangs |         |          | Sunset  | Ruff    | Peacock |
+
+
 ## Archetypes: Dewdrop, Peacock, Count: 2
 | Name    | Ear  | Face | Horn | Material | Pattern  | Plumage | Tail    |
 | :------ | :--- | :--- | :--- | :------- | :------- | :------ | :------ |
@@ -402,3 +409,11 @@
 | :----- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
 | Static |      |      |      | ???      |         |         |       |
 | Sunset |      |      |      |          | Sunset  |         | Fleur |
+
+
+## Archetypes: Static, Vampire, Count: 2
+| Name    | Ear  | Face  | Horn | Material | Pattern | Plumage | Tail    |
+| :------ | :--- | :---- | :--- | :------- | :------ | :------ | :------ |
+| Static  |      |       |      | ???      |         |         |         |
+| Vampire | Bat  | Fangs |      |          | Sunset  | Ruff    | Peacock |
+
