@@ -152,17 +152,10 @@
 | Ram       |      |      | Ram  |          |           |         | Asparagus |
 
 
-## Archetypes: Chameleon, Cotton Candy, Count: 2
-| Name         | Ear  | Face | Horn    | Material | Pattern | Plumage | Tail  |
-| :----------- | :--- | :--- | :------ | :------- | :------ | :------ | :---- |
-| Chameleon    | None |      |         |          | Breezy  | Mohawk  | Shell |
-| Cotton Candy |      |      | Narwhal | Furry    |         |         |       |
-
-
 ## Archetypes: Chameleon, Static, Count: 2
 | Name      | Ear  | Face | Horn | Material | Pattern | Plumage | Tail  |
 | :-------- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
-| Chameleon | None |      |      |          | Breezy  | Mohawk  | Shell |
+| Chameleon | None |      | Buns |          | Breezy  | Mohawk  | Shell |
 | Static    |      |      |      | ???      |         |         |       |
 
 
