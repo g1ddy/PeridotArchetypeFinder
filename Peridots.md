@@ -14,7 +14,7 @@ charlie-3 --> delta-4("<img src='./assets/Peridots/delta-4.jpg'> <br /> Delta") 
 delta-4 --> jammie-5("<img src='./assets/Peridots/jammie-5.jpg'> <br /> Jammie") & echo-5("<img src='./assets/Peridots/echo-5.jpg'> <br /> Echo (Static)")
 
 jammie-5 --> lilith-6("<img src='./assets/Peridots/lilith-6.jpg'> <br /> Lilith")
-echo-5 --> foxtrot-6("<img src='./assets/Peridots/foxtrot-6.jpg'> <br /> Foxtrot (Unicorn)")
+echo-5 --> foxtrot-6("<img src='./assets/Peridots/foxtrot-6.jpg'> <br /> Foxtrot (Unicorn)") & frosty-6("<img src='./assets/Peridots/frosty-6.jpg'> <br /> Frosty (Ram,Static)")
 
 lilith-6 --> maximus-7("<img src='./assets/Peridots/maximus-7.jpg'> <br /> Maximus")
 foxtrot-6 --> goldie-7("<img src='./assets/Peridots/goldie-7.jpg'> <br /> Goldie")
