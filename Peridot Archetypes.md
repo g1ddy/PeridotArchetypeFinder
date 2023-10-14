@@ -1,4 +1,12 @@
 # Peridot with Multi Archetype
+## Archetypes: Anemone, Clownfish, Rabbit, Count: 3
+| Name      | Ear    | Face | Horn  | Material | Pattern       | Plumage   | Tail   |
+| :-------- | :----- | :--- | :---- | :------- | :------------ | :-------- | :----- |
+| Anemone   |        |      | Demon | Slimy    |               | Tentacles |        |
+| Clownfish |        |      |       |          | Tropical Fish |           |        |
+| Rabbit    | Rabbit |      |       |          |               |           | Rabbit |
+
+
 ## Archetypes: Boba, Rabbit, Static, Count: 3
 | Name   | Ear    | Face | Horn  | Material | Pattern | Plumage | Tail   |
 | :----- | :----- | :--- | :---- | :------- | :------ | :------ | :----- |
@@ -66,6 +74,34 @@
 | :------ | :--- | :--- | :--- | :------- | :------ | :------ | :-------- |
 | 24Karat |      |      |      | Chrome   | Solid   |         |           |
 | Ram     |      |      | Ram  |          |         |         | Asparagus |
+
+
+## Archetypes: Anemone, Clownfish, Count: 2
+| Name      | Ear  | Face | Horn  | Material | Pattern       | Plumage   | Tail |
+| :-------- | :--- | :--- | :---- | :------- | :------------ | :-------- | :--- |
+| Anemone   |      |      | Demon | Slimy    |               | Tentacles |      |
+| Clownfish |      |      |       |          | Tropical Fish |           |      |
+
+
+## Archetypes: Anemone, Psychedelic, Count: 2
+| Name        | Ear  | Face    | Horn  | Material | Pattern | Plumage   | Tail    |
+| :---------- | :--- | :------ | :---- | :------- | :------ | :-------- | :------ |
+| Anemone     |      |         | Demon | Slimy    |         | Tentacles |         |
+| Psychedelic |      | Octopus |       |          | Breezy  |           | Peacock |
+
+
+## Archetypes: Anemone, Rabbit, Count: 2
+| Name    | Ear    | Face | Horn  | Material | Pattern | Plumage   | Tail   |
+| :------ | :----- | :--- | :---- | :------- | :------ | :-------- | :----- |
+| Anemone |        |      | Demon | Slimy    |         | Tentacles |        |
+| Rabbit  | Rabbit |      |       |          |         |           | Rabbit |
+
+
+## Archetypes: Anemone, Sunset, Count: 2
+| Name    | Ear  | Face | Horn  | Material | Pattern | Plumage   | Tail  |
+| :------ | :--- | :--- | :---- | :------- | :------ | :-------- | :---- |
+| Anemone |      |      | Demon | Slimy    |         | Tentacles |       |
+| Sunset  |      |      |       |          | Sunset  |           | Fleur |
 
 
 ## Archetypes: Aurora, Sunset, Count: 2
