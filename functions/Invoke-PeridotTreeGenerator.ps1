@@ -25,6 +25,9 @@ function Format-PeridotTree {
         Set-StrictMode -Version Latest
         $ErrorActionPreference = "Stop"
 
+        Write-Output '# Peridot Family Tree'
+        Write-Output ''
+
         Write-Output '```mermaid'
         Write-Output 'flowchart'
         Write-Output ''

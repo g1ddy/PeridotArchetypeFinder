@@ -1,5 +1,5 @@
 Name,Generation,Parent,Pattern,Tail,Horn,Plumage,Material,Face,Ear,Color
-Alpha,1,,Chromatic,Fern,Goat,Spades,Iridescent,Diamon,Square,
+Alpha,1,,Chromatic,Fern,Goat,Spades,Iridescent,Diamond,Square,
 Bravo,2,Alpha,Chromatic,Fern,Goat,Spades,Iridescent,Diamond,Monkey,
 Beta,2,Alpha,Patchwork,Accordion,Demon,None,Iridescent,Diamond,Square,
 Charlie,3,Bravo,Beach,Fern,Goat,Spades,Glitter,Star,Monkey,
