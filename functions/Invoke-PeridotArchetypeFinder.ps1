@@ -15,26 +15,6 @@ function Invoke-PeridotArchetypeFinder {
     }
 }
 
-function Get-Archetypes {
-    [CmdletBinding()]
-    param(
-        [ValidateScript({ if ($_) { Test-Path $_ } })]
-        [Parameter(Mandatory = $true)]
-        [string]$Path
-    )
-    process {
-        $archetypeHash = @{}
-
-        Import-Csv -Path $Path | ForEach-Object {
-            $hashObject = @{}
-            $_.PSObject.Properties.ForEach({ $hashObject[$_.Name] = $_.Value })
-            $archetypeHash.Add($hashObject.Name, [Archetype]$hashObject)
-        }
-
-        $archetypeHash.Values
-    }
-}
-
 function Format-PeridotArchetype {
     [CmdletBinding()]
     param(
@@ -68,7 +48,7 @@ function Format-PeridotArchetype {
             }
         }
 
-        Write-Output "# Peridot with Multi Archetype"
+        Write-Output '# Peridot with Multi Archetype'
         Write-Output ''
 
         $orderedPeridotsArchetypes = $peridotsWithArchetypes.GetEnumerator() | Sort-Object -Property @{Expression = { $_.Value.count }; Descending = $true }, Key

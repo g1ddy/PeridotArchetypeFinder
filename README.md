@@ -32,7 +32,7 @@ This is a PowerShell module that loads predetermined Archetypes from a CSV file 
 
 For your convenience a version of the generated Markdown and Archetype combinations can be found here:
 
-[Peridot Archetypes.md](./Peridot%20Archetypes.md)
+[Peridot Archetypes.md](./Peridot-Archetypes.md)
 
 ### Prerequisites
 
