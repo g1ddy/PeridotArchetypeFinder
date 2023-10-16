@@ -43,6 +43,8 @@ Class Peridot {
             (!$archetype.Plumage -or $this.Plumage -eq $archetype.Plumage) -and
             (!$archetype.Tail -or $this.Tail -eq $archetype.Tail)
 
-        return $matchesArchetype
+        $matchesColor = !$archetype.Color -or !$this.Color -or $archetype.Name -eq $this.Color
+
+        return $matchesArchetype -and $matchesColor
     }
 }

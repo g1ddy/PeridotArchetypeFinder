@@ -1,8 +1,8 @@
 Name,Pattern,Tail,Horn,Plumage,Material,Face,Ear,Color
 24Karat,Solid,,,,Chrome,,,x
 Anemone,,,Demon,Tentacles,Slimy,,,
-Aurora,Sunset,,Bharal,,Starry,,Seraph,
-Beach,Beach,Shell,,,Geode,,,
+Aurora,Sunset,,Bharal,,Starry,,Seraph,x
+Beach,Beach,Shell,,,Geode,,,x
 Bee,Bee,,Antennae,BeeWings,Fuzzy,,,
 Banana,Banana,None,Banana,None,Matte,,,x
 Bismuth,Circuit,,,,Iridescent,Diamond,Square,
@@ -19,7 +19,7 @@ Jester,Diamonds,,Jester,Ruff,Ore,,,
 Kintsugi,Cracked,,,,Ore,,,x
 LED,Pulse,,,,LED,,,x
 Monkey,,Mouse,None,,Fuzzy,Monkey,Monkey,
-Paint,Deer,Radish,,,LED,Blob,,
+Paint,Deer,Radish,,,LED,Blob,,x
 Patina,Patina,,,,Rusty,,,x
 Patchwork,Patchwork,Accordion,,,Matte,,Square,
 Peacock,,Peacock,None,Spades,,,,x
@@ -27,9 +27,9 @@ Psychedelic,Breezy,Peacock,,,,Octopus,,x
 Rabbit,,Rabbit,,,,,Rabbit,
 Ram,,Asparagus,Ram,,,,,
 Static,,,,,???,,,
-Sunset,Sunset,Fleur,,,,,,
+Sunset,Sunset,Fleur,,,,,,x
 Triton,,Whale,Trident,,Glimmer,,,x
 Unicorn,,Horse,Narwhal,Horse,Glitter,,,
 Vampire,Sunset,Peacock,,Ruff,,Fangs,Bat,x
-Watermelon,Watermelon,,,,Pulp,,Slices,
+Watermelon,Watermelon,,,,Pulp,,Slices,x
 Yeti,,None,Devil,None,Furry,Heart,Llama,
