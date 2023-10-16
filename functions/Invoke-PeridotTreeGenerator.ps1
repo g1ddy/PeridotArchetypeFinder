@@ -32,7 +32,7 @@ function Format-PeridotTree {
         Write-Output 'flowchart'
         Write-Output ''
 
-        $orderedPeridots = $Peridots.GetEnumerator() | Sort-Object -Property Generation, Parent
+        $orderedPeridots = $Peridots.GetEnumerator() | Sort-Object -Property Generation, Parent, Name
 
         $orderedPeridots | ForEach-Object {
             $peridot = $_

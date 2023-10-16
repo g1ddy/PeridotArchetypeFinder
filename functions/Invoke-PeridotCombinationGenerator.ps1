@@ -59,7 +59,7 @@ function Confirm-ArchetypeCompatibility {
     [CmdletBinding()]
     param(
         [Archetype]$Archetype,
-        [Archetype]$other
+        [Archetype]$Other
     )
     process {
         if (!$Archetype -or !$Other) {
