@@ -70,5 +70,5 @@ Before running this script please make sure this list is up to date as new Arche
 - [ ] Identify a way to eliminate Archetype combinations that are not feasible due to color conflicts
 - [ ] Github workflow implementation to auto update Peridot Archetype.md
 - [x] Determine pattern to best represent Peridot family tree and MermaidJS Diagram
-- [ ] Store Peridot family tree information in JSON format
+- [x] Store Peridot family tree information in ~~JSON~~ CSV format
 - [ ] Suggest new possible multi-archetype combinations based on your dot family tree and their traits

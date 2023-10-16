@@ -8,7 +8,7 @@
         'FormatMarkdownTable'
     )
     FunctionsToExport = @(
-        'Invoke-PeridotArchetypeFinder'
+        'Invoke-PeridotArchetypeFinder',
+        'Invoke-PeridotTreeGenerator'
     )
 }
-

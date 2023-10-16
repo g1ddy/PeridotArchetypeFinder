@@ -1,7 +1,11 @@
 Set-StrictMode -Version Latest
 
 Class Peridot {
-    # [string[]]$Archetypes
+    [int]$Generation
+    [string]$Name
+    [string]$Color
+    [string]$Parent
+
     [string]$Pattern
     [string]$Tail
     [string]$Horn
@@ -10,8 +14,9 @@ Class Peridot {
     [string]$Face
     [string]$Ear
 
+    Peridot() {}
+
     Peridot(
-        # [string[]]$archetypes,
         [string]$pattern,
         [string]$tail,
         [string]$horn,
@@ -20,7 +25,6 @@ Class Peridot {
         [string]$face,
         [string]$ear
     ) {
-        # $this.Archetypes = $archetypes
         $this.Pattern = $pattern
         $this.Tail = $tail
         $this.Horn = $horn
@@ -29,7 +33,7 @@ Class Peridot {
         $this.Face = $face
         $this.Ear = $ear
     }
-    
+
     [bool] MatchesArchetype([object]$archetype) {
         $matchesArchetype = (!$archetype.Ear -or $this.Ear -eq $archetype.Ear) -and
             (!$archetype.Face -or $this.Face -eq $archetype.Face) -and
@@ -38,7 +42,7 @@ Class Peridot {
             (!$archetype.Pattern -or $this.Pattern -eq $archetype.Pattern) -and
             (!$archetype.Plumage -or $this.Plumage -eq $archetype.Plumage) -and
             (!$archetype.Tail -or $this.Tail -eq $archetype.Tail)
-        
+
         return $matchesArchetype
     }
 }
