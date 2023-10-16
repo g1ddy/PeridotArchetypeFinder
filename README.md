@@ -43,7 +43,7 @@ Install-Module FormatMarkdownTable
 ```
 
 Before running this script please make sure this list is up to date as new Archetypes are constantly being introduced in the game:
-[Archetype.csv](./assets/Archetype.csv)
+[Archetype.csv](./assets/Archetypes.csv)
 
 ## Installation
 

@@ -1,7 +1,7 @@
 function Invoke-PeridotArchetypeFinder {
     [CmdletBinding()]
     param(
-        [string]$Path = "$PSScriptRoot\..\assets\Archetype.csv"
+        [string]$Path = "$PSScriptRoot\..\assets\Archetypes.csv"
     )
     process {
         Set-StrictMode -Version Latest
@@ -69,18 +69,19 @@ function Format-PeridotArchetype {
         }
 
         Write-Output "# Peridot with Multi Archetype"
+        Write-Output ''
+
         $orderedPeridotsArchetypes = $peridotsWithArchetypes.GetEnumerator() | Sort-Object -Property @{Expression = { $_.Value.count }; Descending = $true }, Key
         $orderedPeridotsArchetypes | ForEach-Object {
             $archetypeKey = $_.Key
             $archetypeCount = $_.Value.count
 
             Write-Output "## Archetypes: $archetypeKey, Count: $archetypeCount"
+            Write-Output ''
 
             $archetypeNames = $_.Key.Split(', ')
             $matchingArchetypes = $Archetypes | Where-Object { $archetypeNames.Contains($_.Name) } | Sort-Object -Property Name
             $matchingArchetypes | Format-MarkdownTableTableStyle Name, Ear, Face, Horn, Material, Pattern, Plumage, Tail -ShowMarkdown -DoNotCopyToClipboard -HideStandardOutput
-
-            Write-Output ''
         }
     }
 }
