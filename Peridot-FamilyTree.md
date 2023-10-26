@@ -29,6 +29,7 @@ noise-8 --> orion-9("<img src='./assets/Peridots/orion-9.jpg'> <br /> Orion (Aur
 jewelfish-9 --> kaleidoscope-10("<img src='./assets/Peridots/kaleidoscope-10.jpg'> <br /> Kaleidoscope (Anemone,Clownfish,Rabbit)")
 jewelfish-9 --> krypto-10("<img src='./assets/Peridots/krypto-10.jpg'> <br /> Krypto (Dewdrop,Rabbit)")
 jewelfish-9 --> queezy-10("<img src='./assets/Peridots/queezy-10.jpg'> <br /> Queezy (Peacock)")
+orion-9 --> phenotype-10("<img src='./assets/Peridots/phenotype-10.jpg'> <br /> Phenotype (Sunset)")
 orion-9 --> predator-10("<img src='./assets/Peridots/predator-10.jpg'> <br /> Predator (Vampire)")
 krypto-10 --> lychee-11("<img src='./assets/Peridots/lychee-11.jpg'> <br /> Lychee (Boba,Rabbit,Static)")
 queezy-10 --> rockstar-11("<img src='./assets/Peridots/rockstar-11.jpg'> <br /> Rockstar (Peacock,Psychedelic)")
