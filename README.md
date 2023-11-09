@@ -43,7 +43,7 @@ Install-Module FormatMarkdownTable
 ```
 
 Before running this script please make sure this list is up to date as new Archetypes are constantly being introduced in the game:
-[Archetype.csv](./assets/Archetypes.csv)
+[Archetypes.csv](./assets/Archetypes.csv)
 
 ## Installation
 
@@ -56,13 +56,23 @@ Before running this script please make sure this list is up to date as new Arche
     Import-Module .\PeridotArchetypeFinder.psm1 -Force
     ```
 
-## Usage
+## Archetype Combination Finder Usage
 
 1. Invoke the module:
     ```powershell
     Invoke-PeridotArchetypeFinder | Set-Clipboard
     ```
 2. Paste the output in the Markdown view of your choice
+
+## Family Tree Usage
+
+1. Populate the [Peridots.csv](./assets/Peridots.csv) with your Peridots
+2. Invoke the Tree Generator function:
+    ```powershell
+    Invoke-PeridotTreeGenerator | Set-Clipboard
+    ```
+3. Paste the output in the Markdown view of your choice
+4. Sample output can be found [here](./Peridot-FamilyTree.md)
 
 ## TODO
 
