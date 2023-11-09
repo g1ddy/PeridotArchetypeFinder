@@ -16,6 +16,7 @@ chevron-3 --> dorado-4("<img src='./assets/Peridots/dorado-4.jpg'> <br /> Dorado
 chevron-3 --> echelon-4("<img src='./assets/Peridots/echelon-4.jpg'> <br /> Echelon (Bismuth,Ram)")
 delta-4 --> echo-5("<img src='./assets/Peridots/echo-5.jpg'> <br /> Echo (Static)")
 delta-4 --> jammie-5("<img src='./assets/Peridots/jammie-5.jpg'> <br /> Jammie")
+dorado-4 --> ether-5("<img src='./assets/Peridots/ether-5.jpg'> <br /> Ether (Celestial,Ram)")
 echo-5 --> foxtrot-6("<img src='./assets/Peridots/foxtrot-6.jpg'> <br /> Foxtrot (Unicorn)")
 echo-5 --> frosty-6("<img src='./assets/Peridots/frosty-6.jpg'> <br /> Frosty (Ram,Static)")
 jammie-5 --> lilith-6("<img src='./assets/Peridots/lilith-6.jpg'> <br /> Lilith")
