@@ -315,6 +315,13 @@
 | Dewdrop |      | Star |      | Gummy    | Gradient |         |           |
 | Ram     |      |      | Ram  |          |          |         | Asparagus |
 
+## Archetypes: Dinosaur, Static, Count: 2
+
+| Name     | Ear         | Face | Horn        | Material | Pattern  | Plumage | Tail      |
+| :------- | :---------- | :--- | :---------- | :------- | :------- | :------ | :-------- |
+| Dinosaur | Triceratops |      | Triceratops |          | Baguette |         | Asparagus |
+| Static   |             |      |             | ???      |          |         |           |
+
 ## Archetypes: Jester, Rabbit, Count: 2
 
 | Name   | Ear    | Face | Horn   | Material | Pattern  | Plumage | Tail   |
