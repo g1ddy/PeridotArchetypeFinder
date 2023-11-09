@@ -20,6 +20,7 @@ dorado-4 --> entropy-5("<img src='./assets/Peridots/entropy-5.jpg'> <br /> Entro
 dorado-4 --> ether-5("<img src='./assets/Peridots/ether-5.jpg'> <br /> Ether (Celestial,Ram)")
 echo-5 --> foxtrot-6("<img src='./assets/Peridots/foxtrot-6.jpg'> <br /> Foxtrot (Unicorn)")
 echo-5 --> frosty-6("<img src='./assets/Peridots/frosty-6.jpg'> <br /> Frosty (Ram,Static)")
+entropy-5 --> farceratops-6("<img src='./assets/Peridots/farceratops-6.jpg'> <br /> Farceratops (Ram)")
 jammie-5 --> lilith-6("<img src='./assets/Peridots/lilith-6.jpg'> <br /> Lilith")
 foxtrot-6 --> goldie-7("<img src='./assets/Peridots/goldie-7.jpg'> <br /> Goldie")
 lilith-6 --> maximus-7("<img src='./assets/Peridots/maximus-7.jpg'> <br /> Maximus")
