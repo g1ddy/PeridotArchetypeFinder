@@ -8,6 +8,14 @@
 | Clownfish |        |      |       |          | Tropical Fish |           |        |
 | Rabbit    | Rabbit |      |       |          |               |           | Rabbit |
 
+## Archetypes: Balloon, Rabbit, Static, Count: 3
+
+| Name    | Ear    | Face | Horn    | Material | Pattern   | Plumage | Tail   |
+| :------ | :----- | :--- | :------ | :------- | :-------- | :------ | :----- |
+| Balloon |        |      | Stacked |          | Patchwork | Tutu    |        |
+| Rabbit  | Rabbit |      |         |          |           |         | Rabbit |
+| Static  |        |      |         | ???      |           |         |        |
+
 ## Archetypes: Boba, Rabbit, Static, Count: 3
 
 | Name   | Ear    | Face | Horn  | Material | Pattern | Plumage | Tail   |
@@ -24,6 +32,14 @@
 | Cotton Candy |        |      | Narwhal | Furry    |               |         |        |
 | Rabbit       | Rabbit |      |         |          |               |         | Rabbit |
 
+## Archetypes: Clownfish, Icicle, Rabbit, Count: 3
+
+| Name      | Ear    | Face | Horn  | Material | Pattern       | Plumage | Tail   |
+| :-------- | :----- | :--- | :---- | :------- | :------------ | :------ | :----- |
+| Clownfish |        |      |       |          | Tropical Fish |         |        |
+| Icicle    |        |      | Crown | Glimmer  |               | Thorns  |        |
+| Rabbit    | Rabbit |      |       |          |               |         | Rabbit |
+
 ## Archetypes: Clownfish, Peacock, Static, Count: 3
 
 | Name      | Ear  | Face | Horn | Material | Pattern       | Plumage | Tail    |
@@ -31,6 +47,14 @@
 | Clownfish |      |      |      |          | Tropical Fish |         |         |
 | Peacock   |      |      | None |          |               | Spades  | Peacock |
 | Static    |      |      |      | ???      |               |         |         |
+
+## Archetypes: Clownfish, Rabbit, Royalty, Count: 3
+
+| Name      | Ear    | Face     | Horn  | Material | Pattern       | Plumage | Tail   |
+| :-------- | :----- | :------- | :---- | :------- | :------------ | :------ | :----- |
+| Clownfish |        |          |       |          | Tropical Fish |         |        |
+| Rabbit    | Rabbit |          |       |          |               |         | Rabbit |
+| Royalty   |        | Countess | Crown | Ore      |               | Tutu    |        |
 
 ## Archetypes: Clownfish, Rabbit, Static, Count: 3
 
@@ -47,6 +71,14 @@
 | Clownfish |      |      |      |          | Tropical Fish |         |           |
 | Ram       |      |      | Ram  |          |               |         | Asparagus |
 | Static    |      |      |      | ???      |               |         |           |
+
+## Archetypes: Kintsugi, Rabbit, Royalty, Count: 3
+
+| Name     | Ear    | Face     | Horn  | Material | Pattern | Plumage | Tail   |
+| :------- | :----- | :------- | :---- | :------- | :------ | :------ | :----- |
+| Kintsugi |        |          |       | Ore      | Cracked |         |        |
+| Rabbit   | Rabbit |          |       |          |         |         | Rabbit |
+| Royalty  |        | Countess | Crown | Ore      |         | Tutu    |        |
 
 ## Archetypes: Peacock, Psychedelic, Static, Count: 3
 
@@ -112,6 +144,27 @@
 | Aurora | Seraph |      | Bharal | Starry   | Sunset  |         |       |
 | Sunset |        |      |        |          | Sunset  |         | Fleur |
 
+## Archetypes: Balloon, Patchwork, Count: 2
+
+| Name      | Ear    | Face | Horn    | Material | Pattern   | Plumage | Tail      |
+| :-------- | :----- | :--- | :------ | :------- | :-------- | :------ | :-------- |
+| Balloon   |        |      | Stacked |          | Patchwork | Tutu    |           |
+| Patchwork | Square |      |         | Matte    | Patchwork |         | Accordion |
+
+## Archetypes: Balloon, Rabbit, Count: 2
+
+| Name    | Ear    | Face | Horn    | Material | Pattern   | Plumage | Tail   |
+| :------ | :----- | :--- | :------ | :------- | :-------- | :------ | :----- |
+| Balloon |        |      | Stacked |          | Patchwork | Tutu    |        |
+| Rabbit  | Rabbit |      |         |          |           |         | Rabbit |
+
+## Archetypes: Balloon, Static, Count: 2
+
+| Name    | Ear  | Face | Horn    | Material | Pattern   | Plumage | Tail |
+| :------ | :--- | :--- | :------ | :------- | :-------- | :------ | :--- |
+| Balloon |      |      | Stacked |          | Patchwork | Tutu    |      |
+| Static  |      |      |         | ???      |           |         |      |
+
 ## Archetypes: Bee, Rabbit, Count: 2
 
 | Name   | Ear    | Face | Horn     | Material | Pattern | Plumage  | Tail   |
@@ -168,6 +221,27 @@
 | Cactus    |      |      |      | Matte    |               | Thorns  | None |
 | Clownfish |      |      |      |          | Tropical Fish |         |      |
 
+## Archetypes: Candle, Clownfish, Count: 2
+
+| Name      | Ear  | Face | Horn  | Material | Pattern       | Plumage | Tail |
+| :-------- | :--- | :--- | :---- | :------- | :------------ | :------ | :--- |
+| Candle    | None |      | Spire | Waxy     |               | None    |      |
+| Clownfish |      |      |       |          | Tropical Fish |         |      |
+
+## Archetypes: Candle, Psychedelic, Count: 2
+
+| Name        | Ear  | Face    | Horn  | Material | Pattern | Plumage | Tail    |
+| :---------- | :--- | :------ | :---- | :------- | :------ | :------ | :------ |
+| Candle      | None |         | Spire | Waxy     |         | None    |         |
+| Psychedelic |      | Octopus |       |          | Breezy  |         | Peacock |
+
+## Archetypes: Candle, Sunset, Count: 2
+
+| Name   | Ear  | Face | Horn  | Material | Pattern | Plumage | Tail  |
+| :----- | :--- | :--- | :---- | :------- | :------ | :------ | :---- |
+| Candle | None |      | Spire | Waxy     |         | None    |       |
+| Sunset |      |      |       |          | Sunset  |         | Fleur |
+
 ## Archetypes: Celestial, Peacock, Count: 2
 
 | Name      | Ear  | Face | Horn | Material | Pattern   | Plumage | Tail    |
@@ -210,6 +284,13 @@
 | Clownfish |       |      |      |           | Tropical Fish |         |      |
 | Glam      | Picks | Star |      | Bedazzled |               | Curls   | None |
 
+## Archetypes: Clownfish, Icicle, Count: 2
+
+| Name      | Ear  | Face | Horn  | Material | Pattern       | Plumage | Tail |
+| :-------- | :--- | :--- | :---- | :------- | :------------ | :------ | :--- |
+| Clownfish |      |      |       |          | Tropical Fish |         |      |
+| Icicle    |      |      | Crown | Glimmer  |               | Thorns  |      |
+
 ## Archetypes: Clownfish, Monkey, Count: 2
 
 | Name      | Ear    | Face   | Horn | Material | Pattern       | Plumage | Tail  |
@@ -237,6 +318,13 @@
 | :-------- | :--- | :--- | :--- | :------- | :------------ | :------ | :-------- |
 | Clownfish |      |      |      |          | Tropical Fish |         |           |
 | Ram       |      |      | Ram  |          |               |         | Asparagus |
+
+## Archetypes: Clownfish, Royalty, Count: 2
+
+| Name      | Ear  | Face     | Horn  | Material | Pattern       | Plumage | Tail |
+| :-------- | :--- | :------- | :---- | :------- | :------------ | :------ | :--- |
+| Clownfish |      |          |       |          | Tropical Fish |         |      |
+| Royalty   |      | Countess | Crown | Ore      |               | Tutu    |      |
 
 ## Archetypes: Clownfish, Static, Count: 2
 
@@ -322,6 +410,27 @@
 | Dinosaur | Triceratops |      | Triceratops |          | Baguette |         | Asparagus |
 | Static   |             |      |             | ???      |          |         |           |
 
+## Archetypes: Icicle, Psychedelic, Count: 2
+
+| Name        | Ear  | Face    | Horn  | Material | Pattern | Plumage | Tail    |
+| :---------- | :--- | :------ | :---- | :------- | :------ | :------ | :------ |
+| Icicle      |      |         | Crown | Glimmer  |         | Thorns  |         |
+| Psychedelic |      | Octopus |       |          | Breezy  |         | Peacock |
+
+## Archetypes: Icicle, Rabbit, Count: 2
+
+| Name   | Ear    | Face | Horn  | Material | Pattern | Plumage | Tail   |
+| :----- | :----- | :--- | :---- | :------- | :------ | :------ | :----- |
+| Icicle |        |      | Crown | Glimmer  |         | Thorns  |        |
+| Rabbit | Rabbit |      |       |          |         |         | Rabbit |
+
+## Archetypes: Icicle, Sunset, Count: 2
+
+| Name   | Ear  | Face | Horn  | Material | Pattern | Plumage | Tail  |
+| :----- | :--- | :--- | :---- | :------- | :------ | :------ | :---- |
+| Icicle |      |      | Crown | Glimmer  |         | Thorns  |       |
+| Sunset |      |      |       |          | Sunset  |         | Fleur |
+
 ## Archetypes: Jester, Rabbit, Count: 2
 
 | Name   | Ear    | Face | Horn   | Material | Pattern  | Plumage | Tail   |
@@ -349,6 +458,13 @@
 | :------- | :--- | :--- | :--- | :------- | :------ | :------ | :-------- |
 | Kintsugi |      |      |      | Ore      | Cracked |         |           |
 | Ram      |      |      | Ram  |          |         |         | Asparagus |
+
+## Archetypes: Kintsugi, Royalty, Count: 2
+
+| Name     | Ear  | Face     | Horn  | Material | Pattern | Plumage | Tail |
+| :------- | :--- | :------- | :---- | :------- | :------ | :------ | :--- |
+| Kintsugi |      |          |       | Ore      | Cracked |         |      |
+| Royalty  |      | Countess | Crown | Ore      |         | Tutu    |      |
 
 ## Archetypes: LED, Peacock, Count: 2
 
@@ -420,6 +536,13 @@
 | Psychedelic |      | Octopus |      |          | Breezy  |         | Peacock |
 | Static      |      |         |      | ???      |         |         |         |
 
+## Archetypes: Rabbit, Royalty, Count: 2
+
+| Name    | Ear    | Face     | Horn  | Material | Pattern | Plumage | Tail   |
+| :------ | :----- | :------- | :---- | :------- | :------ | :------ | :----- |
+| Rabbit  | Rabbit |          |       |          |         |         | Rabbit |
+| Royalty |        | Countess | Crown | Ore      |         | Tutu    |        |
+
 ## Archetypes: Rabbit, Static, Count: 2
 
 | Name   | Ear    | Face | Horn | Material | Pattern | Plumage | Tail   |
@@ -440,6 +563,13 @@
 | :--------- | :----- | :--- | :--- | :------- | :--------- | :------ | :-------- |
 | Ram        |        |      | Ram  |          |            |         | Asparagus |
 | Watermelon | Slices |      |      | Pulp     | Watermelon |         |           |
+
+## Archetypes: Royalty, Sunset, Count: 2
+
+| Name    | Ear  | Face     | Horn  | Material | Pattern | Plumage | Tail  |
+| :------ | :--- | :------- | :---- | :------- | :------ | :------ | :---- |
+| Royalty |      | Countess | Crown | Ore      |         | Tutu    |       |
+| Sunset  |      |          |       |          | Sunset  |         | Fleur |
 
 ## Archetypes: Static, Sunset, Count: 2
 

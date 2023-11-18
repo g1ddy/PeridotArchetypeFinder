@@ -2,12 +2,14 @@ Name,Pattern,Tail,Horn,Plumage,Material,Face,Ear,Color
 24Karat,Solid,,,,Chrome,,,x
 Anemone,,,Demon,Tentacles,Slimy,,,
 Aurora,Sunset,,Bharal,,Starry,,Seraph,x
+Balloon,Patchwork,,Stacked,Tutu,,,,x
 Beach,Beach,Shell,,,Geode,,,x
 Bee,Bee,,Antennae,BeeWings,Fuzzy,,,
 Banana,Banana,None,Banana,None,Matte,,,x
 Bismuth,Circuit,,,,Iridescent,Diamond,Square,
 Boba,Bubbles,,Straw,,,,,
 Cactus,,None,,Thorns,Matte,,,x
+Candle,,,Spire,None,Waxy,,None,x
 Chameleon,Breezy,Shell,Buns,Mohawk,,,None,
 Celestial,Celestial,,,,Starry,,,x
 Cheetah,Cheetah,Cat,,,Fuzzy,,Cat,x
@@ -16,6 +18,7 @@ Cotton Candy,,,Narwhal,,Furry,,,x
 Dewdrop,Gradient,,,,Gummy,Star,,
 Dinosaur,Baguette,Asparagus,Triceratops,,,,Triceratops,
 Glam,,None,,Curls,Bedazzled,Star,Picks,
+Icicle,,,Crown,Thorns,Glimmer,,,x
 Jester,Diamonds,,Jester,Ruff,Ore,,,
 Kintsugi,Cracked,,,,Ore,,,x
 LED,Pulse,,,,LED,,,x
@@ -27,6 +30,7 @@ Peacock,,Peacock,None,Spades,,,,x
 Psychedelic,Breezy,Peacock,,,,Octopus,,x
 Rabbit,,Rabbit,,,,,Rabbit,
 Ram,,Asparagus,Ram,,,,,
+Royalty,,,Crown,Tutu,Ore,Countess,,x
 Static,,,,,???,,,
 Sunset,Sunset,Fleur,,,,,,x
 Triton,,Whale,Trident,,Glimmer,,,x
