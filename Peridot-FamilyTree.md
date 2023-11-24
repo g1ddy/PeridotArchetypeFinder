@@ -26,6 +26,7 @@ echo-5 --> frosty-6("<img src='./assets/Peridots/frosty-6.jpg'> <br /> Frosty (R
 enrichment-5 --> fable-6("<img src='./assets/Peridots/fable-6.jpg'> <br /> Fable (Kintsugi,Rabbit,Royalty)")
 entropy-5 --> farceratops-6("<img src='./assets/Peridots/farceratops-6.jpg'> <br /> Farceratops (Ram)")
 jammie-5 --> lilith-6("<img src='./assets/Peridots/lilith-6.jpg'> <br /> Lilith")
+fable-6 --> glacier-7("<img src='./assets/Peridots/glacier-7.jpg'> <br /> Glacier (Icicle,Rabbit)")
 farceratops-6 --> grazerface-7("<img src='./assets/Peridots/grazerface-7.jpg'> <br /> Grazerface (Dinosaur)")
 foxtrot-6 --> goldie-7("<img src='./assets/Peridots/goldie-7.jpg'> <br /> Goldie")
 lilith-6 --> maximus-7("<img src='./assets/Peridots/maximus-7.jpg'> <br /> Maximus")
