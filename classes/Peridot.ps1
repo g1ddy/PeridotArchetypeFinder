@@ -34,6 +34,10 @@ Class Peridot {
         $this.Ear = $ear
     }
 
+    [string] GetId() {
+        return "$($this.Name.ToLowerInvariant())-$($this.Generation)"
+    }
+
     [bool] MatchesArchetype([object]$archetype) {
         $matchesArchetype = (!$archetype.Ear -or $this.Ear -eq $archetype.Ear) -and
             (!$archetype.Face -or $this.Face -eq $archetype.Face) -and

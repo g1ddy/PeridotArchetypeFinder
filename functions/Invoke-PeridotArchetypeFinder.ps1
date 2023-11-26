@@ -1,17 +1,25 @@
 function Invoke-PeridotArchetypeFinder {
     [CmdletBinding()]
     param(
-        [string]$Path = "$PSScriptRoot\..\assets\Archetypes.csv"
+        [string]$ArchetypePath = "$PSScriptRoot\..\assets\Archetypes.csv",
+        [string]$PeridotPath = "$PSScriptRoot\..\assets\Peridots.csv"
     )
     process {
         Set-StrictMode -Version Latest
         $ErrorActionPreference = "Stop"
 
-        $archetypes = Get-Archetypes -Path $Path
+        $archetypes = Get-Archetypes -Path $ArchetypePath
 
         $peridotCombinations = Invoke-PeridotCombinationGenerator -Archetypes $archetypes
+        $allPeridotArchetypeDictionary = Get-PeridotArchetypeDictionary -Archetypes $archetypes -Peridots $peridotCombinations
 
-        Format-PeridotArchetype -Archetypes $archetypes -Peridots $peridotCombinations
+
+        $peridots = Get-Peridots -Path $PeridotPath
+        $samplePeridotArchetypeDictionary = Get-PeridotArchetypeDictionary -Archetypes $archetypes -Peridots $peridots
+
+        Format-PeridotArchetype -Archetypes $archetypes `
+            -AllPeridotsWithArchetypes $allPeridotArchetypeDictionary `
+            -PeridotArchetypeDictionary $samplePeridotArchetypeDictionary
     }
 }
 
@@ -19,49 +27,44 @@ function Format-PeridotArchetype {
     [CmdletBinding()]
     param(
         [Archetype[]]$Archetypes,
-        [Peridot[]]$Peridots
+        [hashtable]$AllPeridotsWithArchetypes,
+        [hashtable]$SamplePeridotsWithArchetypes
     )
     process {
         Set-StrictMode -Version Latest
         $ErrorActionPreference = "Stop"
 
-        $peridotsWithArchetypes = @{}
-        foreach ($peridot in $Peridots) {
-            $matchingArchetypes = New-Object System.Collections.ArrayList
-            foreach ($archetype in $Archetypes) {
-                if ($peridot.MatchesArchetype($archetype)) {
-                    $matchingArchetypes.Add($archetype.Name) | Out-Null
-                }
-            }
-
-            if ($matchingArchetypes.Count -gt 1) {
-                $hashKey = ($matchingArchetypes | Sort-Object) -join ', '
-                if (!$peridotsWithArchetypes.ContainsKey($hashKey)) {
-                    $peridotArchetypeList = @{
-                        peridots = New-Object 'System.Collections.Generic.List[Peridot]'
-                        count    = $matchingArchetypes.Count
-                    }
-                    $peridotsWithArchetypes.Add($hashKey, $peridotArchetypeList) | Out-Null
-                }
-
-                $peridotsWithArchetypes[$hashKey].peridots.Add($peridot) | Out-Null
-            }
-        }
 
         Write-Output '# Peridot with Multi Archetype'
         Write-Output ''
 
-        $orderedPeridotsArchetypes = $peridotsWithArchetypes.GetEnumerator() | Sort-Object -Property @{Expression = { $_.Value.count }; Descending = $true }, Key
+        $orderedPeridotsArchetypes = $AllPeridotsWithArchetypes.GetEnumerator() | Sort-Object -Property @{Expression = { $_.Value.count }; Descending = $true }, Key
         $orderedPeridotsArchetypes | ForEach-Object {
             $archetypeKey = $_.Key
             $archetypeCount = $_.Value.count
 
             Write-Output "## Archetypes: $archetypeKey, Count: $archetypeCount"
-            Write-Output ''
 
+            Write-Output '### Compatibility Table:'
             $archetypeNames = $_.Key.Split(', ')
             $matchingArchetypes = $Archetypes | Where-Object { $archetypeNames.Contains($_.Name) } | Sort-Object -Property Name
             $matchingArchetypes | Format-MarkdownTableTableStyle Name, Ear, Face, Horn, Material, Pattern, Plumage, Tail -ShowMarkdown -DoNotCopyToClipboard -HideStandardOutput
+
+            Write-Output '### Examples:'
+            if ($SamplePeridotsWithArchetypes.ContainsKey($archetypeKey)) {
+                $matchingPeridots = $SamplePeridotsWithArchetypes[$archetypeKey].peridots
+
+                foreach ($peridot in $matchingPeridots) {
+                    $peridotId = $peridot.GetId()
+                    $peridotName = $peridot.Name
+
+                    $peridotNode = "![${peridotName}](./assets/Peridots/${peridotId}.jpg)"
+
+                    Write-Output $peridotNode
+                }
+            }
+
+            Write-Output ''
         }
     }
 }

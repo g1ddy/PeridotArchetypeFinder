@@ -1,586 +1,767 @@
 # Peridot with Multi Archetype
 
 ## Archetypes: Anemone, Clownfish, Rabbit, Count: 3
-
+### Compatibility Table:
 | Name      | Ear    | Face | Horn  | Material | Pattern       | Plumage   | Tail   |
 | :-------- | :----- | :--- | :---- | :------- | :------------ | :-------- | :----- |
 | Anemone   |        |      | Demon | Slimy    |               | Tentacles |        |
 | Clownfish |        |      |       |          | Tropical Fish |           |        |
 | Rabbit    | Rabbit |      |       |          |               |           | Rabbit |
 
-## Archetypes: Balloon, Rabbit, Static, Count: 3
+### Examples:
+![Kaleidoscope](./assets/Peridots/kaleidoscope-10.jpg)
 
+## Archetypes: Balloon, Rabbit, Static, Count: 3
+### Compatibility Table:
 | Name    | Ear    | Face | Horn    | Material | Pattern   | Plumage | Tail   |
 | :------ | :----- | :--- | :------ | :------- | :-------- | :------ | :----- |
 | Balloon |        |      | Stacked |          | Patchwork | Tutu    |        |
 | Rabbit  | Rabbit |      |         |          |           |         | Rabbit |
 | Static  |        |      |         | ???      |           |         |        |
 
-## Archetypes: Boba, Rabbit, Static, Count: 3
+### Examples:
 
+## Archetypes: Boba, Rabbit, Static, Count: 3
+### Compatibility Table:
 | Name   | Ear    | Face | Horn  | Material | Pattern | Plumage | Tail   |
 | :----- | :----- | :--- | :---- | :------- | :------ | :------ | :----- |
 | Boba   |        |      | Straw |          | Bubbles |         |        |
 | Rabbit | Rabbit |      |       |          |         |         | Rabbit |
 | Static |        |      |       | ???      |         |         |        |
 
-## Archetypes: Clownfish, Cotton Candy, Rabbit, Count: 3
+### Examples:
+![Lychee](./assets/Peridots/lychee-11.jpg)
 
+## Archetypes: Clownfish, Cotton Candy, Rabbit, Count: 3
+### Compatibility Table:
 | Name         | Ear    | Face | Horn    | Material | Pattern       | Plumage | Tail   |
 | :----------- | :----- | :--- | :------ | :------- | :------------ | :------ | :----- |
 | Clownfish    |        |      |         |          | Tropical Fish |         |        |
 | Cotton Candy |        |      | Narwhal | Furry    |               |         |        |
 | Rabbit       | Rabbit |      |         |          |               |         | Rabbit |
 
-## Archetypes: Clownfish, Icicle, Rabbit, Count: 3
+### Examples:
 
+## Archetypes: Clownfish, Icicle, Rabbit, Count: 3
+### Compatibility Table:
 | Name      | Ear    | Face | Horn  | Material | Pattern       | Plumage | Tail   |
 | :-------- | :----- | :--- | :---- | :------- | :------------ | :------ | :----- |
 | Clownfish |        |      |       |          | Tropical Fish |         |        |
 | Icicle    |        |      | Crown | Glimmer  |               | Thorns  |        |
 | Rabbit    | Rabbit |      |       |          |               |         | Rabbit |
 
-## Archetypes: Clownfish, Peacock, Static, Count: 3
+### Examples:
 
+## Archetypes: Clownfish, Peacock, Static, Count: 3
+### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern       | Plumage | Tail    |
 | :-------- | :--- | :--- | :--- | :------- | :------------ | :------ | :------ |
 | Clownfish |      |      |      |          | Tropical Fish |         |         |
 | Peacock   |      |      | None |          |               | Spades  | Peacock |
 | Static    |      |      |      | ???      |               |         |         |
 
-## Archetypes: Clownfish, Rabbit, Royalty, Count: 3
+### Examples:
 
+## Archetypes: Clownfish, Rabbit, Royalty, Count: 3
+### Compatibility Table:
 | Name      | Ear    | Face     | Horn  | Material | Pattern       | Plumage | Tail   |
 | :-------- | :----- | :------- | :---- | :------- | :------------ | :------ | :----- |
 | Clownfish |        |          |       |          | Tropical Fish |         |        |
 | Rabbit    | Rabbit |          |       |          |               |         | Rabbit |
 | Royalty   |        | Countess | Crown | Ore      |               | Tutu    |        |
 
-## Archetypes: Clownfish, Rabbit, Static, Count: 3
+### Examples:
 
+## Archetypes: Clownfish, Rabbit, Static, Count: 3
+### Compatibility Table:
 | Name      | Ear    | Face | Horn | Material | Pattern       | Plumage | Tail   |
 | :-------- | :----- | :--- | :--- | :------- | :------------ | :------ | :----- |
 | Clownfish |        |      |      |          | Tropical Fish |         |        |
 | Rabbit    | Rabbit |      |      |          |               |         | Rabbit |
 | Static    |        |      |      | ???      |               |         |        |
 
-## Archetypes: Clownfish, Ram, Static, Count: 3
+### Examples:
 
+## Archetypes: Clownfish, Ram, Static, Count: 3
+### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern       | Plumage | Tail      |
 | :-------- | :--- | :--- | :--- | :------- | :------------ | :------ | :-------- |
 | Clownfish |      |      |      |          | Tropical Fish |         |           |
 | Ram       |      |      | Ram  |          |               |         | Asparagus |
 | Static    |      |      |      | ???      |               |         |           |
 
-## Archetypes: Kintsugi, Rabbit, Royalty, Count: 3
+### Examples:
 
+## Archetypes: Kintsugi, Rabbit, Royalty, Count: 3
+### Compatibility Table:
 | Name     | Ear    | Face     | Horn  | Material | Pattern | Plumage | Tail   |
 | :------- | :----- | :------- | :---- | :------- | :------ | :------ | :----- |
 | Kintsugi |        |          |       | Ore      | Cracked |         |        |
 | Rabbit   | Rabbit |          |       |          |         |         | Rabbit |
 | Royalty  |        | Countess | Crown | Ore      |         | Tutu    |        |
 
-## Archetypes: Peacock, Psychedelic, Static, Count: 3
+### Examples:
+![Fable](./assets/Peridots/fable-6.jpg)
 
+## Archetypes: Peacock, Psychedelic, Static, Count: 3
+### Compatibility Table:
 | Name        | Ear  | Face    | Horn | Material | Pattern | Plumage | Tail    |
 | :---------- | :--- | :------ | :--- | :------- | :------ | :------ | :------ |
 | Peacock     |      |         | None |          |         | Spades  | Peacock |
 | Psychedelic |      | Octopus |      |          | Breezy  |         | Peacock |
 | Static      |      |         |      | ???      |         |         |         |
 
-## Archetypes: 24Karat, Peacock, Count: 2
+### Examples:
 
+## Archetypes: 24Karat, Peacock, Count: 2
+### Compatibility Table:
 | Name    | Ear  | Face | Horn | Material | Pattern | Plumage | Tail    |
 | :------ | :--- | :--- | :--- | :------- | :------ | :------ | :------ |
 | 24Karat |      |      |      | Chrome   | Solid   |         |         |
 | Peacock |      |      | None |          |         | Spades  | Peacock |
 
-## Archetypes: 24Karat, Rabbit, Count: 2
+### Examples:
 
+## Archetypes: 24Karat, Rabbit, Count: 2
+### Compatibility Table:
 | Name    | Ear    | Face | Horn | Material | Pattern | Plumage | Tail   |
 | :------ | :----- | :--- | :--- | :------- | :------ | :------ | :----- |
 | 24Karat |        |      |      | Chrome   | Solid   |         |        |
 | Rabbit  | Rabbit |      |      |          |         |         | Rabbit |
 
-## Archetypes: 24Karat, Ram, Count: 2
+### Examples:
 
+## Archetypes: 24Karat, Ram, Count: 2
+### Compatibility Table:
 | Name    | Ear  | Face | Horn | Material | Pattern | Plumage | Tail      |
 | :------ | :--- | :--- | :--- | :------- | :------ | :------ | :-------- |
 | 24Karat |      |      |      | Chrome   | Solid   |         |           |
 | Ram     |      |      | Ram  |          |         |         | Asparagus |
 
-## Archetypes: Anemone, Clownfish, Count: 2
+### Examples:
+![Dorado](./assets/Peridots/dorado-4.jpg)
 
+## Archetypes: Anemone, Clownfish, Count: 2
+### Compatibility Table:
 | Name      | Ear  | Face | Horn  | Material | Pattern       | Plumage   | Tail |
 | :-------- | :--- | :--- | :---- | :------- | :------------ | :-------- | :--- |
 | Anemone   |      |      | Demon | Slimy    |               | Tentacles |      |
 | Clownfish |      |      |       |          | Tropical Fish |           |      |
 
-## Archetypes: Anemone, Psychedelic, Count: 2
+### Examples:
 
+## Archetypes: Anemone, Psychedelic, Count: 2
+### Compatibility Table:
 | Name        | Ear  | Face    | Horn  | Material | Pattern | Plumage   | Tail    |
 | :---------- | :--- | :------ | :---- | :------- | :------ | :-------- | :------ |
 | Anemone     |      |         | Demon | Slimy    |         | Tentacles |         |
 | Psychedelic |      | Octopus |       |          | Breezy  |           | Peacock |
 
-## Archetypes: Anemone, Rabbit, Count: 2
+### Examples:
 
+## Archetypes: Anemone, Rabbit, Count: 2
+### Compatibility Table:
 | Name    | Ear    | Face | Horn  | Material | Pattern | Plumage   | Tail   |
 | :------ | :----- | :--- | :---- | :------- | :------ | :-------- | :----- |
 | Anemone |        |      | Demon | Slimy    |         | Tentacles |        |
 | Rabbit  | Rabbit |      |       |          |         |           | Rabbit |
 
-## Archetypes: Anemone, Sunset, Count: 2
+### Examples:
 
+## Archetypes: Anemone, Sunset, Count: 2
+### Compatibility Table:
 | Name    | Ear  | Face | Horn  | Material | Pattern | Plumage   | Tail  |
 | :------ | :--- | :--- | :---- | :------- | :------ | :-------- | :---- |
 | Anemone |      |      | Demon | Slimy    |         | Tentacles |       |
 | Sunset  |      |      |       |          | Sunset  |           | Fleur |
 
-## Archetypes: Aurora, Sunset, Count: 2
+### Examples:
 
+## Archetypes: Aurora, Sunset, Count: 2
+### Compatibility Table:
 | Name   | Ear    | Face | Horn   | Material | Pattern | Plumage | Tail  |
 | :----- | :----- | :--- | :----- | :------- | :------ | :------ | :---- |
 | Aurora | Seraph |      | Bharal | Starry   | Sunset  |         |       |
 | Sunset |        |      |        |          | Sunset  |         | Fleur |
 
-## Archetypes: Balloon, Patchwork, Count: 2
+### Examples:
 
+## Archetypes: Balloon, Patchwork, Count: 2
+### Compatibility Table:
 | Name      | Ear    | Face | Horn    | Material | Pattern   | Plumage | Tail      |
 | :-------- | :----- | :--- | :------ | :------- | :-------- | :------ | :-------- |
 | Balloon   |        |      | Stacked |          | Patchwork | Tutu    |           |
 | Patchwork | Square |      |         | Matte    | Patchwork |         | Accordion |
 
-## Archetypes: Balloon, Rabbit, Count: 2
+### Examples:
+![Draco](./assets/Peridots/draco-4.jpg)
 
+## Archetypes: Balloon, Rabbit, Count: 2
+### Compatibility Table:
 | Name    | Ear    | Face | Horn    | Material | Pattern   | Plumage | Tail   |
 | :------ | :----- | :--- | :------ | :------- | :-------- | :------ | :----- |
 | Balloon |        |      | Stacked |          | Patchwork | Tutu    |        |
 | Rabbit  | Rabbit |      |         |          |           |         | Rabbit |
 
-## Archetypes: Balloon, Static, Count: 2
+### Examples:
 
+## Archetypes: Balloon, Static, Count: 2
+### Compatibility Table:
 | Name    | Ear  | Face | Horn    | Material | Pattern   | Plumage | Tail |
 | :------ | :--- | :--- | :------ | :------- | :-------- | :------ | :--- |
 | Balloon |      |      | Stacked |          | Patchwork | Tutu    |      |
 | Static  |      |      |         | ???      |           |         |      |
 
-## Archetypes: Bee, Rabbit, Count: 2
+### Examples:
 
+## Archetypes: Bee, Rabbit, Count: 2
+### Compatibility Table:
 | Name   | Ear    | Face | Horn     | Material | Pattern | Plumage  | Tail   |
 | :----- | :----- | :--- | :------- | :------- | :------ | :------- | :----- |
 | Bee    |        |      | Antennae | Fuzzy    | Bee     | BeeWings |        |
 | Rabbit | Rabbit |      |          |          |         |          | Rabbit |
 
-## Archetypes: Bismuth, Peacock, Count: 2
+### Examples:
 
+## Archetypes: Bismuth, Peacock, Count: 2
+### Compatibility Table:
 | Name    | Ear    | Face    | Horn | Material   | Pattern | Plumage | Tail    |
 | :------ | :----- | :------ | :--- | :--------- | :------ | :------ | :------ |
 | Bismuth | Square | Diamond |      | Iridescent | Circuit |         |         |
 | Peacock |        |         | None |            |         | Spades  | Peacock |
 
-## Archetypes: Bismuth, Ram, Count: 2
+### Examples:
 
+## Archetypes: Bismuth, Ram, Count: 2
+### Compatibility Table:
 | Name    | Ear    | Face    | Horn | Material   | Pattern | Plumage | Tail      |
 | :------ | :----- | :------ | :--- | :--------- | :------ | :------ | :-------- |
 | Bismuth | Square | Diamond |      | Iridescent | Circuit |         |           |
 | Ram     |        |         | Ram  |            |         |         | Asparagus |
 
-## Archetypes: Boba, Cactus, Count: 2
+### Examples:
+![Echelon](./assets/Peridots/echelon-4.jpg)
 
+## Archetypes: Boba, Cactus, Count: 2
+### Compatibility Table:
 | Name   | Ear  | Face | Horn  | Material | Pattern | Plumage | Tail |
 | :----- | :--- | :--- | :---- | :------- | :------ | :------ | :--- |
 | Boba   |      |      | Straw |          | Bubbles |         |      |
 | Cactus |      |      |       | Matte    |         | Thorns  | None |
 
-## Archetypes: Boba, Glam, Count: 2
+### Examples:
 
+## Archetypes: Boba, Glam, Count: 2
+### Compatibility Table:
 | Name | Ear   | Face | Horn  | Material  | Pattern | Plumage | Tail |
 | :--- | :---- | :--- | :---- | :-------- | :------ | :------ | :--- |
 | Boba |       |      | Straw |           | Bubbles |         |      |
 | Glam | Picks | Star |       | Bedazzled |         | Curls   | None |
 
-## Archetypes: Boba, Rabbit, Count: 2
+### Examples:
 
+## Archetypes: Boba, Rabbit, Count: 2
+### Compatibility Table:
 | Name   | Ear    | Face | Horn  | Material | Pattern | Plumage | Tail   |
 | :----- | :----- | :--- | :---- | :------- | :------ | :------ | :----- |
 | Boba   |        |      | Straw |          | Bubbles |         |        |
 | Rabbit | Rabbit |      |       |          |         |         | Rabbit |
 
-## Archetypes: Boba, Static, Count: 2
+### Examples:
 
+## Archetypes: Boba, Static, Count: 2
+### Compatibility Table:
 | Name   | Ear  | Face | Horn  | Material | Pattern | Plumage | Tail |
 | :----- | :--- | :--- | :---- | :------- | :------ | :------ | :--- |
 | Boba   |      |      | Straw |          | Bubbles |         |      |
 | Static |      |      |       | ???      |         |         |      |
 
-## Archetypes: Cactus, Clownfish, Count: 2
+### Examples:
 
+## Archetypes: Cactus, Clownfish, Count: 2
+### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern       | Plumage | Tail |
 | :-------- | :--- | :--- | :--- | :------- | :------------ | :------ | :--- |
 | Cactus    |      |      |      | Matte    |               | Thorns  | None |
 | Clownfish |      |      |      |          | Tropical Fish |         |      |
 
-## Archetypes: Candle, Clownfish, Count: 2
+### Examples:
 
+## Archetypes: Candle, Clownfish, Count: 2
+### Compatibility Table:
 | Name      | Ear  | Face | Horn  | Material | Pattern       | Plumage | Tail |
 | :-------- | :--- | :--- | :---- | :------- | :------------ | :------ | :--- |
 | Candle    | None |      | Spire | Waxy     |               | None    |      |
 | Clownfish |      |      |       |          | Tropical Fish |         |      |
 
-## Archetypes: Candle, Psychedelic, Count: 2
+### Examples:
+![Lampent](./assets/Peridots/lampent-11.jpg)
 
+## Archetypes: Candle, Psychedelic, Count: 2
+### Compatibility Table:
 | Name        | Ear  | Face    | Horn  | Material | Pattern | Plumage | Tail    |
 | :---------- | :--- | :------ | :---- | :------- | :------ | :------ | :------ |
 | Candle      | None |         | Spire | Waxy     |         | None    |         |
 | Psychedelic |      | Octopus |       |          | Breezy  |         | Peacock |
 
-## Archetypes: Candle, Sunset, Count: 2
+### Examples:
 
+## Archetypes: Candle, Sunset, Count: 2
+### Compatibility Table:
 | Name   | Ear  | Face | Horn  | Material | Pattern | Plumage | Tail  |
 | :----- | :--- | :--- | :---- | :------- | :------ | :------ | :---- |
 | Candle | None |      | Spire | Waxy     |         | None    |       |
 | Sunset |      |      |       |          | Sunset  |         | Fleur |
 
-## Archetypes: Celestial, Peacock, Count: 2
+### Examples:
 
+## Archetypes: Celestial, Peacock, Count: 2
+### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern   | Plumage | Tail    |
 | :-------- | :--- | :--- | :--- | :------- | :-------- | :------ | :------ |
 | Celestial |      |      |      | Starry   | Celestial |         |         |
 | Peacock   |      |      | None |          |           | Spades  | Peacock |
 
-## Archetypes: Celestial, Rabbit, Count: 2
+### Examples:
 
+## Archetypes: Celestial, Rabbit, Count: 2
+### Compatibility Table:
 | Name      | Ear    | Face | Horn | Material | Pattern   | Plumage | Tail   |
 | :-------- | :----- | :--- | :--- | :------- | :-------- | :------ | :----- |
 | Celestial |        |      |      | Starry   | Celestial |         |        |
 | Rabbit    | Rabbit |      |      |          |           |         | Rabbit |
 
-## Archetypes: Celestial, Ram, Count: 2
+### Examples:
 
+## Archetypes: Celestial, Ram, Count: 2
+### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern   | Plumage | Tail      |
 | :-------- | :--- | :--- | :--- | :------- | :-------- | :------ | :-------- |
 | Celestial |      |      |      | Starry   | Celestial |         |           |
 | Ram       |      |      | Ram  |          |           |         | Asparagus |
 
-## Archetypes: Chameleon, Static, Count: 2
+### Examples:
+![Ether](./assets/Peridots/ether-5.jpg)
 
+## Archetypes: Chameleon, Static, Count: 2
+### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern | Plumage | Tail  |
 | :-------- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
 | Chameleon | None |      | Buns |          | Breezy  | Mohawk  | Shell |
 | Static    |      |      |      | ???      |         |         |       |
 
-## Archetypes: Clownfish, Cotton Candy, Count: 2
+### Examples:
 
+## Archetypes: Clownfish, Cotton Candy, Count: 2
+### Compatibility Table:
 | Name         | Ear  | Face | Horn    | Material | Pattern       | Plumage | Tail |
 | :----------- | :--- | :--- | :------ | :------- | :------------ | :------ | :--- |
 | Clownfish    |      |      |         |          | Tropical Fish |         |      |
 | Cotton Candy |      |      | Narwhal | Furry    |               |         |      |
 
-## Archetypes: Clownfish, Glam, Count: 2
+### Examples:
 
+## Archetypes: Clownfish, Glam, Count: 2
+### Compatibility Table:
 | Name      | Ear   | Face | Horn | Material  | Pattern       | Plumage | Tail |
 | :-------- | :---- | :--- | :--- | :-------- | :------------ | :------ | :--- |
 | Clownfish |       |      |      |           | Tropical Fish |         |      |
 | Glam      | Picks | Star |      | Bedazzled |               | Curls   | None |
 
-## Archetypes: Clownfish, Icicle, Count: 2
+### Examples:
 
+## Archetypes: Clownfish, Icicle, Count: 2
+### Compatibility Table:
 | Name      | Ear  | Face | Horn  | Material | Pattern       | Plumage | Tail |
 | :-------- | :--- | :--- | :---- | :------- | :------------ | :------ | :--- |
 | Clownfish |      |      |       |          | Tropical Fish |         |      |
 | Icicle    |      |      | Crown | Glimmer  |               | Thorns  |      |
 
-## Archetypes: Clownfish, Monkey, Count: 2
+### Examples:
 
+## Archetypes: Clownfish, Monkey, Count: 2
+### Compatibility Table:
 | Name      | Ear    | Face   | Horn | Material | Pattern       | Plumage | Tail  |
 | :-------- | :----- | :----- | :--- | :------- | :------------ | :------ | :---- |
 | Clownfish |        |        |      |          | Tropical Fish |         |       |
 | Monkey    | Monkey | Monkey | None | Fuzzy    |               |         | Mouse |
 
-## Archetypes: Clownfish, Peacock, Count: 2
+### Examples:
 
+## Archetypes: Clownfish, Peacock, Count: 2
+### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern       | Plumage | Tail    |
 | :-------- | :--- | :--- | :--- | :------- | :------------ | :------ | :------ |
 | Clownfish |      |      |      |          | Tropical Fish |         |         |
 | Peacock   |      |      | None |          |               | Spades  | Peacock |
 
-## Archetypes: Clownfish, Rabbit, Count: 2
+### Examples:
 
+## Archetypes: Clownfish, Rabbit, Count: 2
+### Compatibility Table:
 | Name      | Ear    | Face | Horn | Material | Pattern       | Plumage | Tail   |
 | :-------- | :----- | :--- | :--- | :------- | :------------ | :------ | :----- |
 | Clownfish |        |      |      |          | Tropical Fish |         |        |
 | Rabbit    | Rabbit |      |      |          |               |         | Rabbit |
 
-## Archetypes: Clownfish, Ram, Count: 2
+### Examples:
+![Jewelfish](./assets/Peridots/jewelfish-9.jpg)
 
+## Archetypes: Clownfish, Ram, Count: 2
+### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern       | Plumage | Tail      |
 | :-------- | :--- | :--- | :--- | :------- | :------------ | :------ | :-------- |
 | Clownfish |      |      |      |          | Tropical Fish |         |           |
 | Ram       |      |      | Ram  |          |               |         | Asparagus |
 
-## Archetypes: Clownfish, Royalty, Count: 2
+### Examples:
+![Entropy](./assets/Peridots/entropy-5.jpg)
 
+## Archetypes: Clownfish, Royalty, Count: 2
+### Compatibility Table:
 | Name      | Ear  | Face     | Horn  | Material | Pattern       | Plumage | Tail |
 | :-------- | :--- | :------- | :---- | :------- | :------------ | :------ | :--- |
 | Clownfish |      |          |       |          | Tropical Fish |         |      |
 | Royalty   |      | Countess | Crown | Ore      |               | Tutu    |      |
 
-## Archetypes: Clownfish, Static, Count: 2
+### Examples:
 
+## Archetypes: Clownfish, Static, Count: 2
+### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern       | Plumage | Tail |
 | :-------- | :--- | :--- | :--- | :------- | :------------ | :------ | :--- |
 | Clownfish |      |      |      |          | Tropical Fish |         |      |
 | Static    |      |      |      | ???      |               |         |      |
 
-## Archetypes: Clownfish, Triton, Count: 2
+### Examples:
 
+## Archetypes: Clownfish, Triton, Count: 2
+### Compatibility Table:
 | Name      | Ear  | Face | Horn    | Material | Pattern       | Plumage | Tail  |
 | :-------- | :--- | :--- | :------ | :------- | :------------ | :------ | :---- |
 | Clownfish |      |      |         |          | Tropical Fish |         |       |
 | Triton    |      |      | Trident | Glimmer  |               |         | Whale |
 
-## Archetypes: Clownfish, Unicorn, Count: 2
+### Examples:
 
+## Archetypes: Clownfish, Unicorn, Count: 2
+### Compatibility Table:
 | Name      | Ear  | Face | Horn    | Material | Pattern       | Plumage | Tail  |
 | :-------- | :--- | :--- | :------ | :------- | :------------ | :------ | :---- |
 | Clownfish |      |      |         |          | Tropical Fish |         |       |
 | Unicorn   |      |      | Narwhal | Glitter  |               | Horse   | Horse |
 
-## Archetypes: Clownfish, Yeti, Count: 2
+### Examples:
 
+## Archetypes: Clownfish, Yeti, Count: 2
+### Compatibility Table:
 | Name      | Ear   | Face  | Horn  | Material | Pattern       | Plumage | Tail |
 | :-------- | :---- | :---- | :---- | :------- | :------------ | :------ | :--- |
 | Clownfish |       |       |       |          | Tropical Fish |         |      |
 | Yeti      | Llama | Heart | Devil | Furry    |               | None    | None |
 
-## Archetypes: Cotton Candy, Psychedelic, Count: 2
+### Examples:
 
+## Archetypes: Cotton Candy, Psychedelic, Count: 2
+### Compatibility Table:
 | Name         | Ear  | Face    | Horn    | Material | Pattern | Plumage | Tail    |
 | :----------- | :--- | :------ | :------ | :------- | :------ | :------ | :------ |
 | Cotton Candy |      |         | Narwhal | Furry    |         |         |         |
 | Psychedelic  |      | Octopus |         |          | Breezy  |         | Peacock |
 
-## Archetypes: Cotton Candy, Rabbit, Count: 2
+### Examples:
 
+## Archetypes: Cotton Candy, Rabbit, Count: 2
+### Compatibility Table:
 | Name         | Ear    | Face | Horn    | Material | Pattern | Plumage | Tail   |
 | :----------- | :----- | :--- | :------ | :------- | :------ | :------ | :----- |
 | Cotton Candy |        |      | Narwhal | Furry    |         |         |        |
 | Rabbit       | Rabbit |      |         |          |         |         | Rabbit |
 
-## Archetypes: Cotton Candy, Sunset, Count: 2
+### Examples:
 
+## Archetypes: Cotton Candy, Sunset, Count: 2
+### Compatibility Table:
 | Name         | Ear  | Face | Horn    | Material | Pattern | Plumage | Tail  |
 | :----------- | :--- | :--- | :------ | :------- | :------ | :------ | :---- |
 | Cotton Candy |      |      | Narwhal | Furry    |         |         |       |
 | Sunset       |      |      |         |          | Sunset  |         | Fleur |
 
-## Archetypes: Cotton Candy, Vampire, Count: 2
+### Examples:
 
+## Archetypes: Cotton Candy, Vampire, Count: 2
+### Compatibility Table:
 | Name         | Ear  | Face  | Horn    | Material | Pattern | Plumage | Tail    |
 | :----------- | :--- | :---- | :------ | :------- | :------ | :------ | :------ |
 | Cotton Candy |      |       | Narwhal | Furry    |         |         |         |
 | Vampire      | Bat  | Fangs |         |          | Sunset  | Ruff    | Peacock |
 
-## Archetypes: Dewdrop, Peacock, Count: 2
+### Examples:
 
+## Archetypes: Dewdrop, Peacock, Count: 2
+### Compatibility Table:
 | Name    | Ear  | Face | Horn | Material | Pattern  | Plumage | Tail    |
 | :------ | :--- | :--- | :--- | :------- | :------- | :------ | :------ |
 | Dewdrop |      | Star |      | Gummy    | Gradient |         |         |
 | Peacock |      |      | None |          |          | Spades  | Peacock |
 
-## Archetypes: Dewdrop, Rabbit, Count: 2
+### Examples:
 
+## Archetypes: Dewdrop, Rabbit, Count: 2
+### Compatibility Table:
 | Name    | Ear    | Face | Horn | Material | Pattern  | Plumage | Tail   |
 | :------ | :----- | :--- | :--- | :------- | :------- | :------ | :----- |
 | Dewdrop |        | Star |      | Gummy    | Gradient |         |        |
 | Rabbit  | Rabbit |      |      |          |          |         | Rabbit |
 
-## Archetypes: Dewdrop, Ram, Count: 2
+### Examples:
+![Krypto](./assets/Peridots/krypto-10.jpg)
 
+## Archetypes: Dewdrop, Ram, Count: 2
+### Compatibility Table:
 | Name    | Ear  | Face | Horn | Material | Pattern  | Plumage | Tail      |
 | :------ | :--- | :--- | :--- | :------- | :------- | :------ | :-------- |
 | Dewdrop |      | Star |      | Gummy    | Gradient |         |           |
 | Ram     |      |      | Ram  |          |          |         | Asparagus |
 
-## Archetypes: Dinosaur, Static, Count: 2
+### Examples:
 
+## Archetypes: Dinosaur, Static, Count: 2
+### Compatibility Table:
 | Name     | Ear         | Face | Horn        | Material | Pattern  | Plumage | Tail      |
 | :------- | :---------- | :--- | :---------- | :------- | :------- | :------ | :-------- |
 | Dinosaur | Triceratops |      | Triceratops |          | Baguette |         | Asparagus |
 | Static   |             |      |             | ???      |          |         |           |
 
-## Archetypes: Icicle, Psychedelic, Count: 2
+### Examples:
 
+## Archetypes: Icicle, Psychedelic, Count: 2
+### Compatibility Table:
 | Name        | Ear  | Face    | Horn  | Material | Pattern | Plumage | Tail    |
 | :---------- | :--- | :------ | :---- | :------- | :------ | :------ | :------ |
 | Icicle      |      |         | Crown | Glimmer  |         | Thorns  |         |
 | Psychedelic |      | Octopus |       |          | Breezy  |         | Peacock |
 
-## Archetypes: Icicle, Rabbit, Count: 2
+### Examples:
 
+## Archetypes: Icicle, Rabbit, Count: 2
+### Compatibility Table:
 | Name   | Ear    | Face | Horn  | Material | Pattern | Plumage | Tail   |
 | :----- | :----- | :--- | :---- | :------- | :------ | :------ | :----- |
 | Icicle |        |      | Crown | Glimmer  |         | Thorns  |        |
 | Rabbit | Rabbit |      |       |          |         |         | Rabbit |
 
-## Archetypes: Icicle, Sunset, Count: 2
+### Examples:
+![Glacier](./assets/Peridots/glacier-7.jpg)
 
+## Archetypes: Icicle, Sunset, Count: 2
+### Compatibility Table:
 | Name   | Ear  | Face | Horn  | Material | Pattern | Plumage | Tail  |
 | :----- | :--- | :--- | :---- | :------- | :------ | :------ | :---- |
 | Icicle |      |      | Crown | Glimmer  |         | Thorns  |       |
 | Sunset |      |      |       |          | Sunset  |         | Fleur |
 
-## Archetypes: Jester, Rabbit, Count: 2
+### Examples:
 
+## Archetypes: Jester, Rabbit, Count: 2
+### Compatibility Table:
 | Name   | Ear    | Face | Horn   | Material | Pattern  | Plumage | Tail   |
 | :----- | :----- | :--- | :----- | :------- | :------- | :------ | :----- |
 | Jester |        |      | Jester | Ore      | Diamonds | Ruff    |        |
 | Rabbit | Rabbit |      |        |          |          |         | Rabbit |
 
-## Archetypes: Kintsugi, Peacock, Count: 2
+### Examples:
 
+## Archetypes: Kintsugi, Peacock, Count: 2
+### Compatibility Table:
 | Name     | Ear  | Face | Horn | Material | Pattern | Plumage | Tail    |
 | :------- | :--- | :--- | :--- | :------- | :------ | :------ | :------ |
 | Kintsugi |      |      |      | Ore      | Cracked |         |         |
 | Peacock  |      |      | None |          |         | Spades  | Peacock |
 
-## Archetypes: Kintsugi, Rabbit, Count: 2
+### Examples:
 
+## Archetypes: Kintsugi, Rabbit, Count: 2
+### Compatibility Table:
 | Name     | Ear    | Face | Horn | Material | Pattern | Plumage | Tail   |
 | :------- | :----- | :--- | :--- | :------- | :------ | :------ | :----- |
 | Kintsugi |        |      |      | Ore      | Cracked |         |        |
 | Rabbit   | Rabbit |      |      |          |         |         | Rabbit |
 
-## Archetypes: Kintsugi, Ram, Count: 2
+### Examples:
 
+## Archetypes: Kintsugi, Ram, Count: 2
+### Compatibility Table:
 | Name     | Ear  | Face | Horn | Material | Pattern | Plumage | Tail      |
 | :------- | :--- | :--- | :--- | :------- | :------ | :------ | :-------- |
 | Kintsugi |      |      |      | Ore      | Cracked |         |           |
 | Ram      |      |      | Ram  |          |         |         | Asparagus |
 
-## Archetypes: Kintsugi, Royalty, Count: 2
+### Examples:
+![Damascus](./assets/Peridots/damascus-4.jpg)
 
+## Archetypes: Kintsugi, Royalty, Count: 2
+### Compatibility Table:
 | Name     | Ear  | Face     | Horn  | Material | Pattern | Plumage | Tail |
 | :------- | :--- | :------- | :---- | :------- | :------ | :------ | :--- |
 | Kintsugi |      |          |       | Ore      | Cracked |         |      |
 | Royalty  |      | Countess | Crown | Ore      |         | Tutu    |      |
 
-## Archetypes: LED, Peacock, Count: 2
+### Examples:
+![Enrichment](./assets/Peridots/enrichment-5.jpg)
 
+## Archetypes: LED, Peacock, Count: 2
+### Compatibility Table:
 | Name    | Ear  | Face | Horn | Material | Pattern | Plumage | Tail    |
 | :------ | :--- | :--- | :--- | :------- | :------ | :------ | :------ |
 | LED     |      |      |      | LED      | Pulse   |         |         |
 | Peacock |      |      | None |          |         | Spades  | Peacock |
 
-## Archetypes: LED, Rabbit, Count: 2
+### Examples:
 
+## Archetypes: LED, Rabbit, Count: 2
+### Compatibility Table:
 | Name   | Ear    | Face | Horn | Material | Pattern | Plumage | Tail   |
 | :----- | :----- | :--- | :--- | :------- | :------ | :------ | :----- |
 | LED    |        |      |      | LED      | Pulse   |         |        |
 | Rabbit | Rabbit |      |      |          |         |         | Rabbit |
 
-## Archetypes: LED, Ram, Count: 2
+### Examples:
 
+## Archetypes: LED, Ram, Count: 2
+### Compatibility Table:
 | Name | Ear  | Face | Horn | Material | Pattern | Plumage | Tail      |
 | :--- | :--- | :--- | :--- | :------- | :------ | :------ | :-------- |
 | LED  |      |      |      | LED      | Pulse   |         |           |
 | Ram  |      |      | Ram  |          |         |         | Asparagus |
 
-## Archetypes: Patina, Peacock, Count: 2
+### Examples:
 
+## Archetypes: Patina, Peacock, Count: 2
+### Compatibility Table:
 | Name    | Ear  | Face | Horn | Material | Pattern | Plumage | Tail    |
 | :------ | :--- | :--- | :--- | :------- | :------ | :------ | :------ |
 | Patina  |      |      |      | Rusty    | Patina  |         |         |
 | Peacock |      |      | None |          |         | Spades  | Peacock |
 
-## Archetypes: Patina, Rabbit, Count: 2
+### Examples:
 
+## Archetypes: Patina, Rabbit, Count: 2
+### Compatibility Table:
 | Name   | Ear    | Face | Horn | Material | Pattern | Plumage | Tail   |
 | :----- | :----- | :--- | :--- | :------- | :------ | :------ | :----- |
 | Patina |        |      |      | Rusty    | Patina  |         |        |
 | Rabbit | Rabbit |      |      |          |         |         | Rabbit |
 
-## Archetypes: Patina, Ram, Count: 2
+### Examples:
 
+## Archetypes: Patina, Ram, Count: 2
+### Compatibility Table:
 | Name   | Ear  | Face | Horn | Material | Pattern | Plumage | Tail      |
 | :----- | :--- | :--- | :--- | :------- | :------ | :------ | :-------- |
 | Patina |      |      |      | Rusty    | Patina  |         |           |
 | Ram    |      |      | Ram  |          |         |         | Asparagus |
 
-## Archetypes: Peacock, Psychedelic, Count: 2
+### Examples:
+![Duranium](./assets/Peridots/duranium-4.jpg)
 
+## Archetypes: Peacock, Psychedelic, Count: 2
+### Compatibility Table:
 | Name        | Ear  | Face    | Horn | Material | Pattern | Plumage | Tail    |
 | :---------- | :--- | :------ | :--- | :------- | :------ | :------ | :------ |
 | Peacock     |      |         | None |          |         | Spades  | Peacock |
 | Psychedelic |      | Octopus |      |          | Breezy  |         | Peacock |
 
-## Archetypes: Peacock, Static, Count: 2
+### Examples:
+![Rockstar](./assets/Peridots/rockstar-11.jpg)
 
+## Archetypes: Peacock, Static, Count: 2
+### Compatibility Table:
 | Name    | Ear  | Face | Horn | Material | Pattern | Plumage | Tail    |
 | :------ | :--- | :--- | :--- | :------- | :------ | :------ | :------ |
 | Peacock |      |      | None |          |         | Spades  | Peacock |
 | Static  |      |      |      | ???      |         |         |         |
 
-## Archetypes: Peacock, Watermelon, Count: 2
+### Examples:
 
+## Archetypes: Peacock, Watermelon, Count: 2
+### Compatibility Table:
 | Name       | Ear    | Face | Horn | Material | Pattern    | Plumage | Tail    |
 | :--------- | :----- | :--- | :--- | :------- | :--------- | :------ | :------ |
 | Peacock    |        |      | None |          |            | Spades  | Peacock |
 | Watermelon | Slices |      |      | Pulp     | Watermelon |         |         |
 
-## Archetypes: Psychedelic, Static, Count: 2
+### Examples:
 
+## Archetypes: Psychedelic, Static, Count: 2
+### Compatibility Table:
 | Name        | Ear  | Face    | Horn | Material | Pattern | Plumage | Tail    |
 | :---------- | :--- | :------ | :--- | :------- | :------ | :------ | :------ |
 | Psychedelic |      | Octopus |      |          | Breezy  |         | Peacock |
 | Static      |      |         |      | ???      |         |         |         |
 
-## Archetypes: Rabbit, Royalty, Count: 2
+### Examples:
 
+## Archetypes: Rabbit, Royalty, Count: 2
+### Compatibility Table:
 | Name    | Ear    | Face     | Horn  | Material | Pattern | Plumage | Tail   |
 | :------ | :----- | :------- | :---- | :------- | :------ | :------ | :----- |
 | Rabbit  | Rabbit |          |       |          |         |         | Rabbit |
 | Royalty |        | Countess | Crown | Ore      |         | Tutu    |        |
 
-## Archetypes: Rabbit, Static, Count: 2
+### Examples:
 
+## Archetypes: Rabbit, Static, Count: 2
+### Compatibility Table:
 | Name   | Ear    | Face | Horn | Material | Pattern | Plumage | Tail   |
 | :----- | :----- | :--- | :--- | :------- | :------ | :------ | :----- |
 | Rabbit | Rabbit |      |      |          |         |         | Rabbit |
 | Static |        |      |      | ???      |         |         |        |
 
-## Archetypes: Ram, Static, Count: 2
+### Examples:
 
+## Archetypes: Ram, Static, Count: 2
+### Compatibility Table:
 | Name   | Ear  | Face | Horn | Material | Pattern | Plumage | Tail      |
 | :----- | :--- | :--- | :--- | :------- | :------ | :------ | :-------- |
 | Ram    |      |      | Ram  |          |         |         | Asparagus |
 | Static |      |      |      | ???      |         |         |           |
 
-## Archetypes: Ram, Watermelon, Count: 2
+### Examples:
+![Frosty](./assets/Peridots/frosty-6.jpg)
 
+## Archetypes: Ram, Watermelon, Count: 2
+### Compatibility Table:
 | Name       | Ear    | Face | Horn | Material | Pattern    | Plumage | Tail      |
 | :--------- | :----- | :--- | :--- | :------- | :--------- | :------ | :-------- |
 | Ram        |        |      | Ram  |          |            |         | Asparagus |
 | Watermelon | Slices |      |      | Pulp     | Watermelon |         |           |
 
-## Archetypes: Royalty, Sunset, Count: 2
+### Examples:
 
+## Archetypes: Royalty, Sunset, Count: 2
+### Compatibility Table:
 | Name    | Ear  | Face     | Horn  | Material | Pattern | Plumage | Tail  |
 | :------ | :--- | :------- | :---- | :------- | :------ | :------ | :---- |
 | Royalty |      | Countess | Crown | Ore      |         | Tutu    |       |
 | Sunset  |      |          |       |          | Sunset  |         | Fleur |
 
-## Archetypes: Static, Sunset, Count: 2
+### Examples:
 
+## Archetypes: Static, Sunset, Count: 2
+### Compatibility Table:
 | Name   | Ear  | Face | Horn | Material | Pattern | Plumage | Tail  |
 | :----- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
 | Static |      |      |      | ???      |         |         |       |
 | Sunset |      |      |      |          | Sunset  |         | Fleur |
 
-## Archetypes: Static, Vampire, Count: 2
+### Examples:
 
+## Archetypes: Static, Vampire, Count: 2
+### Compatibility Table:
 | Name    | Ear  | Face  | Horn | Material | Pattern | Plumage | Tail    |
 | :------ | :--- | :---- | :--- | :------- | :------ | :------ | :------ |
 | Static  |      |       |      | ???      |         |         |         |
 | Vampire | Bat  | Fangs |      |          | Sunset  | Ruff    | Peacock |
+
+### Examples:

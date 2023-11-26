@@ -44,7 +44,7 @@ function Format-PeridotTree {
                 }
             }
 
-            $peridotId = "$($peridot.Name.ToLowerInvariant())-$($peridot.Generation)"
+            $peridotId = $peridot.GetId()
             $peridotName = $peridot.Name
 
             if ($matchingArchetypes) {
