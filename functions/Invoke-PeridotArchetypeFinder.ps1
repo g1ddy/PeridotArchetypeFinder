@@ -50,8 +50,8 @@ function Format-PeridotArchetype {
             $matchingArchetypes = $Archetypes | Where-Object { $archetypeNames.Contains($_.Name) } | Sort-Object -Property Name
             $matchingArchetypes | Format-MarkdownTableTableStyle Name, Ear, Face, Horn, Material, Pattern, Plumage, Tail -ShowMarkdown -DoNotCopyToClipboard -HideStandardOutput
 
-            Write-Output '### Examples:'
             if ($SamplePeridotsWithArchetypes.ContainsKey($archetypeKey)) {
+                Write-Output '### Example(s):'
                 $matchingPeridots = $SamplePeridotsWithArchetypes[$archetypeKey].peridots
 
                 foreach ($peridot in $matchingPeridots) {
