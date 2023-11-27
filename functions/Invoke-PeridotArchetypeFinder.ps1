@@ -19,7 +19,7 @@ function Invoke-PeridotArchetypeFinder {
 
         Format-PeridotArchetype -Archetypes $archetypes `
             -AllPeridotsWithArchetypes $allPeridotArchetypeDictionary `
-            -PeridotArchetypeDictionary $samplePeridotArchetypeDictionary
+            -SamplePeridotsWithArchetypes $samplePeridotArchetypeDictionary
     }
 }
 
@@ -61,10 +61,9 @@ function Format-PeridotArchetype {
                     $peridotNode = "![${peridotName}](./assets/Peridots/${peridotId}.jpg)"
 
                     Write-Output $peridotNode
+                    Write-Output ''
                 }
             }
-
-            Write-Output ''
         }
     }
 }
