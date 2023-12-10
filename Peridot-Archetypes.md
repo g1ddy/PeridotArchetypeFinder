@@ -142,6 +142,16 @@
 | Anemone |        |      | Demon | Slimy    |         | Tentacles |        |
 | Rabbit  | Rabbit |      |       |          |         |           | Rabbit |
 
+## Archetypes: Anemone, Snowfall, Count: 2
+### Compatibility Table:
+| Name     | Ear  | Face | Horn  | Material | Pattern  | Plumage   | Tail      |
+| :------- | :--- | :--- | :---- | :------- | :------- | :-------- | :-------- |
+| Anemone  |      |      | Demon | Slimy    |          | Tentacles |           |
+| Snowfall |      | Dots |       |          | Snowfall |           | Snowflake |
+
+### Example(s):
+![Mastodon](./assets/Peridots/mastodon-11.jpg)
+
 ## Archetypes: Anemone, Sunset, Count: 2
 ### Compatibility Table:
 | Name    | Ear  | Face | Horn  | Material | Pattern | Plumage   | Tail  |
@@ -255,6 +265,13 @@
 | :---------- | :--- | :------ | :---- | :------- | :------ | :------ | :------ |
 | Candle      | None |         | Spire | Waxy     |         | None    |         |
 | Psychedelic |      | Octopus |       |          | Breezy  |         | Peacock |
+
+## Archetypes: Candle, Snowfall, Count: 2
+### Compatibility Table:
+| Name     | Ear  | Face | Horn  | Material | Pattern  | Plumage | Tail      |
+| :------- | :--- | :--- | :---- | :------- | :------- | :------ | :-------- |
+| Candle   | None |      | Spire | Waxy     |          | None    |           |
+| Snowfall |      | Dots |       |          | Snowfall |         | Snowflake |
 
 ## Archetypes: Candle, Sunset, Count: 2
 ### Compatibility Table:
@@ -380,6 +397,9 @@
 | Clownfish |      |      |         |          | Tropical Fish |         |       |
 | Unicorn   |      |      | Narwhal | Glitter  |               | Horse   | Horse |
 
+### Example(s):
+![Goral](./assets/Peridots/goral-7.jpg)
+
 ## Archetypes: Clownfish, Yeti, Count: 2
 ### Compatibility Table:
 | Name      | Ear   | Face  | Horn  | Material | Pattern       | Plumage | Tail |
@@ -400,6 +420,13 @@
 | :----------- | :----- | :--- | :------ | :------- | :------ | :------ | :----- |
 | Cotton Candy |        |      | Narwhal | Furry    |         |         |        |
 | Rabbit       | Rabbit |      |         |          |         |         | Rabbit |
+
+## Archetypes: Cotton Candy, Snowfall, Count: 2
+### Compatibility Table:
+| Name         | Ear  | Face | Horn    | Material | Pattern  | Plumage | Tail      |
+| :----------- | :--- | :--- | :------ | :------- | :------- | :------ | :-------- |
+| Cotton Candy |      |      | Narwhal | Furry    |          |         |           |
+| Snowfall     |      | Dots |         |          | Snowfall |         | Snowflake |
 
 ## Archetypes: Cotton Candy, Sunset, Count: 2
 ### Compatibility Table:
@@ -462,6 +489,13 @@
 
 ### Example(s):
 ![Glacier](./assets/Peridots/glacier-7.jpg)
+
+## Archetypes: Icicle, Snowfall, Count: 2
+### Compatibility Table:
+| Name     | Ear  | Face | Horn  | Material | Pattern  | Plumage | Tail      |
+| :------- | :--- | :--- | :---- | :------- | :------- | :------ | :-------- |
+| Icicle   |      |      | Crown | Glimmer  |          | Thorns  |           |
+| Snowfall |      | Dots |       |          | Snowfall |         | Snowflake |
 
 ## Archetypes: Icicle, Sunset, Count: 2
 ### Compatibility Table:
@@ -624,6 +658,13 @@
 | :------ | :--- | :------- | :---- | :------- | :------ | :------ | :---- |
 | Royalty |      | Countess | Crown | Ore      |         | Tutu    |       |
 | Sunset  |      |          |       |          | Sunset  |         | Fleur |
+
+## Archetypes: Snowfall, Static, Count: 2
+### Compatibility Table:
+| Name     | Ear  | Face | Horn | Material | Pattern  | Plumage | Tail      |
+| :------- | :--- | :--- | :--- | :------- | :------- | :------ | :-------- |
+| Snowfall |      | Dots |      |          | Snowfall |         | Snowflake |
+| Static   |      |      |      | ???      |          |         |           |
 
 ## Archetypes: Static, Sunset, Count: 2
 ### Compatibility Table:

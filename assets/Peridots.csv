@@ -19,17 +19,20 @@ Jammie,5,Delta,Magma,Kelp,Goat,Spades,Glitter,Star,Bear,
 Echo,5,Delta,Tropical Fish,Kelp,Narwhal,Horse,???,Star,Fairy,Static
 Fable,6,Enrichment,Cracked,Rabbit,Crown,Tutu,Ore,Countess,Rabbit,
 Farceratops,6,Entropy,Baguette,Asparagus,Ram,Horse,Matte,Fangs,Triceratops,
+Fishline,6,Entropy,Tropical Fish,Asparagus,Devil,None,Furry,Heart,Cat,
 Lilith,6,Jammie,Magma,Fleur,Goat,Mohawk,Glitter,Star,Dragonfly,
 Floofish,6,Entropy,Tropical Fish,Mouse,None,None,Fuzzy,Monkey,Monkey,
 Foxtrot,6,Echo,Tropical Fish,Horse,Narwhal,Horse,Glitter,Star,Llama,Pink
 Frosty,6,Echo,Tropical Fish,Asparagus,Ram,None,???,Diamond,Fairy,Static
 Glacier,7,Fable,Celestial,Rabbit,Crown,Thorns,Glimmer,Fangs,Rabbit,
+Goral,7,Foxtrot,Tropical Fish,Horse,Narwhal,Horse,Glitter,Diamond,Cat,
 Grazerface,7,Farceratops,Baguette,Asparagus,Triceratops,Horse,Matte,Fangs,Triceratops,
 Maximus,7,Lilith,Chromatic,Fleur,Narwhal,Horse,Starry,Heart,Dragonfly,
 Goldie,7,Foxtrot,Tropical Fish,Horse,Narwhal,Horse,Slimy,Star,Mouse,Golden
 Noise,8,Maximus,Patina,Fleur,Narwhal,Spades,???,Heart,Dragonfly,
 Harry,8,Goldie,Beach,Horse,Narwhal,None,Furry,Star,Mouse,Yellow
 Icarus,8,Goldie,Tropical Fish,Rabbit,Cow,Skirt,Bedazzled,Star,Seraph,Fire
+Jax,9,Icarus,Tropical Fish,None,Triceratops,Curls,Bedazzled,Star,Seraph,
 Jewelfish,9,Icarus,Tropical Fish,Rabbit,Cow,None,Bedazzled,Star,Rabbit,
 Orion,9,Noise,Sunset,Fleur,Bharal,Spades,Starry,Heart,Seraph,Aurora
 Kaleidoscope,10,Jewelfish,Tropical Fish,Rabbit,Demon,Tentacles,Slimy,Star,Rabbit,
@@ -40,5 +43,7 @@ Predator,10,Orion,Sunset,Peacock,Bharal,Ruff,Starry,Fangs,Bat,
 Phenotype,10,Orion,Sunset,Fleur,Bharal,Spades,Starry,Heart,Seraph,Sunset
 Lampent,11,Kandle,Tropical Fish,Fleur,Spire,None,Waxy,Star,None,
 Lychee,11,Krypto,Bubbles,Rabbit,Straw,Horse,???,Diamond,Rabbit,
+Mastodon,11,Kaleidoscope,Snowfall,Snowflake,Demon,Tentacles,Slimy,Dots,Rabbit,
 Rockstar,11,Queezy,Breezy,Peacock,None,Spades,Bedazzled,Octopus,Bear,
 Slushy,12,Rockstar,Breezy,None,Narwhal,Spades,Furry,Octopus,Bear,
+Thermal,12,Rockstar,Deer,Peacock,None,None,LED,Blob,Monkey,
