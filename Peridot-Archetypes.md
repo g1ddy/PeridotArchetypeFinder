@@ -30,6 +30,14 @@
 ### Example(s):
 ![Lychee](./assets/Peridots/lychee-11.jpg)
 
+## Archetypes: Cinnabon, Clownfish, Static, Count: 3
+### Compatibility Table:
+| Name      | Ear   | Face  | Horn | Material | Pattern       | Plumage | Tail  |
+| :-------- | :---- | :---- | :--- | :------- | :------------ | :------ | :---- |
+| Cinnabon  | Mouse | Fangs | Buns |          |               |         | Shell |
+| Clownfish |       |       |      |          | Tropical Fish |         |       |
+| Static    |       |       |      | ???      |               |         |       |
+
 ## Archetypes: Clownfish, Cotton Candy, Rabbit, Count: 3
 ### Compatibility Table:
 | Name         | Ear    | Face | Horn    | Material | Pattern       | Plumage | Tail   |
@@ -96,6 +104,13 @@
 | Peacock     |      |         | None |          |         | Spades  | Peacock |
 | Psychedelic |      | Octopus |      |          | Breezy  |         | Peacock |
 | Static      |      |         |      | ???      |         |         |         |
+
+## Archetypes: 24Karat, Cinnabon, Count: 2
+### Compatibility Table:
+| Name     | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
+| :------- | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
+| 24Karat  |       |       |      | Chrome   | Solid   |         |       |
+| Cinnabon | Mouse | Fangs | Buns |          |         |         | Shell |
 
 ## Archetypes: 24Karat, Peacock, Count: 2
 ### Compatibility Table:
@@ -190,6 +205,13 @@
 | Balloon |      |      | Stacked |          | Patchwork | Tutu    |      |
 | Static  |      |      |         | ???      |           |         |      |
 
+## Archetypes: Beach, Cinnabon, Count: 2
+### Compatibility Table:
+| Name     | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
+| :------- | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
+| Beach    |       |       |      | Geode    | Beach   |         | Shell |
+| Cinnabon | Mouse | Fangs | Buns |          |         |         | Shell |
+
 ## Archetypes: Bee, Rabbit, Count: 2
 ### Compatibility Table:
 | Name   | Ear    | Face | Horn     | Material | Pattern | Plumage  | Tail   |
@@ -280,6 +302,13 @@
 | Candle | None |      | Spire | Waxy     |         | None    |       |
 | Sunset |      |      |       |          | Sunset  |         | Fleur |
 
+## Archetypes: Celestial, Cinnabon, Count: 2
+### Compatibility Table:
+| Name      | Ear   | Face  | Horn | Material | Pattern   | Plumage | Tail  |
+| :-------- | :---- | :---- | :--- | :------- | :-------- | :------ | :---- |
+| Celestial |       |       |      | Starry   | Celestial |         |       |
+| Cinnabon  | Mouse | Fangs | Buns |          |           |         | Shell |
+
 ## Archetypes: Celestial, Peacock, Count: 2
 ### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern   | Plumage | Tail    |
@@ -310,6 +339,41 @@
 | :-------- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
 | Chameleon | None |      | Buns |          | Breezy  | Mohawk  | Shell |
 | Static    |      |      |      | ???      |         |         |       |
+
+## Archetypes: Cinnabon, Clownfish, Count: 2
+### Compatibility Table:
+| Name      | Ear   | Face  | Horn | Material | Pattern       | Plumage | Tail  |
+| :-------- | :---- | :---- | :--- | :------- | :------------ | :------ | :---- |
+| Cinnabon  | Mouse | Fangs | Buns |          |               |         | Shell |
+| Clownfish |       |       |      |          | Tropical Fish |         |       |
+
+## Archetypes: Cinnabon, Kintsugi, Count: 2
+### Compatibility Table:
+| Name     | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
+| :------- | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
+| Cinnabon | Mouse | Fangs | Buns |          |         |         | Shell |
+| Kintsugi |       |       |      | Ore      | Cracked |         |       |
+
+## Archetypes: Cinnabon, LED, Count: 2
+### Compatibility Table:
+| Name     | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
+| :------- | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
+| Cinnabon | Mouse | Fangs | Buns |          |         |         | Shell |
+| LED      |       |       |      | LED      | Pulse   |         |       |
+
+## Archetypes: Cinnabon, Patina, Count: 2
+### Compatibility Table:
+| Name     | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
+| :------- | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
+| Cinnabon | Mouse | Fangs | Buns |          |         |         | Shell |
+| Patina   |       |       |      | Rusty    | Patina  |         |       |
+
+## Archetypes: Cinnabon, Static, Count: 2
+### Compatibility Table:
+| Name     | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
+| :------- | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
+| Cinnabon | Mouse | Fangs | Buns |          |         |         | Shell |
+| Static   |       |       |      | ???      |         |         |       |
 
 ## Archetypes: Clownfish, Cotton Candy, Count: 2
 ### Compatibility Table:
