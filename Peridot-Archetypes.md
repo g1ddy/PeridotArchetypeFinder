@@ -309,6 +309,13 @@
 | Celestial |       |       |      | Starry   | Celestial |         |       |
 | Cinnabon  | Mouse | Fangs | Buns |          |           |         | Shell |
 
+## Archetypes: Celestial, Gargoyle, Count: 2
+### Compatibility Table:
+| Name      | Ear   | Face | Horn  | Material | Pattern   | Plumage   | Tail |
+| :-------- | :---- | :--- | :---- | :------- | :-------- | :-------- | :--- |
+| Celestial |       |      |       | Starry   | Celestial |           |      |
+| Gargoyle  | Slice |      | Demon | Starry   |           | Bat Wings |      |
+
 ## Archetypes: Celestial, Peacock, Count: 2
 ### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern   | Plumage | Tail    |
@@ -381,6 +388,13 @@
 | :----------- | :--- | :--- | :------ | :------- | :------------ | :------ | :--- |
 | Clownfish    |      |      |         |          | Tropical Fish |         |      |
 | Cotton Candy |      |      | Narwhal | Furry    |               |         |      |
+
+## Archetypes: Clownfish, Gargoyle, Count: 2
+### Compatibility Table:
+| Name      | Ear   | Face | Horn  | Material | Pattern       | Plumage   | Tail |
+| :-------- | :---- | :--- | :---- | :------- | :------------ | :-------- | :--- |
+| Clownfish |       |      |       |          | Tropical Fish |           |      |
+| Gargoyle  | Slice |      | Demon | Starry   |               | Bat Wings |      |
 
 ## Archetypes: Clownfish, Glam, Count: 2
 ### Compatibility Table:
@@ -485,6 +499,13 @@
 | Cotton Candy |        |      | Narwhal | Furry    |         |         |        |
 | Rabbit       | Rabbit |      |         |          |         |         | Rabbit |
 
+## Archetypes: Cotton Candy, Seal, Count: 2
+### Compatibility Table:
+| Name         | Ear  | Face | Horn    | Material | Pattern | Plumage  | Tail    |
+| :----------- | :--- | :--- | :------ | :------- | :------ | :------- | :------ |
+| Cotton Candy |      |      | Narwhal | Furry    |         |          |         |
+| Seal         | None |      |         |          | Cheetah | Whiskers | Mermaid |
+
 ## Archetypes: Cotton Candy, Snowfall, Count: 2
 ### Compatibility Table:
 | Name         | Ear  | Face | Horn    | Material | Pattern  | Plumage | Tail      |
@@ -536,6 +557,34 @@
 | :------- | :---------- | :--- | :---------- | :------- | :------- | :------ | :-------- |
 | Dinosaur | Triceratops |      | Triceratops |          | Baguette |         | Asparagus |
 | Static   |             |      |             | ???      |          |         |           |
+
+## Archetypes: Elixir, Rabbit, Count: 2
+### Compatibility Table:
+| Name   | Ear    | Face | Horn  | Material | Pattern | Plumage | Tail   |
+| :----- | :----- | :--- | :---- | :------- | :------ | :------ | :----- |
+| Elixir |        |      | Spire | Glimmer  | Puddle  | Ruff    |        |
+| Rabbit | Rabbit |      |       |          |         |         | Rabbit |
+
+## Archetypes: Gargoyle, Psychedelic, Count: 2
+### Compatibility Table:
+| Name        | Ear   | Face    | Horn  | Material | Pattern | Plumage   | Tail    |
+| :---------- | :---- | :------ | :---- | :------- | :------ | :-------- | :------ |
+| Gargoyle    | Slice |         | Demon | Starry   |         | Bat Wings |         |
+| Psychedelic |       | Octopus |       |          | Breezy  |           | Peacock |
+
+## Archetypes: Gargoyle, Snowfall, Count: 2
+### Compatibility Table:
+| Name     | Ear   | Face | Horn  | Material | Pattern  | Plumage   | Tail      |
+| :------- | :---- | :--- | :---- | :------- | :------- | :-------- | :-------- |
+| Gargoyle | Slice |      | Demon | Starry   |          | Bat Wings |           |
+| Snowfall |       | Dots |       |          | Snowfall |           | Snowflake |
+
+## Archetypes: Gargoyle, Sunset, Count: 2
+### Compatibility Table:
+| Name     | Ear   | Face | Horn  | Material | Pattern | Plumage   | Tail  |
+| :------- | :---- | :--- | :---- | :------- | :------ | :-------- | :---- |
+| Gargoyle | Slice |      | Demon | Starry   |         | Bat Wings |       |
+| Sunset   |       |      |       |          | Sunset  |           | Fleur |
 
 ## Archetypes: Icicle, Psychedelic, Count: 2
 ### Compatibility Table:
@@ -673,10 +722,10 @@
 
 ## Archetypes: Peacock, Watermelon, Count: 2
 ### Compatibility Table:
-| Name       | Ear    | Face | Horn | Material | Pattern    | Plumage | Tail    |
-| :--------- | :----- | :--- | :--- | :------- | :--------- | :------ | :------ |
-| Peacock    |        |      | None |          |            | Spades  | Peacock |
-| Watermelon | Slices |      |      | Pulp     | Watermelon |         |         |
+| Name       | Ear   | Face | Horn | Material | Pattern    | Plumage | Tail    |
+| :--------- | :---- | :--- | :--- | :------- | :--------- | :------ | :------ |
+| Peacock    |       |      | None |          |            | Spades  | Peacock |
+| Watermelon | Slice |      |      | Pulp     | Watermelon |         |         |
 
 ## Archetypes: Psychedelic, Static, Count: 2
 ### Compatibility Table:
@@ -691,6 +740,13 @@
 | :------ | :----- | :------- | :---- | :------- | :------ | :------ | :----- |
 | Rabbit  | Rabbit |          |       |          |         |         | Rabbit |
 | Royalty |        | Countess | Crown | Ore      |         | Tutu    |        |
+
+## Archetypes: Rabbit, Scarecrow, Count: 2
+### Compatibility Table:
+| Name      | Ear    | Face | Horn      | Material | Pattern   | Plumage | Tail   |
+| :-------- | :----- | :--- | :-------- | :------- | :-------- | :------ | :----- |
+| Rabbit    | Rabbit |      |           |          |           |         | Rabbit |
+| Scarecrow |        |      | Pitchfork | Quetzal  | Patchwork |         |        |
 
 ## Archetypes: Rabbit, Static, Count: 2
 ### Compatibility Table:
@@ -711,10 +767,10 @@
 
 ## Archetypes: Ram, Watermelon, Count: 2
 ### Compatibility Table:
-| Name       | Ear    | Face | Horn | Material | Pattern    | Plumage | Tail      |
-| :--------- | :----- | :--- | :--- | :------- | :--------- | :------ | :-------- |
-| Ram        |        |      | Ram  |          |            |         | Asparagus |
-| Watermelon | Slices |      |      | Pulp     | Watermelon |         |           |
+| Name       | Ear   | Face | Horn | Material | Pattern    | Plumage | Tail      |
+| :--------- | :---- | :--- | :--- | :------- | :--------- | :------ | :-------- |
+| Ram        |       |      | Ram  |          |            |         | Asparagus |
+| Watermelon | Slice |      |      | Pulp     | Watermelon |         |           |
 
 ## Archetypes: Royalty, Sunset, Count: 2
 ### Compatibility Table:
@@ -722,6 +778,13 @@
 | :------ | :--- | :------- | :---- | :------- | :------ | :------ | :---- |
 | Royalty |      | Countess | Crown | Ore      |         | Tutu    |       |
 | Sunset  |      |          |       |          | Sunset  |         | Fleur |
+
+## Archetypes: Seal, Static, Count: 2
+### Compatibility Table:
+| Name   | Ear  | Face | Horn | Material | Pattern | Plumage  | Tail    |
+| :----- | :--- | :--- | :--- | :------- | :------ | :------- | :------ |
+| Seal   | None |      |      |          | Cheetah | Whiskers | Mermaid |
+| Static |      |      |      | ???      |         |          |         |
 
 ## Archetypes: Snowfall, Static, Count: 2
 ### Compatibility Table:
