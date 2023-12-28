@@ -105,6 +105,14 @@
 | Psychedelic |      | Octopus |      |          | Breezy  |         | Peacock |
 | Static      |      |         |      | ???      |         |         |         |
 
+## Archetypes: Rabbit, Scarecrow, Static, Count: 3
+### Compatibility Table:
+| Name      | Ear    | Face | Horn      | Material | Pattern   | Plumage | Tail   |
+| :-------- | :----- | :--- | :-------- | :------- | :-------- | :------ | :----- |
+| Rabbit    | Rabbit |      |           |          |           |         | Rabbit |
+| Scarecrow |        |      | Pitchfork |          | Patchwork | Quetzal |        |
+| Static    |        |      |           | ???      |           |         |        |
+
 ## Archetypes: 24Karat, Cinnabon, Count: 2
 ### Compatibility Table:
 | Name     | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
@@ -679,6 +687,13 @@
 | LED  |      |      |      | LED      | Pulse   |         |           |
 | Ram  |      |      | Ram  |          |         |         | Asparagus |
 
+## Archetypes: Patchwork, Scarecrow, Count: 2
+### Compatibility Table:
+| Name      | Ear    | Face | Horn      | Material | Pattern   | Plumage | Tail      |
+| :-------- | :----- | :--- | :-------- | :------- | :-------- | :------ | :-------- |
+| Patchwork | Square |      |           | Matte    | Patchwork |         | Accordion |
+| Scarecrow |        |      | Pitchfork |          | Patchwork | Quetzal |           |
+
 ## Archetypes: Patina, Peacock, Count: 2
 ### Compatibility Table:
 | Name    | Ear  | Face | Horn | Material | Pattern | Plumage | Tail    |
@@ -746,7 +761,7 @@
 | Name      | Ear    | Face | Horn      | Material | Pattern   | Plumage | Tail   |
 | :-------- | :----- | :--- | :-------- | :------- | :-------- | :------ | :----- |
 | Rabbit    | Rabbit |      |           |          |           |         | Rabbit |
-| Scarecrow |        |      | Pitchfork | Quetzal  | Patchwork |         |        |
+| Scarecrow |        |      | Pitchfork |          | Patchwork | Quetzal |        |
 
 ## Archetypes: Rabbit, Static, Count: 2
 ### Compatibility Table:
@@ -778,6 +793,13 @@
 | :------ | :--- | :------- | :---- | :------- | :------ | :------ | :---- |
 | Royalty |      | Countess | Crown | Ore      |         | Tutu    |       |
 | Sunset  |      |          |       |          | Sunset  |         | Fleur |
+
+## Archetypes: Scarecrow, Static, Count: 2
+### Compatibility Table:
+| Name      | Ear  | Face | Horn      | Material | Pattern   | Plumage | Tail |
+| :-------- | :--- | :--- | :-------- | :------- | :-------- | :------ | :--- |
+| Scarecrow |      |      | Pitchfork |          | Patchwork | Quetzal |      |
+| Static    |      |      |           | ???      |           |         |      |
 
 ## Archetypes: Seal, Static, Count: 2
 ### Compatibility Table:
