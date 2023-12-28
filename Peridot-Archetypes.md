@@ -113,6 +113,9 @@
 | Scarecrow |        |      | Pitchfork |          | Patchwork | Quetzal |        |
 | Static    |        |      |           | ???      |           |         |        |
 
+### Example(s):
+![Escrow](./assets/Peridots/escrow-5.jpg)
+
 ## Archetypes: 24Karat, Cinnabon, Count: 2
 ### Compatibility Table:
 | Name     | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
@@ -807,6 +810,9 @@
 | :----- | :--- | :--- | :--- | :------- | :------ | :------- | :------ |
 | Seal   | None |      |      |          | Cheetah | Whiskers | Mermaid |
 | Static |      |      |      | ???      |         |          |         |
+
+### Example(s):
+![Hammerhead](./assets/Peridots/hammerhead-8.jpg)
 
 ## Archetypes: Snowfall, Static, Count: 2
 ### Compatibility Table:
