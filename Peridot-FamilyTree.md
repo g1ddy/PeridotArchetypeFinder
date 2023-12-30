@@ -43,6 +43,7 @@ maximus-7 --> noise-8("<img src='./assets/Peridots/noise-8.jpg'> <br /> Noise (S
 icarus-8 --> jax-9("<img src='./assets/Peridots/jax-9.jpg'> <br /> Jax (Clownfish)")
 icarus-8 --> jewelfish-9("<img src='./assets/Peridots/jewelfish-9.jpg'> <br /> Jewelfish (Clownfish,Rabbit)")
 noise-8 --> orion-9("<img src='./assets/Peridots/orion-9.jpg'> <br /> Orion (Aurora)")
+jax-9 --> kalypso-10("<img src='./assets/Peridots/kalypso-10.jpg'> <br /> Kalypso (Clownfish,Glam)")
 jewelfish-9 --> kaleidoscope-10("<img src='./assets/Peridots/kaleidoscope-10.jpg'> <br /> Kaleidoscope (Anemone,Clownfish,Rabbit)")
 jewelfish-9 --> kandle-10("<img src='./assets/Peridots/kandle-10.jpg'> <br /> Kandle")
 jewelfish-9 --> krypto-10("<img src='./assets/Peridots/krypto-10.jpg'> <br /> Krypto (Dewdrop,Rabbit)")

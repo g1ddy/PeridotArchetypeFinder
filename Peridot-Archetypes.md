@@ -414,6 +414,9 @@
 | Clownfish |       |      |      |           | Tropical Fish |         |      |
 | Glam      | Picks | Star |      | Bedazzled |               | Curls   | None |
 
+### Example(s):
+![Kalypso](./assets/Peridots/kalypso-10.jpg)
+
 ## Archetypes: Clownfish, Icicle, Count: 2
 ### Compatibility Table:
 | Name      | Ear  | Face | Horn  | Material | Pattern       | Plumage | Tail |
