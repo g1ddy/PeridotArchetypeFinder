@@ -13,7 +13,6 @@ function Invoke-PeridotArchetypeFinder {
         $peridotCombinations = Invoke-PeridotCombinationGenerator -Archetypes $archetypes
         $allPeridotArchetypeDictionary = Get-PeridotArchetypeDictionary -Archetypes $archetypes -Peridots $peridotCombinations
 
-
         $peridots = Get-Peridots -Path $PeridotPath
         $samplePeridotArchetypeDictionary = Get-PeridotArchetypeDictionary -Archetypes $archetypes -Peridots $peridots
 
@@ -33,7 +32,6 @@ function Format-PeridotArchetype {
     process {
         Set-StrictMode -Version Latest
         $ErrorActionPreference = "Stop"
-
 
         Write-Output '# Peridot with Multi Archetype'
         Write-Output ''
