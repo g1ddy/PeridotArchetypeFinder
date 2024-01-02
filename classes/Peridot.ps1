@@ -39,16 +39,24 @@ Class Peridot {
     }
 
     [bool] MatchesArchetype([object]$archetype) {
-        $matchesArchetype = (!$archetype.Ear -or $this.Ear -eq $archetype.Ear) -and
-            (!$archetype.Face -or $this.Face -eq $archetype.Face) -and
-            (!$archetype.Horn -or $this.Horn -eq $archetype.Horn) -and
-            (!$archetype.Material -or $this.Material -eq $archetype.Material) -and
-            (!$archetype.Pattern -or $this.Pattern -eq $archetype.Pattern) -and
-            (!$archetype.Plumage -or $this.Plumage -eq $archetype.Plumage) -and
-            (!$archetype.Tail -or $this.Tail -eq $archetype.Tail)
-
+        $matchesArchetype = $this.GetMatchPercentage($archetype) -ge 1
         $matchesColor = !$archetype.Color -or !$this.Color -or $archetype.Name -eq $this.Color
 
         return $matchesArchetype -and $matchesColor
+    }
+
+    [double] GetMatchPercentage([object]$archetype) {
+        $totalProperties = 7
+        $matchingProperties = 0
+
+        $properties = @("Ear", "Face", "Horn", "Material", "Pattern", "Plumage", "Tail")
+        foreach ($property in $properties) {
+            if (!$archetype.$property -or $this.$property -eq $archetype.$property) {
+                $matchingProperties++
+            }
+        }
+
+        $matchPercentage = ($matchingProperties / $totalProperties)
+        return $matchPercentage
     }
 }
