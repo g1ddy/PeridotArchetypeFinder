@@ -46,12 +46,21 @@ Class Peridot {
     }
 
     [double] GetMatchPercentage([object]$archetype) {
-        $totalProperties = 7
+        $properties = $archetype | Get-Member -MemberType Properties | Select-Object -ExpandProperty Name
+            | Where-Object { $archetype.$_ -and $_ -notin @('Name', 'Color') }
+        
+        # force to return as array
+        $properties = @($properties)
+        $totalProperties = $properties.Count
+
+        if ($totalProperties -eq 0) {
+            return 1
+        }
+
         $matchingProperties = 0
 
-        $properties = @("Ear", "Face", "Horn", "Material", "Pattern", "Plumage", "Tail")
         foreach ($property in $properties) {
-            if (!$archetype.$property -or $this.$property -eq $archetype.$property) {
+            if ($this.$property -eq $archetype.$property) {
                 $matchingProperties++
             }
         }

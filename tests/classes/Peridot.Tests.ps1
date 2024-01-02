@@ -6,8 +6,29 @@ BeforeAll {
 
 Describe 'Peridot' {
     Context 'MatchesArchetype' {
+        It 'Should return true when no properties defined' {
+            $peridot = [Peridot]::new()
+            $archetype = [Archetype]::new()
+            $archetype.Ear = $peridot.Ear
+            $archetype.Face = $peridot.Face
+            $archetype.Horn = $peridot.Horn
+            $archetype.Material = $peridot.Material
+            $archetype.Pattern = $peridot.Pattern
+            $archetype.Plumage = $peridot.Plumage
+            $archetype.Tail = $peridot.Tail
+            $archetype.Color = $peridot.Color
+
+            $result = $peridot.MatchesArchetype($archetype)
+
+            $result | Should -Be $true
+        }
+        
         It 'Should return true when all properties match' {
             $peridot = [Peridot]::new()
+            $peridot.Ear = 'Long'
+            $peridot.Face = 'Round'
+            $peridot.Horn = 'Curved'
+
             $archetype = [Archetype]::new()
             $archetype.Ear = $peridot.Ear
             $archetype.Face = $peridot.Face
