@@ -60,18 +60,26 @@ Before running this script please make sure this list is up to date as new Arche
 
 1. Invoke the module:
     ```powershell
-    Invoke-PeridotArchetypeFinder | Set-Clipboard
+    Invoke-PeridotArchetypeFinder | Set-Content .\Peridot-Archetypes.md
     ```
-2. Paste the output in the Markdown view of your choice
+2. Read the output in the Markdown view of your choice
+
+## Peridot Archetype Peridot Finder Usage
+
+1. Invoke the module:
+    ```powershell
+    Invoke-ArchetypePeridotFinder -TargetArchetype 'Cinnabon' | Set-Content .\Peridot-ArchetypeFinder-Cinnabon.md
+    ```
+2. Read the output in the Markdown view of your choice
 
 ## Family Tree Usage
 
 1. Populate the [Peridots.csv](./assets/Peridots.csv) with your Peridots
 2. Invoke the Tree Generator function:
     ```powershell
-    Invoke-PeridotTreeGenerator | Set-Clipboard
+    Invoke-PeridotTreeGenerator | Set-Content .\Peridot-FamilyTree.md
     ```
-3. Paste the output in the Markdown view of your choice
+3. Read the output in the Markdown view of your choice
 4. Sample output can be found [here](./Peridot-FamilyTree.md)
 
 ## TODO
@@ -81,4 +89,4 @@ Before running this script please make sure this list is up to date as new Arche
 - [ ] Github workflow implementation to auto update Peridot Archetype.md
 - [x] Determine pattern to best represent Peridot family tree and MermaidJS Diagram
 - [x] Store Peridot family tree information in ~~JSON~~ CSV format
-- [ ] Suggest new possible multi-archetype combinations based on your dot family tree and their traits
+- [x] Suggest new possible ~~multi-~~archetype combinations based on your dot family tree and their traits
