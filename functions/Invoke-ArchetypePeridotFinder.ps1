@@ -59,13 +59,12 @@ function Format-Peridots {
                 $matchPercentage = $_.MatchPercentage
 
                 Write-Output "## Peridot: $peridotName, Score: $matchPercentage"
-
-                $peridotNode = "![${peridotName}](./assets/Peridots/${peridotId}.jpg)"
-                Write-Output $peridotNode
-
                 Write-Output ''
+
+                # $peridotNode = "![${peridotName}](./assets/Peridots/${peridotId}.jpg)"
+                # Write-Output $peridotNode
                 
-                Write-Output '### Peridot Triats:'
+                Write-Output '### Peridot Traits:'
                 $peridot | Format-MarkdownTableTableStyle Name, Ear, Face, Horn, Material, Pattern, Plumage, Tail -ShowMarkdown -DoNotCopyToClipboard -HideStandardOutput
 
                 if ($ArchetypeWithPeridots.ContainsKey($peridotId)) {
