@@ -35,9 +35,10 @@ function Format-Peridots {
         Set-StrictMode -Version Latest
         $ErrorActionPreference = "Stop"
 
-        Write-Output "# Peridot closest Archetype: $($Archetype.Name)"
+        Write-Output '# Peridot closest to Archetype'
         Write-Output ''
 
+        Write-Output "## Target Archetype: $($Archetype.Name)"
         $Archetype | Format-MarkdownTableTableStyle Name, Ear, Face, Horn, Material, Pattern, Plumage, Tail -ShowMarkdown -DoNotCopyToClipboard -HideStandardOutput
 
         $orderedPeridots = $AllPeridots | ForEach-Object {
@@ -48,7 +49,8 @@ function Format-Peridots {
                 Peridot         = $peridot
                 MatchPercentage = $matchPercentage
             }
-        } | Sort-Object -Property MatchPercentage -Descending
+        } | Sort-Object -Property @{Expression = 'MatchPercentage'; Descending = $true },
+                                  @{Expression = { $_.Peridot.Name }; Descending = $true }
 
         $orderedPeridots |
             Where-Object { $_.MatchPercentage -gt 0 } |
@@ -63,7 +65,7 @@ function Format-Peridots {
 
                 # $peridotNode = "![${peridotName}](./assets/Peridots/${peridotId}.jpg)"
                 # Write-Output $peridotNode
-                
+
                 Write-Output '### Peridot Traits:'
                 $peridot | Format-MarkdownTableTableStyle Name, Ear, Face, Horn, Material, Pattern, Plumage, Tail -ShowMarkdown -DoNotCopyToClipboard -HideStandardOutput
 

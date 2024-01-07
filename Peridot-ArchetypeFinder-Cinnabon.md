@@ -1,5 +1,6 @@
-# Peridot closest Archetype: Cinnabon
+# Peridot closest to Archetype
 
+## Target Archetype: Cinnabon
 | Name     | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
 | :------- | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
 | Cinnabon | Mouse | Fangs | Buns |          |         |         | Shell |
@@ -27,6 +28,30 @@
 | Name | Ear  | Face | Horn | Material | Pattern | Plumage | Tail      |
 | :--- | :--- | :--- | :--- | :------- | :------ | :------ | :-------- |
 | Ram  |      |      | Ram  |          |         |         | Asparagus |
+
+## Peridot: Isla, Score: 0.25
+
+### Peridot Traits:
+| Name | Ear   | Face | Horn  | Material | Pattern | Plumage | Tail  |
+| :--- | :---- | :--- | :---- | :------- | :------ | :------ | :---- |
+| Isla | Fairy | Star | Shell | Geode    | Beach   | None    | Shell |
+
+### Compatibility Table:
+| Name  | Ear  | Face | Horn | Material | Pattern | Plumage | Tail  |
+| :---- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
+| Beach |      |      |      | Geode    | Beach   |         | Shell |
+
+## Peridot: Imhotep, Score: 0.25
+
+### Peridot Traits:
+| Name    | Ear   | Face   | Horn     | Material | Pattern | Plumage      | Tail |
+| :------ | :---- | :----- | :------- | :------- | :------ | :----------- | :--- |
+| Imhotep | Mouse | Kawaii | Antennae | Scarab   | Okapi   | Beetle Wings | None |
+
+### Compatibility Table:
+| Name   | Ear  | Face | Horn     | Material | Pattern | Plumage      | Tail |
+| :----- | :--- | :--- | :------- | :------- | :------ | :----------- | :--- |
+| Scarab |      |      | Antennae | Scarab   | Okapi   | Beetle Wings | None |
 
 ## Peridot: Harry, Score: 0.25
 

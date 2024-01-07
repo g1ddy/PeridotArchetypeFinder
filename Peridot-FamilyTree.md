@@ -62,3 +62,4 @@ rockstar-11 --> slushy-12("<img src='./assets/Peridots/slushy-12.jpg'> <br /> Sl
 rockstar-11 --> thermal-12("<img src='./assets/Peridots/thermal-12.jpg'> <br /> Thermal")
 night-snow-12 --> om-nominous-13("<img src='./assets/Peridots/om-nominous-13.jpg'> <br /> Om-Nominous (Watermelon)")
 ```
+
