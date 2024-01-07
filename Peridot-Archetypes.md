@@ -225,10 +225,10 @@
 
 ## Archetypes: Bee, Rabbit, Count: 2
 ### Compatibility Table:
-| Name   | Ear    | Face | Horn     | Material | Pattern | Plumage  | Tail   |
-| :----- | :----- | :--- | :------- | :------- | :------ | :------- | :----- |
-| Bee    |        |      | Antennae | Fuzzy    | Bee     | BeeWings |        |
-| Rabbit | Rabbit |      |          |          |         |          | Rabbit |
+| Name   | Ear    | Face | Horn     | Material | Pattern | Plumage   | Tail   |
+| :----- | :----- | :--- | :------- | :------- | :------ | :-------- | :----- |
+| Bee    |        |      | Antennae | Fuzzy    | Bee     | Bee Wings |        |
+| Rabbit | Rabbit |      |          |          |         |           | Rabbit |
 
 ## Archetypes: Bismuth, Peacock, Count: 2
 ### Compatibility Table:
