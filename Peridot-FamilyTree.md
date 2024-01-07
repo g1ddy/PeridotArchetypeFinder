@@ -42,6 +42,7 @@ guina-7 --> hammerhead-8("<img src='./assets/Peridots/hammerhead-8.jpg'> <br /> 
 guina-7 --> hypnos-8("<img src='./assets/Peridots/hypnos-8.jpg'> <br /> Hypnos")
 maximus-7 --> noise-8("<img src='./assets/Peridots/noise-8.jpg'> <br /> Noise (Static)")
 harry-8 --> isla-9("<img src='./assets/Peridots/isla-9.jpg'> <br /> Isla (Beach)")
+hypnos-8 --> imhotep-9("<img src='./assets/Peridots/imhotep-9.jpg'> <br /> Imhotep (Scarab)")
 icarus-8 --> jax-9("<img src='./assets/Peridots/jax-9.jpg'> <br /> Jax (Clownfish)")
 icarus-8 --> jewelfish-9("<img src='./assets/Peridots/jewelfish-9.jpg'> <br /> Jewelfish (Clownfish,Rabbit)")
 noise-8 --> orion-9("<img src='./assets/Peridots/orion-9.jpg'> <br /> Orion (Aurora)")
@@ -59,5 +60,5 @@ queezy-10 --> rockstar-11("<img src='./assets/Peridots/rockstar-11.jpg'> <br /> 
 mastodon-11 --> night-snow-12("<img src='./assets/Peridots/night-snow-12.jpg'> <br /> Night-Snow (Gargoyle)")
 rockstar-11 --> slushy-12("<img src='./assets/Peridots/slushy-12.jpg'> <br /> Slushy (Cotton Candy)")
 rockstar-11 --> thermal-12("<img src='./assets/Peridots/thermal-12.jpg'> <br /> Thermal")
+night-snow-12 --> om-nominous-13("<img src='./assets/Peridots/om-nominous-13.jpg'> <br /> Om-Nominous (Watermelon)")
 ```
-
