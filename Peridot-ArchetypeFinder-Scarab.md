@@ -4,17 +4,12 @@
 | :----- | :--- | :--- | :------- | :------- | :------ | :----------- | :--- |
 | Scarab |      |      | Antennae | Scarab   | Okapi   | Beetle Wings | None |
 
-## Peridot: Slushy, Score: 0.2
+## Peridot: Hypnos, Score: 0.8
 
 ### Peridot Traits:
-| Name   | Ear  | Face    | Horn    | Material | Pattern | Plumage | Tail |
-| :----- | :--- | :------ | :------ | :------- | :------ | :------ | :--- |
-| Slushy | Bear | Octopus | Narwhal | Furry    | Breezy  | Spades  | None |
-
-### Compatibility Table:
-| Name         | Ear  | Face | Horn    | Material | Pattern | Plumage | Tail |
-| :----------- | :--- | :--- | :------ | :------- | :------ | :------ | :--- |
-| Cotton Candy |      |      | Narwhal | Furry    |         |         |      |
+| Name   | Ear   | Face   | Horn     | Material | Pattern | Plumage  | Tail |
+| :----- | :---- | :----- | :------- | :------- | :------ | :------- | :--- |
+| Hypnos | Beaks | Kawaii | Antennae | Scarab   | Okapi   | Whiskers | None |
 
 ## Peridot: Jax, Score: 0.2
 
@@ -40,4 +35,16 @@
 | :-------- | :---- | :--- | :--- | :-------- | :------------ | :------ | :--- |
 | Clownfish |       |      |      |           | Tropical Fish |         |      |
 | Glam      | Picks | Star |      | Bedazzled |               | Curls   | None |
+
+## Peridot: Slushy, Score: 0.2
+
+### Peridot Traits:
+| Name   | Ear  | Face    | Horn    | Material | Pattern | Plumage | Tail |
+| :----- | :--- | :------ | :------ | :------- | :------ | :------ | :--- |
+| Slushy | Bear | Octopus | Narwhal | Furry    | Breezy  | Spades  | None |
+
+### Compatibility Table:
+| Name         | Ear  | Face | Horn    | Material | Pattern | Plumage | Tail |
+| :----------- | :--- | :--- | :------ | :------- | :------ | :------ | :--- |
+| Cotton Candy |      |      | Narwhal | Furry    |         |         |      |
 
