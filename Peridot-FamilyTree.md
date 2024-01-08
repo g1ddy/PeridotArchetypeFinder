@@ -59,7 +59,7 @@ krypto-10 --> lychee-11("<img src='./assets/Peridots/lychee-11.jpg'> <br /> Lych
 queezy-10 --> rockstar-11("<img src='./assets/Peridots/rockstar-11.jpg'> <br /> Rockstar (Peacock,Psychedelic)")
 mastodon-11 --> night-snow-12("<img src='./assets/Peridots/night-snow-12.jpg'> <br /> Night-Snow (Gargoyle)")
 rockstar-11 --> slushy-12("<img src='./assets/Peridots/slushy-12.jpg'> <br /> Slushy (Cotton Candy)")
-rockstar-11 --> thermal-12("<img src='./assets/Peridots/thermal-12.jpg'> <br /> Thermal")
+rockstar-11 --> skittles-12("<img src='./assets/Peridots/skittles-12.jpg'> <br /> Skittles")
 night-snow-12 --> om-nominous-13("<img src='./assets/Peridots/om-nominous-13.jpg'> <br /> Om-Nominous (Watermelon)")
 ```
 
