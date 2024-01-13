@@ -1,4 +1,4 @@
-# Peridot Family Tree
+# Peridot Archetype MST Tree
 
 ```mermaid
 flowchart
