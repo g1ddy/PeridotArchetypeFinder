@@ -26,6 +26,11 @@ class Graph {
         $this.Edges = New-Object System.Collections.Generic.List[Edge]
     }
 
+    Graph([string[]]$Vertices, [System.Collections.Generic.List[Edge]]$Edges) {
+        $this.Vertices = $Vertices
+        $this.Edges = $Edges
+    }
+
     # Add an edge to the graph
     [void] AddEdge([Edge]$edge) {
         $this.Edges.Add($edge)

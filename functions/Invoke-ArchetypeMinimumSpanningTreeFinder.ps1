@@ -12,7 +12,7 @@ function Invoke-ArchetypeMinimumSpanningTreeFinder {
         $ErrorActionPreference = "Stop"
 
         $archetypes = Get-Archetypes -Path $ArchetypePath # |
-            # Sort-Object -Property Name
+        # Sort-Object -Property Name
         $graph = Get-ArchetypeGraph -Archetypes $archetypes
 
         # Find MST using Kruskal's algorithm
@@ -29,11 +29,8 @@ function Get-ArchetypeGraph {
         [System.Collections.Generic.List[Archetype]]$Archetypes
     )
 
-    # Number of vertices in graph
-    $vertices = $Archetypes | Select-Object -ExpandProperty Name
-    
-    # Create graph
-    $graph = [Graph]::new($vertices)
+    $verticesHashSet = New-Object System.Collections.Generic.HashSet[string]
+    $edges = @()
 
     # Iterate through all archetypes to create edges
     for ($i = 0; $i -lt $Archetypes.Count; $i++) {
@@ -43,9 +40,21 @@ function Get-ArchetypeGraph {
 
             $edge = New-Object Edge $archetype1.Name, $archetype2.Name, $archetype1.GetDistance($archetype2)
             # $edge = New-Object Edge $archetype2.Name, $archetype1.Name, $archetype2.GetDistance($archetype1)
-            $graph.AddEdge($edge)
+
+            if ($edge.Weight -lt 0) {
+                continue
+            }
+
+            $verticesHashSet.Add($archetype1.Name) | Out-Null
+            $verticesHashSet.Add($archetype2.Name) | Out-Null
+
+            $edges += $edge
         }
     }
+
+    # Create graph
+    $vertices = [System.Collections.ArrayList]@($verticesHashSet)
+    $graph = [Graph]::new($vertices, $edges)
 
     return $graph
 }
@@ -54,7 +63,7 @@ function Get-ArchetypeGraph {
 function Kruskal ($graph) {
     $vertices = $graph.Vertices
     $edges = $graph.Edges
-    
+
     # Sort the edges by weight
     $E = $edges | Sort-Object -Property Weight
 
@@ -96,7 +105,7 @@ function Format-ArchetypeTree {
         Set-StrictMode -Version Latest
         $ErrorActionPreference = "Stop"
 
-        Write-Output '# Peridot Family Tree'
+        Write-Output '# Peridot Archetype MST Tree'
         Write-Output ''
 
         Write-Output '```mermaid'
