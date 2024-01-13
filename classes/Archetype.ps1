@@ -22,7 +22,7 @@ Class Archetype {
         $matchingProperties = 0
     
         foreach ($property in $properties) {
-            if (!$this.$property -or !$otherArchetype.$property) {
+            if (!$this.$property -and !$otherArchetype.$property) {
                 $matchingProperties = $matchingProperties + 0.3
             }
             elseif ($this.$property -eq $otherArchetype.$property) {
