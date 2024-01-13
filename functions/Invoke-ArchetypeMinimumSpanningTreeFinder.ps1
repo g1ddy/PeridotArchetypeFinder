@@ -109,7 +109,8 @@ function Format-ArchetypeTree {
                 $edge = $_
                 $sourceName = $edge.Source.Replace(' ', '_')
                 $destinationName = $edge.Destination.Replace(' ', '_')
-                Write-Output "${sourceName} --['$($edge.Weight)']--> ${destinationName}"
+                # Write-Output "${sourceName} --['$($edge.Weight)']--> ${destinationName}"
+                Write-Output "${sourceName} --> ${destinationName}"
             }
 
         Write-Output '```'
