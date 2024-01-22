@@ -68,9 +68,9 @@
 | Grazerface | Triceratops | Fangs | Triceratops | Matte    | Baguette | Horse   | Asparagus |
 
 ### Compatibility Table:
-| Name     | Ear         | Face | Horn        | Material | Pattern  | Plumage | Tail      |
-| :------- | :---------- | :--- | :---------- | :------- | :------- | :------ | :-------- |
-| Dinosaur | Triceratops |      | Triceratops |          | Baguette |         | Asparagus |
+| Name        | Ear         | Face | Horn        | Material | Pattern  | Plumage | Tail      |
+| :---------- | :---------- | :--- | :---------- | :------- | :------- | :------ | :-------- |
+| Triceratops | Triceratops |      | Triceratops |          | Baguette |         | Asparagus |
 
 ## Peridot: Goldie, Score: 0.25
 

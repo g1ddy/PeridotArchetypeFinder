@@ -565,13 +565,6 @@
 | Dewdrop |      | Star |      | Gummy    | Gradient |         |           |
 | Ram     |      |      | Ram  |          |          |         | Asparagus |
 
-## Archetypes: Dinosaur, Static, Count: 2
-### Compatibility Table:
-| Name     | Ear         | Face | Horn        | Material | Pattern  | Plumage | Tail      |
-| :------- | :---------- | :--- | :---------- | :------- | :------- | :------ | :-------- |
-| Dinosaur | Triceratops |      | Triceratops |          | Baguette |         | Asparagus |
-| Static   |             |      |             | ???      |          |         |           |
-
 ## Archetypes: Elixir, Rabbit, Count: 2
 ### Compatibility Table:
 | Name   | Ear    | Face | Horn  | Material | Pattern | Plumage | Tail   |
@@ -830,6 +823,13 @@
 | :----- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
 | Static |      |      |      | ???      |         |         |       |
 | Sunset |      |      |      |          | Sunset  |         | Fleur |
+
+## Archetypes: Static, Triceratops, Count: 2
+### Compatibility Table:
+| Name        | Ear         | Face | Horn        | Material | Pattern  | Plumage | Tail      |
+| :---------- | :---------- | :--- | :---------- | :------- | :------- | :------ | :-------- |
+| Static      |             |      |             | ???      |          |         |           |
+| Triceratops | Triceratops |      | Triceratops |          | Baguette |         | Asparagus |
 
 ## Archetypes: Static, Vampire, Count: 2
 ### Compatibility Table:

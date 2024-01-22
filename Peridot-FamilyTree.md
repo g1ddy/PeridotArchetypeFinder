@@ -31,7 +31,7 @@ entropy-5 --> fishline-6("<img src='./assets/Peridots/fishline-6.jpg'> <br /> Fi
 entropy-5 --> floofish-6("<img src='./assets/Peridots/floofish-6.jpg'> <br /> Floofish (Clownfish,Monkey)")
 jammie-5 --> lilith-6("<img src='./assets/Peridots/lilith-6.jpg'> <br /> Lilith")
 fable-6 --> glacier-7("<img src='./assets/Peridots/glacier-7.jpg'> <br /> Glacier (Icicle,Rabbit)")
-farceratops-6 --> grazerface-7("<img src='./assets/Peridots/grazerface-7.jpg'> <br /> Grazerface (Dinosaur)")
+farceratops-6 --> grazerface-7("<img src='./assets/Peridots/grazerface-7.jpg'> <br /> Grazerface (Triceratops)")
 floofish-6 --> guina-7("<img src='./assets/Peridots/guina-7.jpg'> <br /> Guina")
 foxtrot-6 --> goldie-7("<img src='./assets/Peridots/goldie-7.jpg'> <br /> Goldie")
 foxtrot-6 --> goral-7("<img src='./assets/Peridots/goral-7.jpg'> <br /> Goral (Clownfish,Unicorn)")
@@ -58,8 +58,8 @@ kandle-10 --> lampent-11("<img src='./assets/Peridots/lampent-11.jpg'> <br /> La
 krypto-10 --> lychee-11("<img src='./assets/Peridots/lychee-11.jpg'> <br /> Lychee (Boba,Rabbit,Static)")
 queezy-10 --> rockstar-11("<img src='./assets/Peridots/rockstar-11.jpg'> <br /> Rockstar (Peacock,Psychedelic)")
 mastodon-11 --> night-snow-12("<img src='./assets/Peridots/night-snow-12.jpg'> <br /> Night-Snow (Gargoyle)")
-rockstar-11 --> slushy-12("<img src='./assets/Peridots/slushy-12.jpg'> <br /> Slushy (Cotton Candy)")
 rockstar-11 --> skittles-12("<img src='./assets/Peridots/skittles-12.jpg'> <br /> Skittles")
+rockstar-11 --> slushy-12("<img src='./assets/Peridots/slushy-12.jpg'> <br /> Slushy (Cotton Candy)")
 night-snow-12 --> om-nominous-13("<img src='./assets/Peridots/om-nominous-13.jpg'> <br /> Om-Nominous (Watermelon)")
 ```
 
