@@ -672,6 +672,9 @@
 | LED     |      |      |      | LED      | Pulse   |         |         |
 | Peacock |      |      | None |          |         | Spades  | Peacock |
 
+### Example(s):
+![Turducken](./assets/Peridots/turducken-13.jpg)
+
 ## Archetypes: LED, Rabbit, Count: 2
 ### Compatibility Table:
 | Name   | Ear    | Face | Horn | Material | Pattern | Plumage | Tail   |
