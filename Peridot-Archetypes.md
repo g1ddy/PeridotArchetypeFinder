@@ -46,6 +46,9 @@
 | Cotton Candy |        |      | Narwhal | Furry    |               |         |        |
 | Rabbit       | Rabbit |      |         |          |               |         | Rabbit |
 
+### Example(s):
+![Fluffish](./assets/Peridots/fluffish--1.jpg)
+
 ## Archetypes: Clownfish, Icicle, Rabbit, Count: 3
 ### Compatibility Table:
 | Name      | Ear    | Face | Horn  | Material | Pattern       | Plumage | Tail   |
@@ -78,6 +81,9 @@
 | Rabbit    | Rabbit |      |      |          |               |         | Rabbit |
 | Static    |        |      |      | ???      |               |         |        |
 
+### Example(s):
+![Buggy Bunny](./assets/Peridots/buggy-bunny--1.jpg)
+
 ## Archetypes: Clownfish, Ram, Static, Count: 3
 ### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern       | Plumage | Tail      |
@@ -85,6 +91,9 @@
 | Clownfish |      |      |      |          | Tropical Fish |         |           |
 | Ram       |      |      | Ram  |          |               |         | Asparagus |
 | Static    |      |      |      | ???      |               |         |           |
+
+### Example(s):
+![Aries II](./assets/Peridots/aries-ii--1.jpg)
 
 ## Archetypes: Kintsugi, Rabbit, Royalty, Count: 3
 ### Compatibility Table:
@@ -104,6 +113,9 @@
 | Peacock     |      |         | None |          |         | Spades  | Peacock |
 | Psychedelic |      | Octopus |      |          | Breezy  |         | Peacock |
 | Static      |      |         |      | ???      |         |         |         |
+
+### Example(s):
+![Triumvirate](./assets/Peridots/triumvirate--1.jpg)
 
 ## Archetypes: Rabbit, Scarecrow, Static, Count: 3
 ### Compatibility Table:
@@ -737,6 +749,9 @@
 | Peacock |      |      | None |          |         | Spades  | Peacock |
 | Static  |      |      |      | ???      |         |         |         |
 
+### Example(s):
+![Shimmerrosie](./assets/Peridots/shimmerrosie--1.jpg)
+
 ## Archetypes: Peacock, Watermelon, Count: 2
 ### Compatibility Table:
 | Name       | Ear   | Face | Horn | Material | Pattern    | Plumage | Tail    |
@@ -771,6 +786,9 @@
 | :----- | :----- | :--- | :--- | :------- | :------ | :------ | :----- |
 | Rabbit | Rabbit |      |      |          |         |         | Rabbit |
 | Static |        |      |      | ???      |         |         |        |
+
+### Example(s):
+![Rocket Raccoon](./assets/Peridots/rocket-raccoon--1.jpg)
 
 ## Archetypes: Ram, Static, Count: 2
 ### Compatibility Table:
@@ -826,6 +844,9 @@
 | :----- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
 | Static |      |      |      | ???      |         |         |       |
 | Sunset |      |      |      |          | Sunset  |         | Fleur |
+
+### Example(s):
+![Twilight](./assets/Peridots/twilight--1.jpg)
 
 ## Archetypes: Static, Triceratops, Count: 2
 ### Compatibility Table:
