@@ -18,6 +18,7 @@ chevron-3 --> dorado-4("<img src='./assets/Peridots/dorado-4.jpg'> <br /> Dorado
 chevron-3 --> duranium-4("<img src='./assets/Peridots/duranium-4.jpg'> <br /> Duranium (Patina,Ram)")
 chevron-3 --> echelon-4("<img src='./assets/Peridots/echelon-4.jpg'> <br /> Echelon (Bismuth,Ram)")
 damascus-4 --> enrichment-5("<img src='./assets/Peridots/enrichment-5.jpg'> <br /> Enrichment (Kintsugi,Royalty)")
+damascus-4 --> escorpio-5("<img src='./assets/Peridots/escorpio-5.jpg'> <br /> Escorpio")
 delta-4 --> echo-5("<img src='./assets/Peridots/echo-5.jpg'> <br /> Echo (Static)")
 delta-4 --> jammie-5("<img src='./assets/Peridots/jammie-5.jpg'> <br /> Jammie")
 dill-hulk-4 --> escrow-5("<img src='./assets/Peridots/escrow-5.jpg'> <br /> Escrow (Rabbit,Scarecrow,Static)")
@@ -31,6 +32,7 @@ entropy-5 --> fishline-6("<img src='./assets/Peridots/fishline-6.jpg'> <br /> Fi
 entropy-5 --> floofish-6("<img src='./assets/Peridots/floofish-6.jpg'> <br /> Floofish (Clownfish,Monkey)")
 jammie-5 --> lilith-6("<img src='./assets/Peridots/lilith-6.jpg'> <br /> Lilith")
 fable-6 --> glacier-7("<img src='./assets/Peridots/glacier-7.jpg'> <br /> Glacier (Icicle,Rabbit)")
+fable-6 --> goldilocks-7("<img src='./assets/Peridots/goldilocks-7.jpg'> <br /> Goldilocks (Royalty)")
 farceratops-6 --> grazerface-7("<img src='./assets/Peridots/grazerface-7.jpg'> <br /> Grazerface (Triceratops)")
 floofish-6 --> guina-7("<img src='./assets/Peridots/guina-7.jpg'> <br /> Guina")
 foxtrot-6 --> goldie-7("<img src='./assets/Peridots/goldie-7.jpg'> <br /> Goldie")
@@ -63,5 +65,6 @@ rockstar-11 --> skittles-12("<img src='./assets/Peridots/skittles-12.jpg'> <br /
 rockstar-11 --> slushy-12("<img src='./assets/Peridots/slushy-12.jpg'> <br /> Slushy (Cotton Candy)")
 night-snow-12 --> om-nominous-13("<img src='./assets/Peridots/om-nominous-13.jpg'> <br /> Om-Nominous (Watermelon)")
 skittles-12 --> turducken-13("<img src='./assets/Peridots/turducken-13.jpg'> <br /> Turducken (LED,Peacock)")
+slushy-12 --> trifecta-13("<img src='./assets/Peridots/trifecta-13.jpg'> <br /> Trifecta")
 ```
 
