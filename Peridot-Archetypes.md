@@ -242,6 +242,9 @@
 | Bee    |        |      | Antennae | Fuzzy    | Bee     | Bee Wings |        |
 | Rabbit | Rabbit |      |          |          |         |           | Rabbit |
 
+### Example(s):
+![Honeybunny](./assets/Peridots/honeybunny--1.jpg)
+
 ## Archetypes: Bismuth, Peacock, Count: 2
 ### Compatibility Table:
 | Name    | Ear    | Face    | Horn | Material   | Pattern | Plumage | Tail    |
