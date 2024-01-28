@@ -68,7 +68,11 @@ Before running this script please make sure this list is up to date as new Arche
 
 1. Invoke the module:
     ```powershell
+    Invoke-ArchetypePeridotFinder -TargetArchetype 'Cactus' | Set-Content .\Peridot-ArchetypeFinder-Cactus.md
+    Invoke-ArchetypePeridotFinder -TargetArchetype 'Cheetah' | Set-Content .\Peridot-ArchetypeFinder-Cheetah.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Cinnabon' | Set-Content .\Peridot-ArchetypeFinder-Cinnabon.md
+    Invoke-ArchetypePeridotFinder -TargetArchetype 'Elixir' | Set-Content .\Peridot-ArchetypeFinder-Elixir.md
+    Invoke-ArchetypePeridotFinder -TargetArchetype 'LED' | Set-Content .\Peridot-ArchetypeFinder-LED.md
     ```
 2. Read the output in the Markdown view of your choice
 

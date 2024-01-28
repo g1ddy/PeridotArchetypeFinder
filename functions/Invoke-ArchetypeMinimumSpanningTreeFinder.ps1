@@ -1,7 +1,8 @@
 function Invoke-ArchetypeMinimumSpanningTreeFinder {
     [CmdletBinding()]
     param(
-        [string]$ArchetypePath = "$PSScriptRoot\..\assets\Archetypes.csv"
+        [string]$ArchetypePath = "$PSScriptRoot\..\assets\Archetypes.csv",
+        [string]$PeridotPath = "$PSScriptRoot\..\assets\Peridots.csv"
     )
     begin {
         Set-StrictMode -Version Latest
@@ -11,9 +12,16 @@ function Invoke-ArchetypeMinimumSpanningTreeFinder {
         Set-StrictMode -Version Latest
         $ErrorActionPreference = "Stop"
 
-        $archetypes = Get-Archetypes -Path $ArchetypePath # |
-        # Sort-Object -Property Name
-        $graph = Get-ArchetypeGraph -Archetypes $archetypes
+        $archetypes = Get-Archetypes -Path $ArchetypePath
+
+        $peridotCombinations = Invoke-PeridotCombinationGenerator -Archetypes $archetypes
+        $allPeridotArchetypeDictionary = Get-PeridotArchetypeDictionary -Archetypes $archetypes -Peridots $peridotCombinations
+
+        $peridots = Get-Peridots -Path $PeridotPath
+        $samplePeridotArchetypeDictionary = Get-PeridotArchetypeDictionary -Archetypes $archetypes -Peridots $peridots
+
+        $graphNodes = Get-GraphNodes -ArchetypeDictionary $allPeridotArchetypeDictionary -PeridotDictionary $samplePeridotArchetypeDictionary
+        $graph = Get-ArchetypeGraph -GraphNodes $graphNodes
 
         # Find MST using Kruskal's algorithm
         $mst = Kruskal $graph
@@ -23,31 +31,72 @@ function Invoke-ArchetypeMinimumSpanningTreeFinder {
     }
 }
 
+function Get-GraphNodes {
+    param(
+        $ArchetypeDictionary,
+        $PeridotDictionary
+    )
+
+    $achievedArchetypes = New-Object System.Collections.Generic.HashSet[string]
+    $graphNodes = @()
+
+    $PeridotDictionary.GetEnumerator() |
+        # Where-Object { $_.Value.Archetypes.Count -eq 1 } |
+        ForEach-Object {
+            $_.Value.Archetypes | ForEach-Object { $achievedArchetypes.Add($_) | Out-Null }
+            $_.Value.Peridots | ForEach-Object {
+                $graphNodes += @{
+                    Name    = $_.Name
+                    Peridot = $_
+                }
+            }
+        }
+
+    $ArchetypeDictionary.GetEnumerator() |
+        Where-Object {
+            # $_.Value.Archetypes.Count -eq 1
+            $achievedArchetypes -notcontains $_.Key
+        } |
+        ForEach-Object {
+            $graphNodes += @{
+                Name    = "Archetype: $($_.Key)"
+                Peridot = $_.Value.Peridots[0]
+            }
+        }
+
+    return $graphNodes
+}
+
 function Get-ArchetypeGraph {
-    param (
-        [Parameter(Mandatory = $true)]
-        [System.Collections.Generic.List[Archetype]]$Archetypes
+    param(
+        $GraphNodes
     )
 
     $verticesHashSet = New-Object System.Collections.Generic.HashSet[string]
     $edges = @()
 
-    # Iterate through all archetypes to create edges
-    for ($i = 0; $i -lt $Archetypes.Count; $i++) {
-        for ($j = $i + 1; $j -lt $Archetypes.Count; $j++) {
-            $archetype1 = $Archetypes[$i]
-            $archetype2 = $Archetypes[$j]
+    $GraphNodesCount = $GraphNodes.Count
 
-            $edge = New-Object Edge $archetype1.Name, $archetype2.Name, $archetype1.GetDistance($archetype2)
-            # $edge = New-Object Edge $archetype2.Name, $archetype1.Name, $archetype2.GetDistance($archetype1)
+    # Iterate through all GraphNodes to create edges
+    for ($i = 0; $i -lt $GraphNodesCount; $i++) {
+        $archetype1Name = $GraphNodes[$i].Name
+        $archetype1Peridot = $GraphNodes[$i].Peridot
+
+        for ($j = $i + 1; $j -lt $GraphNodesCount; $j++) {
+            $archetype2Name = $GraphNodes[$j].Name
+            $archetype2Peridot = $GraphNodes[$j].Peridot
+
+            $edge = New-Object Edge $archetype1Name, $archetype2Name, $archetype1Peridot.GetDistance($archetype2Peridot)
 
             if ($edge.Weight -lt 0) {
                 continue
             }
 
-            $verticesHashSet.Add($archetype1.Name) | Out-Null
-            $verticesHashSet.Add($archetype2.Name) | Out-Null
+            $verticesHashSet.Add($archetype1Name) | Out-Null
+            $verticesHashSet.Add($archetype2Name) | Out-Null
 
+            $edges += $edge
+            $edge = New-Object Edge $archetype2Name, $archetype1Name, $archetype2Peridot.GetDistance($archetype1Peridot)
             $edges += $edge
         }
     }

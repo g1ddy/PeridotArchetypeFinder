@@ -16,18 +16,16 @@ function Get-PeridotArchetypeDictionary {
             }
         }
 
-        if ($matchingArchetypes.Count -gt 1) {
-            $hashKey = ($matchingArchetypes | Sort-Object) -join ', '
-            if (!$peridotsWithArchetypes.ContainsKey($hashKey)) {
-                $peridotArchetypeList = @{
-                    peridots = New-Object 'System.Collections.Generic.List[Peridot]'
-                    count    = $matchingArchetypes.Count
-                }
-                $peridotsWithArchetypes.Add($hashKey, $peridotArchetypeList) | Out-Null
+        $hashKey = ($matchingArchetypes | Sort-Object) -join ', '
+        if (!$peridotsWithArchetypes.ContainsKey($hashKey)) {
+            $peridotArchetypeList = @{
+                Peridots = New-Object 'System.Collections.Generic.List[Peridot]'
+                Archetypes    = $matchingArchetypes
             }
-
-            $peridotsWithArchetypes[$hashKey].peridots.Add($peridot) | Out-Null
+            $peridotsWithArchetypes.Add($hashKey, $peridotArchetypeList) | Out-Null
         }
+
+        $peridotsWithArchetypes[$hashKey].Peridots.Add($peridot) | Out-Null
     }
 
     return $peridotsWithArchetypes
