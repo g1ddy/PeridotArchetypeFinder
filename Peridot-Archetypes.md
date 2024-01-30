@@ -632,6 +632,9 @@
 | Icicle   |      |      | Crown | Glimmer  |          | Thorns  |           |
 | Snowfall |      | Dots |       |          | Snowfall |         | Snowflake |
 
+### Example(s):
+![Iceberg](./assets/Peridots/iceberg-9.jpg)
+
 ## Archetypes: Icicle, Sunset, Count: 2
 ### Compatibility Table:
 | Name   | Ear  | Face | Horn  | Material | Pattern | Plumage | Tail  |
