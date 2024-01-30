@@ -47,7 +47,7 @@
 | Rabbit       | Rabbit |      |         |          |               |         | Rabbit |
 
 ### Example(s):
-![Fluffish](./assets/Peridots/fluffish--1.jpg)
+![Jinx007-Fluffish](./assets/Peridots/jinx007-fluffish--1.jpg)
 
 ## Archetypes: Clownfish, Icicle, Rabbit, Count: 3
 ### Compatibility Table:
@@ -82,7 +82,7 @@
 | Static    |        |      |      | ???      |               |         |        |
 
 ### Example(s):
-![Buggy Bunny](./assets/Peridots/buggy-bunny--1.jpg)
+![Jinx007-Buggy Bunny](./assets/Peridots/jinx007-buggy-bunny--1.jpg)
 
 ## Archetypes: Clownfish, Ram, Static, Count: 3
 ### Compatibility Table:
@@ -93,7 +93,7 @@
 | Static    |      |      |      | ???      |               |         |           |
 
 ### Example(s):
-![Aries II](./assets/Peridots/aries-ii--1.jpg)
+![Jinx007-Aries II](./assets/Peridots/jinx007-aries-ii--1.jpg)
 
 ## Archetypes: Kintsugi, Rabbit, Royalty, Count: 3
 ### Compatibility Table:
@@ -115,7 +115,7 @@
 | Static      |      |         |      | ???      |         |         |         |
 
 ### Example(s):
-![Triumvirate](./assets/Peridots/triumvirate--1.jpg)
+![Jinx007-Triumvirate](./assets/Peridots/jinx007-triumvirate--1.jpg)
 
 ## Archetypes: Rabbit, Scarecrow, Static, Count: 3
 ### Compatibility Table:
@@ -243,7 +243,7 @@
 | Rabbit | Rabbit |      |          |          |         |           | Rabbit |
 
 ### Example(s):
-![Honeybunny](./assets/Peridots/honeybunny--1.jpg)
+![Jinx007-Honeybunny](./assets/Peridots/jinx007-honeybunny--1.jpg)
 
 ## Archetypes: Bismuth, Peacock, Count: 2
 ### Compatibility Table:
@@ -753,7 +753,7 @@
 | Static  |      |      |      | ???      |         |         |         |
 
 ### Example(s):
-![Shimmerrosie](./assets/Peridots/shimmerrosie--1.jpg)
+![Jinx007-Shimmerrosie](./assets/Peridots/jinx007-shimmerrosie--1.jpg)
 
 ## Archetypes: Peacock, Watermelon, Count: 2
 ### Compatibility Table:
@@ -791,7 +791,7 @@
 | Static |        |      |      | ???      |         |         |        |
 
 ### Example(s):
-![Rocket Raccoon](./assets/Peridots/rocket-raccoon--1.jpg)
+![Jinx007-Rocket Raccoon](./assets/Peridots/jinx007-rocket-raccoon--1.jpg)
 
 ## Archetypes: Ram, Static, Count: 2
 ### Compatibility Table:
@@ -849,7 +849,7 @@
 | Sunset |      |      |      |          | Sunset  |         | Fleur |
 
 ### Example(s):
-![Twilight](./assets/Peridots/twilight--1.jpg)
+![Jinx007-Twilight](./assets/Peridots/jinx007-twilight--1.jpg)
 
 ## Archetypes: Static, Triceratops, Count: 2
 ### Compatibility Table:
