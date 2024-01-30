@@ -46,6 +46,9 @@
 | Cotton Candy |        |      | Narwhal | Furry    |               |         |        |
 | Rabbit       | Rabbit |      |         |          |               |         | Rabbit |
 
+### Example(s):
+![Jinx007-Fluffish](./assets/Peridots/jinx007-fluffish--1.jpg)
+
 ## Archetypes: Clownfish, Icicle, Rabbit, Count: 3
 ### Compatibility Table:
 | Name      | Ear    | Face | Horn  | Material | Pattern       | Plumage | Tail   |
@@ -78,6 +81,9 @@
 | Rabbit    | Rabbit |      |      |          |               |         | Rabbit |
 | Static    |        |      |      | ???      |               |         |        |
 
+### Example(s):
+![Jinx007-Buggy Bunny](./assets/Peridots/jinx007-buggy-bunny--1.jpg)
+
 ## Archetypes: Clownfish, Ram, Static, Count: 3
 ### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern       | Plumage | Tail      |
@@ -85,6 +91,9 @@
 | Clownfish |      |      |      |          | Tropical Fish |         |           |
 | Ram       |      |      | Ram  |          |               |         | Asparagus |
 | Static    |      |      |      | ???      |               |         |           |
+
+### Example(s):
+![Jinx007-Aries II](./assets/Peridots/jinx007-aries-ii--1.jpg)
 
 ## Archetypes: Kintsugi, Rabbit, Royalty, Count: 3
 ### Compatibility Table:
@@ -104,6 +113,9 @@
 | Peacock     |      |         | None |          |         | Spades  | Peacock |
 | Psychedelic |      | Octopus |      |          | Breezy  |         | Peacock |
 | Static      |      |         |      | ???      |         |         |         |
+
+### Example(s):
+![Jinx007-Triumvirate](./assets/Peridots/jinx007-triumvirate--1.jpg)
 
 ## Archetypes: Rabbit, Scarecrow, Static, Count: 3
 ### Compatibility Table:
@@ -229,6 +241,9 @@
 | :----- | :----- | :--- | :------- | :------- | :------ | :-------- | :----- |
 | Bee    |        |      | Antennae | Fuzzy    | Bee     | Bee Wings |        |
 | Rabbit | Rabbit |      |          |          |         |           | Rabbit |
+
+### Example(s):
+![Jinx007-Honeybunny](./assets/Peridots/jinx007-honeybunny--1.jpg)
 
 ## Archetypes: Bismuth, Peacock, Count: 2
 ### Compatibility Table:
@@ -617,6 +632,9 @@
 | Icicle   |      |      | Crown | Glimmer  |          | Thorns  |           |
 | Snowfall |      | Dots |       |          | Snowfall |         | Snowflake |
 
+### Example(s):
+![Iceberg](./assets/Peridots/iceberg-9.jpg)
+
 ## Archetypes: Icicle, Sunset, Count: 2
 ### Compatibility Table:
 | Name   | Ear  | Face | Horn  | Material | Pattern | Plumage | Tail  |
@@ -737,6 +755,9 @@
 | Peacock |      |      | None |          |         | Spades  | Peacock |
 | Static  |      |      |      | ???      |         |         |         |
 
+### Example(s):
+![Jinx007-Shimmerrosie](./assets/Peridots/jinx007-shimmerrosie--1.jpg)
+
 ## Archetypes: Peacock, Watermelon, Count: 2
 ### Compatibility Table:
 | Name       | Ear   | Face | Horn | Material | Pattern    | Plumage | Tail    |
@@ -771,6 +792,9 @@
 | :----- | :----- | :--- | :--- | :------- | :------ | :------ | :----- |
 | Rabbit | Rabbit |      |      |          |         |         | Rabbit |
 | Static |        |      |      | ???      |         |         |        |
+
+### Example(s):
+![Jinx007-Rocket Raccoon](./assets/Peridots/jinx007-rocket-raccoon--1.jpg)
 
 ## Archetypes: Ram, Static, Count: 2
 ### Compatibility Table:
@@ -826,6 +850,9 @@
 | :----- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
 | Static |      |      |      | ???      |         |         |       |
 | Sunset |      |      |      |          | Sunset  |         | Fleur |
+
+### Example(s):
+![Jinx007-Twilight](./assets/Peridots/jinx007-twilight--1.jpg)
 
 ## Archetypes: Static, Triceratops, Count: 2
 ### Compatibility Table:

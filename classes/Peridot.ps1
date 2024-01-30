@@ -35,7 +35,8 @@ Class Peridot {
     }
 
     [string] GetId() {
-        return "$($this.Name.ToLowerInvariant())-$($this.Generation)"
+        $peridotName = $this.Name.ToLowerInvariant().Replace(' ', '-')
+        return "${peridotName}-$($this.Generation)"
     }
 
     [bool] MatchesArchetype([object]$archetype) {

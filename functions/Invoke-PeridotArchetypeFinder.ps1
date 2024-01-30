@@ -2,7 +2,8 @@ function Invoke-PeridotArchetypeFinder {
     [CmdletBinding()]
     param(
         [string]$ArchetypePath = "$PSScriptRoot\..\assets\Archetypes.csv",
-        [string]$PeridotPath = "$PSScriptRoot\..\assets\Peridots.csv"
+        [string]$PeridotPath = "$PSScriptRoot\..\assets\Peridots.csv",
+        [string]$ExternalPeridotPath = "$PSScriptRoot\..\assets\External.csv"
     )
     process {
         Set-StrictMode -Version Latest
@@ -13,8 +14,10 @@ function Invoke-PeridotArchetypeFinder {
         $peridotCombinations = Invoke-PeridotCombinationGenerator -Archetypes $archetypes
         $allPeridotArchetypeDictionary = Get-PeridotArchetypeDictionary -Archetypes $archetypes -Peridots $peridotCombinations
 
-        $peridots = Get-Peridots -Path $PeridotPath
-        $samplePeridotArchetypeDictionary = Get-PeridotArchetypeDictionary -Archetypes $archetypes -Peridots $peridots
+        $allPeridots = Get-Peridots -Path $PeridotPath
+        $externalPeridots = Get-Peridots -Path $ExternalPeridotPath
+        $allPeridots += $externalPeridots
+        $samplePeridotArchetypeDictionary = Get-PeridotArchetypeDictionary -Archetypes $archetypes -Peridots $allPeridots
 
         Format-PeridotArchetype -Archetypes $archetypes `
             -AllPeridotsWithArchetypes $allPeridotArchetypeDictionary `
