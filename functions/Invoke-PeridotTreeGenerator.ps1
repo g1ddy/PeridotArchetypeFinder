@@ -60,7 +60,7 @@ function Format-PeridotTree {
             }
 
             $parentGeneration = $peridot.Generation - 1
-            $parentId = "$($peridot.Parent.ToLowerInvariant())-${parentGeneration}"
+            $parentId = "$($peridot.Parent.ToLowerInvariant().Replace(' ', '-'))-${parentGeneration}"
             Write-Output "${parentId} --> ${peridotNode}"
         }
 

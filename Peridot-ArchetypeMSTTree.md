@@ -67,7 +67,7 @@ New_Archetype:_Elixir -.-> New_Archetype:_Jester
 New_Archetype:_Elixir -.-> New_Archetype:_Triton
 New_Archetype:_Jester -.-> Predator
 New_Archetype:_Yeti -.-> New_Archetype:_Banana
-Night_Snow -.-> Om-Nominous
+Night_Snow --> Om-Nominous
 Noise --> Orion
 Orion --> Phenotype
 Orion --> Predator
