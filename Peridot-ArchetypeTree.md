@@ -4,40 +4,49 @@
 flowchart
 
 Anemone -.-> Gargoyle
+Gargoyle -.-> Watermelon
+Gargoyle -.-> Celestial
+
 Aurora -.-> Celestial
 Aurora -.-> Sunset
-Banana -.-> Scarab
-Bee -.-> Scarab
-Bismuth -.-> Patchwork
-Cactus -.-> Banana
-Cactus -.-> Glam
-Cactus -.-> Icicle
-Cactus -.-> Patchwork
-Chameleon -.-> Cinnabon
-Chameleon -.-> Seal
-Cheetah -.-> Bee
-Cheetah -.-> Seal
-Cinnabon -.-> Beach
-Cinnabon -.-> Vampire
-Cotton_Candy -.-> Unicorn
-Cotton_Candy -.-> Yeti
-Elixir -.-> Candle
-Elixir -.-> Icicle
-Gargoyle -.-> Celestial
-Gargoyle -.-> Watermelon
-Glam -.-> Dewdrop
-Icicle -.-> Royalty
-Icicle -.-> Triton
-Jester -.-> Elixir
-Kintsugi -.-> Jester
+Sunset -.-> Vampire
+
 Monkey -.-> Peacock
-Paint -.-> LED
 Peacock -.-> Psychedelic
 Psychedelic -.-> Vampire
+
+Cinnabon -.-> Vampire
+Cinnabon -.-> Beach
+Chameleon -.-> Cinnabon
+Chameleon -.-> Seal
+
+Cheetah -.-> Seal
+Cheetah -.-> Bee
+Bee -.-> Scarab
+
+Banana -.-> Scarab
+Cotton_Candy -.-> Unicorn
+Cotton_Candy -.-> Yeti
+Yeti -.-> Banana
+
+Cactus -.-> Banana
+Cactus -.-> Patchwork
+Patchwork -.-> Bismuth
+Cactus -.-> Glam
+Glam -.-> Dewdrop
+Cactus -.-> Icicle
+
+Elixir -.-> Icicle
+Icicle -.-> Royalty
+Icicle -.-> Triton
+Elixir -.-> Candle
+Jester -.-> Elixir
+
+Kintsugi -.-> Jester
 Royalty -.-> Balloon
 Scarecrow -.-> Balloon
-Sunset -.-> Vampire
+
+Paint -.-> LED
 Triceratops -.-> Ram
-Yeti -.-> Banana
 ```
 
