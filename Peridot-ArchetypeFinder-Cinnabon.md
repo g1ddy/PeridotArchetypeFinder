@@ -17,18 +17,6 @@
 | :------ | :--- | :---- | :--- | :------- | :------ | :------ | :------ |
 | Vampire | Bat  | Fangs |      |          | Sunset  | Ruff    | Peacock |
 
-## Peridot: Farceratops, Score: 0.25
-
-### Peridot Traits:
-| Name        | Ear         | Face  | Horn | Material | Pattern  | Plumage | Tail      |
-| :---------- | :---------- | :---- | :--- | :------- | :------- | :------ | :-------- |
-| Farceratops | Triceratops | Fangs | Ram  | Matte    | Baguette | Horse   | Asparagus |
-
-### Compatibility Table:
-| Name | Ear  | Face | Horn | Material | Pattern | Plumage | Tail      |
-| :--- | :--- | :--- | :--- | :------- | :------ | :------ | :-------- |
-| Ram  |      |      | Ram  |          |         |         | Asparagus |
-
 ## Peridot: Isla, Score: 0.25
 
 ### Peridot Traits:
@@ -91,4 +79,16 @@
 | :----- | :----- | :--- | :---- | :------- | :------ | :------ | :----- |
 | Icicle |        |      | Crown | Glimmer  |         | Thorns  |        |
 | Rabbit | Rabbit |      |       |          |         |         | Rabbit |
+
+## Peridot: Farceratops, Score: 0.25
+
+### Peridot Traits:
+| Name        | Ear         | Face  | Horn | Material | Pattern  | Plumage | Tail      |
+| :---------- | :---------- | :---- | :--- | :------- | :------- | :------ | :-------- |
+| Farceratops | Triceratops | Fangs | Ram  | Matte    | Baguette | Horse   | Asparagus |
+
+### Compatibility Table:
+| Name | Ear  | Face | Horn | Material | Pattern | Plumage | Tail      |
+| :--- | :--- | :--- | :--- | :------- | :------ | :------ | :-------- |
+| Ram  |      |      | Ram  |          |         |         | Asparagus |
 
