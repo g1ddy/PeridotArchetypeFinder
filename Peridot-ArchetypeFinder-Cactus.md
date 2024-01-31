@@ -66,12 +66,32 @@
 | :----- | :--- | :--- | :------- | :------- | :------ | :----------- | :--- |
 | Scarab |      |      | Antennae | Scarab   | Okapi   | Beetle Wings | None |
 
+## Peridot: Iceberg, Score: 0.333333333333333
+
+### Peridot Traits:
+| Name    | Ear    | Face | Horn  | Material | Pattern  | Plumage | Tail      |
+| :------ | :----- | :--- | :---- | :------- | :------- | :------ | :-------- |
+| Iceberg | Seraph | Dots | Crown | Glimmer  | Snowfall | Thorns  | Snowflake |
+
+### Compatibility Table:
+| Name     | Ear  | Face | Horn  | Material | Pattern  | Plumage | Tail      |
+| :------- | :--- | :--- | :---- | :------- | :------- | :------ | :-------- |
+| Icicle   |      |      | Crown | Glimmer  |          | Thorns  |           |
+| Snowfall |      | Dots |       |          | Snowfall |         | Snowflake |
+
 ## Peridot: Hypnos, Score: 0.333333333333333
 
 ### Peridot Traits:
 | Name   | Ear   | Face   | Horn     | Material | Pattern | Plumage  | Tail |
 | :----- | :---- | :----- | :------- | :------- | :------ | :------- | :--- |
 | Hypnos | Beaks | Kawaii | Antennae | Scarab   | Okapi   | Whiskers | None |
+
+## Peridot: Hailstorm, Score: 0.333333333333333
+
+### Peridot Traits:
+| Name      | Ear    | Face | Horn  | Material | Pattern  | Plumage | Tail      |
+| :-------- | :----- | :--- | :---- | :------- | :------- | :------ | :-------- |
+| Hailstorm | Seraph | Star | Crown | Glimmer  | Snowfall | Thorns  | Snowflake |
 
 ## Peridot: Grazerface, Score: 0.333333333333333
 
@@ -97,29 +117,4 @@
 | :----- | :----- | :--- | :---- | :------- | :------ | :------ | :----- |
 | Icicle |        |      | Crown | Glimmer  |         | Thorns  |        |
 | Rabbit | Rabbit |      |       |          |         |         | Rabbit |
-
-## Peridot: Farceratops, Score: 0.333333333333333
-
-### Peridot Traits:
-| Name        | Ear         | Face  | Horn | Material | Pattern  | Plumage | Tail      |
-| :---------- | :---------- | :---- | :--- | :------- | :------- | :------ | :-------- |
-| Farceratops | Triceratops | Fangs | Ram  | Matte    | Baguette | Horse   | Asparagus |
-
-### Compatibility Table:
-| Name | Ear  | Face | Horn | Material | Pattern | Plumage | Tail      |
-| :--- | :--- | :--- | :--- | :------- | :------ | :------ | :-------- |
-| Ram  |      |      | Ram  |          |         |         | Asparagus |
-
-## Peridot: Entropy, Score: 0.333333333333333
-
-### Peridot Traits:
-| Name    | Ear  | Face  | Horn | Material | Pattern       | Plumage | Tail      |
-| :------ | :--- | :---- | :--- | :------- | :------------ | :------ | :-------- |
-| Entropy | Cat  | Heart | Ram  | Matte    | Tropical Fish | Horse   | Asparagus |
-
-### Compatibility Table:
-| Name      | Ear  | Face | Horn | Material | Pattern       | Plumage | Tail      |
-| :-------- | :--- | :--- | :--- | :------- | :------------ | :------ | :-------- |
-| Clownfish |      |      |      |          | Tropical Fish |         |           |
-| Ram       |      |      | Ram  |          |               |         | Asparagus |
 

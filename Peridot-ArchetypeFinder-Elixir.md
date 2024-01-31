@@ -37,6 +37,26 @@
 | :----- | :--- | :--- | :---- | :------- | :------------ | :------ | :----- |
 | Kandle | None | Star | Spire | Waxy     | Tropical Fish | None    | Rabbit |
 
+## Peridot: Iceberg, Score: 0.25
+
+### Peridot Traits:
+| Name    | Ear    | Face | Horn  | Material | Pattern  | Plumage | Tail      |
+| :------ | :----- | :--- | :---- | :------- | :------- | :------ | :-------- |
+| Iceberg | Seraph | Dots | Crown | Glimmer  | Snowfall | Thorns  | Snowflake |
+
+### Compatibility Table:
+| Name     | Ear  | Face | Horn  | Material | Pattern  | Plumage | Tail      |
+| :------- | :--- | :--- | :---- | :------- | :------- | :------ | :-------- |
+| Icicle   |      |      | Crown | Glimmer  |          | Thorns  |           |
+| Snowfall |      | Dots |       |          | Snowfall |         | Snowflake |
+
+## Peridot: Hailstorm, Score: 0.25
+
+### Peridot Traits:
+| Name      | Ear    | Face | Horn  | Material | Pattern  | Plumage | Tail      |
+| :-------- | :----- | :--- | :---- | :------- | :------- | :------ | :-------- |
+| Hailstorm | Seraph | Star | Crown | Glimmer  | Snowfall | Thorns  | Snowflake |
+
 ## Peridot: Glacier, Score: 0.25
 
 ### Peridot Traits:
