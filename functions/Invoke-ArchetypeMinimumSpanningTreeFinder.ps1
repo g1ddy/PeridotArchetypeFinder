@@ -3,7 +3,7 @@ function Invoke-ArchetypeMinimumSpanningTreeFinder {
     param(
         [string]$ArchetypePath = "$PSScriptRoot\..\assets\Archetypes.csv",
         [string]$PeridotPath = "$PSScriptRoot\..\assets\Peridots.csv",
-        [switch]$IncludePeridots = $true
+        [switch]$IncludePeridots
     )
     begin {
         Set-StrictMode -Version Latest
@@ -29,7 +29,7 @@ function Invoke-ArchetypeMinimumSpanningTreeFinder {
 
         # Find MST using Kruskal's algorithm
         $mst = Kruskal $graph
-        $mst = $mst | Sort-Object -Property Source
+        $mst = $mst | Sort-Object -Property Source, Destination
 
         Format-ArchetypeTree -Edges $mst
     }
@@ -39,7 +39,7 @@ function Get-GraphNodes {
     param(
         $ArchetypeDictionary,
         $PeridotDictionary,
-        [switch]$IncludePeridots
+        $IncludePeridots
     )
 
     $achievedArchetypes = New-Object System.Collections.Generic.HashSet[string]
@@ -63,8 +63,9 @@ function Get-GraphNodes {
             $_.Value.Archetypes.Count -eq 1 -and $achievedArchetypes -notcontains $_.Key
         } |
         ForEach-Object {
+            $namePrefix = $IncludePeridots ? "New Archetype: " : ""
             $graphNodes += @{
-                Name    = "New Archetype: $($_.Key)"
+                Name    = "${namePrefix}$($_.Key)"
                 Peridot = $_.Value.Peridots[0]
             }
         }
@@ -94,11 +95,11 @@ function Get-ArchetypeGraph {
             $isParent = ($archetype2Peridot.Parent -eq $archetype1Peridot.Name) -and ($archetype2Peridot.Generation - 1 -eq $archetype1Peridot.Generation)
             $isChild = ($archetype1Peridot.Parent -eq $archetype2Peridot.Name) -and ($archetype1Peridot.Generation - 1 -eq $archetype2Peridot.Generation)
 
-            $archetypeDistance = $isParent -or $isChild ? 0 `
-                : $archetype1Peridot.GetDistance($archetype2Peridot)
+            $archetypeDistance = $isParent -or $isChild ? 0 : $archetype1Peridot.GetDistance($archetype2Peridot)
 
             $edge = New-Object Edge $archetype1Name, $archetype2Name, $archetypeDistance
 
+            # Skip edges if there's no relationship
             if ($edge.Weight -lt 0) {
                 continue
             }
@@ -106,6 +107,15 @@ function Get-ArchetypeGraph {
             $verticesHashSet.Add($archetype1Name) | Out-Null
             $verticesHashSet.Add($archetype2Name) | Out-Null
             
+            $edges += $edge
+
+            # Relationship is one directional if the distance is 0
+            if ($edge.Weight -eq 0) {
+                continue
+            }
+
+            $archetypeDistance = $archetype2Peridot.GetDistance($archetype1Peridot)
+            $edge = New-Object Edge $archetype2Name, $archetype1Name, $archetypeDistance
             $edges += $edge
         }
     }
@@ -177,7 +187,8 @@ function Format-ArchetypeTree {
                 $sourceName = $edge.Source.Replace(' ', '_')
                 $destinationName = $edge.Destination.Replace(' ', '_')
                 # Write-Output "${sourceName} --['$($edge.Weight)']--> ${destinationName}"
-                Write-Output "${sourceName} --> ${destinationName}"
+                $link = $edge.Weight -eq 0 ? '-->': '-.->'
+                Write-Output "${sourceName} ${link} ${destinationName}"
             }
 
         Write-Output '```'
