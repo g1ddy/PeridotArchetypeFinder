@@ -25,9 +25,9 @@
 | Isla | Fairy | Star | Shell | Geode    | Beach   | None    | Shell |
 
 ### Compatibility Table:
-| Name  | Ear  | Face | Horn | Material | Pattern | Plumage | Tail  |
-| :---- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
-| Beach |      |      |      | Geode    | Beach   |         | Shell |
+| Name  | Ear  | Face | Horn  | Material | Pattern | Plumage | Tail |
+| :---- | :--- | :--- | :---- | :------- | :------ | :------ | :--- |
+| Beach |      |      | Shell | Geode    | Beach   |         |      |
 
 ## Peridot: Imhotep, Score: 0.25
 

@@ -228,12 +228,12 @@
 | Balloon |      |      | Stacked |          | Patchwork | Tutu    |      |
 | Static  |      |      |         | ???      |           |         |      |
 
-## Archetypes: Beach, Cinnabon, Count: 2
+## Archetypes: Beach, Rabbit, Count: 2
 ### Compatibility Table:
-| Name     | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
-| :------- | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
-| Beach    |       |       |      | Geode    | Beach   |         | Shell |
-| Cinnabon | Mouse | Fangs | Buns |          |         |         | Shell |
+| Name   | Ear    | Face | Horn  | Material | Pattern | Plumage | Tail   |
+| :----- | :----- | :--- | :---- | :------- | :------ | :------ | :----- |
+| Beach  |        |      | Shell | Geode    | Beach   |         |        |
+| Rabbit | Rabbit |      |       |          |         |         | Rabbit |
 
 ## Archetypes: Bee, Rabbit, Count: 2
 ### Compatibility Table:

@@ -16,15 +16,10 @@ Peacock -.-> Psychedelic
 Psychedelic -.-> Vampire
 
 Cinnabon -.-> Vampire
-Cinnabon -.-> Beach
 Chameleon -.-> Cinnabon
 Chameleon -.-> Seal
 
 Cheetah -.-> Seal
-Cheetah -.-> Bee
-Bee -.-> Scarab
-
-Banana -.-> Scarab
 Cotton_Candy -.-> Unicorn
 Cotton_Candy -.-> Yeti
 Yeti -.-> Banana
@@ -35,12 +30,15 @@ Patchwork -.-> Bismuth
 Cactus -.-> Glam
 Glam -.-> Dewdrop
 Cactus -.-> Icicle
+Cactus -.-> Scarab
+Scarab -.-> Bee
 
 Elixir -.-> Icicle
 Icicle -.-> Royalty
 Icicle -.-> Triton
 Elixir -.-> Candle
 Jester -.-> Elixir
+Candle -.-> Seal
 
 Kintsugi -.-> Jester
 Royalty -.-> Balloon
