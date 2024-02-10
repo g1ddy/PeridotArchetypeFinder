@@ -49,13 +49,14 @@ Hypnos --> Imhotep
 Hypnos --> Instar
 Icarus --> Jax
 Icarus --> Jewelfish
-Isla -.-> New_Archetype:_Cinnabon
+Imhotep --> Jormungandr
 Jammie --> Lilith
 Jax --> Kalypso
 Jewelfish --> Kaleidoscope
 Jewelfish --> Kandle
 Jewelfish --> Krypto
 Jewelfish --> Queezy
+Jormungandr -.-> New_Archetype:_Dragon
 Kaleidoscope --> Mastodon
 Kandle --> Lampent
 Krypto --> Lychee
@@ -74,7 +75,7 @@ Orion --> Predator
 Queezy --> Rockstar
 Rockstar --> Skittles
 Rockstar --> Slushy
-Skittles -.-> New_Archetype:_Paint
+Skittles --> Trailmix
 Skittles --> Turducken
 Slushy --> Trifecta
 ```

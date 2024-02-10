@@ -51,6 +51,7 @@ hypnos-8 --> instar-9("<img src='./assets/Peridots/instar-9.jpg'> <br /> Instar 
 icarus-8 --> jax-9("<img src='./assets/Peridots/jax-9.jpg'> <br /> Jax (Clownfish)")
 icarus-8 --> jewelfish-9("<img src='./assets/Peridots/jewelfish-9.jpg'> <br /> Jewelfish (Clownfish,Rabbit)")
 noise-8 --> orion-9("<img src='./assets/Peridots/orion-9.jpg'> <br /> Orion (Aurora)")
+imhotep-9 --> jormungandr-10("<img src='./assets/Peridots/jormungandr-10.jpg'> <br /> Jormungandr")
 jax-9 --> kalypso-10("<img src='./assets/Peridots/kalypso-10.jpg'> <br /> Kalypso (Clownfish,Glam)")
 jewelfish-9 --> kaleidoscope-10("<img src='./assets/Peridots/kaleidoscope-10.jpg'> <br /> Kaleidoscope (Anemone,Clownfish,Rabbit)")
 jewelfish-9 --> kandle-10("<img src='./assets/Peridots/kandle-10.jpg'> <br /> Kandle")
@@ -66,6 +67,7 @@ mastodon-11 --> night-snow-12("<img src='./assets/Peridots/night-snow-12.jpg'> <
 rockstar-11 --> skittles-12("<img src='./assets/Peridots/skittles-12.jpg'> <br /> Skittles")
 rockstar-11 --> slushy-12("<img src='./assets/Peridots/slushy-12.jpg'> <br /> Slushy (Cotton Candy)")
 night-snow-12 --> om-nominous-13("<img src='./assets/Peridots/om-nominous-13.jpg'> <br /> Om-Nominous (Watermelon)")
+skittles-12 --> trailmix-13("<img src='./assets/Peridots/trailmix-13.jpg'> <br /> Trailmix (Paint)")
 skittles-12 --> turducken-13("<img src='./assets/Peridots/turducken-13.jpg'> <br /> Turducken (LED,Peacock)")
 slushy-12 --> trifecta-13("<img src='./assets/Peridots/trifecta-13.jpg'> <br /> Trifecta")
 ```
