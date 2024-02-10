@@ -580,6 +580,13 @@
 | Dewdrop |      | Star |      | Gummy    | Gradient |         |           |
 | Ram     |      |      | Ram  |          |          |         | Asparagus |
 
+## Archetypes: Dragon, Static, Count: 2
+### Compatibility Table:
+| Name   | Ear  | Face | Horn | Material | Pattern | Plumage | Tail  |
+| :----- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
+| Dragon |      |      | Bull |          | Scales  | Dragon  | Flame |
+| Static |      |      |      | ???      |         |         |       |
+
 ## Archetypes: Elixir, Rabbit, Count: 2
 ### Compatibility Table:
 | Name   | Ear    | Face | Horn  | Material | Pattern | Plumage | Tail   |

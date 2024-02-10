@@ -3,7 +3,7 @@ Name,Pattern,Tail,Horn,Plumage,Material,Face,Ear,Color
 Anemone,,,Demon,Tentacles,Slimy,,,
 Aurora,Sunset,,Bharal,,Starry,,Seraph,x
 Balloon,Patchwork,,Stacked,Tutu,,,,x
-Beach,Beach,Shell,,,Geode,,,x
+Beach,Beach,,Shell,,Geode,,,x
 Bee,Bee,,Antennae,Bee Wings,Fuzzy,,,
 Banana,Banana,None,Banana,None,Matte,,,x
 Bismuth,Circuit,,,,Iridescent,Diamond,Square,
@@ -17,6 +17,7 @@ Cinnabon,,Shell,Buns,,,Fangs,Mouse,x
 Clownfish,Tropical Fish,,,,,,,x
 Cotton Candy,,,Narwhal,,Furry,,,x
 Dewdrop,Gradient,,,,Gummy,Star,,
+Dragon,Scales,Flame,Bull,Dragon,,,,
 Elixir,Puddle,,Spire,Ruff,Glimmer,,,x
 Gargoyle,,,Demon,Bat Wings,Starry,,Slice,x
 Glam,,None,,Curls,Bedazzled,Star,Picks,
