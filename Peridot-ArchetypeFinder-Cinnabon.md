@@ -17,6 +17,20 @@
 | :------ | :--- | :---- | :--- | :------- | :------ | :------ | :------ |
 | Vampire | Bat  | Fangs |      |          | Sunset  | Ruff    | Peacock |
 
+## Peridot: Kira, Score: 0.25
+
+### Peridot Traits:
+| Name | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail   |
+| :--- | :---- | :---- | :--- | :------- | :------ | :------ | :----- |
+| Kira | Beaks | Fangs | Bull | Static   | Scales  | Dragon  | Flames |
+
+## Peridot: Jormungandr, Score: 0.25
+
+### Peridot Traits:
+| Name        | Ear   | Face   | Horn | Material | Pattern | Plumage      | Tail   |
+| :---------- | :---- | :----- | :--- | :------- | :------ | :----------- | :----- |
+| Jormungandr | Mouse | Kawaii | Bull | Static   | Scales  | Beetle Wings | Flames |
+
 ## Peridot: Isla, Score: 0.25
 
 ### Peridot Traits:
