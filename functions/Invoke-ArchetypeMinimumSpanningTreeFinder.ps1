@@ -48,10 +48,19 @@ function Get-GraphNodes {
     if ($IncludePeridots) {
         $PeridotDictionary.GetEnumerator() |
             ForEach-Object {
-                $_.Value.Archetypes | ForEach-Object { $achievedArchetypes.Add($_) | Out-Null }
+                $matchingArchetypes = $_.Value.Archetypes
+                $matchingArchetypes | ForEach-Object { $achievedArchetypes.Add($_) | Out-Null }
+
                 $_.Value.Peridots | ForEach-Object {
+                    $peridotName = $_.Name
+
+                    if ($matchingArchetypes) {
+                        $hashKey = ($matchingArchetypes | Sort-Object) -join ','
+                        $peridotName += "(${hashKey})"
+                    }
+
                     $graphNodes += @{
-                        Name    = $_.Name
+                        Name    = $peridotName
                         Peridot = $_
                     }
                 }
@@ -106,7 +115,7 @@ function Get-ArchetypeGraph {
 
             $verticesHashSet.Add($archetype1Name) | Out-Null
             $verticesHashSet.Add($archetype2Name) | Out-Null
-            
+
             $edges += $edge
 
             # Relationship is one directional if the distance is 0
