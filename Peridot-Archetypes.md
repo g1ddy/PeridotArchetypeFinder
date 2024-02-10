@@ -587,6 +587,9 @@
 | Dragon |      |      | Bull |          | Scales  | Dragon  | Flame |
 | Static |      |      |      | ???      |         |         |       |
 
+### Example(s):
+![Kira](./assets/Peridots/kira-11.jpg)
+
 ## Archetypes: Elixir, Rabbit, Count: 2
 ### Compatibility Table:
 | Name   | Ear    | Face | Horn  | Material | Pattern | Plumage | Tail   |
@@ -874,4 +877,3 @@
 | :------ | :--- | :---- | :--- | :------- | :------ | :------ | :------ |
 | Static  |      |       |      | ???      |         |         |         |
 | Vampire | Bat  | Fangs |      |          | Sunset  | Ruff    | Peacock |
-
