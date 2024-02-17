@@ -47,7 +47,7 @@
 | Rabbit       | Rabbit |      |         |          |               |         | Rabbit |
 
 ### Example(s):
-![Jinx007-Fluffish](./assets/Peridots/jinx007-fluffish--1.jpg)
+![Jinx007-Fluffish](./assets/Peridots/jinx007-fluffish-6.jpg)
 
 ## Archetypes: Clownfish, Icicle, Rabbit, Count: 3
 ### Compatibility Table:
@@ -82,7 +82,7 @@
 | Static    |        |      |      | ???      |               |         |        |
 
 ### Example(s):
-![Jinx007-Buggy Bunny](./assets/Peridots/jinx007-buggy-bunny--1.jpg)
+![Jinx007-Buggy Bunny](./assets/Peridots/jinx007-buggy-bunny-5.jpg)
 
 ## Archetypes: Clownfish, Ram, Static, Count: 3
 ### Compatibility Table:
@@ -93,7 +93,7 @@
 | Static    |      |      |      | ???      |               |         |           |
 
 ### Example(s):
-![Jinx007-Aries II](./assets/Peridots/jinx007-aries-ii--1.jpg)
+![Jinx007-Aries II](./assets/Peridots/jinx007-aries-ii-6.jpg)
 
 ## Archetypes: Kintsugi, Rabbit, Royalty, Count: 3
 ### Compatibility Table:
@@ -115,7 +115,7 @@
 | Static      |      |         |      | ???      |         |         |         |
 
 ### Example(s):
-![Jinx007-Triumvirate](./assets/Peridots/jinx007-triumvirate--1.jpg)
+![Jinx007-Triumvirate](./assets/Peridots/jinx007-triumvirate-4.jpg)
 
 ## Archetypes: Rabbit, Scarecrow, Static, Count: 3
 ### Compatibility Table:
@@ -190,6 +190,8 @@
 ### Example(s):
 ![Mastodon](./assets/Peridots/mastodon-11.jpg)
 
+![Jinx007-Dark Blizzard](./assets/Peridots/jinx007-dark-blizzard-6.jpg)
+
 ## Archetypes: Anemone, Sunset, Count: 2
 ### Compatibility Table:
 | Name    | Ear  | Face | Horn  | Material | Pattern | Plumage   | Tail  |
@@ -243,7 +245,7 @@
 | Rabbit | Rabbit |      |          |          |         |           | Rabbit |
 
 ### Example(s):
-![Jinx007-Honeybunny](./assets/Peridots/jinx007-honeybunny--1.jpg)
+![Jinx007-Honeybunny](./assets/Peridots/jinx007-honeybunny-6.jpg)
 
 ## Archetypes: Bismuth, Peacock, Count: 2
 ### Compatibility Table:
@@ -766,7 +768,7 @@
 | Static  |      |      |      | ???      |         |         |         |
 
 ### Example(s):
-![Jinx007-Shimmerrosie](./assets/Peridots/jinx007-shimmerrosie--1.jpg)
+![Jinx007-Shimmerrosie](./assets/Peridots/jinx007-shimmerrosie-5.jpg)
 
 ## Archetypes: Peacock, Watermelon, Count: 2
 ### Compatibility Table:
@@ -804,7 +806,7 @@
 | Static |        |      |      | ???      |         |         |        |
 
 ### Example(s):
-![Jinx007-Rocket Raccoon](./assets/Peridots/jinx007-rocket-raccoon--1.jpg)
+![Jinx007-Rocket Raccoon](./assets/Peridots/jinx007-rocket-raccoon-6.jpg)
 
 ## Archetypes: Ram, Static, Count: 2
 ### Compatibility Table:
@@ -862,7 +864,7 @@
 | Sunset |      |      |      |          | Sunset  |         | Fleur |
 
 ### Example(s):
-![Jinx007-Twilight](./assets/Peridots/jinx007-twilight--1.jpg)
+![Jinx007-Twilight](./assets/Peridots/jinx007-twilight-5.jpg)
 
 ## Archetypes: Static, Triceratops, Count: 2
 ### Compatibility Table:
