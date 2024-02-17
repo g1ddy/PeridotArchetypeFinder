@@ -5,78 +5,78 @@ flowchart
 
 Alpha --> Beta
 Alpha --> Bravo
-Beta --> Canary(Patchwork)
-Beta --> Chevron(Ram)
+Beta --> Canary("Canary (Patchwork)")
+Beta --> Chevron("Chevron (Ram)")
 Bravo --> Charlie
-Canary(Patchwork) --> Dill-Hulk(Patchwork)
-Canary(Patchwork) --> Draco(Balloon,Patchwork)
+Canary("Canary (Patchwork)") --> Dill-Hulk("Dill-Hulk (Patchwork)")
+Canary("Canary (Patchwork)") --> Draco("Draco (Balloon,Patchwork)")
 Charlie --> Delta
 Charlie --> Dolphin
-Chevron(Ram) --> Damascus(Kintsugi,Ram)
-Chevron(Ram) --> Dorado(24Karat,Ram)
-Chevron(Ram) --> Duranium(Patina,Ram)
-Chevron(Ram) --> Echelon(Bismuth,Ram)
-Damascus(Kintsugi,Ram) --> Enrichment(Kintsugi,Royalty)
-Damascus(Kintsugi,Ram) --> Escorpio
-Delta --> Echo(Static)
+Chevron("Chevron (Ram)") --> Damascus("Damascus (Kintsugi,Ram)")
+Chevron("Chevron (Ram)") --> Dorado("Dorado (24Karat,Ram)")
+Chevron("Chevron (Ram)") --> Duranium("Duranium (Patina,Ram)")
+Chevron("Chevron (Ram)") --> Echelon("Echelon (Bismuth,Ram)")
+Damascus("Damascus (Kintsugi,Ram)") --> Enrichment("Enrichment (Kintsugi,Royalty)")
+Damascus("Damascus (Kintsugi,Ram)") --> Escorpio
+Delta --> Echo("Echo (Static)")
 Delta --> Jammie
-Dill-Hulk(Patchwork) --> Escrow(Rabbit,Scarecrow,Static)
-Dorado(24Karat,Ram) --> Entropy(Clownfish,Ram)
-Dorado(24Karat,Ram) --> Ether(Celestial,Ram)
-Echo(Static) --> Foxtrot(Unicorn)
-Echo(Static) --> Frosty(Ram,Static)
-Enrichment(Kintsugi,Royalty) --> Fable(Kintsugi,Rabbit,Royalty)
-Entropy(Clownfish,Ram) --> Farceratops(Ram)
-Entropy(Clownfish,Ram) --> Fishline(Clownfish)
-Entropy(Clownfish,Ram) --> Floofish(Clownfish,Monkey)
-Fable(Kintsugi,Rabbit,Royalty) --> Glacier(Icicle,Rabbit)
-Fable(Kintsugi,Rabbit,Royalty) --> Goldilocks(Royalty)
-Farceratops(Ram) --> Grazerface(Triceratops)
-Fishline(Clownfish) -.-> New_Archetype:_Yeti
-Floofish(Clownfish,Monkey) --> Guina
-Foxtrot(Unicorn) --> Goldie
-Foxtrot(Unicorn) --> Goral(Clownfish,Unicorn)
-Glacier(Icicle,Rabbit) --> Hailstorm
+Dill-Hulk("Dill-Hulk (Patchwork)") --> Escrow("Escrow (Rabbit,Scarecrow,Static)")
+Dorado("Dorado (24Karat,Ram)") --> Entropy("Entropy (Clownfish,Ram)")
+Dorado("Dorado (24Karat,Ram)") --> Ether("Ether (Celestial,Ram)")
+Echo("Echo (Static)") --> Foxtrot("Foxtrot (Unicorn)")
+Echo("Echo (Static)") --> Frosty("Frosty (Ram,Static)")
+Enrichment("Enrichment (Kintsugi,Royalty)") --> Fable("Fable (Kintsugi,Rabbit,Royalty)")
+Entropy("Entropy (Clownfish,Ram)") --> Farceratops("Farceratops (Ram)")
+Entropy("Entropy (Clownfish,Ram)") --> Fishline("Fishline (Clownfish)")
+Entropy("Entropy (Clownfish,Ram)") --> Floofish("Floofish (Clownfish,Monkey)")
+Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Glacier("Glacier (Icicle,Rabbit)")
+Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Goldilocks("Goldilocks (Royalty)")
+Farceratops("Farceratops (Ram)") --> Grazerface("Grazerface (Triceratops)")
+Fishline("Fishline (Clownfish)") -.-> New_Archetype:_Yeti
+Floofish("Floofish (Clownfish,Monkey)") --> Guina
+Foxtrot("Foxtrot (Unicorn)") --> Goldie
+Foxtrot("Foxtrot (Unicorn)") --> Goral("Goral (Clownfish,Unicorn)")
+Glacier("Glacier (Icicle,Rabbit)") --> Hailstorm
 Goldie --> Harry
 Goldie --> Icarus
-Guina --> Hammerhead(Seal,Static)
+Guina --> Hammerhead("Hammerhead (Seal,Static)")
 Guina --> Hypnos
 Guina -.-> New_Archetype:_Cheetah
-Hailstorm --> Iceberg(Icicle,Snowfall)
+Hailstorm --> Iceberg("Iceberg (Icicle,Snowfall)")
 Hailstorm -.-> New_Archetype:_Triton
-Harry --> Isla(Beach)
-Hypnos --> Imhotep(Scarab)
-Hypnos --> Instar(Bee)
-Icarus --> Jax(Clownfish)
-Icarus --> Jewelfish(Clownfish,Rabbit)
-Imhotep(Scarab) --> Jormungandr(Static)
-Isla(Beach) --> Jubilee(Cinnabon)
+Harry --> Isla("Isla (Beach)")
+Hypnos --> Imhotep("Imhotep (Scarab)")
+Hypnos --> Instar("Instar (Bee)")
+Icarus --> Jax("Jax (Clownfish)")
+Icarus --> Jewelfish("Jewelfish (Clownfish,Rabbit)")
+Imhotep("Imhotep (Scarab)") --> Jormungandr("Jormungandr (Static)")
+Isla("Isla (Beach)") --> Jubilee("Jubilee (Cinnabon)")
 Jammie --> Lilith
-Jax(Clownfish) --> Kalypso(Clownfish,Glam)
-Jewelfish(Clownfish,Rabbit) --> Kaleidoscope(Anemone,Clownfish,Rabbit)
-Jewelfish(Clownfish,Rabbit) --> Kandle
-Jewelfish(Clownfish,Rabbit) --> Krypto(Dewdrop,Rabbit)
-Jewelfish(Clownfish,Rabbit) --> Queezy(Peacock)
-Jormungandr(Static) --> Kira(Dragon,Static)
-Jubilee(Cinnabon) -.-> New_Archetype:_Chameleon
-Kaleidoscope(Anemone,Clownfish,Rabbit) --> Mastodon(Anemone,Snowfall)
-Kandle --> Lampent(Candle,Clownfish)
-Krypto(Dewdrop,Rabbit) --> Lychee(Boba,Rabbit,Static)
+Jax("Jax (Clownfish)") --> Kalypso("Kalypso (Clownfish,Glam)")
+Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)")
+Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Kandle
+Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Krypto("Krypto (Dewdrop,Rabbit)")
+Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Queezy("Queezy (Peacock)")
+Jormungandr("Jormungandr (Static)") --> Kira("Kira (Dragon,Static)")
+Jubilee("Jubilee (Cinnabon)") -.-> New_Archetype:_Chameleon
+Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Mastodon("Mastodon (Anemone,Snowfall)")
+Kandle --> Lampent("Lampent (Candle,Clownfish)")
+Krypto("Krypto (Dewdrop,Rabbit)") --> Lychee("Lychee (Boba,Rabbit,Static)")
 Lilith --> Maximus
-Mastodon(Anemone,Snowfall) --> Night_Snow(Gargoyle)
-Maximus --> Noise(Static)
+Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
+Maximus --> Noise("Noise (Static)")
 New_Archetype:_Cactus -.-> New_Archetype:_Banana
 New_Archetype:_Elixir -.-> New_Archetype:_Jester
 New_Archetype:_Triton -.-> New_Archetype:_Elixir
 New_Archetype:_Yeti -.-> New_Archetype:_Banana
-Night_Snow(Gargoyle) --> Om-Nominous(Watermelon)
-Noise(Static) --> Orion(Aurora)
-Orion(Aurora) --> Phenotype(Sunset)
-Orion(Aurora) --> Predator(Vampire)
-Queezy(Peacock) --> Rockstar(Peacock,Psychedelic)
-Rockstar(Peacock,Psychedelic) --> Skittles
-Rockstar(Peacock,Psychedelic) --> Slushy(Cotton_Candy)
-Skittles --> Trailmix(Paint)
-Skittles --> Turducken(LED,Peacock)
-Slushy(Cotton_Candy) --> Trifecta
+Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
+Noise("Noise (Static)") --> Orion("Orion (Aurora)")
+Orion("Orion (Aurora)") --> Phenotype("Phenotype (Sunset)")
+Orion("Orion (Aurora)") --> Predator("Predator (Vampire)")
+Queezy("Queezy (Peacock)") --> Rockstar("Rockstar (Peacock,Psychedelic)")
+Rockstar("Rockstar (Peacock,Psychedelic)") --> Skittles
+Rockstar("Rockstar (Peacock,Psychedelic)") --> Slushy("Slushy (Cotton Candy)")
+Skittles --> Trailmix("Trailmix (Paint)")
+Skittles --> Turducken("Turducken (LED,Peacock)")
+Slushy("Slushy (Cotton Candy)") --> Trifecta
 ```

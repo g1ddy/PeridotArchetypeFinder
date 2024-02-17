@@ -77,6 +77,18 @@ Before running this script please make sure this list is up to date as new Arche
     ```
 2. Read the output in the Markdown view of your choice
 
+## Archetype Minimum Spanning Tree Usage
+
+1. Populate the [Peridots.csv](./assets/Peridots.csv) with your Peridots
+2. Invoke the MST Tree Generator function:
+    ```powershell
+    Import-Module .\PeridotArchetypeFinder.psm1 -Force
+    Invoke-ArchetypeMinimumSpanningTreeFinder | Set-Content .\Peridot-ArchetypeTree.md
+    Invoke-ArchetypeMinimumSpanningTreeFinder -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST.md
+    ```
+3. Read the output in the Markdown view of your choice
+4. Sample output can be found [here](./Peridot-ArchetypeTreeMST.md)
+
 ## Family Tree Usage
 
 1. Populate the [Peridots.csv](./assets/Peridots.csv) with your Peridots

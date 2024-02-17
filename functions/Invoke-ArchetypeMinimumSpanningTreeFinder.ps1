@@ -56,7 +56,7 @@ function Get-GraphNodes {
 
                     if ($matchingArchetypes) {
                         $hashKey = ($matchingArchetypes | Sort-Object) -join ','
-                        $peridotName += "(${hashKey})"
+                        $peridotName += " (${hashKey})"
                     }
 
                     $graphNodes += @{
@@ -195,6 +195,17 @@ function Format-ArchetypeTree {
                 $edge = $_
                 $sourceName = $edge.Source.Replace(' ', '_')
                 $destinationName = $edge.Destination.Replace(' ', '_')
+
+                if ($sourceName.Contains('(')) {
+                    $sourceName = ($sourceName -Split '_\(')[0]
+                    $sourceName += "(""$($edge.Source)"")"
+                }
+
+                if ($destinationName.Contains('(')) {
+                    $destinationName = ($destinationName -Split '_\(')[0]
+                    $destinationName += "(""$($edge.Destination)"")"
+                }
+
                 # Write-Output "${sourceName} --['$($edge.Weight)']--> ${destinationName}"
                 $link = $edge.Weight -eq 0 ? '-->': '-.->'
                 Write-Output "${sourceName} ${link} ${destinationName}"
