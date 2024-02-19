@@ -81,6 +81,9 @@
 | Rabbit    | Rabbit |      |      |          |               |         | Rabbit |
 | Static    |        |      |      | Static   |               |         |        |
 
+### Example(s):
+![Jinx007-Buggy Bunny](./assets/Peridots/jinx007-buggy-bunny-5.jpg)
+
 ## Archetypes: Clownfish, Ram, Static, Count: 3
 ### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern       | Plumage | Tail      |
