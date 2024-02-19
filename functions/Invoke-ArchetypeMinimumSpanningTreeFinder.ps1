@@ -60,8 +60,9 @@ function Get-GraphNodes {
                     }
 
                     $graphNodes += @{
-                        Name    = $peridotName
-                        Peridot = $_
+                        Name       = $peridotName
+                        Generation = $_.Generation
+                        Peridot    = $_
                     }
                 }
             }
@@ -79,7 +80,7 @@ function Get-GraphNodes {
             }
         }
 
-    return $graphNodes | Sort-Object -Property Name
+    return $graphNodes | Sort-Object -Property Generation, Name
 }
 
 function Get-ArchetypeGraph {
