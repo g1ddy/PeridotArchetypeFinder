@@ -3,9 +3,9 @@ Name,Pattern,Tail,Horn,Plumage,Material,Face,Ear,Color
 Anemone,,,Demon,Tentacles,Slimy,,,
 Aurora,Sunset,,Bharal,,Starry,,Seraph,x
 Balloon,Patchwork,,Stacked,Tutu,,,,x
+Banana,Banana,None,Banana,None,Matte,,,x
 Beach,Beach,,Shell,,Geode,,,x
 Bee,Bee,,Antennae,Bee Wings,Fuzzy,,,
-Banana,Banana,None,Banana,None,Matte,,,x
 Bismuth,Circuit,,,,Iridescent,Diamond,Square,
 Boba,Bubbles,,Straw,,,,,
 Cactus,,None,,Thorns,Matte,,,x
@@ -27,8 +27,8 @@ Kintsugi,Cracked,,,,Ore,,,x
 LED,Pulse,,,,LED,,,x
 Monkey,,Mouse,None,,Fuzzy,Monkey,Monkey,
 Paint,Deer,Radish,,,LED,Blob,,x
-Patina,Patina,,,,Rusty,,,x
 Patchwork,Patchwork,Accordion,,,Matte,,Square,
+Patina,Patina,,,,Rusty,,,x
 Peacock,,Peacock,None,Spades,,,,x
 Psychedelic,Breezy,Peacock,,,,Octopus,,x
 Rabbit,,Rabbit,,,,,Rabbit,
@@ -38,7 +38,7 @@ Scarab,Okapi,None,Antennae,Beetle Wings,Scarab,,,
 Scarecrow,Patchwork,,Pitchfork,Quetzal,,,,x
 Seal,Cheetah,Mermaid,,Whiskers,,,None,x
 Snowfall,Snowfall,Snowflake,,,,Dots,,x
-Static,,,,,???,,,
+Static,,,,,Static,,,
 Sunset,Sunset,Fleur,,,,,,x
 Triceratops,Baguette,Asparagus,Triceratops,,,,Triceratops,
 Triton,,Whale,Trident,,Glimmer,,,x

@@ -15,10 +15,10 @@ Duranium,4,Chevron,Patina,Asparagus,Ram,Choker,Rusty,Star,Square,Patina
 Echelon,4,Chevron,Circuit,Asparagus,Ram,Choker,Iridescent,Diamond,Square,
 Enrichment,5,Damascus,Cracked,Asparagus,Crown,Tutu,Ore,Countess,Square,
 Escorpio,5,Damascus,Zebra,Scalloped,Jester,Thorns,Glossy,Diamond,Tubes,
-Escrow,5,Dill-Hulk,Patchwork,Rabbit,Pitchfork,Quetzal,???,Heart,Rabbit,
+Escrow,5,Dill-Hulk,Patchwork,Rabbit,Pitchfork,Quetzal,Static,Heart,Rabbit,
 Entropy,5,Dorado,Tropical Fish,Asparagus,Ram,Horse,Matte,Heart,Cat,
 Ether,5,Dorado,Celestial,Asparagus,Ram,Horse,Starry,Star,Rabbit,
-Echo,5,Delta,Tropical Fish,Kelp,Narwhal,Horse,???,Star,Fairy,Static
+Echo,5,Delta,Tropical Fish,Kelp,Narwhal,Horse,Static,Star,Fairy,Static
 Jammie,5,Delta,Magma,Kelp,Goat,Spades,Glitter,Star,Bear,
 Fable,6,Enrichment,Cracked,Rabbit,Crown,Tutu,Ore,Countess,Rabbit,
 Farceratops,6,Entropy,Baguette,Asparagus,Ram,Horse,Matte,Fangs,Triceratops,
@@ -26,7 +26,7 @@ Fishline,6,Entropy,Tropical Fish,Asparagus,Devil,None,Furry,Heart,Cat,
 Floofish,6,Entropy,Tropical Fish,Mouse,None,None,Fuzzy,Monkey,Monkey,
 Foxtrot,6,Echo,Tropical Fish,Horse,Narwhal,Horse,Glitter,Star,Llama,Pink
 Lilith,6,Jammie,Magma,Fleur,Goat,Mohawk,Glitter,Star,Dragonfly,
-Frosty,6,Echo,Tropical Fish,Asparagus,Ram,None,???,Diamond,Fairy,Static
+Frosty,6,Echo,Tropical Fish,Asparagus,Ram,None,Static,Diamond,Fairy,Static
 Glacier,7,Fable,Celestial,Rabbit,Crown,Thorns,Glimmer,Fangs,Rabbit,
 Goldilocks,7,Fable,Circuit,Ribcage,Crown,Tutu,Ore,Countess,Rabbit,
 Goldie,7,Foxtrot,Tropical Fish,Horse,Narwhal,Horse,Slimy,Star,Mouse,Golden
@@ -34,9 +34,9 @@ Goral,7,Foxtrot,Tropical Fish,Horse,Narwhal,Horse,Glitter,Diamond,Cat,
 Grazerface,7,Farceratops,Baguette,Asparagus,Triceratops,Horse,Matte,Fangs,Triceratops,
 Guina,7,Floofish,Cheetah,Mermaid,Narwhal,Whiskers,Fuzzy,Monkey,None,Yellow
 Maximus,7,Lilith,Chromatic,Fleur,Narwhal,Horse,Starry,Heart,Dragonfly,
-Noise,8,Maximus,Patina,Fleur,Narwhal,Spades,???,Heart,Dragonfly,
+Noise,8,Maximus,Patina,Fleur,Narwhal,Spades,Static,Heart,Dragonfly,
 Hailstorm,8,Glacier,Snowfall,Snowflake,Crown,Thorns,Glimmer,Star,Seraph,None
-Hammerhead,8,Guina,Cheetah,Mermaid,Narwhal,Whiskers,???,Star,None,
+Hammerhead,8,Guina,Cheetah,Mermaid,Narwhal,Whiskers,Static,Star,None,
 Harry,8,Goldie,Beach,Horse,Narwhal,None,Furry,Star,Mouse,Yellow
 Hypnos,8,Guina,Okapi,None,Antennae,Whiskers,Scarab,Kawaii,Beaks,
 Icarus,8,Goldie,Tropical Fish,Rabbit,Cow,Skirt,Bedazzled,Star,Seraph,Fire
@@ -47,18 +47,18 @@ Isla,9,Harry,Beach,Shell,Shell,None,Geode,Star,Fairy,
 Jax,9,Icarus,Tropical Fish,None,Triceratops,Curls,Bedazzled,Star,Seraph,
 Jewelfish,9,Icarus,Tropical Fish,Rabbit,Cow,None,Bedazzled,Star,Rabbit,
 Orion,9,Noise,Sunset,Fleur,Bharal,Spades,Starry,Heart,Seraph,Aurora
-Jormungandr,10,Imhotep,Scales,Flame,Bull,Beetle Wings,???,Kawaii,Mouse,
+Jormungandr,10,Imhotep,Scales,Flame,Bull,Beetle Wings,Static,Kawaii,Mouse,
 Jubilee,10,Isla,Breezy,Shell,Buns,Skirt,Glimmer,Fangs,Mouse,
 Kalypso,10,Jax,Tropical Fish,None,None,Curls,Bedazzled,Star,Picks,
 Kaleidoscope,10,Jewelfish,Tropical Fish,Rabbit,Demon,Tentacles,Slimy,Star,Rabbit,
 Kandle,10,Jewelfish,Tropical Fish,Rabbit,Spire,None,Waxy,Star,None,Yellow
-Kira,11,Jormungandr,Scales,Flame,Bull,Dragon,???,Fangs,Beaks,
+Kira,11,Jormungandr,Scales,Flame,Bull,Dragon,Static,Fangs,Beaks,
 Krypto,10,Jewelfish,Gradient,Rabbit,Cow,Horse,Gummy,Star,Rabbit,
 Queezy,10,Jewelfish,Breezy,Peacock,None,Spades,Bedazzled,Star,Bear,
 Predator,10,Orion,Sunset,Peacock,Bharal,Ruff,Starry,Fangs,Bat,
 Phenotype,10,Orion,Sunset,Fleur,Bharal,Spades,Starry,Heart,Seraph,Sunset
 Lampent,11,Kandle,Tropical Fish,Fleur,Spire,None,Waxy,Star,None,
-Lychee,11,Krypto,Bubbles,Rabbit,Straw,Horse,???,Diamond,Rabbit,
+Lychee,11,Krypto,Bubbles,Rabbit,Straw,Horse,Static,Diamond,Rabbit,
 Mastodon,11,Kaleidoscope,Snowfall,Snowflake,Demon,Tentacles,Slimy,Dots,Rabbit,
 Rockstar,11,Queezy,Breezy,Peacock,None,Spades,Bedazzled,Octopus,Bear,
 Night Snow,12,Mastodon,Loops,Snowflake,Demon,Bat Wings,Starry,Dots,Slice,

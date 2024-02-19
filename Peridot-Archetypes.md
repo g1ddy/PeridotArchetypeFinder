@@ -17,7 +17,7 @@
 | :------ | :----- | :--- | :------ | :------- | :-------- | :------ | :----- |
 | Balloon |        |      | Stacked |          | Patchwork | Tutu    |        |
 | Rabbit  | Rabbit |      |         |          |           |         | Rabbit |
-| Static  |        |      |         | ???      |           |         |        |
+| Static  |        |      |         | Static   |           |         |        |
 
 ## Archetypes: Boba, Rabbit, Static, Count: 3
 ### Compatibility Table:
@@ -25,7 +25,7 @@
 | :----- | :----- | :--- | :---- | :------- | :------ | :------ | :----- |
 | Boba   |        |      | Straw |          | Bubbles |         |        |
 | Rabbit | Rabbit |      |       |          |         |         | Rabbit |
-| Static |        |      |       | ???      |         |         |        |
+| Static |        |      |       | Static   |         |         |        |
 
 ### Example(s):
 ![Lychee](./assets/Peridots/lychee-11.jpg)
@@ -36,7 +36,7 @@
 | :-------- | :---- | :---- | :--- | :------- | :------------ | :------ | :---- |
 | Cinnabon  | Mouse | Fangs | Buns |          |               |         | Shell |
 | Clownfish |       |       |      |          | Tropical Fish |         |       |
-| Static    |       |       |      | ???      |               |         |       |
+| Static    |       |       |      | Static   |               |         |       |
 
 ## Archetypes: Clownfish, Cotton Candy, Rabbit, Count: 3
 ### Compatibility Table:
@@ -63,7 +63,7 @@
 | :-------- | :--- | :--- | :--- | :------- | :------------ | :------ | :------ |
 | Clownfish |      |      |      |          | Tropical Fish |         |         |
 | Peacock   |      |      | None |          |               | Spades  | Peacock |
-| Static    |      |      |      | ???      |               |         |         |
+| Static    |      |      |      | Static   |               |         |         |
 
 ## Archetypes: Clownfish, Rabbit, Royalty, Count: 3
 ### Compatibility Table:
@@ -79,10 +79,7 @@
 | :-------- | :----- | :--- | :--- | :------- | :------------ | :------ | :----- |
 | Clownfish |        |      |      |          | Tropical Fish |         |        |
 | Rabbit    | Rabbit |      |      |          |               |         | Rabbit |
-| Static    |        |      |      | ???      |               |         |        |
-
-### Example(s):
-![Jinx007-Buggy Bunny](./assets/Peridots/jinx007-buggy-bunny-5.jpg)
+| Static    |        |      |      | Static   |               |         |        |
 
 ## Archetypes: Clownfish, Ram, Static, Count: 3
 ### Compatibility Table:
@@ -90,7 +87,7 @@
 | :-------- | :--- | :--- | :--- | :------- | :------------ | :------ | :-------- |
 | Clownfish |      |      |      |          | Tropical Fish |         |           |
 | Ram       |      |      | Ram  |          |               |         | Asparagus |
-| Static    |      |      |      | ???      |               |         |           |
+| Static    |      |      |      | Static   |               |         |           |
 
 ### Example(s):
 ![Jinx007-Aries II](./assets/Peridots/jinx007-aries-ii-6.jpg)
@@ -112,7 +109,7 @@
 | :---------- | :--- | :------ | :--- | :------- | :------ | :------ | :------ |
 | Peacock     |      |         | None |          |         | Spades  | Peacock |
 | Psychedelic |      | Octopus |      |          | Breezy  |         | Peacock |
-| Static      |      |         |      | ???      |         |         |         |
+| Static      |      |         |      | Static   |         |         |         |
 
 ### Example(s):
 ![Jinx007-Triumvirate](./assets/Peridots/jinx007-triumvirate-4.jpg)
@@ -123,7 +120,7 @@
 | :-------- | :----- | :--- | :-------- | :------- | :-------- | :------ | :----- |
 | Rabbit    | Rabbit |      |           |          |           |         | Rabbit |
 | Scarecrow |        |      | Pitchfork |          | Patchwork | Quetzal |        |
-| Static    |        |      |           | ???      |           |         |        |
+| Static    |        |      |           | Static   |           |         |        |
 
 ### Example(s):
 ![Escrow](./assets/Peridots/escrow-5.jpg)
@@ -228,7 +225,7 @@
 | Name    | Ear  | Face | Horn    | Material | Pattern   | Plumage | Tail |
 | :------ | :--- | :--- | :------ | :------- | :-------- | :------ | :--- |
 | Balloon |      |      | Stacked |          | Patchwork | Tutu    |      |
-| Static  |      |      |         | ???      |           |         |      |
+| Static  |      |      |         | Static   |           |         |      |
 
 ## Archetypes: Beach, Rabbit, Count: 2
 ### Compatibility Table:
@@ -290,7 +287,7 @@
 | Name   | Ear  | Face | Horn  | Material | Pattern | Plumage | Tail |
 | :----- | :--- | :--- | :---- | :------- | :------ | :------ | :--- |
 | Boba   |      |      | Straw |          | Bubbles |         |      |
-| Static |      |      |       | ???      |         |         |      |
+| Static |      |      |       | Static   |         |         |      |
 
 ## Archetypes: Cactus, Clownfish, Count: 2
 ### Compatibility Table:
@@ -373,7 +370,7 @@
 | Name      | Ear  | Face | Horn | Material | Pattern | Plumage | Tail  |
 | :-------- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
 | Chameleon | None |      | Buns |          | Breezy  | Mohawk  | Shell |
-| Static    |      |      |      | ???      |         |         |       |
+| Static    |      |      |      | Static   |         |         |       |
 
 ## Archetypes: Cinnabon, Clownfish, Count: 2
 ### Compatibility Table:
@@ -408,7 +405,7 @@
 | Name     | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
 | :------- | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
 | Cinnabon | Mouse | Fangs | Buns |          |         |         | Shell |
-| Static   |       |       |      | ???      |         |         |       |
+| Static   |       |       |      | Static   |         |         |       |
 
 ## Archetypes: Clownfish, Cotton Candy, Count: 2
 ### Compatibility Table:
@@ -490,7 +487,7 @@
 | Name      | Ear  | Face | Horn | Material | Pattern       | Plumage | Tail |
 | :-------- | :--- | :--- | :--- | :------- | :------------ | :------ | :--- |
 | Clownfish |      |      |      |          | Tropical Fish |         |      |
-| Static    |      |      |      | ???      |               |         |      |
+| Static    |      |      |      | Static   |               |         |      |
 
 ## Archetypes: Clownfish, Triton, Count: 2
 ### Compatibility Table:
@@ -587,7 +584,7 @@
 | Name   | Ear  | Face | Horn | Material | Pattern | Plumage | Tail  |
 | :----- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
 | Dragon |      |      | Bull |          | Scales  | Dragon  | Flame |
-| Static |      |      |      | ???      |         |         |       |
+| Static |      |      |      | Static   |         |         |       |
 
 ### Example(s):
 ![Kira](./assets/Peridots/kira-11.jpg)
@@ -765,7 +762,7 @@
 | Name    | Ear  | Face | Horn | Material | Pattern | Plumage | Tail    |
 | :------ | :--- | :--- | :--- | :------- | :------ | :------ | :------ |
 | Peacock |      |      | None |          |         | Spades  | Peacock |
-| Static  |      |      |      | ???      |         |         |         |
+| Static  |      |      |      | Static   |         |         |         |
 
 ### Example(s):
 ![Jinx007-Shimmerrosie](./assets/Peridots/jinx007-shimmerrosie-5.jpg)
@@ -782,7 +779,7 @@
 | Name        | Ear  | Face    | Horn | Material | Pattern | Plumage | Tail    |
 | :---------- | :--- | :------ | :--- | :------- | :------ | :------ | :------ |
 | Psychedelic |      | Octopus |      |          | Breezy  |         | Peacock |
-| Static      |      |         |      | ???      |         |         |         |
+| Static      |      |         |      | Static   |         |         |         |
 
 ## Archetypes: Rabbit, Royalty, Count: 2
 ### Compatibility Table:
@@ -803,7 +800,7 @@
 | Name   | Ear    | Face | Horn | Material | Pattern | Plumage | Tail   |
 | :----- | :----- | :--- | :--- | :------- | :------ | :------ | :----- |
 | Rabbit | Rabbit |      |      |          |         |         | Rabbit |
-| Static |        |      |      | ???      |         |         |        |
+| Static |        |      |      | Static   |         |         |        |
 
 ### Example(s):
 ![Jinx007-Rocket Raccoon](./assets/Peridots/jinx007-rocket-raccoon-6.jpg)
@@ -813,7 +810,7 @@
 | Name   | Ear  | Face | Horn | Material | Pattern | Plumage | Tail      |
 | :----- | :--- | :--- | :--- | :------- | :------ | :------ | :-------- |
 | Ram    |      |      | Ram  |          |         |         | Asparagus |
-| Static |      |      |      | ???      |         |         |           |
+| Static |      |      |      | Static   |         |         |           |
 
 ### Example(s):
 ![Frosty](./assets/Peridots/frosty-6.jpg)
@@ -837,14 +834,14 @@
 | Name      | Ear  | Face | Horn      | Material | Pattern   | Plumage | Tail |
 | :-------- | :--- | :--- | :-------- | :------- | :-------- | :------ | :--- |
 | Scarecrow |      |      | Pitchfork |          | Patchwork | Quetzal |      |
-| Static    |      |      |           | ???      |           |         |      |
+| Static    |      |      |           | Static   |           |         |      |
 
 ## Archetypes: Seal, Static, Count: 2
 ### Compatibility Table:
 | Name   | Ear  | Face | Horn | Material | Pattern | Plumage  | Tail    |
 | :----- | :--- | :--- | :--- | :------- | :------ | :------- | :------ |
 | Seal   | None |      |      |          | Cheetah | Whiskers | Mermaid |
-| Static |      |      |      | ???      |         |          |         |
+| Static |      |      |      | Static   |         |          |         |
 
 ### Example(s):
 ![Hammerhead](./assets/Peridots/hammerhead-8.jpg)
@@ -854,13 +851,13 @@
 | Name     | Ear  | Face | Horn | Material | Pattern  | Plumage | Tail      |
 | :------- | :--- | :--- | :--- | :------- | :------- | :------ | :-------- |
 | Snowfall |      | Dots |      |          | Snowfall |         | Snowflake |
-| Static   |      |      |      | ???      |          |         |           |
+| Static   |      |      |      | Static   |          |         |           |
 
 ## Archetypes: Static, Sunset, Count: 2
 ### Compatibility Table:
 | Name   | Ear  | Face | Horn | Material | Pattern | Plumage | Tail  |
 | :----- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
-| Static |      |      |      | ???      |         |         |       |
+| Static |      |      |      | Static   |         |         |       |
 | Sunset |      |      |      |          | Sunset  |         | Fleur |
 
 ### Example(s):
@@ -870,12 +867,12 @@
 ### Compatibility Table:
 | Name        | Ear         | Face | Horn        | Material | Pattern  | Plumage | Tail      |
 | :---------- | :---------- | :--- | :---------- | :------- | :------- | :------ | :-------- |
-| Static      |             |      |             | ???      |          |         |           |
+| Static      |             |      |             | Static   |          |         |           |
 | Triceratops | Triceratops |      | Triceratops |          | Baguette |         | Asparagus |
 
 ## Archetypes: Static, Vampire, Count: 2
 ### Compatibility Table:
 | Name    | Ear  | Face  | Horn | Material | Pattern | Plumage | Tail    |
 | :------ | :--- | :---- | :--- | :------- | :------ | :------ | :------ |
-| Static  |      |       |      | ???      |         |         |         |
+| Static  |      |       |      | Static   |         |         |         |
 | Vampire | Bat  | Fangs |      |          | Sunset  | Ruff    | Peacock |
