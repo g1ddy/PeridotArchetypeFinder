@@ -5,6 +5,18 @@
 | :----- | :--- | :--- | :------ | :------- | :------ | :------ | :---- |
 | Triton |      |      | Trident | Glimmer  |         |         | Whale |
 
+## Peridot: Jubilee, Score: 0.333333333333333
+
+### Peridot Traits:
+| Name    | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
+| :------ | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
+| Jubilee | Mouse | Fangs | Buns | Glimmer  | Breezy  | Skirt   | Shell |
+
+### Compatibility Table:
+| Name     | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
+| :------- | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
+| Cinnabon | Mouse | Fangs | Buns |          |         |         | Shell |
+
 ## Peridot: Iceberg, Score: 0.333333333333333
 
 ### Peridot Traits:
@@ -44,4 +56,3 @@
 | Name    | Ear  | Face | Horn | Material | Pattern | Plumage | Tail  |
 | :------ | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
 | Dolphin | Bear | Star | Goat | Furry    | Beach   | Spades  | Whale |
-

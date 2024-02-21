@@ -5,6 +5,18 @@
 | :-------- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
 | Chameleon | None |      | Buns |          | Breezy  | Mohawk  | Shell |
 
+## Peridot: Jubilee, Score: 0.6
+
+### Peridot Traits:
+| Name    | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
+| :------ | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
+| Jubilee | Mouse | Fangs | Buns | Glimmer  | Breezy  | Skirt   | Shell |
+
+### Compatibility Table:
+| Name     | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
+| :------- | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
+| Cinnabon | Mouse | Fangs | Buns |          |         |         | Shell |
+
 ## Peridot: Trifecta, Score: 0.2
 
 ### Peridot Traits:
@@ -93,18 +105,10 @@
 ### Peridot Traits:
 | Name       | Ear  | Face | Horn    | Material | Pattern | Plumage  | Tail    |
 | :--------- | :--- | :--- | :------ | :------- | :------ | :------- | :------ |
-| Hammerhead | None | Star | Narwhal | ???      | Cheetah | Whiskers | Mermaid |
+| Hammerhead | None | Star | Narwhal | Static   | Cheetah | Whiskers | Mermaid |
 
 ### Compatibility Table:
 | Name   | Ear  | Face | Horn | Material | Pattern | Plumage  | Tail    |
 | :----- | :--- | :--- | :--- | :------- | :------ | :------- | :------ |
 | Seal   | None |      |      |          | Cheetah | Whiskers | Mermaid |
-| Static |      |      |      | ???      |         |          |         |
-
-## Peridot: Guina, Score: 0.2
-
-### Peridot Traits:
-| Name  | Ear  | Face   | Horn    | Material | Pattern | Plumage  | Tail    |
-| :---- | :--- | :----- | :------ | :------- | :------ | :------- | :------ |
-| Guina | None | Monkey | Narwhal | Fuzzy    | Cheetah | Whiskers | Mermaid |
-
+| Static |      |      |      | Static   |         |          |         |

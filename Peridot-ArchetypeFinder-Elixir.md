@@ -37,6 +37,18 @@
 | :----- | :--- | :--- | :---- | :------- | :------------ | :------ | :----- |
 | Kandle | None | Star | Spire | Waxy     | Tropical Fish | None    | Rabbit |
 
+## Peridot: Jubilee, Score: 0.25
+
+### Peridot Traits:
+| Name    | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
+| :------ | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
+| Jubilee | Mouse | Fangs | Buns | Glimmer  | Breezy  | Skirt   | Shell |
+
+### Compatibility Table:
+| Name     | Ear   | Face  | Horn | Material | Pattern | Plumage | Tail  |
+| :------- | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
+| Cinnabon | Mouse | Fangs | Buns |          |         |         | Shell |
+
 ## Peridot: Iceberg, Score: 0.25
 
 ### Peridot Traits:
@@ -69,4 +81,3 @@
 | :----- | :----- | :--- | :---- | :------- | :------ | :------ | :----- |
 | Icicle |        |      | Crown | Glimmer  |         | Thorns  |        |
 | Rabbit | Rabbit |      |       |          |         |         | Rabbit |
-

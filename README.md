@@ -71,8 +71,8 @@ Before running this script please make sure this list is up to date as new Arche
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Cactus' | Set-Content .\Peridot-ArchetypeFinder-Cactus.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Chameleon' | Set-Content .\Peridot-ArchetypeFinder-Chameleon.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Cheetah' | Set-Content .\Peridot-ArchetypeFinder-Cheetah.md
-    Invoke-ArchetypePeridotFinder -TargetArchetype 'Cinnabon' | Set-Content .\Peridot-ArchetypeFinder-Cinnabon.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Elixir' | Set-Content .\Peridot-ArchetypeFinder-Elixir.md
+    Invoke-ArchetypePeridotFinder -TargetArchetype 'Jester' | Set-Content .\Peridot-ArchetypeFinder-Jester.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Triton' | Set-Content .\Peridot-ArchetypeFinder-Triton.md
     ```
 2. Read the output in the Markdown view of your choice
@@ -85,6 +85,7 @@ Before running this script please make sure this list is up to date as new Arche
     Import-Module .\PeridotArchetypeFinder.psm1 -Force
     Invoke-ArchetypeMinimumSpanningTreeFinder | Set-Content .\Peridot-ArchetypeTree.md
     Invoke-ArchetypeMinimumSpanningTreeFinder -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST.md
+    Invoke-ArchetypeMinimumSpanningTreeFinder -PeridotPath ./assets/External.csv -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST-Jinx007.md
     ```
 3. Read the output in the Markdown view of your choice
 4. Sample output can be found [here](./Peridot-ArchetypeTreeMST.md)
@@ -95,6 +96,7 @@ Before running this script please make sure this list is up to date as new Arche
 2. Invoke the Tree Generator function:
     ```powershell
     Invoke-PeridotTreeGenerator | Set-Content .\Peridot-FamilyTree.md
+    Invoke-PeridotTreeGenerator -PeridotPath ./assets/External.csv | Set-Content .\Peridot-FamilyTree-Jinx007.md
     ```
 3. Read the output in the Markdown view of your choice
 4. Sample output can be found [here](./Peridot-FamilyTree.md)

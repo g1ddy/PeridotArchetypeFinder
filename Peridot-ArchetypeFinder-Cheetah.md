@@ -29,13 +29,13 @@
 ### Peridot Traits:
 | Name       | Ear  | Face | Horn    | Material | Pattern | Plumage  | Tail    |
 | :--------- | :--- | :--- | :------ | :------- | :------ | :------- | :------ |
-| Hammerhead | None | Star | Narwhal | ???      | Cheetah | Whiskers | Mermaid |
+| Hammerhead | None | Star | Narwhal | Static   | Cheetah | Whiskers | Mermaid |
 
 ### Compatibility Table:
 | Name   | Ear  | Face | Horn | Material | Pattern | Plumage  | Tail    |
 | :----- | :--- | :--- | :--- | :------- | :------ | :------- | :------ |
 | Seal   | None |      |      |          | Cheetah | Whiskers | Mermaid |
-| Static |      |      |      | ???      |         |          |         |
+| Static |      |      |      | Static   |         |          |         |
 
 ## Peridot: Goral, Score: 0.25
 
@@ -87,4 +87,3 @@
 | :-------- | :--- | :--- | :--- | :------- | :------------ | :------ | :-------- |
 | Clownfish |      |      |      |          | Tropical Fish |         |           |
 | Ram       |      |      | Ram  |          |               |         | Asparagus |
-
