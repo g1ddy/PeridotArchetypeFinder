@@ -34,6 +34,7 @@ jammie-5 --> lilith-6("<img src='./assets/Peridots/lilith-6.jpg'> <br /> Lilith"
 fable-6 --> glacier-7("<img src='./assets/Peridots/glacier-7.jpg'> <br /> Glacier (Icicle,Rabbit)")
 fable-6 --> goldilocks-7("<img src='./assets/Peridots/goldilocks-7.jpg'> <br /> Goldilocks (Royalty)")
 farceratops-6 --> grazerface-7("<img src='./assets/Peridots/grazerface-7.jpg'> <br /> Grazerface (Triceratops)")
+fishline-6 --> guardian-7("<img src='./assets/Peridots/guardian-7.jpg'> <br /> Guardian (Clownfish,Yeti)")
 floofish-6 --> guina-7("<img src='./assets/Peridots/guina-7.jpg'> <br /> Guina")
 foxtrot-6 --> goldie-7("<img src='./assets/Peridots/goldie-7.jpg'> <br /> Goldie")
 foxtrot-6 --> goral-7("<img src='./assets/Peridots/goral-7.jpg'> <br /> Goral (Clownfish,Unicorn)")
@@ -74,4 +75,3 @@ skittles-12 --> trailmix-13("<img src='./assets/Peridots/trailmix-13.jpg'> <br /
 skittles-12 --> turducken-13("<img src='./assets/Peridots/turducken-13.jpg'> <br /> Turducken (LED,Peacock)")
 slushy-12 --> trifecta-13("<img src='./assets/Peridots/trifecta-13.jpg'> <br /> Trifecta")
 ```
-

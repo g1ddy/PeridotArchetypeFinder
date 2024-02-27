@@ -32,7 +32,7 @@ Entropy("Entropy (Clownfish,Ram)") --> Floofish("Floofish (Clownfish,Monkey)")
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Glacier("Glacier (Icicle,Rabbit)")
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Goldilocks("Goldilocks (Royalty)")
 Farceratops("Farceratops (Ram)") --> Grazerface("Grazerface (Triceratops)")
-Fishline("Fishline (Clownfish)") -.-> New_Archetype:_Yeti
+Fishline("Fishline (Clownfish)") --> Guardian("Guardian (Clownfish,Yeti)")
 Floofish("Floofish (Clownfish,Monkey)") --> Guina
 Foxtrot("Foxtrot (Unicorn)") --> Goldie
 Foxtrot("Foxtrot (Unicorn)") --> Goral("Goral (Clownfish,Unicorn)")
@@ -40,8 +40,8 @@ Glacier("Glacier (Icicle,Rabbit)") --> Hailstorm
 Goldie --> Harry
 Goldie --> Icarus
 Guina --> Hammerhead("Hammerhead (Seal,Static)")
-Guina --> Hypnos
 Guina --> Hippogriff("Hippogriff (Cheetah)")
+Guina --> Hypnos
 Hailstorm --> Iceberg("Iceberg (Icicle,Snowfall)")
 Hailstorm -.-> New_Archetype:_Triton
 Harry --> Isla("Isla (Beach)")
@@ -65,10 +65,10 @@ Krypto("Krypto (Dewdrop,Rabbit)") --> Lychee("Lychee (Boba,Rabbit,Static)")
 Lilith --> Maximus
 Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
 Maximus --> Noise("Noise (Static)")
-New_Archetype:_Cactus -.-> New_Archetype:_Banana
+New_Archetype:_Banana -.-> New_Archetype:_Cactus
 New_Archetype:_Elixir -.-> New_Archetype:_Jester
 New_Archetype:_Triton -.-> New_Archetype:_Elixir
-New_Archetype:_Yeti -.-> New_Archetype:_Banana
+Guardian("Guardian (Clownfish,Yeti)") -.-> New_Archetype:_Banana
 Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Noise("Noise (Static)") --> Orion("Orion (Aurora)")
 Orion("Orion (Aurora)") --> Phenotype("Phenotype (Sunset)")
@@ -80,4 +80,3 @@ Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
 ```
-

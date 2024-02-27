@@ -48,10 +48,13 @@ Before running this script please make sure this list is up to date as new Arche
 ## Installation
 
 1. Clone the repo:
+
     ```powershell
     git clone https://github.com/g1ddy/PeridotArchetypeFinder.git
     ```
+
 2. Import module:
+
     ```powershell
     Import-Module .\PeridotArchetypeFinder.psm1 -Force
     ```
@@ -59,33 +62,41 @@ Before running this script please make sure this list is up to date as new Arche
 ## Archetype Combination Finder Usage
 
 1. Invoke the module:
+
     ```powershell
     Invoke-PeridotArchetypeFinder | Set-Content .\Peridot-Archetypes.md
     ```
+
 2. Read the output in the Markdown view of your choice
 
 ## Peridot Archetype Peridot Finder Usage
 
 1. Invoke the module:
+
     ```powershell
+    Import-Module .\PeridotArchetypeFinder.psm1 -Force
+    Invoke-ArchetypePeridotFinder -TargetArchetype 'Banana' | Set-Content .\Peridot-ArchetypeFinder-Banana.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Cactus' | Set-Content .\Peridot-ArchetypeFinder-Cactus.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Chameleon' | Set-Content .\Peridot-ArchetypeFinder-Chameleon.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Elixir' | Set-Content .\Peridot-ArchetypeFinder-Elixir.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Jester' | Set-Content .\Peridot-ArchetypeFinder-Jester.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Triton' | Set-Content .\Peridot-ArchetypeFinder-Triton.md
     ```
+
 2. Read the output in the Markdown view of your choice
 
 ## Archetype Minimum Spanning Tree Usage
 
 1. Populate the [Peridots.csv](./assets/Peridots.csv) with your Peridots
 2. Invoke the MST Tree Generator function:
+
     ```powershell
     Import-Module .\PeridotArchetypeFinder.psm1 -Force
     Invoke-ArchetypeMinimumSpanningTreeFinder | Set-Content .\Peridot-ArchetypeTree.md
     Invoke-ArchetypeMinimumSpanningTreeFinder -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST.md
     Invoke-ArchetypeMinimumSpanningTreeFinder -PeridotPath ./assets/External.csv -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST-Jinx007.md
     ```
+
 3. Read the output in the Markdown view of your choice
 4. Sample output can be found [here](./Peridot-ArchetypeTreeMST.md)
 
@@ -93,10 +104,12 @@ Before running this script please make sure this list is up to date as new Arche
 
 1. Populate the [Peridots.csv](./assets/Peridots.csv) with your Peridots
 2. Invoke the Tree Generator function:
+
     ```powershell
     Invoke-PeridotTreeGenerator | Set-Content .\Peridot-FamilyTree.md
     Invoke-PeridotTreeGenerator -PeridotPath ./assets/External.csv | Set-Content .\Peridot-FamilyTree-Jinx007.md
     ```
+
 3. Read the output in the Markdown view of your choice
 4. Sample output can be found [here](./Peridot-FamilyTree.md)
 
