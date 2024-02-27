@@ -41,7 +41,7 @@ Goldie --> Harry
 Goldie --> Icarus
 Guina --> Hammerhead("Hammerhead (Seal,Static)")
 Guina --> Hypnos
-Guina -.-> New_Archetype:_Cheetah
+Guina --> Hippogriff("Hippogriff (Cheetah)")
 Hailstorm --> Iceberg("Iceberg (Icicle,Snowfall)")
 Hailstorm -.-> New_Archetype:_Triton
 Harry --> Isla("Isla (Beach)")
@@ -80,3 +80,4 @@ Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
 ```
+

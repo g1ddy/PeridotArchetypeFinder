@@ -42,6 +42,7 @@ glacier-7 --> hailstorm-8("<img src='./assets/Peridots/hailstorm-8.jpg'> <br /> 
 goldie-7 --> harry-8("<img src='./assets/Peridots/harry-8.jpg'> <br /> Harry")
 goldie-7 --> icarus-8("<img src='./assets/Peridots/icarus-8.jpg'> <br /> Icarus")
 guina-7 --> hammerhead-8("<img src='./assets/Peridots/hammerhead-8.jpg'> <br /> Hammerhead (Seal,Static)")
+guina-7 --> hippogriff-8("<img src='./assets/Peridots/hippogriff-8.jpg'> <br /> Hippogriff (Cheetah)")
 guina-7 --> hypnos-8("<img src='./assets/Peridots/hypnos-8.jpg'> <br /> Hypnos")
 maximus-7 --> noise-8("<img src='./assets/Peridots/noise-8.jpg'> <br /> Noise (Static)")
 hailstorm-8 --> iceberg-9("<img src='./assets/Peridots/iceberg-9.jpg'> <br /> Iceberg (Icicle,Snowfall)")
