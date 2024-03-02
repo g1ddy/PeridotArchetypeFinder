@@ -48,14 +48,18 @@ function Get-GraphNodes {
     if ($IncludePeridots) {
         $PeridotDictionary.GetEnumerator() |
             ForEach-Object {
+                $hashKey = $_.Key.Replace(', ', ',')
                 $matchingArchetypes = $_.Value.Archetypes
                 $matchingArchetypes | ForEach-Object { $achievedArchetypes.Add($_) | Out-Null }
+
+                if ($_.Value.Archetypes.Count -gt 1) {
+                    $achievedArchetypes.Add($_.Key) | Out-Null
+                }
 
                 $_.Value.Peridots | ForEach-Object {
                     $peridotName = $_.Name
 
                     if ($matchingArchetypes) {
-                        $hashKey = ($matchingArchetypes | Sort-Object) -join ','
                         $peridotName += " (${hashKey})"
                     }
 
@@ -70,7 +74,8 @@ function Get-GraphNodes {
 
     $ArchetypeDictionary.GetEnumerator() |
         Where-Object {
-            $_.Value.Archetypes.Count -eq 1 -and $achievedArchetypes -notcontains $_.Key
+            $undiscoveredArchetypes = ($_.Value.Archetypes | Where-Object { $achievedArchetypes -notcontains $_ })
+            $_.Value.Archetypes.Count -eq 1 -and $undiscoveredArchetypes
         } |
         ForEach-Object {
             $namePrefix = $IncludePeridots ? "New Archetype: " : ""

@@ -149,6 +149,9 @@
 | 24Karat |        |      |      | Chrome   | Solid   |         |        |
 | Rabbit  | Rabbit |      |      |          |         |         | Rabbit |
 
+### Example(s):
+![Jinx007-Golden Idol](./assets/Peridots/jinx007-golden-idol-7.jpg)
+
 ## Archetypes: 24Karat, Ram, Count: 2
 ### Compatibility Table:
 | Name    | Ear  | Face | Horn | Material | Pattern | Plumage | Tail      |
@@ -515,6 +518,9 @@
 | :-------- | :---- | :---- | :---- | :------- | :------------ | :------ | :--- |
 | Clownfish |       |       |       |          | Tropical Fish |         |      |
 | Yeti      | Llama | Heart | Devil | Furry    |               | None    | None |
+
+### Example(s):
+![Guardian](./assets/Peridots/guardian-7.jpg)
 
 ## Archetypes: Cotton Candy, Psychedelic, Count: 2
 ### Compatibility Table:
