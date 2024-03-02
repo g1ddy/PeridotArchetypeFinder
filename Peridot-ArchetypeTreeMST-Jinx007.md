@@ -17,6 +17,7 @@ Jinx007-Fluffish("Jinx007-Fluffish (Clownfish,Cotton Candy,Rabbit)") --> Jinx007
 Jinx007-Fuzz("Jinx007-Fuzz (Static)") --> Jinx007-Lilith("Jinx007-Lilith (Static)")
 Jinx007-Fuzz("Jinx007-Fuzz (Static)") --> Jinx007-Turkey("Jinx007-Turkey (Static)")
 Jinx007-Galaxy_Gargoyle("Jinx007-Galaxy Gargoyle (Celestial)") -.-> New_Archetype:_Triceratops
+Jinx007-Honeybunny("Jinx007-Honeybunny (Bee,Rabbit)") --> Jinx007-Golden_Idol("Jinx007-Golden Idol (24Karat,Rabbit)")
 Jinx007-Jasmine --> Jinx007-Banshee("Jinx007-Banshee (Cheetah)")
 Jinx007-Jasmine --> Jinx007-Fuzz("Jinx007-Fuzz (Static)")
 Jinx007-Jasmine --> Jinx007-Maximilian
@@ -24,7 +25,8 @@ Jinx007-Jasmine -.-> New_Archetype:_Monkey
 Jinx007-Jasmine -.-> New_Archetype:_Paint
 Jinx007-Lilith("Jinx007-Lilith (Static)") --> Jinx007-Dottie("Jinx007-Dottie (Static)")
 Jinx007-Snowstorm("Jinx007-Snowstorm (Gargoyle)") --> Jinx007-Galaxy_Gargoyle("Jinx007-Galaxy Gargoyle (Celestial)")
-Jinx007-Snowstorm("Jinx007-Snowstorm (Gargoyle)") -.-> New_Archetype:_Watermelon
+Jinx007-Shimmerrosie("Jinx007-Shimmerrosie (Peacock,Static)") --> Jinx007-Watermelon("Jinx007-Watermelon (Peacock)")
+Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") -.-> New_Archetype:_Watermelon
 Jinx007-Triumvirate("Jinx007-Triumvirate (Peacock,Psychedelic,Static)") --> Jinx007-Shimmerrosie("Jinx007-Shimmerrosie (Peacock,Static)")
 Jinx007-Triumvirate("Jinx007-Triumvirate (Peacock,Psychedelic,Static)") --> Jinx007-Twilight("Jinx007-Twilight (Static,Sunset)")
 Jinx007-Turkey("Jinx007-Turkey (Static)") --> Jinx007-Triumvirate("Jinx007-Triumvirate (Peacock,Psychedelic,Static)")
@@ -48,7 +50,7 @@ New_Archetype:_Jester -.-> New_Archetype:_Kintsugi
 New_Archetype:_Paint -.-> New_Archetype:_LED
 New_Archetype:_Patchwork -.-> New_Archetype:_Bismuth
 New_Archetype:_Cactus -.-> New_Archetype:_Patchwork
-New_Archetype:_Patina -.-> Jinx007-Fuzz("Jinx007-Fuzz (Static)")
+Jinx007-Fuzz("Jinx007-Fuzz (Static)") -.-> New_Archetype:_Patina
 New_Archetype:_Balloon -.-> New_Archetype:_Scarecrow
 New_Archetype:_Icicle -.-> New_Archetype:_Triton
 New_Archetype:_Vampire -.-> New_Archetype:_Aurora
