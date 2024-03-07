@@ -5,6 +5,18 @@
 | :----- | :--- | :--- | :------ | :------- | :------ | :------ | :---- |
 | Triton |      |      | Trident | Glimmer  |         |         | Whale |
 
+## Peridot: Khroma, Score: 0.333333333333333
+
+### Peridot Traits:
+| Name   | Ear  | Face  | Horn | Material | Pattern | Plumage | Tail  |
+| :----- | :--- | :---- | :--- | :------- | :------ | :------ | :---- |
+| Khroma | None | Fangs | Buns | Glimmer  | Breezy  | Mohawk  | Shell |
+
+### Compatibility Table:
+| Name      | Ear  | Face | Horn | Material | Pattern | Plumage | Tail  |
+| :-------- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
+| Chameleon | None |      | Buns |          | Breezy  | Mohawk  | Shell |
+
 ## Peridot: Jubilee, Score: 0.333333333333333
 
 ### Peridot Traits:

@@ -93,6 +93,19 @@
 | :-------- | :----- | :--- | :---- | :------- | :------- | :------ | :-------- |
 | Hailstorm | Seraph | Star | Crown | Glimmer  | Snowfall | Thorns  | Snowflake |
 
+## Peridot: Guardian, Score: 0.333333333333333
+
+### Peridot Traits:
+| Name     | Ear   | Face  | Horn  | Material | Pattern       | Plumage | Tail |
+| :------- | :---- | :---- | :---- | :------- | :------------ | :------ | :--- |
+| Guardian | Llama | Heart | Devil | Furry    | Tropical Fish | None    | None |
+
+### Compatibility Table:
+| Name      | Ear   | Face  | Horn  | Material | Pattern       | Plumage | Tail |
+| :-------- | :---- | :---- | :---- | :------- | :------------ | :------ | :--- |
+| Clownfish |       |       |       |          | Tropical Fish |         |      |
+| Yeti      | Llama | Heart | Devil | Furry    |               | None    | None |
+
 ## Peridot: Grazerface, Score: 0.333333333333333
 
 ### Peridot Traits:
@@ -104,17 +117,3 @@
 | Name        | Ear         | Face | Horn        | Material | Pattern  | Plumage | Tail      |
 | :---------- | :---------- | :--- | :---------- | :------- | :------- | :------ | :-------- |
 | Triceratops | Triceratops |      | Triceratops |          | Baguette |         | Asparagus |
-
-## Peridot: Glacier, Score: 0.333333333333333
-
-### Peridot Traits:
-| Name    | Ear    | Face  | Horn  | Material | Pattern   | Plumage | Tail   |
-| :------ | :----- | :---- | :---- | :------- | :-------- | :------ | :----- |
-| Glacier | Rabbit | Fangs | Crown | Glimmer  | Celestial | Thorns  | Rabbit |
-
-### Compatibility Table:
-| Name   | Ear    | Face | Horn  | Material | Pattern | Plumage | Tail   |
-| :----- | :----- | :--- | :---- | :------- | :------ | :------ | :----- |
-| Icicle |        |      | Crown | Glimmer  |         | Thorns  |        |
-| Rabbit | Rabbit |      |       |          |         |         | Rabbit |
-

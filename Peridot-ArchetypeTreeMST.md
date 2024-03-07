@@ -58,7 +58,7 @@ Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Kandle
 Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Krypto("Krypto (Dewdrop,Rabbit)")
 Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Queezy("Queezy (Peacock)")
 Jormungandr("Jormungandr (Static)") --> Kira("Kira (Dragon,Static)")
-Jubilee("Jubilee (Cinnabon)") -.-> New_Archetype:_Chameleon
+Jubilee("Jubilee (Cinnabon)") --> Khroma("Khroma (Chameleon)")
 Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Mastodon("Mastodon (Anemone,Snowfall)")
 Kandle --> Lampent("Lampent (Candle,Clownfish)")
 Krypto("Krypto (Dewdrop,Rabbit)") --> Lychee("Lychee (Boba,Rabbit,Static)")
