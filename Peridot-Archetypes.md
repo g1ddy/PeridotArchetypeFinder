@@ -454,6 +454,8 @@
 ### Example(s):
 ![Floofish](./assets/Peridots/floofish-6.jpg)
 
+![Jinx007-Clownking](./assets/Peridots/jinx007-clownking-3.jpg)
+
 ## Archetypes: Clownfish, Peacock, Count: 2
 ### Compatibility Table:
 | Name      | Ear  | Face | Horn | Material | Pattern       | Plumage | Tail    |

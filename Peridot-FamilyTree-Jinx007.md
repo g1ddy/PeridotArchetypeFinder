@@ -7,6 +7,7 @@ jinx007-jasmine-1("<img src='./assets/Peridots/jinx007-jasmine-1.jpg'> <br /> Ji
 jinx007-jasmine-1 --> jinx007-banshee-2("<img src='./assets/Peridots/jinx007-banshee-2.jpg'> <br /> Jinx007-Banshee (Cheetah)")
 jinx007-jasmine-1 --> jinx007-fuzz-2("<img src='./assets/Peridots/jinx007-fuzz-2.jpg'> <br /> Jinx007-Fuzz (Static)")
 jinx007-jasmine-1 --> jinx007-maximilian-2("<img src='./assets/Peridots/jinx007-maximilian-2.jpg'> <br /> Jinx007-Maximilian")
+jinx007-banshee-2 --> jinx007-clownking-3("<img src='./assets/Peridots/jinx007-clownking-3.jpg'> <br /> Jinx007-Clownking (Clownfish,Monkey)")
 jinx007-fuzz-2 --> jinx007-lilith-3("<img src='./assets/Peridots/jinx007-lilith-3.jpg'> <br /> Jinx007-Lilith (Static)")
 jinx007-fuzz-2 --> jinx007-turkey-3("<img src='./assets/Peridots/jinx007-turkey-3.jpg'> <br /> Jinx007-Turkey (Static)")
 jinx007-lilith-3 --> jinx007-dottie-4("<img src='./assets/Peridots/jinx007-dottie-4.jpg'> <br /> Jinx007-Dottie (Static)")
@@ -29,4 +30,3 @@ jinx007-honeybunny-6 --> jinx007-golden-idol-7("<img src='./assets/Peridots/jinx
 jinx007-faun-7 --> jinx007-littlefoot-8("<img src='./assets/Peridots/jinx007-littlefoot-8.jpg'> <br /> Jinx007-Littlefoot (Yeti)")
 jinx007-snowstorm-7 --> jinx007-galaxy-gargoyle-8("<img src='./assets/Peridots/jinx007-galaxy-gargoyle-8.jpg'> <br /> Jinx007-Galaxy Gargoyle (Celestial)")
 ```
-
