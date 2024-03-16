@@ -38,6 +38,14 @@
 | Clownfish |       |       |      |          | Tropical Fish |         |       |
 | Static    |       |       |      | Static   |               |         |       |
 
+## Archetypes: Clownfish, Cotton Candy, Dandelion, Count: 3
+### Compatibility Table:
+| Name         | Ear  | Face | Horn    | Material | Pattern       | Plumage   | Tail      |
+| :----------- | :--- | :--- | :------ | :------- | :------------ | :-------- | :-------- |
+| Clownfish    |      |      |         |          | Tropical Fish |           |           |
+| Cotton Candy |      |      | Narwhal | Furry    |               |           |           |
+| Dandelion    |      |      |         | Furry    |               | Dandelion | Dandelion |
+
 ## Archetypes: Clownfish, Cotton Candy, Rabbit, Count: 3
 ### Compatibility Table:
 | Name         | Ear    | Face | Horn    | Material | Pattern       | Plumage | Tail   |
@@ -274,6 +282,13 @@
 | Boba   |      |      | Straw |          | Bubbles |         |      |
 | Cactus |      |      |       | Matte    |         | Thorns  | None |
 
+## Archetypes: Boba, Dandelion, Count: 2
+### Compatibility Table:
+| Name      | Ear  | Face | Horn  | Material | Pattern | Plumage   | Tail      |
+| :-------- | :--- | :--- | :---- | :------- | :------ | :-------- | :-------- |
+| Boba      |      |      | Straw |          | Bubbles |           |           |
+| Dandelion |      |      |       | Furry    |         | Dandelion | Dandelion |
+
 ## Archetypes: Boba, Glam, Count: 2
 ### Compatibility Table:
 | Name | Ear   | Face | Horn  | Material  | Pattern | Plumage | Tail |
@@ -423,6 +438,16 @@
 | Clownfish    |      |      |         |          | Tropical Fish |         |      |
 | Cotton Candy |      |      | Narwhal | Furry    |               |         |      |
 
+## Archetypes: Clownfish, Dandelion, Count: 2
+### Compatibility Table:
+| Name      | Ear  | Face | Horn | Material | Pattern       | Plumage   | Tail      |
+| :-------- | :--- | :--- | :--- | :------- | :------------ | :-------- | :-------- |
+| Clownfish |      |      |      |          | Tropical Fish |           |           |
+| Dandelion |      |      |      | Furry    |               | Dandelion | Dandelion |
+
+### Example(s):
+![Hydrostatic](./assets/Peridots/hydrostatic-8.jpg)
+
 ## Archetypes: Clownfish, Gargoyle, Count: 2
 ### Compatibility Table:
 | Name      | Ear   | Face | Horn  | Material | Pattern       | Plumage   | Tail |
@@ -526,6 +551,13 @@
 
 ### Example(s):
 ![Guardian](./assets/Peridots/guardian-7.jpg)
+
+## Archetypes: Cotton Candy, Dandelion, Count: 2
+### Compatibility Table:
+| Name         | Ear  | Face | Horn    | Material | Pattern | Plumage   | Tail      |
+| :----------- | :--- | :--- | :------ | :------- | :------ | :-------- | :-------- |
+| Cotton Candy |      |      | Narwhal | Furry    |         |           |           |
+| Dandelion    |      |      |         | Furry    |         | Dandelion | Dandelion |
 
 ## Archetypes: Cotton Candy, Psychedelic, Count: 2
 ### Compatibility Table:
