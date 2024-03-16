@@ -281,6 +281,9 @@
 | Boba |       |      | Straw |           | Bubbles |         |      |
 | Glam | Picks | Star |       | Bedazzled |         | Curls   | None |
 
+### Example(s):
+![Jinx007-Sencha](./assets/Peridots/jinx007-sencha-8.jpg)
+
 ## Archetypes: Boba, Rabbit, Count: 2
 ### Compatibility Table:
 | Name   | Ear    | Face | Horn  | Material | Pattern | Plumage | Tail   |

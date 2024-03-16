@@ -26,6 +26,7 @@ Jinx007-Jasmine --> Jinx007-Fuzz("Jinx007-Fuzz (Static)")
 Jinx007-Jasmine --> Jinx007-Maximilian
 Jinx007-Jasmine -.-> New_Archetype:_Paint
 Jinx007-Lilith("Jinx007-Lilith (Static)") --> Jinx007-Dottie("Jinx007-Dottie (Static)")
+Jinx007-Rorschach("Jinx007-Rorschach (Scarab)") --> Jinx007-Sencha("Jinx007-Sencha (Boba,Glam)")
 Jinx007-Shimmerrosie("Jinx007-Shimmerrosie (Peacock,Static)") --> Jinx007-Watermelon("Jinx007-Watermelon (Peacock)")
 Jinx007-Snowstorm("Jinx007-Snowstorm (Gargoyle)") --> Jinx007-Galaxy_Gargoyle("Jinx007-Galaxy Gargoyle (Celestial)")
 Jinx007-Triumvirate("Jinx007-Triumvirate (Peacock,Psychedelic,Static)") --> Jinx007-Shimmerrosie("Jinx007-Shimmerrosie (Peacock,Static)")
@@ -37,14 +38,13 @@ Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") -.-> New_Archetype:_Watermelo
 New_Archetype:_Royalty -.-> New_Archetype:_Balloon
 New_Archetype:_Balloon -.-> New_Archetype:_Scarecrow
 New_Archetype:_Cactus -.-> New_Archetype:_Banana
-New_Archetype:_Cactus -.-> New_Archetype:_Glam
 New_Archetype:_Cactus -.-> New_Archetype:_Patchwork
-New_Archetype:_Candle -.-> New_Archetype:_Chameleon
+New_Archetype:_Candle -.-> New_Archetype:_Seal
 New_Archetype:_Candle -.-> New_Archetype:_Elixir
-New_Archetype:_Chameleon -.-> New_Archetype:_Seal
+New_Archetype:_Seal -.-> New_Archetype:_Chameleon
 New_Archetype:_Chameleon -.-> New_Archetype:_Cinnabon
 New_Archetype:_Cinnabon -.-> New_Archetype:_Vampire
-New_Archetype:_Glam -.-> New_Archetype:_Dewdrop
+Jinx007-Sencha("Jinx007-Sencha (Boba,Glam)") -.-> New_Archetype:_Dewdrop
 New_Archetype:_Elixir -.-> New_Archetype:_Icicle
 New_Archetype:_Elixir -.-> New_Archetype:_Jester
 New_Archetype:_Icicle -.-> New_Archetype:_Cactus
