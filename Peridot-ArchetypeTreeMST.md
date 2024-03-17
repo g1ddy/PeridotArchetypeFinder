@@ -39,6 +39,8 @@ Foxtrot("Foxtrot (Unicorn)") --> Goral("Goral (Clownfish,Unicorn)")
 Glacier("Glacier (Icicle,Rabbit)") --> Hailstorm
 Goldie --> Harry
 Goldie --> Icarus
+Guardian("Guardian (Clownfish,Yeti)") --> Hydrostatic("Hydrostatic (Clownfish,Dandelion)")
+Guardian("Guardian (Clownfish,Yeti)") -.-> New_Archetype:_Banana
 Guina --> Hammerhead("Hammerhead (Seal,Static)")
 Guina --> Hippogriff("Hippogriff (Cheetah)")
 Guina --> Hypnos
@@ -68,7 +70,6 @@ Maximus --> Noise("Noise (Static)")
 New_Archetype:_Banana -.-> New_Archetype:_Cactus
 New_Archetype:_Triton -.-> New_Archetype:_Elixir
 New_Archetype:_Elixir -.-> New_Archetype:_Jester
-Guardian("Guardian (Clownfish,Yeti)") -.-> New_Archetype:_Banana
 Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Noise("Noise (Static)") --> Orion("Orion (Aurora)")
 Orion("Orion (Aurora)") --> Phenotype("Phenotype (Sunset)")
@@ -79,5 +80,4 @@ Rockstar("Rockstar (Peacock,Psychedelic)") --> Slushy("Slushy (Cotton Candy)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
-Trifecta -.-> New_Archetype:_Dandelion
 ```
