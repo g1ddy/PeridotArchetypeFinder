@@ -44,6 +44,7 @@ New_Archetype:_Candle -.-> New_Archetype:_Elixir
 New_Archetype:_Seal -.-> New_Archetype:_Chameleon
 New_Archetype:_Chameleon -.-> New_Archetype:_Cinnabon
 New_Archetype:_Cinnabon -.-> New_Archetype:_Vampire
+Jinx007-Faun("Jinx007-Faun (Clownfish)") -.-> New_Archetype:_Dandelion
 Jinx007-Sencha("Jinx007-Sencha (Boba,Glam)") -.-> New_Archetype:_Dewdrop
 New_Archetype:_Elixir -.-> New_Archetype:_Icicle
 New_Archetype:_Elixir -.-> New_Archetype:_Jester

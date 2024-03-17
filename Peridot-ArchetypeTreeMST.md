@@ -66,8 +66,8 @@ Lilith --> Maximus
 Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
 Maximus --> Noise("Noise (Static)")
 New_Archetype:_Banana -.-> New_Archetype:_Cactus
-New_Archetype:_Elixir -.-> New_Archetype:_Jester
 New_Archetype:_Triton -.-> New_Archetype:_Elixir
+New_Archetype:_Elixir -.-> New_Archetype:_Jester
 Guardian("Guardian (Clownfish,Yeti)") -.-> New_Archetype:_Banana
 Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Noise("Noise (Static)") --> Orion("Orion (Aurora)")
@@ -79,4 +79,5 @@ Rockstar("Rockstar (Peacock,Psychedelic)") --> Slushy("Slushy (Cotton Candy)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
+Trifecta -.-> New_Archetype:_Dandelion
 ```
