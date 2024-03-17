@@ -16,6 +16,7 @@ Jinx007-Dottie("Jinx007-Dottie (Static)") --> Jinx007-Buggy_Bunny("Jinx007-Buggy
 Jinx007-Dottie("Jinx007-Dottie (Static)") -.-> New_Archetype:_Unicorn
 Jinx007-Faun("Jinx007-Faun (Clownfish)") --> Jinx007-Littlefoot("Jinx007-Littlefoot (Yeti)")
 Jinx007-Fluffish("Jinx007-Fluffish (Clownfish,Cotton Candy,Rabbit)") --> Jinx007-Faun("Jinx007-Faun (Clownfish)")
+Jinx007-Fluffish("Jinx007-Fluffish (Clownfish,Cotton Candy,Rabbit)") --> Jinx007-Gumdrop("Jinx007-Gumdrop (Cotton Candy)")
 Jinx007-Fuzz("Jinx007-Fuzz (Static)") --> Jinx007-Lilith("Jinx007-Lilith (Static)")
 Jinx007-Fuzz("Jinx007-Fuzz (Static)") --> Jinx007-Turkey("Jinx007-Turkey (Static)")
 Jinx007-Galaxy_Gargoyle("Jinx007-Galaxy Gargoyle (Celestial)") -.-> New_Archetype:_Triceratops
@@ -44,7 +45,7 @@ New_Archetype:_Candle -.-> New_Archetype:_Elixir
 New_Archetype:_Seal -.-> New_Archetype:_Chameleon
 New_Archetype:_Chameleon -.-> New_Archetype:_Cinnabon
 New_Archetype:_Cinnabon -.-> New_Archetype:_Vampire
-Jinx007-Faun("Jinx007-Faun (Clownfish)") -.-> New_Archetype:_Dandelion
+Jinx007-Gumdrop("Jinx007-Gumdrop (Cotton Candy)") -.-> New_Archetype:_Dandelion
 Jinx007-Sencha("Jinx007-Sencha (Boba,Glam)") -.-> New_Archetype:_Dewdrop
 New_Archetype:_Elixir -.-> New_Archetype:_Icicle
 New_Archetype:_Elixir -.-> New_Archetype:_Jester
