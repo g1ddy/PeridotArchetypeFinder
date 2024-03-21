@@ -330,6 +330,8 @@
 ### Example(s):
 ![Lampent](./assets/Peridots/lampent-11.jpg)
 
+![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
+
 ## Archetypes: Candle, Psychedelic, Count: 2
 ### Compatibility Table:
 | Name        | Ear  | Face    | Horn  | Material | Pattern | Plumage | Tail    |
