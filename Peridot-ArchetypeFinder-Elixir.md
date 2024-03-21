@@ -61,6 +61,18 @@
 | :------- | :---- | :---- | :--- | :------- | :------ | :------ | :---- |
 | Cinnabon | Mouse | Fangs | Buns |          |         |         | Shell |
 
+## Peridot: Imugi, Score: 0.25
+
+### Peridot Traits:
+| Name  | Ear    | Face | Horn    | Material | Pattern  | Plumage | Tail  |
+| :---- | :----- | :--- | :------ | :------- | :------- | :------ | :---- |
+| Imugi | Seraph | Star | Trident | Glimmer  | Snowfall | Thorns  | Whale |
+
+### Compatibility Table:
+| Name   | Ear  | Face | Horn    | Material | Pattern | Plumage | Tail  |
+| :----- | :--- | :--- | :------ | :------- | :------ | :------ | :---- |
+| Triton |      |      | Trident | Glimmer  |         |         | Whale |
+
 ## Peridot: Iceberg, Score: 0.25
 
 ### Peridot Traits:

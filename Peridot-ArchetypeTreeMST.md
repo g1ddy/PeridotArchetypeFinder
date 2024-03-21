@@ -45,7 +45,7 @@ Guina --> Hammerhead("Hammerhead (Seal,Static)")
 Guina --> Hippogriff("Hippogriff (Cheetah)")
 Guina --> Hypnos
 Hailstorm --> Iceberg("Iceberg (Icicle,Snowfall)")
-Hailstorm -.-> New_Archetype:_Triton
+Hailstorm --> Imugi("Imugi (Triton)")
 Harry --> Isla("Isla (Beach)")
 Hypnos --> Imhotep("Imhotep (Scarab)")
 Hypnos --> Instar("Instar (Bee)")
@@ -68,7 +68,7 @@ Lilith --> Maximus
 Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
 Maximus --> Noise("Noise (Static)")
 New_Archetype:_Banana -.-> New_Archetype:_Cactus
-New_Archetype:_Triton -.-> New_Archetype:_Elixir
+Imugi("Imugi (Triton)") -.-> New_Archetype:_Elixir
 New_Archetype:_Elixir -.-> New_Archetype:_Jester
 Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Noise("Noise (Static)") --> Orion("Orion (Aurora)")

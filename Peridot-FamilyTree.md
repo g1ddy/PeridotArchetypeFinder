@@ -48,6 +48,7 @@ guina-7 --> hippogriff-8("<img src='./assets/Peridots/hippogriff-8.jpg'> <br /> 
 guina-7 --> hypnos-8("<img src='./assets/Peridots/hypnos-8.jpg'> <br /> Hypnos")
 maximus-7 --> noise-8("<img src='./assets/Peridots/noise-8.jpg'> <br /> Noise (Static)")
 hailstorm-8 --> iceberg-9("<img src='./assets/Peridots/iceberg-9.jpg'> <br /> Iceberg (Icicle,Snowfall)")
+hailstorm-8 --> imugi-9("<img src='./assets/Peridots/imugi-9.jpg'> <br /> Imugi (Triton)")
 harry-8 --> isla-9("<img src='./assets/Peridots/isla-9.jpg'> <br /> Isla (Beach)")
 hypnos-8 --> imhotep-9("<img src='./assets/Peridots/imhotep-9.jpg'> <br /> Imhotep (Scarab)")
 hypnos-8 --> instar-9("<img src='./assets/Peridots/instar-9.jpg'> <br /> Instar (Bee)")

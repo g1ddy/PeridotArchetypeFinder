@@ -79,7 +79,6 @@ Before running this script please make sure this list is up to date as new Arche
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Cactus' | Set-Content .\Peridot-ArchetypeFinder-Cactus.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Elixir' | Set-Content .\Peridot-ArchetypeFinder-Elixir.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Jester' | Set-Content .\Peridot-ArchetypeFinder-Jester.md
-    Invoke-ArchetypePeridotFinder -TargetArchetype 'Triton' | Set-Content .\Peridot-ArchetypeFinder-Triton.md
     ```
 
 2. Read the output in the Markdown view of your choice

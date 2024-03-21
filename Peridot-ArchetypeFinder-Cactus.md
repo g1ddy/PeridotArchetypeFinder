@@ -54,6 +54,18 @@
 | :--- | :--- | :--- | :------- | :------- | :------ | :-------- | :--- |
 | Bee  |      |      | Antennae | Fuzzy    | Bee     | Bee Wings |      |
 
+## Peridot: Imugi, Score: 0.333333333333333
+
+### Peridot Traits:
+| Name  | Ear    | Face | Horn    | Material | Pattern  | Plumage | Tail  |
+| :---- | :----- | :--- | :------ | :------- | :------- | :------ | :---- |
+| Imugi | Seraph | Star | Trident | Glimmer  | Snowfall | Thorns  | Whale |
+
+### Compatibility Table:
+| Name   | Ear  | Face | Horn    | Material | Pattern | Plumage | Tail  |
+| :----- | :--- | :--- | :------ | :------- | :------ | :------ | :---- |
+| Triton |      |      | Trident | Glimmer  |         |         | Whale |
+
 ## Peridot: Imhotep, Score: 0.333333333333333
 
 ### Peridot Traits:
@@ -105,15 +117,3 @@
 | :-------- | :---- | :---- | :---- | :------- | :------------ | :------ | :--- |
 | Clownfish |       |       |       |          | Tropical Fish |         |      |
 | Yeti      | Llama | Heart | Devil | Furry    |               | None    | None |
-
-## Peridot: Grazerface, Score: 0.333333333333333
-
-### Peridot Traits:
-| Name       | Ear         | Face  | Horn        | Material | Pattern  | Plumage | Tail      |
-| :--------- | :---------- | :---- | :---------- | :------- | :------- | :------ | :-------- |
-| Grazerface | Triceratops | Fangs | Triceratops | Matte    | Baguette | Horse   | Asparagus |
-
-### Compatibility Table:
-| Name        | Ear         | Face | Horn        | Material | Pattern  | Plumage | Tail      |
-| :---------- | :---------- | :--- | :---------- | :------- | :------- | :------ | :-------- |
-| Triceratops | Triceratops |      | Triceratops |          | Baguette |         | Asparagus |
