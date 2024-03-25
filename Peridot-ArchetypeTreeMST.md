@@ -47,10 +47,13 @@ Guina --> Hypnos
 Hailstorm --> Iceberg("Iceberg (Icicle,Snowfall)")
 Hailstorm --> Imugi("Imugi (Triton)")
 Harry --> Isla("Isla (Beach)")
+Hydrostatic("Hydrostatic (Clownfish,Dandelion)") -.-> New_Archetype:_Axolotl
 Hypnos --> Imhotep("Imhotep (Scarab)")
 Hypnos --> Instar("Instar (Bee)")
+Hypnos -.-> New_Archetype:_Embers
 Icarus --> Jax("Jax (Clownfish)")
 Icarus --> Jewelfish("Jewelfish (Clownfish,Rabbit)")
+Imugi("Imugi (Triton)") -.-> New_Archetype:_Elixir
 Imhotep("Imhotep (Scarab)") --> Jormungandr("Jormungandr (Static)")
 Isla("Isla (Beach)") --> Jubilee("Jubilee (Cinnabon)")
 Jammie --> Lilith
@@ -68,8 +71,9 @@ Lilith --> Maximus
 Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
 Maximus --> Noise("Noise (Static)")
 New_Archetype:_Banana -.-> New_Archetype:_Cactus
-Imugi("Imugi (Triton)") -.-> New_Archetype:_Elixir
+New_Archetype:_Lobster -.-> New_Archetype:_Jellyfish
 New_Archetype:_Elixir -.-> New_Archetype:_Jester
+New_Archetype:_Axolotl -.-> New_Archetype:_Lobster
 Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Noise("Noise (Static)") --> Orion("Orion (Aurora)")
 Orion("Orion (Aurora)") --> Phenotype("Phenotype (Sunset)")
