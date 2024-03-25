@@ -82,7 +82,6 @@ Before running this script please make sure this list is up to date as new Arche
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Axolotl' | Set-Content .\Peridot-ArchetypeFinder-Axolotl.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Embers' | Set-Content .\Peridot-ArchetypeFinder-Embers.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Jellyfish' | Set-Content .\Peridot-ArchetypeFinder-Jellyfish.md
-    Invoke-ArchetypePeridotFinder -TargetArchetype 'Lobster' | Set-Content .\Peridot-ArchetypeFinder-Lobster.md
     ```
 
 2. Read the output in the Markdown view of your choice

@@ -481,6 +481,9 @@
 | Clownfish |         |      |          |          | Tropical Fish |         |         |
 | Lobster   | Pincers |      | Antennae | Slimy    |               |         | Mermaid |
 
+### Example(s):
+![Lagostosa](./assets/Peridots/lagostosa-11.jpg)
+
 ## Archetypes: Clownfish, Monkey, Count: 2
 ### Compatibility Table:
 | Name      | Ear    | Face   | Horn | Material | Pattern       | Plumage | Tail  |
