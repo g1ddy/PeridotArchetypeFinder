@@ -3,48 +3,45 @@
 ```mermaid
 flowchart
 
+Anemone -.-> Axolotl
 Anemone -.-> Gargoyle
-Gargoyle -.-> Watermelon
-Gargoyle -.-> Celestial
-
 Aurora -.-> Celestial
 Aurora -.-> Sunset
-Sunset -.-> Vampire
-
-Monkey -.-> Peacock
-Peacock -.-> Psychedelic
-Psychedelic -.-> Vampire
-
-Cinnabon -.-> Vampire
-Chameleon -.-> Cinnabon
-Chameleon -.-> Seal
-
-Cheetah -.-> Seal
-Cotton_Candy -.-> Unicorn
-Cotton_Candy -.-> Dandelion
-Cotton_Candy -.-> Yeti
-Yeti -.-> Banana
-
+Axolotl -.-> 24Karat
+Balloon -.-> Jellyfish
+Balloon -.-> Royalty
 Cactus -.-> Banana
-Cactus -.-> Patchwork
-Patchwork -.-> Bismuth
-Cactus -.-> Glam
-Glam -.-> Dewdrop
 Cactus -.-> Icicle
-Cactus -.-> Scarab
-Scarab -.-> Bee
-
+Candle -.-> Elixir
+Cheetah -.-> Embers
+Cinnabon -.-> Chameleon
+Dandelion -.-> Cotton_Candy
 Elixir -.-> Icicle
+Embers -.-> Dewdrop
+Embers -.-> Scarab
+Gargoyle -.-> Celestial
+Glam -.-> Cactus
 Icicle -.-> Royalty
 Icicle -.-> Triton
-Elixir -.-> Candle
+Jellyfish -.-> Anemone
 Jester -.-> Elixir
-Candle -.-> Seal
-
-Kintsugi -.-> Jester
-Royalty -.-> Balloon
-Scarecrow -.-> Balloon
-
+Jester -.-> Kintsugi
+Lobster -.-> Anemone
 Paint -.-> LED
+Patchwork -.-> Bismuth
+Patchwork -.-> Cactus
+Peacock -.-> Monkey
+Psychedelic -.-> Peacock
+Scarab -.-> Bee
+Scarab -.-> Cactus
+Scarecrow -.-> Balloon
+Seal -.-> Chameleon
+Seal -.-> Cheetah
+Sunset -.-> Vampire
 Triceratops -.-> Ram
+Unicorn -.-> Cotton_Candy
+Vampire -.-> Psychedelic
+Watermelon -.-> Gargoyle
+Yeti -.-> Banana
+Yeti -.-> Dandelion
 ```
