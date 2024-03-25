@@ -5,6 +5,19 @@
 | :------ | :--- | :----- | :--- | :------- | :------ | :------ | :-------- |
 | Axolotl | None | Kawaii | None | Slimy    | Solid   | Moth    | Scalloped |
 
+## Peridot: Lagostosa, Score: 0.428571428571429
+
+### Peridot Traits:
+| Name      | Ear     | Face   | Horn     | Material | Pattern       | Plumage | Tail    |
+| :-------- | :------ | :----- | :------- | :------- | :------------ | :------ | :------ |
+| Lagostosa | Pincers | Kawaii | Antennae | Slimy    | Tropical Fish | Moth    | Mermaid |
+
+### Compatibility Table:
+| Name      | Ear     | Face | Horn     | Material | Pattern       | Plumage | Tail    |
+| :-------- | :------ | :--- | :------- | :------- | :------------ | :------ | :------ |
+| Clownfish |         |      |          |          | Tropical Fish |         |         |
+| Lobster   | Pincers |      | Antennae | Slimy    |               |         | Mermaid |
+
 ## Peridot: Turducken, Score: 0.142857142857143
 
 ### Peridot Traits:
@@ -106,10 +119,3 @@
 | Name      | Ear  | Face | Horn | Material | Pattern | Plumage | Tail  |
 | :-------- | :--- | :--- | :--- | :------- | :------ | :------ | :---- |
 | Chameleon | None |      | Buns |          | Breezy  | Mohawk  | Shell |
-
-## Peridot: Kandle, Score: 0.142857142857143
-
-### Peridot Traits:
-| Name   | Ear  | Face | Horn  | Material | Pattern       | Plumage | Tail   |
-| :----- | :--- | :--- | :---- | :------- | :------------ | :------ | :----- |
-| Kandle | None | Star | Spire | Waxy     | Tropical Fish | None    | Rabbit |

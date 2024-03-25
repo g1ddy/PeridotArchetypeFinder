@@ -47,10 +47,9 @@ Guina --> Hypnos
 Hailstorm --> Iceberg("Iceberg (Icicle,Snowfall)")
 Hailstorm --> Imugi("Imugi (Triton)")
 Harry --> Isla("Isla (Beach)")
-Hydrostatic("Hydrostatic (Clownfish,Dandelion)") -.-> New_Archetype:_Axolotl
+Hippogriff("Hippogriff (Cheetah)") -.-> New_Archetype:_Embers
 Hypnos --> Imhotep("Imhotep (Scarab)")
 Hypnos --> Instar("Instar (Bee)")
-Hypnos -.-> New_Archetype:_Embers
 Icarus --> Jax("Jax (Clownfish)")
 Icarus --> Jewelfish("Jewelfish (Clownfish,Rabbit)")
 Imugi("Imugi (Triton)") -.-> New_Archetype:_Elixir
@@ -64,16 +63,17 @@ Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Krypto("Krypto (Dewdrop,Rabbit)")
 Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Queezy("Queezy (Peacock)")
 Jormungandr("Jormungandr (Static)") --> Kira("Kira (Dragon,Static)")
 Jubilee("Jubilee (Cinnabon)") --> Khroma("Khroma (Chameleon)")
+Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Lagostosa("Lagostosa (Clownfish,Lobster)")
 Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Mastodon("Mastodon (Anemone,Snowfall)")
 Kandle --> Lampent("Lampent (Candle,Clownfish)")
 Krypto("Krypto (Dewdrop,Rabbit)") --> Lychee("Lychee (Boba,Rabbit,Static)")
+Lagostosa("Lagostosa (Clownfish,Lobster)") -.-> New_Archetype:_Axolotl
 Lilith --> Maximus
 Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
 Maximus --> Noise("Noise (Static)")
 New_Archetype:_Banana -.-> New_Archetype:_Cactus
-New_Archetype:_Lobster -.-> New_Archetype:_Jellyfish
 New_Archetype:_Elixir -.-> New_Archetype:_Jester
-New_Archetype:_Axolotl -.-> New_Archetype:_Lobster
+New_Archetype:_Axolotl -.-> New_Archetype:_Jellyfish
 Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Noise("Noise (Static)") --> Orion("Orion (Aurora)")
 Orion("Orion (Aurora)") --> Phenotype("Phenotype (Sunset)")

@@ -25,6 +25,19 @@
 | Anemone  |      |      | Demon | Slimy    |          | Tentacles |           |
 | Snowfall |      | Dots |       |          | Snowfall |           | Snowflake |
 
+## Peridot: Lagostosa, Score: 0.25
+
+### Peridot Traits:
+| Name      | Ear     | Face   | Horn     | Material | Pattern       | Plumage | Tail    |
+| :-------- | :------ | :----- | :------- | :------- | :------------ | :------ | :------ |
+| Lagostosa | Pincers | Kawaii | Antennae | Slimy    | Tropical Fish | Moth    | Mermaid |
+
+### Compatibility Table:
+| Name      | Ear     | Face | Horn     | Material | Pattern       | Plumage | Tail    |
+| :-------- | :------ | :--- | :------- | :------- | :------------ | :------ | :------ |
+| Clownfish |         |      |          |          | Tropical Fish |         |         |
+| Lobster   | Pincers |      | Antennae | Slimy    |               |         | Mermaid |
+
 ## Peridot: Kaleidoscope, Score: 0.25
 
 ### Peridot Traits:
