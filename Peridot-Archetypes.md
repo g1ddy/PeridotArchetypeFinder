@@ -474,6 +474,13 @@
 | Clownfish |      |      |       |          | Tropical Fish |         |      |
 | Icicle    |      |      | Crown | Glimmer  |               | Thorns  |      |
 
+## Archetypes: Clownfish, Lobster, Count: 2
+### Compatibility Table:
+| Name      | Ear     | Face | Horn     | Material | Pattern       | Plumage | Tail    |
+| :-------- | :------ | :--- | :------- | :------- | :------------ | :------ | :------ |
+| Clownfish |         |      |          |          | Tropical Fish |         |         |
+| Lobster   | Pincers |      | Antennae | Slimy    |               |         | Mermaid |
+
 ## Archetypes: Clownfish, Monkey, Count: 2
 ### Compatibility Table:
 | Name      | Ear    | Face   | Horn | Material | Pattern       | Plumage | Tail  |
