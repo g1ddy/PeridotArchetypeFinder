@@ -80,7 +80,6 @@ Before running this script please make sure this list is up to date as new Arche
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Elixir' | Set-Content .\Peridot-ArchetypeFinder-Elixir.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Jester' | Set-Content .\Peridot-ArchetypeFinder-Jester.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Axolotl' | Set-Content .\Peridot-ArchetypeFinder-Axolotl.md
-    Invoke-ArchetypePeridotFinder -TargetArchetype 'Embers' | Set-Content .\Peridot-ArchetypeFinder-Embers.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Jellyfish' | Set-Content .\Peridot-ArchetypeFinder-Jellyfish.md
     ```
 
