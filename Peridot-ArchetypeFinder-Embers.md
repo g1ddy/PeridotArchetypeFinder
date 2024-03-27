@@ -5,6 +5,13 @@
 | :----- | :--- | :--- | :--- | :------- | :------ | :------ | :----- |
 | Embers | Cat  |      |      | Gummy    | Okapi   |         | Matrix |
 
+## Peridot: Incense, Score: 1
+
+### Peridot Traits:
+| Name    | Ear  | Face   | Horn    | Material | Pattern | Plumage  | Tail   |
+| :------ | :--- | :----- | :------ | :------- | :------ | :------- | :----- |
+| Incense | Cat  | Kawaii | Narwhal | Gummy    | Okapi   | Whiskers | Matrix |
+
 ## Peridot: Krypto, Score: 0.25
 
 ### Peridot Traits:
