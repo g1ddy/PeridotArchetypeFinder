@@ -54,7 +54,7 @@ Icarus --> Jax("Jax (Clownfish)")
 Icarus --> Jewelfish("Jewelfish (Clownfish,Rabbit)")
 Imugi("Imugi (Triton)") -.-> New_Archetype:_Elixir
 Imhotep("Imhotep (Scarab)") --> Jormungandr("Jormungandr (Static)")
-Incense -.-> New_Archetype:_Embers
+Incense --> Jack_Olantern("Jack Olantern (Embers)")
 Isla("Isla (Beach)") --> Jubilee("Jubilee (Cinnabon)")
 Jammie --> Lilith
 Jax("Jax (Clownfish)") --> Kalypso("Kalypso (Clownfish,Glam)")

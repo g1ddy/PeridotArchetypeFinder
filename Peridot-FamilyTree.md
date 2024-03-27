@@ -57,6 +57,7 @@ icarus-8 --> jax-9("<img src='./assets/Peridots/jax-9.jpg'> <br /> Jax (Clownfis
 icarus-8 --> jewelfish-9("<img src='./assets/Peridots/jewelfish-9.jpg'> <br /> Jewelfish (Clownfish,Rabbit)")
 noise-8 --> orion-9("<img src='./assets/Peridots/orion-9.jpg'> <br /> Orion (Aurora)")
 imhotep-9 --> jormungandr-10("<img src='./assets/Peridots/jormungandr-10.jpg'> <br /> Jormungandr (Static)")
+incense-9 --> jack-olantern-10("<img src='./assets/Peridots/jack-olantern-10.jpg'> <br /> Jack Olantern (Embers)")
 isla-9 --> jubilee-10("<img src='./assets/Peridots/jubilee-10.jpg'> <br /> Jubilee (Cinnabon)")
 jax-9 --> kalypso-10("<img src='./assets/Peridots/kalypso-10.jpg'> <br /> Kalypso (Clownfish,Glam)")
 jewelfish-9 --> kaleidoscope-10("<img src='./assets/Peridots/kaleidoscope-10.jpg'> <br /> Kaleidoscope (Anemone,Clownfish,Rabbit)")
