@@ -73,6 +73,8 @@ kaleidoscope-10 --> mastodon-11("<img src='./assets/Peridots/mastodon-11.jpg'> <
 kandle-10 --> lampent-11("<img src='./assets/Peridots/lampent-11.jpg'> <br /> Lampent (Candle,Clownfish)")
 krypto-10 --> lychee-11("<img src='./assets/Peridots/lychee-11.jpg'> <br /> Lychee (Boba,Rabbit,Static)")
 queezy-10 --> rockstar-11("<img src='./assets/Peridots/rockstar-11.jpg'> <br /> Rockstar (Peacock,Psychedelic)")
+lagostosa-11 --> mexilotl-12("<img src='./assets/Peridots/mexilotl-12.jpg'> <br /> Mexilotl (Axolotl)")
+lagostosa-11 --> moonlit-12("<img src='./assets/Peridots/moonlit-12.jpg'> <br /> Moonlit (Jellyfish)")
 mastodon-11 --> night-snow-12("<img src='./assets/Peridots/night-snow-12.jpg'> <br /> Night Snow (Gargoyle)")
 rockstar-11 --> skittles-12("<img src='./assets/Peridots/skittles-12.jpg'> <br /> Skittles")
 rockstar-11 --> slushy-12("<img src='./assets/Peridots/slushy-12.jpg'> <br /> Slushy (Cotton Candy)")
@@ -81,4 +83,3 @@ skittles-12 --> trailmix-13("<img src='./assets/Peridots/trailmix-13.jpg'> <br /
 skittles-12 --> turducken-13("<img src='./assets/Peridots/turducken-13.jpg'> <br /> Turducken (LED,Peacock)")
 slushy-12 --> trifecta-13("<img src='./assets/Peridots/trifecta-13.jpg'> <br /> Trifecta")
 ```
-
