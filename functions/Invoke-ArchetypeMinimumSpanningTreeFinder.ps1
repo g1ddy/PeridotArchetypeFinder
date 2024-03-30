@@ -29,7 +29,7 @@ function Invoke-ArchetypeMinimumSpanningTreeFinder {
 
         # Find MST using Kruskal's algorithm
         $mst = Kruskal $graph
-        $mst = $mst | Sort-Object -Property Source, Destination
+        $mst = Get-SortedGraph -Edges $mst
 
         Format-ArchetypeTree -Edges $mst
     }
@@ -67,6 +67,7 @@ function Get-GraphNodes {
                         Name       = $peridotName
                         Generation = $_.Generation
                         Peridot    = $_
+                        IsArchetype = $false
                     }
                 }
             }
@@ -80,8 +81,9 @@ function Get-GraphNodes {
         ForEach-Object {
             $namePrefix = $IncludePeridots ? "New Archetype: " : ""
             $graphNodes += @{
-                Name    = "${namePrefix}$($_.Key)"
-                Peridot = $_.Value.Peridots[0]
+                Name        = "${namePrefix}$($_.Key)"
+                Peridot     = $_.Value.Peridots[0]
+                IsArchetype = $true
             }
         }
 
@@ -100,12 +102,14 @@ function Get-ArchetypeGraph {
 
     # Iterate through all GraphNodes to create edges
     for ($i = 0; $i -lt $GraphNodesCount; $i++) {
-        $archetype1Name = $GraphNodes[$i].Name
-        $archetype1Peridot = $GraphNodes[$i].Peridot
+        $currentGraphNode = $GraphNodes[$i]
+        $archetype1Name = $currentGraphNode.Name
+        $archetype1Peridot = $currentGraphNode.Peridot
 
         for ($j = $i + 1; $j -lt $GraphNodesCount; $j++) {
-            $archetype2Name = $GraphNodes[$j].Name
-            $archetype2Peridot = $GraphNodes[$j].Peridot
+            $otherGraphNode = $GraphNodes[$j]
+            $archetype2Name = $otherGraphNode.Name
+            $archetype2Peridot = $otherGraphNode.Peridot
 
             $isParent = ($archetype2Peridot.Parent -eq $archetype1Peridot.Name) -and ($archetype2Peridot.Generation - 1 -eq $archetype1Peridot.Generation)
             $isChild = ($archetype1Peridot.Parent -eq $archetype2Peridot.Name) -and ($archetype1Peridot.Generation - 1 -eq $archetype2Peridot.Generation)
@@ -124,8 +128,8 @@ function Get-ArchetypeGraph {
 
             $edges += $edge
 
-            # Relationship is one directional if the distance is 0
-            if ($edge.Weight -eq 0) {
+            # Relationship is one directional if is parent or peridot points to an archetype
+            if ($isParent -or !$currentGraphNode.IsArchetype) {
                 continue
             }
 
@@ -212,8 +216,9 @@ function Format-ArchetypeTree {
                     $destinationName += "(""$($edge.Destination)"")"
                 }
 
-                # Write-Output "${sourceName} --['$($edge.Weight)']--> ${destinationName}"
-                $link = $edge.Weight -eq 0 ? '-->': '-.->'
+                # $linkLength = '.' * [Math]::Ceiling($edge.Weight / 3)
+                $linkLength = $edge.Weight -eq 0 ? '' : '.'
+                $link = "-${linkLength}->"
                 Write-Output "${sourceName} ${link} ${destinationName}"
             }
 

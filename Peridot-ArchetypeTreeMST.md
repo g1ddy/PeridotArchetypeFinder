@@ -29,6 +29,7 @@ Enrichment("Enrichment (Kintsugi,Royalty)") --> Fable("Fable (Kintsugi,Rabbit,Ro
 Entropy("Entropy (Clownfish,Ram)") --> Farceratops("Farceratops (Ram)")
 Entropy("Entropy (Clownfish,Ram)") --> Fishline("Fishline (Clownfish)")
 Entropy("Entropy (Clownfish,Ram)") --> Floofish("Floofish (Clownfish,Monkey)")
+Jammie --> Lilith
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Glacier("Glacier (Icicle,Rabbit)")
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Goldilocks("Goldilocks (Royalty)")
 Farceratops("Farceratops (Ram)") --> Grazerface("Grazerface (Triceratops)")
@@ -36,14 +37,16 @@ Fishline("Fishline (Clownfish)") --> Guardian("Guardian (Clownfish,Yeti)")
 Floofish("Floofish (Clownfish,Monkey)") --> Guina
 Foxtrot("Foxtrot (Unicorn)") --> Goldie
 Foxtrot("Foxtrot (Unicorn)") --> Goral("Goral (Clownfish,Unicorn)")
+Lilith --> Maximus
 Glacier("Glacier (Icicle,Rabbit)") --> Hailstorm
 Goldie --> Harry
 Goldie --> Icarus
 Guardian("Guardian (Clownfish,Yeti)") --> Hydrostatic("Hydrostatic (Clownfish,Dandelion)")
-Guardian("Guardian (Clownfish,Yeti)") -.-> New_Archetype:_Banana
 Guina --> Hammerhead("Hammerhead (Seal,Static)")
 Guina --> Hippogriff("Hippogriff (Cheetah)")
 Guina --> Hypnos
+Maximus --> Noise("Noise (Static)")
+Guardian("Guardian (Clownfish,Yeti)") -.-> New_Archetype:_Banana
 Hailstorm --> Iceberg("Iceberg (Icicle,Snowfall)")
 Hailstorm --> Imugi("Imugi (Triton)")
 Harry --> Isla("Isla (Beach)")
@@ -52,36 +55,33 @@ Hypnos --> Imhotep("Imhotep (Scarab)")
 Hypnos --> Instar("Instar (Bee)")
 Icarus --> Jax("Jax (Clownfish)")
 Icarus --> Jewelfish("Jewelfish (Clownfish,Rabbit)")
-Imugi("Imugi (Triton)") -.-> New_Archetype:_Elixir
+Noise("Noise (Static)") --> Orion("Orion (Aurora)")
+New_Archetype:_Banana -.-> New_Archetype:_Cactus
 Imhotep("Imhotep (Scarab)") --> Jormungandr("Jormungandr (Static)")
 Incense --> Jack_Olantern("Jack Olantern (Embers)")
 Isla("Isla (Beach)") --> Jubilee("Jubilee (Cinnabon)")
-Jammie --> Lilith
 Jax("Jax (Clownfish)") --> Kalypso("Kalypso (Clownfish,Glam)")
 Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)")
 Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Kandle
 Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Krypto("Krypto (Dewdrop,Rabbit)")
 Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Queezy("Queezy (Peacock)")
+Orion("Orion (Aurora)") --> Phenotype("Phenotype (Sunset)")
+Orion("Orion (Aurora)") --> Predator("Predator (Vampire)")
+Iceberg("Iceberg (Icicle,Snowfall)") -.-> New_Archetype:_Elixir
 Jormungandr("Jormungandr (Static)") --> Kira("Kira (Dragon,Static)")
 Jubilee("Jubilee (Cinnabon)") --> Khroma("Khroma (Chameleon)")
 Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Lagostosa("Lagostosa (Clownfish,Lobster)")
 Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Mastodon("Mastodon (Anemone,Snowfall)")
 Kandle --> Lampent("Lampent (Candle,Clownfish)")
 Krypto("Krypto (Dewdrop,Rabbit)") --> Lychee("Lychee (Boba,Rabbit,Static)")
-Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mexilotl("Mexilotl (Axolotl)")
-Lilith --> Maximus
-Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
-Maximus --> Noise("Noise (Static)")
-Lagostosa("Lagostosa (Clownfish,Lobster)") --> Moonlit("Moonlit (Jellyfish)")
-New_Archetype:_Banana -.-> New_Archetype:_Cactus
-New_Archetype:_Elixir -.-> New_Archetype:_Jester
-Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
-Noise("Noise (Static)") --> Orion("Orion (Aurora)")
-Orion("Orion (Aurora)") --> Phenotype("Phenotype (Sunset)")
-Orion("Orion (Aurora)") --> Predator("Predator (Vampire)")
 Queezy("Queezy (Peacock)") --> Rockstar("Rockstar (Peacock,Psychedelic)")
+New_Archetype:_Elixir -.-> New_Archetype:_Jester
+Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mexilotl("Mexilotl (Axolotl)")
+Lagostosa("Lagostosa (Clownfish,Lobster)") --> Moonlit("Moonlit (Jellyfish)")
+Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
 Rockstar("Rockstar (Peacock,Psychedelic)") --> Skittles
 Rockstar("Rockstar (Peacock,Psychedelic)") --> Slushy("Slushy (Cotton Candy)")
+Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
