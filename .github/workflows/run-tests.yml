@@ -1,0 +1,28 @@
+name: Run Pester Tests
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup PowerShell
+      uses: actions/setup-powershell@v2
+      with:
+        powershell-version: '7.1.3'
+
+    - name: Install Pester
+      run: Install-Module Pester -Force -SkipPublisherCheck
+
+    - name: Run Pester Tests
+      run: |
+        Import-Module Pester
+        Invoke-Pester -Output Detailed
