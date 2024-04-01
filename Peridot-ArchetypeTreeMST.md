@@ -56,7 +56,7 @@ Hypnos --> Instar("Instar (Bee)")
 Icarus --> Jax("Jax (Clownfish)")
 Icarus --> Jewelfish("Jewelfish (Clownfish,Rabbit)")
 Noise("Noise (Static)") --> Orion("Orion (Aurora)")
-New_Archetype:_Banana -.-> New_Archetype:_Cactus
+New_Archetype:_Cactus -.-> New_Archetype:_Banana
 Imhotep("Imhotep (Scarab)") --> Jormungandr("Jormungandr (Static)")
 Incense --> Jack_Olantern("Jack Olantern (Embers)")
 Isla("Isla (Beach)") --> Jubilee("Jubilee (Cinnabon)")

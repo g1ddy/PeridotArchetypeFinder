@@ -47,8 +47,9 @@ Class Peridot {
     }
 
     [double] GetMatchPercentage([object]$archetype) {
-        $properties = $archetype | Get-Member -MemberType Properties | Select-Object -ExpandProperty Name
-            | Where-Object { $archetype.$_ -and $_ -notin @('Name', 'Color') }
+        $properties = $archetype | Get-Member -MemberType Properties |
+            Select-Object -ExpandProperty Name |
+            Where-Object { $archetype.$_ -and $_ -notin @('Name', 'Color') }
 
         # force to return as array
         $properties = @($properties)
@@ -71,8 +72,13 @@ Class Peridot {
     }
 
     [double] GetDistance([Peridot]$otherArchetype) {
-        $properties = $otherArchetype | Get-Member -MemberType Properties | Select-Object -ExpandProperty Name
-            | Where-Object {$_ -notin @('Name', 'Color') }
+        if ($this.Name -eq $otherArchetype.Parent -and ($this.Generation -eq $otherArchetype.Generation - 1)) {
+            return 0
+        }
+
+        $properties = $otherArchetype | Get-Member -MemberType Properties |
+            Select-Object -ExpandProperty Name |
+            Where-Object { $_ -notin @('Name', 'Color', 'Generation', 'Parent') }
 
         # force to return as array
         $properties = @($properties)
@@ -90,12 +96,11 @@ Class Peridot {
             }
         }
 
-        if ($matchingProperties -eq 0)
-        {
+        if ($matchingProperties -eq 0) {
             return -1
         }
 
         $matchDistance = $totalProperties - $matchingProperties - $complexityIndex
-        return $matchDistance
+        return $matchDistance + 1
     }
 }

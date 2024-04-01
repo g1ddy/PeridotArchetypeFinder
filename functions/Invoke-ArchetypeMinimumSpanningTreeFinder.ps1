@@ -111,10 +111,8 @@ function Get-ArchetypeGraph {
             $archetype2Name = $otherGraphNode.Name
             $archetype2Peridot = $otherGraphNode.Peridot
 
-            $isParent = ($archetype2Peridot.Parent -eq $archetype1Peridot.Name) -and ($archetype2Peridot.Generation - 1 -eq $archetype1Peridot.Generation)
-            $isChild = ($archetype1Peridot.Parent -eq $archetype2Peridot.Name) -and ($archetype1Peridot.Generation - 1 -eq $archetype2Peridot.Generation)
-
-            $archetypeDistance = $isParent -or $isChild ? 0 : $archetype1Peridot.GetDistance($archetype2Peridot)
+            $archetypeDistance = $archetype1Peridot.GetDistance($archetype2Peridot)
+            $isParent = $archetypeDistance -eq 0
 
             $edge = New-Object Edge $archetype1Name, $archetype2Name, $archetypeDistance
 

@@ -96,4 +96,92 @@ Describe 'Peridot' {
             $result | Should -Be $true
         }
     }
+
+    Context 'GetDistance' {        
+        It 'Should return 1 when Peridot is the same' {
+            $peridot = [Peridot]::new()
+            $peridot.Ear = 'Long'
+            $peridot.Face = 'Round'
+            $peridot.Horn = 'Curved'
+            $peridot.Material = 'Metal'
+            $peridot.Pattern = 'Striped'
+            $peridot.Plumage = 'Smooth'
+            $peridot.Tail = 'Long'
+            
+            $otherPeridot = [Peridot]::new()
+            $otherPeridot.Ear = $peridot.Ear
+            $otherPeridot.Face = $peridot.Face
+            $otherPeridot.Horn = $peridot.Horn
+            $otherPeridot.Material = $peridot.Material
+            $otherPeridot.Pattern = $peridot.Pattern
+            $otherPeridot.Plumage = $peridot.Plumage
+            $otherPeridot.Tail = $peridot.Tail
+            $otherPeridot.Color = $peridot.Color
+
+            $result = $peridot.GetDistance($otherPeridot)
+
+            $result | Should -Be 1
+        }
+
+        It 'Should return -1 when peridot has no similar traits' {
+            $peridot = [Peridot]::new()
+            $peridot.Generation = 2
+            $peridot.Name = 'Child'
+            $peridot.Parent = 'Parent'
+            $peridot.Ear = 'Long'
+            $peridot.Face = 'Round'
+            $peridot.Horn = 'Curved'
+            
+            $otherPeridot = [Peridot]::new()
+            $otherPeridot.Generation = 1
+            $otherPeridot.Name = 'Parent'
+            $otherPeridot.Ear = 'Short'
+            $otherPeridot.Face = 'Square'
+            $otherPeridot.Horn = 'Straight'
+
+            $result = $peridot.GetDistance($otherPeridot)
+
+            $result | Should -Be -1
+        }
+        
+        It 'Should return 0 when Peridot is parent' {
+            $peridot = [Peridot]::new()
+            $peridot.Generation = 1
+            $peridot.Name = 'Parent'
+            $peridot.Ear = 'Long'
+            $peridot.Face = 'Round'
+            $peridot.Horn = 'Curved'
+            
+            $otherPeridot = [Peridot]::new()
+            $otherPeridot.Generation = 2
+            $otherPeridot.Name = 'Child'
+            $otherPeridot.Parent = 'Parent'
+            $otherPeridot.Ear = 'Short'
+            $otherPeridot.Face = 'Square'
+            $otherPeridot.Horn = 'Straight'
+
+            $result = $peridot.GetDistance($otherPeridot)
+
+            $result | Should -Be 0
+        }
+
+        It 'Should return lower distance when source is simpler' {
+            $complexPeridot = [Peridot]::new()
+            $complexPeridot.Ear = 'Long'
+            $complexPeridot.Face = 'Round'
+            $complexPeridot.Horn = 'Curved'
+            
+            $simplerPeridot = [Peridot]::new()
+            $simplerPeridot.Ear = $complexPeridot.Ear
+            $simplerPeridot.Face = $complexPeridot.Face
+            
+            $targetPeridot = [Peridot]::new()
+            $targetPeridot.Ear = $complexPeridot.Ear
+
+            $complexSource = $complexPeridot.GetDistance($targetPeridot)
+            $simplerSource = $simplerPeridot.GetDistance($targetPeridot)
+            
+            $simplerSource | Should -BeLessThan $complexSource
+        }
+    }
 }
