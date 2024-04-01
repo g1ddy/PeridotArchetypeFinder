@@ -75,12 +75,9 @@ Before running this script please make sure this list is up to date as new Arche
 
     ```powershell
     Import-Module .\PeridotArchetypeFinder.psm1 -Force
-    Invoke-ArchetypePeridotFinder -TargetArchetype 'Banana' | Set-Content .\Peridot-ArchetypeFinder-Banana.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Cactus' | Set-Content .\Peridot-ArchetypeFinder-Cactus.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Elixir' | Set-Content .\Peridot-ArchetypeFinder-Elixir.md
     Invoke-ArchetypePeridotFinder -TargetArchetype 'Jester' | Set-Content .\Peridot-ArchetypeFinder-Jester.md
-    Invoke-ArchetypePeridotFinder -TargetArchetype 'Axolotl' | Set-Content .\Peridot-ArchetypeFinder-Axolotl.md
-    Invoke-ArchetypePeridotFinder -TargetArchetype 'Jellyfish' | Set-Content .\Peridot-ArchetypeFinder-Jellyfish.md
     ```
 
 2. Read the output in the Markdown view of your choice

@@ -39,7 +39,7 @@ Jinx007-Gumdrop("Jinx007-Gumdrop (Cotton Candy)") --> Jinx007-Herbelion("Jinx007
 Jinx007-Rorschach("Jinx007-Rorschach (Scarab)") --> Jinx007-Sencha("Jinx007-Sencha (Boba,Glam)")
 Jinx007-Rorschach("Jinx007-Rorschach (Scarab)") --> Jinx007-Sunfire("Jinx007-Sunfire (Lobster)")
 Jinx007-Snowstorm("Jinx007-Snowstorm (Gargoyle)") --> Jinx007-Galaxy_Gargoyle("Jinx007-Galaxy Gargoyle (Celestial)")
-Jinx007-Sencha("Jinx007-Sencha (Boba,Glam)") --> Jinx007-Thistle("Jinx007-Thistle (Boba,Cactus)")
+Jinx007-Sencha("Jinx007-Sencha (Boba,Glam)") --> Jinx007-Thistle("Jinx007-Thistle (Cactus)")
 Jinx007-Littlefoot("Jinx007-Littlefoot (Yeti)") -...-> New_Archetype:_Banana
 New_Archetype:_Patchwork -..-> New_Archetype:_Balloon
 New_Archetype:_Patchwork -...-> New_Archetype:_Bismuth
