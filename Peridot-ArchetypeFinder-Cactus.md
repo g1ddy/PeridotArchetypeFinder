@@ -5,6 +5,18 @@
 | :----- | :--- | :--- | :--- | :------- | :------ | :------ | :--- |
 | Cactus |      |      |      | Matte    |         | Thorns  | None |
 
+## Peridot: Eclair, Score: 0.666666666666667
+
+### Peridot Traits:
+| Name   | Ear    | Face  | Horn   | Material | Pattern | Plumage | Tail |
+| :----- | :----- | :---- | :----- | :------- | :------ | :------ | :--- |
+| Eclair | Square | Heart | Banana | Matte    | Banana  | None    | None |
+
+### Compatibility Table:
+| Name   | Ear  | Face | Horn   | Material | Pattern | Plumage | Tail |
+| :----- | :--- | :--- | :----- | :------- | :------ | :------ | :--- |
+| Banana |      |      | Banana | Matte    | Banana  | None    | None |
+
 ## Peridot: Slushy, Score: 0.333333333333333
 
 ### Peridot Traits:
@@ -104,16 +116,3 @@
 | Name      | Ear    | Face | Horn  | Material | Pattern  | Plumage | Tail      |
 | :-------- | :----- | :--- | :---- | :------- | :------- | :------ | :-------- |
 | Hailstorm | Seraph | Star | Crown | Glimmer  | Snowfall | Thorns  | Snowflake |
-
-## Peridot: Guardian, Score: 0.333333333333333
-
-### Peridot Traits:
-| Name     | Ear   | Face  | Horn  | Material | Pattern       | Plumage | Tail |
-| :------- | :---- | :---- | :---- | :------- | :------------ | :------ | :--- |
-| Guardian | Llama | Heart | Devil | Furry    | Tropical Fish | None    | None |
-
-### Compatibility Table:
-| Name      | Ear   | Face  | Horn  | Material | Pattern       | Plumage | Tail |
-| :-------- | :---- | :---- | :---- | :------- | :------------ | :------ | :--- |
-| Clownfish |       |       |       |          | Tropical Fish |         |      |
-| Yeti      | Llama | Heart | Devil | Furry    |               | None    | None |

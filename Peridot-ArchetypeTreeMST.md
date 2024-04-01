@@ -20,6 +20,7 @@ Damascus("Damascus (Kintsugi,Ram)") --> Enrichment("Enrichment (Kintsugi,Royalty
 Damascus("Damascus (Kintsugi,Ram)") --> Escorpio
 Delta --> Echo("Echo (Static)")
 Delta --> Jammie
+Dill-Hulk("Dill-Hulk (Patchwork)") --> Eclair("Eclair (Banana)")
 Dill-Hulk("Dill-Hulk (Patchwork)") --> Escrow("Escrow (Rabbit,Scarecrow,Static)")
 Dorado("Dorado (24Karat,Ram)") --> Entropy("Entropy (Clownfish,Ram)")
 Dorado("Dorado (24Karat,Ram)") --> Ether("Ether (Celestial,Ram)")
@@ -30,6 +31,7 @@ Entropy("Entropy (Clownfish,Ram)") --> Farceratops("Farceratops (Ram)")
 Entropy("Entropy (Clownfish,Ram)") --> Fishline("Fishline (Clownfish)")
 Entropy("Entropy (Clownfish,Ram)") --> Floofish("Floofish (Clownfish,Monkey)")
 Jammie --> Lilith
+Eclair("Eclair (Banana)") -..-> New_Archetype:_Cactus
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Glacier("Glacier (Icicle,Rabbit)")
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Goldilocks("Goldilocks (Royalty)")
 Farceratops("Farceratops (Ram)") --> Grazerface("Grazerface (Triceratops)")
@@ -46,7 +48,7 @@ Guina --> Hammerhead("Hammerhead (Seal,Static)")
 Guina --> Hippogriff("Hippogriff (Cheetah)")
 Guina --> Hypnos
 Maximus --> Noise("Noise (Static)")
-Guardian("Guardian (Clownfish,Yeti)") -...-> New_Archetype:_Banana
+Glacier("Glacier (Icicle,Rabbit)") -...-> New_Archetype:_Elixir
 Hailstorm --> Iceberg("Iceberg (Icicle,Snowfall)")
 Hailstorm --> Imugi("Imugi (Triton)")
 Harry --> Isla("Isla (Beach)")
@@ -56,7 +58,7 @@ Hypnos --> Instar("Instar (Bee)")
 Icarus --> Jax("Jax (Clownfish)")
 Icarus --> Jewelfish("Jewelfish (Clownfish,Rabbit)")
 Noise("Noise (Static)") --> Orion("Orion (Aurora)")
-New_Archetype:_Banana -..-> New_Archetype:_Cactus
+New_Archetype:_Elixir -...-> New_Archetype:_Jester
 Imhotep("Imhotep (Scarab)") --> Jormungandr("Jormungandr (Static)")
 Incense --> Jack_Olantern("Jack Olantern (Embers)")
 Isla("Isla (Beach)") --> Jubilee("Jubilee (Cinnabon)")
@@ -74,7 +76,6 @@ Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Mastodon("Mastodon (
 Kandle --> Lampent("Lampent (Candle,Clownfish)")
 Krypto("Krypto (Dewdrop,Rabbit)") --> Lychee("Lychee (Boba,Rabbit,Static)")
 Queezy("Queezy (Peacock)") --> Rockstar("Rockstar (Peacock,Psychedelic)")
-Predator("Predator (Vampire)") -...-> New_Archetype:_Jester
 Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mexilotl("Mexilotl (Axolotl)")
 Lagostosa("Lagostosa (Clownfish,Lobster)") --> Moonlit("Moonlit (Jellyfish)")
 Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
@@ -84,6 +85,4 @@ Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
-New_Archetype:_Elixir -...-> New_Archetype:_Jester
 ```
-

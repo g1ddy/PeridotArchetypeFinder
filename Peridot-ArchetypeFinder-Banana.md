@@ -5,6 +5,18 @@
 | :----- | :--- | :--- | :----- | :------- | :------ | :------ | :--- |
 | Banana |      |      | Banana | Matte    | Banana  | None    | None |
 
+## Peridot: Eclair, Score: 1
+
+### Peridot Traits:
+| Name   | Ear    | Face  | Horn   | Material | Pattern | Plumage | Tail |
+| :----- | :----- | :---- | :----- | :------- | :------ | :------ | :--- |
+| Eclair | Square | Heart | Banana | Matte    | Banana  | None    | None |
+
+### Compatibility Table:
+| Name   | Ear  | Face | Horn   | Material | Pattern | Plumage | Tail |
+| :----- | :--- | :--- | :----- | :------- | :------ | :------ | :--- |
+| Banana |      |      | Banana | Matte    | Banana  | None    | None |
+
 ## Peridot: Guardian, Score: 0.4
 
 ### Peridot Traits:
@@ -106,15 +118,3 @@
 | Name      | Ear  | Face | Horn | Material | Pattern       | Plumage | Tail |
 | :-------- | :--- | :--- | :--- | :------- | :------------ | :------ | :--- |
 | Clownfish |      |      |      |          | Tropical Fish |         |      |
-
-## Peridot: Isla, Score: 0.2
-
-### Peridot Traits:
-| Name | Ear   | Face | Horn  | Material | Pattern | Plumage | Tail  |
-| :--- | :---- | :--- | :---- | :------- | :------ | :------ | :---- |
-| Isla | Fairy | Star | Shell | Geode    | Beach   | None    | Shell |
-
-### Compatibility Table:
-| Name  | Ear  | Face | Horn  | Material | Pattern | Plumage | Tail |
-| :---- | :--- | :--- | :---- | :------- | :------ | :------ | :--- |
-| Beach |      |      | Shell | Geode    | Beach   |         |      |

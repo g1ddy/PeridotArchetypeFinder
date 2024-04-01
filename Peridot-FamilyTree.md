@@ -21,6 +21,7 @@ damascus-4 --> enrichment-5("<img src='./assets/Peridots/enrichment-5.jpg'> <br 
 damascus-4 --> escorpio-5("<img src='./assets/Peridots/escorpio-5.jpg'> <br /> Escorpio")
 delta-4 --> echo-5("<img src='./assets/Peridots/echo-5.jpg'> <br /> Echo (Static)")
 delta-4 --> jammie-5("<img src='./assets/Peridots/jammie-5.jpg'> <br /> Jammie")
+dill-hulk-4 --> eclair-5("<img src='./assets/Peridots/eclair-5.jpg'> <br /> Eclair (Banana)")
 dill-hulk-4 --> escrow-5("<img src='./assets/Peridots/escrow-5.jpg'> <br /> Escrow (Rabbit,Scarecrow,Static)")
 dorado-4 --> entropy-5("<img src='./assets/Peridots/entropy-5.jpg'> <br /> Entropy (Clownfish,Ram)")
 dorado-4 --> ether-5("<img src='./assets/Peridots/ether-5.jpg'> <br /> Ether (Celestial,Ram)")
