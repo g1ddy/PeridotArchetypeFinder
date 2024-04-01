@@ -14,7 +14,15 @@ function Get-SortedGraph {
         $currentEdges = ($Edges | Where-Object { $newSources.Contains($_.Source) })
 
         if (!$currentEdges) {
-            $newSource = $Edges[0].Source
+            $newRoot = $Edges[0]
+
+            if ($newRoot.Weight -ne 0) {
+                $mostCommon = $Edges | Group-Object -Property Source |
+                    Sort-Object -Property @{Expression = { $_.Count }; Descending = $true }, Name
+                $newRoot = $mostCommon[0].Group[0]
+            }
+            
+            $newSource = $newRoot.Source
             $currentEdges = ($Edges | Where-Object { $_.Source -eq $newSource }) ?? @()
         }
 

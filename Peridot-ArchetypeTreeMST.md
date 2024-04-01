@@ -56,7 +56,6 @@ Hypnos --> Instar("Instar (Bee)")
 Icarus --> Jax("Jax (Clownfish)")
 Icarus --> Jewelfish("Jewelfish (Clownfish,Rabbit)")
 Noise("Noise (Static)") --> Orion("Orion (Aurora)")
-New_Archetype:_Cactus -.-> New_Archetype:_Banana
 Imhotep("Imhotep (Scarab)") --> Jormungandr("Jormungandr (Static)")
 Incense --> Jack_Olantern("Jack Olantern (Embers)")
 Isla("Isla (Beach)") --> Jubilee("Jubilee (Cinnabon)")
@@ -85,4 +84,5 @@ Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
+New_Archetype:_Cactus -.-> New_Archetype:_Banana
 ```
