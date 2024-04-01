@@ -47,13 +47,13 @@ Class Peridot {
     }
 
     [double] GetMatchPercentage([object]$archetype) {
-        $properties = $archetype | Get-Member -MemberType Properties |
+        $definedProperties = $archetype | Get-Member -MemberType Properties |
             Select-Object -ExpandProperty Name |
-            Where-Object { $archetype.$_ -and $_ -notin @('Name', 'Color') }
+            Where-Object { $archetype.$_ -and $_ -notin @('Name', 'Color', 'Generation', 'Parent') }
 
         # force to return as array
-        $properties = @($properties)
-        $totalProperties = $properties.Count
+        $definedProperties = @($definedProperties)
+        $totalProperties = $definedProperties.Count
 
         if ($totalProperties -eq 0) {
             return 1
@@ -61,7 +61,7 @@ Class Peridot {
 
         $matchingProperties = 0
 
-        foreach ($property in $properties) {
+        foreach ($property in $definedProperties) {
             if ($this.$property -eq $archetype.$property) {
                 $matchingProperties++
             }
@@ -71,12 +71,12 @@ Class Peridot {
         return $matchPercentage
     }
 
-    [double] GetDistance([Peridot]$otherArchetype) {
-        if ($this.Name -eq $otherArchetype.Parent -and ($this.Generation -eq $otherArchetype.Generation - 1)) {
+    [double] GetDistance([Peridot]$otherPeridot) {
+        if ($this.Name -eq $otherPeridot.Parent -and ($this.Generation -eq $otherPeridot.Generation - 1)) {
             return 0
         }
 
-        $properties = $otherArchetype | Get-Member -MemberType Properties |
+        $properties = $otherPeridot | Get-Member -MemberType Properties |
             Select-Object -ExpandProperty Name |
             Where-Object { $_ -notin @('Name', 'Color', 'Generation', 'Parent') }
 
@@ -85,29 +85,18 @@ Class Peridot {
         $totalProperties = $properties.Count
 
         $complexityIndex = 0
-        $definedProperties = 0
-        $matchingProperties = 0
 
         foreach ($property in $properties) {
             if (!$this.$property) {
                 $complexityIndex++
             }
-
-            if (!$otherArchetype.$property) {
-                continue
-            }
-            elseif ($this.$property -eq $otherArchetype.$property) {
-                $matchingProperties++
-            }
-
-            $definedProperties++
         }
 
-        if ($matchingProperties -eq 0) {
+        $matchPercentage = $this.GetMatchPercentage($otherPeridot)
+        if ($matchPercentage -eq 0) {
             return -1
         }
 
-        $matchPercentage = ($matchingProperties / $definedProperties)
         $complexityIndex /= $totalProperties
         return 3 - $matchPercentage * 2 - $complexityIndex
     }

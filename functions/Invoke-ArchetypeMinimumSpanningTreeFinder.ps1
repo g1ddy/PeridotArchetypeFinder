@@ -214,8 +214,7 @@ function Format-ArchetypeTree {
                     $destinationName += "(""$($edge.Destination)"")"
                 }
 
-                # $linkLength = '.' * [Math]::Ceiling($edge.Weight / 3)
-                $linkLength = $edge.Weight -eq 0 ? '' : '.'
+                $linkLength = '.' * [Math]::Ceiling($edge.Weight)
                 $link = "-${linkLength}->"
                 Write-Output "${sourceName} ${link} ${destinationName}"
             }
