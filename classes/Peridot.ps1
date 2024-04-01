@@ -85,22 +85,30 @@ Class Peridot {
         $totalProperties = $properties.Count
 
         $complexityIndex = 0
+        $definedProperties = 0
         $matchingProperties = 0
 
         foreach ($property in $properties) {
-            if (!$this.$property -and !$otherArchetype.$property) {
-                $complexityIndex = $complexityIndex + 0.3
+            if (!$this.$property) {
+                $complexityIndex++
+            }
+
+            if (!$otherArchetype.$property) {
+                continue
             }
             elseif ($this.$property -eq $otherArchetype.$property) {
                 $matchingProperties++
             }
+
+            $definedProperties++
         }
 
         if ($matchingProperties -eq 0) {
             return -1
         }
 
-        $matchDistance = $totalProperties - $matchingProperties - $complexityIndex
-        return $matchDistance + 1
+        $matchPercentage = ($matchingProperties / $definedProperties)
+        $complexityIndex /= $totalProperties
+        return 3 - $matchPercentage * 2 - $complexityIndex
     }
 }
