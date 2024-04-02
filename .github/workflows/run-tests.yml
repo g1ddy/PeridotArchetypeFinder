@@ -14,6 +14,11 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v4
 
+      - name: Install required modules
+        run: |
+          Install-Module -Name FormatMarkdownTable -Force -Scope CurrentUser
+        shell: pwsh
+
       - name: Perform a Pester test from the Tests.ps1 file
         shell: pwsh
         run: |
