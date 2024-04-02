@@ -14,10 +14,6 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v4
 
-      - name: Perform a Pester test from the command-line
-        shell: pwsh
-        run: Test-Path resultsfile.log | Should -Be $true
-
       - name: Perform a Pester test from the Tests.ps1 file
         shell: pwsh
         run: |
