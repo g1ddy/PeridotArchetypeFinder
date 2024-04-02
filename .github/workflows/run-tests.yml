@@ -2,27 +2,23 @@ name: Run Pester Tests
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
-  test:
-    runs-on: windows-latest
-
+  pester-test:
+    name: Pester test
+    runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Check out repository code
+        uses: actions/checkout@v4
 
-    - name: Setup PowerShell
-      uses: actions/setup-powershell@v2
-      with:
-        powershell-version: '7.1.3'
+      - name: Perform a Pester test from the command-line
+        shell: pwsh
+        run: Test-Path resultsfile.log | Should -Be $true
 
-    - name: Install Pester
-      run: Install-Module Pester -Force -SkipPublisherCheck
-
-    - name: Run Pester Tests
-      run: |
-        Import-Module Pester
-        Invoke-Pester -Output Detailed
+      - name: Perform a Pester test from the Tests.ps1 file
+        shell: pwsh
+        run: |
+          Invoke-Pester -Passthru
