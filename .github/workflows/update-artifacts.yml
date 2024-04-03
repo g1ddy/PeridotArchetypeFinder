@@ -2,6 +2,9 @@ name: Update Artifacts
 
 on:
   push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
 jobs:
   update-markdown-files:
