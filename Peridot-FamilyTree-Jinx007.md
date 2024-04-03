@@ -36,3 +36,4 @@ jinx007-rorschach-7 --> jinx007-sunfire-8("<img src='./assets/Peridots/jinx007-s
 jinx007-snowstorm-7 --> jinx007-galaxy-gargoyle-8("<img src='./assets/Peridots/jinx007-galaxy-gargoyle-8.jpg'> <br /> Jinx007-Galaxy Gargoyle (Celestial)")
 jinx007-sencha-8 --> jinx007-thistle-9("<img src='./assets/Peridots/jinx007-thistle-9.jpg'> <br /> Jinx007-Thistle (Cactus)")
 ```
+
