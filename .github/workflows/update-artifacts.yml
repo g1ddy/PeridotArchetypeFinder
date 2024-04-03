@@ -41,10 +41,15 @@ jobs:
           Invoke-ArchetypeMinimumSpanningTreeFinder -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST.md
           Invoke-ArchetypeMinimumSpanningTreeFinder -PeridotPath ./assets/External.csv -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST-Jinx007.md
 
+          # Update the Peridot-ArchetypeFinder-*.md files
+          Invoke-ArchetypePeridotFinder -TargetArchetype 'Cactus' | Set-Content .\Peridot-ArchetypeFinder-Cactus.md
+          Invoke-ArchetypePeridotFinder -TargetArchetype 'Elixir' | Set-Content .\Peridot-ArchetypeFinder-Elixir.md
+          Invoke-ArchetypePeridotFinder -TargetArchetype 'Jester' | Set-Content .\Peridot-ArchetypeFinder-Jester.md
+
       - name: Commit and push if it changed
         run: |
           git config user.name "GitHub Actions"
           git config user.email "github-actions@github.com"
           git add -A
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update files"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Markdown Files"
           git push
