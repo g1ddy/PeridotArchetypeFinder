@@ -2,9 +2,9 @@ name: Run Tests
 
 on:
   push:
-    branches: [main]
+    branches: [ main ]
   pull_request:
-    branches: [main]
+    branches: [ main ]
 
 jobs:
   run-pester-tests:
@@ -19,7 +19,7 @@ jobs:
         run: |
           Install-Module -Name FormatMarkdownTable -Force -Scope CurrentUser
 
-      - name: Perform a Pester test from the Tests.ps1 file
+      - name: Invoke Pester to run all tests
         shell: pwsh
         run: |
           Invoke-Pester -Passthru
