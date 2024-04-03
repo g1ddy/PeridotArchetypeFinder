@@ -1,4 +1,4 @@
-name: Run Pester Tests
+name: Run Tests
 
 on:
   push:
@@ -7,43 +7,19 @@ on:
     branches: [main]
 
 jobs:
-  pester-test:
-    name: Pester test
+  run-pester-tests:
+    name: Run Pester Tests
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository code
-        uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v5
 
       - name: Install required modules
+        shell: pwsh
         run: |
           Install-Module -Name FormatMarkdownTable -Force -Scope CurrentUser
-        shell: pwsh
 
       - name: Perform a Pester test from the Tests.ps1 file
         shell: pwsh
         run: |
           Invoke-Pester -Passthru
-
-      - name: Run Additional Commands
-        shell: pwsh
-        run: |
-          Import-Module .\PeridotArchetypeFinder.psm1 -Force
-          # Update the Peridot-Archetypes.md file with the latest Multi Archetype combinations
-          Invoke-PeridotArchetypeFinder | Set-Content .\Peridot-Archetypes.md
-
-          # Update the Peridot-FamilyTree.md file with the latest Peridots
-          Invoke-PeridotTreeGenerator | Set-Content .\Peridot-FamilyTree.md
-          Invoke-PeridotTreeGenerator -PeridotPath ./assets/External.csv | Set-Content .\Peridot-FamilyTree-Jinx007.md
-
-          # Update the Peridot-ArchetypeTree.md file with the latest Peridot Archetype combinations
-          Invoke-ArchetypeMinimumSpanningTreeFinder | Set-Content .\Peridot-ArchetypeTree.md
-          Invoke-ArchetypeMinimumSpanningTreeFinder -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST.md
-          Invoke-ArchetypeMinimumSpanningTreeFinder -PeridotPath ./assets/External.csv -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST-Jinx007.md
-
-      - name: Commit and push if it changed
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "github-actions@github.com"
-          git add -A
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update files"
-          git push
