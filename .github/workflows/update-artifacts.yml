@@ -1,0 +1,55 @@
+name: Update Artifacts
+
+on:
+  workflow_run:
+    workflows: ["Run Tests"]
+    types:
+      - completed
+
+jobs:
+  update-markdown-files:
+    name: Update Markdown Files
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Install required modules
+        shell: pwsh
+        run: |
+          Install-Module -Name FormatMarkdownTable -Force -Scope CurrentUser
+
+      - name: Import Module and Update Markdown files
+        shell: pwsh
+        run: |
+          Import-Module .\PeridotArchetypeFinder.psm1 -Force
+          # Update the Peridot-Archetypes.md file with the latest Multi Archetype combinations
+          Invoke-PeridotArchetypeFinder | Set-Content .\Peridot-Archetypes.md
+
+          # Update the Peridot-FamilyTree.md files
+          Invoke-PeridotTreeGenerator | Set-Content .\Peridot-FamilyTree.md
+          Invoke-PeridotTreeGenerator -PeridotPath ./assets/External.csv | Set-Content .\Peridot-FamilyTree-Jinx007.md
+
+          # Update the Peridot-ArchetypeTree.md files
+          Invoke-ArchetypeMinimumSpanningTreeFinder | Set-Content .\Peridot-ArchetypeTree.md
+          Invoke-ArchetypeMinimumSpanningTreeFinder -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST.md
+          Invoke-ArchetypeMinimumSpanningTreeFinder -PeridotPath ./assets/External.csv -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST-Jinx007.md
+
+          # Update the Peridot-ArchetypeFinder-*.md files
+          Invoke-ArchetypePeridotFinder -TargetArchetype 'Cactus' | Set-Content .\Peridot-ArchetypeFinder-Cactus.md
+          Invoke-ArchetypePeridotFinder -TargetArchetype 'Elixir' | Set-Content .\Peridot-ArchetypeFinder-Elixir.md
+          Invoke-ArchetypePeridotFinder -TargetArchetype 'Jester' | Set-Content .\Peridot-ArchetypeFinder-Jester.md
+
+      - name: Commit and push if it changed
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions@github.com"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Markdown Files"
+          git push

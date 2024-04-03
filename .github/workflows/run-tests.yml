@@ -1,25 +1,25 @@
-name: Run Pester Tests
+name: Run Tests
 
 on:
   push:
-    branches: [main]
+    branches: [ main ]
   pull_request:
-    branches: [main]
+    branches: [ main ]
 
 jobs:
-  pester-test:
-    name: Pester test
+  run-pester-tests:
+    name: Run Pester Tests
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository code
+      - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Install required modules
+        shell: pwsh
         run: |
           Install-Module -Name FormatMarkdownTable -Force -Scope CurrentUser
-        shell: pwsh
 
-      - name: Perform a Pester test from the Tests.ps1 file
+      - name: Invoke Pester to run all tests
         shell: pwsh
         run: |
           Invoke-Pester -Passthru
