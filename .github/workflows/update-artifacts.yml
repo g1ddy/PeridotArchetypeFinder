@@ -21,22 +21,18 @@ jobs:
         run: |
           Install-Module -Name FormatMarkdownTable -Force -Scope CurrentUser
 
-      - name: Update Peridot-Archetypes.md
+      - name: Import Module and Update Markdown files
         shell: pwsh
         run: |
           Import-Module .\PeridotArchetypeFinder.psm1 -Force
           # Update the Peridot-Archetypes.md file with the latest Multi Archetype combinations
           Invoke-PeridotArchetypeFinder | Set-Content .\Peridot-Archetypes.md
 
-      - name: Update the Peridot-FamilyTree.md files
-        shell: pwsh
-        run: |
+          # Update the Peridot-FamilyTree.md files
           Invoke-PeridotTreeGenerator | Set-Content .\Peridot-FamilyTree.md
           Invoke-PeridotTreeGenerator -PeridotPath ./assets/External.csv | Set-Content .\Peridot-FamilyTree-Jinx007.md
 
-      - name: Update the Peridot-ArchetypeTree.md files
-        shell: pwsh
-        run: |
+          # Update the Peridot-ArchetypeTree.md files
           Invoke-ArchetypeMinimumSpanningTreeFinder | Set-Content .\Peridot-ArchetypeTree.md
           Invoke-ArchetypeMinimumSpanningTreeFinder -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST.md
           Invoke-ArchetypeMinimumSpanningTreeFinder -PeridotPath ./assets/External.csv -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST-Jinx007.md
