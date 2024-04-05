@@ -1,10 +1,7 @@
 name: Update Artifacts
 
 on:
-  workflow_run:
-    workflows: ["Run Tests"]
-    types:
-      - completed
+  workflow_call:
 
 jobs:
   update-markdown-files:
