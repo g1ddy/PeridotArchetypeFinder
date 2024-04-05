@@ -12,3 +12,5 @@ jobs:
   update-artifacts:
     uses: ./.github/workflows/update-artifacts.yml
     needs: run-pester-tests
+    permissions:
+      contents: write
