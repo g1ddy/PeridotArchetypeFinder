@@ -1,0 +1,16 @@
+name: Run Tests
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  run-pester-tests:
+    uses: ./.github/workflows/run-tests.yml
+  update-artifacts:
+    uses: ./.github/workflows/update-artifacts.yml
+    needs: run-pester-tests
+    permissions:
+      contents: write

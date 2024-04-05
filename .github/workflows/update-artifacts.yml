@@ -1,16 +1,12 @@
 name: Update Artifacts
 
 on:
-  workflow_run:
-    workflows: ["Run Tests"]
-    types:
-      - completed
+  workflow_call:
 
 jobs:
   update-markdown-files:
     name: Update Markdown Files
     runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     permissions:
       contents: write
 
