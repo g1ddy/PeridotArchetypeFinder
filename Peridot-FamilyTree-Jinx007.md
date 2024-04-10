@@ -14,6 +14,7 @@ jinx007-lilith-3 --> jinx007-dottie-4("<img src='./assets/Peridots/jinx007-dotti
 jinx007-turkey-3 --> jinx007-triumvirate-4("<img src='./assets/Peridots/jinx007-triumvirate-4.jpg'> <br /> Jinx007-Triumvirate (Peacock,Psychedelic,Static)")
 jinx007-dottie-4 --> jinx007-buggy-bunny-5("<img src='./assets/Peridots/jinx007-buggy-bunny-5.jpg'> <br /> Jinx007-Buggy Bunny (Clownfish,Rabbit,Static)")
 jinx007-triumvirate-4 --> jinx007-shimmerrosie-5("<img src='./assets/Peridots/jinx007-shimmerrosie-5.jpg'> <br /> Jinx007-Shimmerrosie (Peacock,Static)")
+jinx007-triumvirate-4 --> jinx007-spyro-5("<img src='./assets/Peridots/jinx007-spyro-5.jpg'> <br /> Jinx007-Spyro (Dragon,Static)")
 jinx007-triumvirate-4 --> jinx007-twilight-5("<img src='./assets/Peridots/jinx007-twilight-5.jpg'> <br /> Jinx007-Twilight (Static,Sunset)")
 jinx007-buggy-bunny-5 --> jinx007-aries-ii-6("<img src='./assets/Peridots/jinx007-aries-ii-6.jpg'> <br /> Jinx007-Aries II (Clownfish,Ram,Static)")
 jinx007-buggy-bunny-5 --> jinx007-burnout-6("<img src='./assets/Peridots/jinx007-burnout-6.jpg'> <br /> Jinx007-Burnout")
