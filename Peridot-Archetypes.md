@@ -887,6 +887,9 @@
 |Royalty||Countess|Crown|Ore||Tutu||
 |Sunset|||||Sunset||Fleur|
 
+### Example(s):
+![Jinx007-Vici](./assets/Peridots/jinx007-vici-7.jpg)
+
 ## Archetypes: Scarecrow, Static, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
