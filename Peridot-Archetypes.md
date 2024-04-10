@@ -647,6 +647,8 @@
 ### Example(s):
 ![Kira](./assets/Peridots/kira-11.jpg)
 
+![Jinx007-Spyro](./assets/Peridots/jinx007-spyro-5.jpg)
+
 ## Archetypes: Elixir, Rabbit, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
