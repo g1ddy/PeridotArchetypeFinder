@@ -733,7 +733,7 @@
 |Rabbit|Rabbit||||||Rabbit|
 
 ### Example(s):
-![Jinx007-Wreck-It Ralph](./assets/Peridots/jinx007-wreck-it-ralph-10.jpg)
+![Jinx007-Wreck-It Ralph](./assets/Peridots/jinx007-wreck-it-ralph-8.jpg)
 
 ## Archetypes: Kintsugi, Ram, Count: 2
 ### Compatibility Table:
