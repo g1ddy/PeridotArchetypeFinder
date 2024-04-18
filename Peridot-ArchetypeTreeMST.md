@@ -32,7 +32,6 @@ Entropy("Entropy (Clownfish,Ram)") --> Fishline("Fishline (Clownfish)")
 Entropy("Entropy (Clownfish,Ram)") --> Floofish("Floofish (Clownfish,Monkey)")
 Jammie --> Lilith
 Eclair("Eclair (Banana)") -..-> New_Archetype:_Cactus
-Enrichment("Enrichment (Kintsugi,Royalty)") -...-> New_Archetype:_Jester
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Glacier("Glacier (Icicle,Rabbit)")
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Goldilocks("Goldilocks (Royalty)")
 Farceratops("Farceratops (Ram)") --> Grazerface("Grazerface (Triceratops)")
@@ -41,6 +40,7 @@ Floofish("Floofish (Clownfish,Monkey)") --> Guina
 Foxtrot("Foxtrot (Unicorn)") --> Goldie
 Foxtrot("Foxtrot (Unicorn)") --> Goral("Goral (Clownfish,Unicorn)")
 Lilith --> Maximus
+Fable("Fable (Kintsugi,Rabbit,Royalty)") -...-> New_Archetype:_Jester
 Glacier("Glacier (Icicle,Rabbit)") --> Hailstorm
 Goldie --> Harry
 Goldie --> Icarus
@@ -85,6 +85,9 @@ Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
 Turducken("Turducken (LED,Peacock)") --> Uluguru("Uluguru (LED)")
+Uluguru("Uluguru (LED)") --> Volare("Volare (LED)")
+Volare("Volare (LED)") --> Wallflower
+Wallflower --> Xenomorphic
 New_Archetype:_Elixir -...-> New_Archetype:_Jester
 ```
 
