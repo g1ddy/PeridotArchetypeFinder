@@ -35,6 +35,7 @@ Jinx007-Dark_Blizzard("Jinx007-Dark Blizzard (Anemone,Snowfall)") --> Jinx007-Sn
 Jinx007-Fluffish("Jinx007-Fluffish (Clownfish,Cotton Candy,Rabbit)") --> Jinx007-Faun("Jinx007-Faun (Clownfish)")
 Jinx007-Fluffish("Jinx007-Fluffish (Clownfish,Cotton Candy,Rabbit)") --> Jinx007-Gumdrop("Jinx007-Gumdrop (Cotton Candy)")
 Jinx007-Honeybunny("Jinx007-Honeybunny (Bee,Rabbit)") --> Jinx007-Golden_Idol("Jinx007-Golden Idol (24Karat,Rabbit)")
+Jinx007-Tulum("Jinx007-Tulum (Static)") --> Jinx007-Urchin("Jinx007-Urchin (Static)")
 Jinx007-Usurper("Jinx007-Usurper (Sunset)") --> Jinx007-Vici("Jinx007-Vici (Royalty,Sunset)")
 Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") -.-> New_Archetype:_Watermelon
 Jinx007-Aries_II("Jinx007-Aries II (Clownfish,Ram,Static)") -...-> New_Archetype:_Triceratops
@@ -46,10 +47,10 @@ Jinx007-Snowstorm("Jinx007-Snowstorm (Gargoyle)") --> Jinx007-Galaxy_Gargoyle("J
 Jinx007-Vici("Jinx007-Vici (Royalty,Sunset)") -..-> New_Archetype:_Kintsugi
 Jinx007-Sencha("Jinx007-Sencha (Boba,Glam)") --> Jinx007-Thistle("Jinx007-Thistle (Cactus)")
 Jinx007-Thistle("Jinx007-Thistle (Cactus)") -...-> New_Archetype:_Banana
-New_Archetype:_Jester -..-> New_Archetype:_Kintsugi
-New_Archetype:_Jester -...-> New_Archetype:_Elixir
-New_Archetype:_Jester -...-> New_Archetype:_Vampire
 New_Archetype:_Elixir -..-> New_Archetype:_Triton
+New_Archetype:_Elixir -...-> New_Archetype:_Jester
+New_Archetype:_Jester -..-> New_Archetype:_Kintsugi
+New_Archetype:_Jester -...-> New_Archetype:_Vampire
 New_Archetype:_Jellyfish -..-> New_Archetype:_Balloon
 New_Archetype:_Jellyfish -...-> New_Archetype:_Axolotl
 New_Archetype:_Patchwork -..-> New_Archetype:_Scarecrow

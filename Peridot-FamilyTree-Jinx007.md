@@ -32,6 +32,7 @@ jinx007-dark-blizzard-6 --> jinx007-snowstorm-7("<img src='./assets/Peridots/jin
 jinx007-fluffish-6 --> jinx007-faun-7("<img src='./assets/Peridots/jinx007-faun-7.jpg'> <br /> Jinx007-Faun (Clownfish)")
 jinx007-fluffish-6 --> jinx007-gumdrop-7("<img src='./assets/Peridots/jinx007-gumdrop-7.jpg'> <br /> Jinx007-Gumdrop (Cotton Candy)")
 jinx007-honeybunny-6 --> jinx007-golden-idol-7("<img src='./assets/Peridots/jinx007-golden-idol-7.jpg'> <br /> Jinx007-Golden Idol (24Karat,Rabbit)")
+jinx007-tulum-6 --> jinx007-urchin-7("<img src='./assets/Peridots/jinx007-urchin-7.jpg'> <br /> Jinx007-Urchin (Static)")
 jinx007-usurper-6 --> jinx007-vici-7("<img src='./assets/Peridots/jinx007-vici-7.jpg'> <br /> Jinx007-Vici (Royalty,Sunset)")
 jinx007-faun-7 --> jinx007-littlefoot-8("<img src='./assets/Peridots/jinx007-littlefoot-8.jpg'> <br /> Jinx007-Littlefoot (Yeti)")
 jinx007-gumdrop-7 --> jinx007-herbelion-8("<img src='./assets/Peridots/jinx007-herbelion-8.jpg'> <br /> Jinx007-Herbelion (Dandelion)")
