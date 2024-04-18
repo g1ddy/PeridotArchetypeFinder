@@ -27,6 +27,7 @@ dorado-4 --> entropy-5("<img src='./assets/Peridots/entropy-5.jpg'> <br /> Entro
 dorado-4 --> ether-5("<img src='./assets/Peridots/ether-5.jpg'> <br /> Ether (Celestial,Ram)")
 echo-5 --> foxtrot-6("<img src='./assets/Peridots/foxtrot-6.jpg'> <br /> Foxtrot (Unicorn)")
 echo-5 --> frosty-6("<img src='./assets/Peridots/frosty-6.jpg'> <br /> Frosty (Ram,Static)")
+eclair-5 --> fishhook-6("<img src='./assets/Peridots/fishhook-6.jpg'> <br /> Fishhook (Cactus)")
 enrichment-5 --> fable-6("<img src='./assets/Peridots/fable-6.jpg'> <br /> Fable (Kintsugi,Rabbit,Royalty)")
 entropy-5 --> farceratops-6("<img src='./assets/Peridots/farceratops-6.jpg'> <br /> Farceratops (Ram)")
 entropy-5 --> fishline-6("<img src='./assets/Peridots/fishline-6.jpg'> <br /> Fishline (Clownfish)")

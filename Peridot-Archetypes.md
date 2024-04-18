@@ -732,6 +732,9 @@
 |Kintsugi||||Ore|Cracked|||
 |Rabbit|Rabbit||||||Rabbit|
 
+### Example(s):
+![Jinx007-Wreck-It Ralph](./assets/Peridots/jinx007-wreck-it-ralph-10.jpg)
+
 ## Archetypes: Kintsugi, Ram, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
