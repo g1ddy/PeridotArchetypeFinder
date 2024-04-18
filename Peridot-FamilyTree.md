@@ -27,6 +27,7 @@ dorado-4 --> entropy-5("<img src='./assets/Peridots/entropy-5.jpg'> <br /> Entro
 dorado-4 --> ether-5("<img src='./assets/Peridots/ether-5.jpg'> <br /> Ether (Celestial,Ram)")
 echo-5 --> foxtrot-6("<img src='./assets/Peridots/foxtrot-6.jpg'> <br /> Foxtrot (Unicorn)")
 echo-5 --> frosty-6("<img src='./assets/Peridots/frosty-6.jpg'> <br /> Frosty (Ram,Static)")
+eclair-5 --> fishhook-6("<img src='./assets/Peridots/fishhook-6.jpg'> <br /> Fishhook (Cactus)")
 enrichment-5 --> fable-6("<img src='./assets/Peridots/fable-6.jpg'> <br /> Fable (Kintsugi,Rabbit,Royalty)")
 entropy-5 --> farceratops-6("<img src='./assets/Peridots/farceratops-6.jpg'> <br /> Farceratops (Ram)")
 entropy-5 --> fishline-6("<img src='./assets/Peridots/fishline-6.jpg'> <br /> Fishline (Clownfish)")
@@ -84,5 +85,8 @@ skittles-12 --> trailmix-13("<img src='./assets/Peridots/trailmix-13.jpg'> <br /
 skittles-12 --> turducken-13("<img src='./assets/Peridots/turducken-13.jpg'> <br /> Turducken (LED,Peacock)")
 slushy-12 --> trifecta-13("<img src='./assets/Peridots/trifecta-13.jpg'> <br /> Trifecta")
 turducken-13 --> uluguru-14("<img src='./assets/Peridots/uluguru-14.jpg'> <br /> Uluguru (LED)")
+uluguru-14 --> volare-15("<img src='./assets/Peridots/volare-15.jpg'> <br /> Volare (LED)")
+volare-15 --> wallflower-16("<img src='./assets/Peridots/wallflower-16.jpg'> <br /> Wallflower")
+wallflower-16 --> xenomorphic-17("<img src='./assets/Peridots/xenomorphic-17.jpg'> <br /> Xenomorphic")
 ```
 

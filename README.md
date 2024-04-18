@@ -55,7 +55,7 @@ This repo uses GitHub Workflows to run the PowerShell Scripts and generate the M
 3. Create a branch, commit and push:
 
     ```powershell
-    git branch -b your-username-update-markdown
+    git checkout -b your-username-update-markdown
     git add .\assets\Peridots.csv
     git commit -m "Update Peridots.csv"
     git push --set-upstream origin your-username-update-markdown

@@ -26,13 +26,13 @@ Dorado("Dorado (24Karat,Ram)") --> Entropy("Entropy (Clownfish,Ram)")
 Dorado("Dorado (24Karat,Ram)") --> Ether("Ether (Celestial,Ram)")
 Echo("Echo (Static)") --> Foxtrot("Foxtrot (Unicorn)")
 Echo("Echo (Static)") --> Frosty("Frosty (Ram,Static)")
+Eclair("Eclair (Banana)") --> Fishhook("Fishhook (Cactus)")
 Enrichment("Enrichment (Kintsugi,Royalty)") --> Fable("Fable (Kintsugi,Rabbit,Royalty)")
 Entropy("Entropy (Clownfish,Ram)") --> Farceratops("Farceratops (Ram)")
 Entropy("Entropy (Clownfish,Ram)") --> Fishline("Fishline (Clownfish)")
 Entropy("Entropy (Clownfish,Ram)") --> Floofish("Floofish (Clownfish,Monkey)")
 Jammie --> Lilith
-Eclair("Eclair (Banana)") -..-> New_Archetype:_Cactus
-Enrichment("Enrichment (Kintsugi,Royalty)") -...-> New_Archetype:_Jester
+Escorpio -...-> New_Archetype:_Jester
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Glacier("Glacier (Icicle,Rabbit)")
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Goldilocks("Goldilocks (Royalty)")
 Farceratops("Farceratops (Ram)") --> Grazerface("Grazerface (Triceratops)")
@@ -85,6 +85,9 @@ Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
 Turducken("Turducken (LED,Peacock)") --> Uluguru("Uluguru (LED)")
+Uluguru("Uluguru (LED)") --> Volare("Volare (LED)")
+Volare("Volare (LED)") --> Wallflower
+Wallflower --> Xenomorphic
 New_Archetype:_Elixir -...-> New_Archetype:_Jester
 ```
 

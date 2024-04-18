@@ -5,6 +5,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Cactus||||Matte||Thorns|None|
 
+## Peridot: Fishhook, Score: 1
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Fishhook|Tubes|Kawaii|Banana|Matte|Patchwork|Thorns|None|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Cactus||||Matte||Thorns|None|
+
 ## Peridot: Eclair, Score: 0.666666666666667
 
 ### Peridot Traits:
@@ -109,11 +121,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Hypnos|Beaks|Kawaii|Antennae|Scarab|Okapi|Whiskers|None|
-
-## Peridot: Hailstorm, Score: 0.333333333333333
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Hailstorm|Seraph|Star|Crown|Glimmer|Snowfall|Thorns|Snowflake|
 
