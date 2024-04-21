@@ -32,7 +32,6 @@ Entropy("Entropy (Clownfish,Ram)") --> Farceratops("Farceratops (Ram)")
 Entropy("Entropy (Clownfish,Ram)") --> Fishline("Fishline (Clownfish)")
 Entropy("Entropy (Clownfish,Ram)") --> Floofish("Floofish (Clownfish,Monkey)")
 Jammie --> Lilith
-Escorpio -...-> New_Archetype:_Jester
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Glacier("Glacier (Icicle,Rabbit)")
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Goldilocks("Goldilocks (Royalty)")
 Farceratops("Farceratops (Ram)") --> Grazerface("Grazerface (Triceratops)")
@@ -76,18 +75,20 @@ Kandle --> Lampent("Lampent (Candle,Clownfish)")
 Krypto("Krypto (Dewdrop,Rabbit)") --> Lychee("Lychee (Boba,Rabbit,Static)")
 Queezy("Queezy (Peacock)") --> Rockstar("Rockstar (Peacock,Psychedelic)")
 Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mexilotl("Mexilotl (Axolotl)")
+Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mix_a_lotl("Mix a lotl (Axolotl)")
 Lagostosa("Lagostosa (Clownfish,Lobster)") --> Moonlit("Moonlit (Jellyfish)")
 Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
 Rockstar("Rockstar (Peacock,Psychedelic)") --> Skittles
 Rockstar("Rockstar (Peacock,Psychedelic)") --> Slushy("Slushy (Cotton Candy)")
+Lampent("Lampent (Candle,Clownfish)") -...-> New_Archetype:_Elixir
 Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
+New_Archetype:_Elixir -...-> New_Archetype:_Jester
 Turducken("Turducken (LED,Peacock)") --> Uluguru("Uluguru (LED)")
 Uluguru("Uluguru (LED)") --> Volare("Volare (LED)")
 Volare("Volare (LED)") --> Wallflower
 Wallflower --> Xenomorphic
-New_Archetype:_Elixir -...-> New_Archetype:_Jester
 ```
 
