@@ -67,6 +67,7 @@ Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Krypto("Krypto (Dewdrop,Rabbit)")
 Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Queezy("Queezy (Peacock)")
 Orion("Orion (Aurora)") --> Phenotype("Phenotype (Sunset)")
 Orion("Orion (Aurora)") --> Predator("Predator (Vampire)")
+Iceberg("Iceberg (Icicle,Snowfall)") -...-> New_Archetype:_Elixir
 Jormungandr("Jormungandr (Static)") --> Kira("Kira (Dragon,Static)")
 Jubilee("Jubilee (Cinnabon)") --> Khroma("Khroma (Chameleon)")
 Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Lagostosa("Lagostosa (Clownfish,Lobster)")
@@ -75,20 +76,19 @@ Kandle --> Lampent("Lampent (Candle,Clownfish)")
 Krypto("Krypto (Dewdrop,Rabbit)") --> Lychee("Lychee (Boba,Rabbit,Static)")
 Queezy("Queezy (Peacock)") --> Rockstar("Rockstar (Peacock,Psychedelic)")
 Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mexilotl("Mexilotl (Axolotl)")
-Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mix_a_lotl("Mix a lotl (Axolotl)")
+Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mix_a_lotl("Mix a lotl (Clownfish)")
 Lagostosa("Lagostosa (Clownfish,Lobster)") --> Moonlit("Moonlit (Jellyfish)")
 Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
 Rockstar("Rockstar (Peacock,Psychedelic)") --> Skittles
 Rockstar("Rockstar (Peacock,Psychedelic)") --> Slushy("Slushy (Cotton Candy)")
-Lampent("Lampent (Candle,Clownfish)") -...-> New_Archetype:_Elixir
 Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
-New_Archetype:_Elixir -...-> New_Archetype:_Jester
 Turducken("Turducken (LED,Peacock)") --> Uluguru("Uluguru (LED)")
 Uluguru("Uluguru (LED)") --> Volare("Volare (LED)")
 Volare("Volare (LED)") --> Wallflower
 Wallflower --> Xenomorphic
+New_Archetype:_Jester -...-> New_Archetype:_Elixir
 ```
 
