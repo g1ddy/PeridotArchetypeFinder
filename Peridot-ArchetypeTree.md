@@ -16,6 +16,9 @@ Aurora -..-> Sunset
 Banana -..-> Cactus
 Banana -...-> Yeti
 Yeti -..-> Cotton_Candy
+Embers -..-> Dewdrop
+Embers -...-> Cheetah
+Dewdrop -...-> Glam
 Jellyfish -..-> Anemone
 Jellyfish -..-> Balloon
 Lobster -..-> Anemone
@@ -31,17 +34,13 @@ Chameleon -..-> Cinnabon
 Vampire -..-> Sunset
 Royalty -..-> Kintsugi
 Royalty -..-> Icicle
-Seal -...-> Candle
-Seal -...-> Cheetah
-Cheetah -...-> Bee
-24Karat -..-> Axolotl
 Bismuth -...-> Patchwork
+Candle -...-> Elixir
+Elixir -..-> Icicle
 Dandelion -..-> Cotton_Candy
-Dewdrop -...-> Glam
-Elixir -..-> Triton
-Embers -..-> Dewdrop
 Jester -..-> Kintsugi
 Paint -..-> LED
+Seal -...-> Cheetah
 Triceratops -..-> Ram
 Unicorn -..-> Cotton_Candy
 ```

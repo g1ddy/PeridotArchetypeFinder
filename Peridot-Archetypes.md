@@ -217,6 +217,16 @@
 |Aurora|Seraph||Bharal|Starry|Sunset|||
 |Sunset|||||Sunset||Fleur|
 
+## Archetypes: Axolotl, Clownfish, Count: 2
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Axolotl|None|Kawaii|None|Slimy||Moth|Scalloped|
+|Clownfish|||||Tropical Fish|||
+
+### Example(s):
+![Mix a lotl](./assets/Peridots/mix-a-lotl-12.jpg)
+
 ## Archetypes: Balloon, Patchwork, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
