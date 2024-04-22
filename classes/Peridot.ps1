@@ -98,6 +98,6 @@ Class Peridot {
         }
 
         $complexityIndex /= $totalProperties
-        return 3 - $matchPercentage * 2 - $complexityIndex
+        return 4 - $matchPercentage * 3 - $complexityIndex
     }
 }
