@@ -27,6 +27,7 @@ jinx007-twilight-5 --> jinx007-dark-blizzard-6("<img src='./assets/Peridots/jinx
 jinx007-twilight-5 --> jinx007-dusk-6("<img src='./assets/Peridots/jinx007-dusk-6.jpg'> <br /> Jinx007-Dusk (Anemone)")
 jinx007-twilight-5 --> jinx007-usurper-6("<img src='./assets/Peridots/jinx007-usurper-6.jpg'> <br /> Jinx007-Usurper (Sunset)")
 jinx007-burnout-6 --> jinx007-clowndelabra-7("<img src='./assets/Peridots/jinx007-clowndelabra-7.jpg'> <br /> Jinx007-Clowndelabra (Candle,Clownfish)")
+jinx007-dark-blizzard-6 --> jinx007-epsilon-7("<img src='./assets/Peridots/jinx007-epsilon-7.jpg'> <br /> Jinx007-Epsilon (Snowfall)")
 jinx007-dark-blizzard-6 --> jinx007-rorschach-7("<img src='./assets/Peridots/jinx007-rorschach-7.jpg'> <br /> Jinx007-Rorschach (Scarab)")
 jinx007-dark-blizzard-6 --> jinx007-snowstorm-7("<img src='./assets/Peridots/jinx007-snowstorm-7.jpg'> <br /> Jinx007-Snowstorm (Gargoyle)")
 jinx007-fluffish-6 --> jinx007-faun-7("<img src='./assets/Peridots/jinx007-faun-7.jpg'> <br /> Jinx007-Faun (Clownfish)")
@@ -41,5 +42,6 @@ jinx007-rorschach-7 --> jinx007-sunfire-8("<img src='./assets/Peridots/jinx007-s
 jinx007-snowstorm-7 --> jinx007-galaxy-gargoyle-8("<img src='./assets/Peridots/jinx007-galaxy-gargoyle-8.jpg'> <br /> Jinx007-Galaxy Gargoyle (Celestial)")
 jinx007-vici-7 --> jinx007-wreck-it-ralph-8("<img src='./assets/Peridots/jinx007-wreck-it-ralph-8.jpg'> <br /> Jinx007-Wreck-It Ralph (Kintsugi,Rabbit)")
 jinx007-sencha-8 --> jinx007-thistle-9("<img src='./assets/Peridots/jinx007-thistle-9.jpg'> <br /> Jinx007-Thistle (Cactus)")
+jinx007-thistle-9 --> jinx007-umbrella-10("<img src='./assets/Peridots/jinx007-umbrella-10.jpg'> <br /> Jinx007-Umbrella")
 ```
 
