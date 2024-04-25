@@ -17,6 +17,7 @@ chevron-3 --> damascus-4("<img src='./assets/Peridots/damascus-4.jpg'> <br /> Da
 chevron-3 --> dorado-4("<img src='./assets/Peridots/dorado-4.jpg'> <br /> Dorado (24Karat,Ram)")
 chevron-3 --> duranium-4("<img src='./assets/Peridots/duranium-4.jpg'> <br /> Duranium (Patina,Ram)")
 chevron-3 --> echelon-4("<img src='./assets/Peridots/echelon-4.jpg'> <br /> Echelon (Bismuth,Ram)")
+damascus-4 --> eldritch-5("<img src='./assets/Peridots/eldritch-5.jpg'> <br /> Eldritch (Kintsugi)")
 damascus-4 --> enrichment-5("<img src='./assets/Peridots/enrichment-5.jpg'> <br /> Enrichment (Kintsugi,Royalty)")
 damascus-4 --> escorpio-5("<img src='./assets/Peridots/escorpio-5.jpg'> <br /> Escorpio")
 delta-4 --> echo-5("<img src='./assets/Peridots/echo-5.jpg'> <br /> Echo (Static)")

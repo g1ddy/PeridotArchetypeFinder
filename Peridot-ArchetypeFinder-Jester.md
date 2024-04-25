@@ -63,6 +63,18 @@
 |Kintsugi||||Ore|Cracked|||
 |Royalty||Countess|Crown|Ore||Tutu||
 
+## Peridot: Eldritch, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Eldritch|Sprouts|Fold|Ram|Ore|Cracked|Choker|Heart Cape|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Kintsugi||||Ore|Cracked|||
+
 ## Peridot: Damascus, Score: 0.25
 
 ### Peridot Traits:
