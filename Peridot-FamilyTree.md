@@ -46,6 +46,7 @@ lilith-6 --> maximus-7("<img src='./assets/Peridots/maximus-7.jpg'> <br /> Maxim
 glacier-7 --> hailstorm-8("<img src='./assets/Peridots/hailstorm-8.jpg'> <br /> Hailstorm")
 goldie-7 --> harry-8("<img src='./assets/Peridots/harry-8.jpg'> <br /> Harry")
 goldie-7 --> icarus-8("<img src='./assets/Peridots/icarus-8.jpg'> <br /> Icarus")
+grazerface-7 --> hologlittersaur-8("<img src='./assets/Peridots/hologlittersaur-8.jpg'> <br /> Hologlittersaur (Triceratops)")
 guardian-7 --> hydrostatic-8("<img src='./assets/Peridots/hydrostatic-8.jpg'> <br /> Hydrostatic (Clownfish,Dandelion)")
 guina-7 --> hammerhead-8("<img src='./assets/Peridots/hammerhead-8.jpg'> <br /> Hammerhead (Seal,Static)")
 guina-7 --> hippogriff-8("<img src='./assets/Peridots/hippogriff-8.jpg'> <br /> Hippogriff (Cheetah)")
