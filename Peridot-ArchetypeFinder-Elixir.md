@@ -17,6 +17,19 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Vampire|Bat|Fangs|||Sunset|Ruff|Peacock|
 
+## Peridot: Mysterion, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Mysterion|None|Triangles|Spire|Waxy|Tropical Fish|None|Sentry Turret|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Candle|None||Spire|Waxy||None||
+|Clownfish|||||Tropical Fish|||
+
 ## Peridot: Lampent, Score: 0.25
 
 ### Peridot Traits:
