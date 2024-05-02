@@ -5,6 +5,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Elixir|||Spire|Glimmer|Puddle|Ruff||
 
+## Peridot: Jaguarundi, Score: 1
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jaguarundi|Seraph|Star|Spire|Glimmer|Puddle|Ruff|Whale|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Elixir|||Spire|Glimmer|Puddle|Ruff||
+
 ## Peridot: Predator, Score: 0.25
 
 ### Peridot Traits:
@@ -105,17 +117,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Hailstorm|Seraph|Star|Crown|Glimmer|Snowfall|Thorns|Snowflake|
-
-## Peridot: Glacier, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Glacier|Rabbit|Fangs|Crown|Glimmer|Celestial|Thorns|Rabbit|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Icicle|||Crown|Glimmer||Thorns||
-|Rabbit|Rabbit||||||Rabbit|
 

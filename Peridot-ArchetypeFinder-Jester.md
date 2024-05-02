@@ -17,6 +17,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Vampire|Bat|Fangs|||Sunset|Ruff|Peacock|
 
+## Peridot: Jaguarundi, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jaguarundi|Seraph|Star|Spire|Glimmer|Puddle|Ruff|Whale|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Elixir|||Spire|Glimmer|Puddle|Ruff||
+
 ## Peridot: Goldilocks, Score: 0.25
 
 ### Peridot Traits:

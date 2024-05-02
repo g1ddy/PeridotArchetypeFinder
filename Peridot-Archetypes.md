@@ -19,6 +19,9 @@
 |Rabbit|Rabbit||||||Rabbit|
 |Static||||Static||||
 
+### Example(s):
+![Eclipse](./assets/Peridots/eclipse-5.jpg)
+
 ## Archetypes: Boba, Rabbit, Static, Count: 3
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
@@ -338,9 +341,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Lampent](./assets/Peridots/lampent-11.jpg)
-
 ![Mysterion](./assets/Peridots/mysterion-12.jpg)
+
+![Lampent](./assets/Peridots/lampent-11.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
