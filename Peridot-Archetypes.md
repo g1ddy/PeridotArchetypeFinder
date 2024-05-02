@@ -272,6 +272,9 @@
 |Bismuth|Square|Diamond||Iridescent|Circuit|||
 |Peacock|||None|||Spades|Peacock|
 
+### Example(s):
+![Jinx007-Chip](./assets/Peridots/jinx007-chip-7.jpg)
+
 ## Archetypes: Bismuth, Ram, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
