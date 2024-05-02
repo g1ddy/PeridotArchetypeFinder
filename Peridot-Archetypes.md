@@ -19,6 +19,9 @@
 |Rabbit|Rabbit||||||Rabbit|
 |Static||||Static||||
 
+### Example(s):
+![Eclipse](./assets/Peridots/eclipse-5.jpg)
+
 ## Archetypes: Boba, Rabbit, Static, Count: 3
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
@@ -53,9 +56,6 @@
 |Clownfish|||||Tropical Fish|||
 |Cotton Candy|||Narwhal|Furry||||
 |Rabbit|Rabbit||||||Rabbit|
-
-### Example(s):
-![Jinx007-Fluffish](./assets/Peridots/jinx007-fluffish-6.jpg)
 
 ## Archetypes: Clownfish, Icicle, Rabbit, Count: 3
 ### Compatibility Table:
@@ -275,6 +275,9 @@
 |Bismuth|Square|Diamond||Iridescent|Circuit|||
 |Peacock|||None|||Spades|Peacock|
 
+### Example(s):
+![Jinx007-Chip](./assets/Peridots/jinx007-chip-7.jpg)
+
 ## Archetypes: Bismuth, Ram, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
@@ -338,9 +341,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Lampent](./assets/Peridots/lampent-11.jpg)
-
 ![Mysterion](./assets/Peridots/mysterion-12.jpg)
+
+![Lampent](./assets/Peridots/lampent-11.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
@@ -596,6 +599,9 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Cotton Candy|||Narwhal|Furry||||
 |Rabbit|Rabbit||||||Rabbit|
+
+### Example(s):
+![Jinx007-Fluffish](./assets/Peridots/jinx007-fluffish-6.jpg)
 
 ## Archetypes: Cotton Candy, Seal, Count: 2
 ### Compatibility Table:

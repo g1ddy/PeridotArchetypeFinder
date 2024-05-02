@@ -18,7 +18,7 @@ jinx007-triumvirate-4 --> jinx007-spyro-5("<img src='./assets/Peridots/jinx007-s
 jinx007-triumvirate-4 --> jinx007-twilight-5("<img src='./assets/Peridots/jinx007-twilight-5.jpg'> <br /> Jinx007-Twilight (Static,Sunset)")
 jinx007-buggy-bunny-5 --> jinx007-aries-ii-6("<img src='./assets/Peridots/jinx007-aries-ii-6.jpg'> <br /> Jinx007-Aries II (Clownfish,Ram,Static)")
 jinx007-buggy-bunny-5 --> jinx007-burnout-6("<img src='./assets/Peridots/jinx007-burnout-6.jpg'> <br /> Jinx007-Burnout")
-jinx007-buggy-bunny-5 --> jinx007-fluffish-6("<img src='./assets/Peridots/jinx007-fluffish-6.jpg'> <br /> Jinx007-Fluffish (Clownfish,Cotton Candy,Rabbit)")
+jinx007-buggy-bunny-5 --> jinx007-fluffish-6("<img src='./assets/Peridots/jinx007-fluffish-6.jpg'> <br /> Jinx007-Fluffish (Cotton Candy,Rabbit)")
 jinx007-buggy-bunny-5 --> jinx007-honeybunny-6("<img src='./assets/Peridots/jinx007-honeybunny-6.jpg'> <br /> Jinx007-Honeybunny (Bee,Rabbit)")
 jinx007-buggy-bunny-5 --> jinx007-rocket-raccoon-6("<img src='./assets/Peridots/jinx007-rocket-raccoon-6.jpg'> <br /> Jinx007-Rocket Raccoon (Rabbit,Static)")
 jinx007-shimmerrosie-5 --> jinx007-watermelon-6("<img src='./assets/Peridots/jinx007-watermelon-6.jpg'> <br /> Jinx007-Watermelon (Peacock)")
@@ -35,6 +35,7 @@ jinx007-fluffish-6 --> jinx007-gumdrop-7("<img src='./assets/Peridots/jinx007-gu
 jinx007-honeybunny-6 --> jinx007-golden-idol-7("<img src='./assets/Peridots/jinx007-golden-idol-7.jpg'> <br /> Jinx007-Golden Idol (24Karat,Rabbit)")
 jinx007-tulum-6 --> jinx007-urchin-7("<img src='./assets/Peridots/jinx007-urchin-7.jpg'> <br /> Jinx007-Urchin (Static)")
 jinx007-usurper-6 --> jinx007-vici-7("<img src='./assets/Peridots/jinx007-vici-7.jpg'> <br /> Jinx007-Vici (Royalty,Sunset)")
+jinx007-watermelon-6 --> jinx007-chip-7("<img src='./assets/Peridots/jinx007-chip-7.jpg'> <br /> Jinx007-Chip (Bismuth,Peacock)")
 jinx007-clowndelabra-7 --> jinx007-dobby-8("<img src='./assets/Peridots/jinx007-dobby-8.jpg'> <br /> Jinx007-Dobby (Clownfish)")
 jinx007-faun-7 --> jinx007-littlefoot-8("<img src='./assets/Peridots/jinx007-littlefoot-8.jpg'> <br /> Jinx007-Littlefoot (Yeti)")
 jinx007-golden-idol-7 --> jinx007-helion-8("<img src='./assets/Peridots/jinx007-helion-8.jpg'> <br /> Jinx007-Helion (24Karat)")
@@ -46,5 +47,6 @@ jinx007-vici-7 --> jinx007-wreck-it-ralph-8("<img src='./assets/Peridots/jinx007
 jinx007-sencha-8 --> jinx007-thistle-9("<img src='./assets/Peridots/jinx007-thistle-9.jpg'> <br /> Jinx007-Thistle (Cactus)")
 jinx007-wreck-it-ralph-8 --> jinx007-xcalibur-9("<img src='./assets/Peridots/jinx007-xcalibur-9.jpg'> <br /> Jinx007-Xcalibur")
 jinx007-thistle-9 --> jinx007-umbrella-10("<img src='./assets/Peridots/jinx007-umbrella-10.jpg'> <br /> Jinx007-Umbrella")
+jinx007-xcalibur-9 --> jinx007-yondu-10("<img src='./assets/Peridots/jinx007-yondu-10.jpg'> <br /> Jinx007-Yondu (Jester)")
 ```
 
