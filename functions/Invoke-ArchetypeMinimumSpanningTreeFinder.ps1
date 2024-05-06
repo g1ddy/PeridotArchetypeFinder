@@ -10,9 +10,6 @@ function Invoke-ArchetypeMinimumSpanningTreeFinder {
         $ErrorActionPreference = "Stop"
     }
     process {
-        Set-StrictMode -Version Latest
-        $ErrorActionPreference = "Stop"
-
         $archetypes = Get-Archetypes -Path $ArchetypePath
 
         $peridotCombinations = Invoke-PeridotCombinationGenerator -Archetypes $archetypes
