@@ -199,9 +199,9 @@
 |Snowfall||Dots|||Snowfall||Snowflake|
 
 ### Example(s):
-![Mastodon](./assets/Peridots/mastodon-11.jpg)
-
 ![Jinx007-Dark Blizzard](./assets/Peridots/jinx007-dark-blizzard-6.jpg)
+
+![Mastodon](./assets/Peridots/mastodon-11.jpg)
 
 ## Archetypes: Anemone, Sunset, Count: 2
 ### Compatibility Table:
@@ -341,11 +341,11 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
+![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
+
 ![Mysterion](./assets/Peridots/mysterion-12.jpg)
 
 ![Lampent](./assets/Peridots/lampent-11.jpg)
-
-![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
 ## Archetypes: Candle, Psychedelic, Count: 2
 ### Compatibility Table:
@@ -507,9 +507,9 @@
 |Monkey|Monkey|Monkey|None|Fuzzy|||Mouse|
 
 ### Example(s):
-![Floofish](./assets/Peridots/floofish-6.jpg)
-
 ![Jinx007-Clownking](./assets/Peridots/jinx007-clownking-3.jpg)
+
+![Floofish](./assets/Peridots/floofish-6.jpg)
 
 ## Archetypes: Clownfish, Peacock, Count: 2
 ### Compatibility Table:
@@ -663,9 +663,9 @@
 |Static||||Static||||
 
 ### Example(s):
-![Kira](./assets/Peridots/kira-11.jpg)
-
 ![Jinx007-Spyro](./assets/Peridots/jinx007-spyro-5.jpg)
+
+![Kira](./assets/Peridots/kira-11.jpg)
 
 ## Archetypes: Elixir, Rabbit, Count: 2
 ### Compatibility Table:

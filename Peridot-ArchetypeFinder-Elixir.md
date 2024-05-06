@@ -1,0 +1,51 @@
+# Peridot closest to Archetype
+
+## Target Archetype: Elixir
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Elixir|||Spire|Glimmer|Puddle|Ruff||
+
+## Peridot: Jinx007-Yondu, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Yondu|Llama|Monkey|Jester|Ore|Diamonds|Ruff|FracturedButfly|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jester|||Jester|Ore|Diamonds|Ruff||
+
+## Peridot: Jinx007-Dobby, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Dobby|Flying Nun|Heart|Spire|Waxy|Tropical Fish|None|???|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Clownfish|||||Tropical Fish|||
+
+## Peridot: Jinx007-Clowndelabra, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Clowndelabra|None|Heart|Spire|Waxy|Tropical Fish|None|Fleur|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Candle|None||Spire|Waxy||None||
+|Clownfish|||||Tropical Fish|||
+
+## Peridot: Jinx007-Burnout, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Burnout|None|Heart|Spire|Waxy|Tropical Fish|None|Fleur|
+
