@@ -184,6 +184,9 @@
 |Anemone|||Demon|Slimy||Tentacles||
 |Psychedelic||Octopus|||Breezy||Peacock|
 
+### Example(s):
+![Lava Lamp](./assets/Peridots/lava-lamp-11.jpg)
+
 ## Archetypes: Anemone, Rabbit, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
@@ -464,6 +467,8 @@
 
 ### Example(s):
 ![Hydrostatic](./assets/Peridots/hydrostatic-8.jpg)
+
+![Jinx007-Hydrolion](./assets/Peridots/jinx007-hydrolion-8.jpg)
 
 ## Archetypes: Clownfish, Gargoyle, Count: 2
 ### Compatibility Table:

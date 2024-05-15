@@ -76,6 +76,7 @@ orion-9 --> predator-10("<img src='./assets/Peridots/predator-10.jpg'> <br /> Pr
 jormungandr-10 --> kira-11("<img src='./assets/Peridots/kira-11.jpg'> <br /> Kira (Dragon,Static)")
 jubilee-10 --> khroma-11("<img src='./assets/Peridots/khroma-11.jpg'> <br /> Khroma (Chameleon)")
 kaleidoscope-10 --> lagostosa-11("<img src='./assets/Peridots/lagostosa-11.jpg'> <br /> Lagostosa (Clownfish,Lobster)")
+kaleidoscope-10 --> lava-lamp-11("<img src='./assets/Peridots/lava-lamp-11.jpg'> <br /> Lava Lamp (Anemone,Psychedelic)")
 kaleidoscope-10 --> mastodon-11("<img src='./assets/Peridots/mastodon-11.jpg'> <br /> Mastodon (Anemone,Snowfall)")
 kandle-10 --> lampent-11("<img src='./assets/Peridots/lampent-11.jpg'> <br /> Lampent (Candle,Clownfish)")
 krypto-10 --> lychee-11("<img src='./assets/Peridots/lychee-11.jpg'> <br /> Lychee (Boba,Rabbit,Static)")
