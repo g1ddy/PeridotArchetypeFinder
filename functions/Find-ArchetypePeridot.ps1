@@ -1,39 +1,18 @@
-function Invoke-ArchetypePeridotFinder {
+function Find-ArchetypePeridot{
     [CmdletBinding()]
     param(
         [Parameter(Mandatory = $true)]
         [string]$TargetArchetype,
-        [int]$Take = 10,
-        [string]$ArchetypePath = "$PSScriptRoot\..\assets\Archetypes.csv",
-        [string]$PeridotPath = "$PSScriptRoot\..\assets\Peridots.csv"
-    )
-    process {
-        Set-StrictMode -Version Latest
-        $ErrorActionPreference = "Stop"
-
-        $archetypes = Get-Archetypes -Path $ArchetypePath
-        $archetype = $archetypes | Where-Object { $_.Name -eq $TargetArchetype }
-
-        $allPeridots = Get-Peridots -Path $PeridotPath
-        $archetypePeridotDictionary = Get-ArchetypePeridotDictionary -Archetypes $archetypes -Peridots $allPeridots
-
-        Format-Peridots -Archetype $archetype -AllPeridots $allPeridots `
-            -ArchetypeWithPeridots $archetypePeridotDictionary `
-            -Take $Take
-    }
-}
-
-function Format-Peridots {
-    [CmdletBinding()]
-    param(
         [Archetype]$Archetype,
         [Peridot[]]$AllPeridots,
-        [hashtable]$ArchetypeWithPeridots,
         [int]$Take
     )
-    process {
+    begin {
         Set-StrictMode -Version Latest
         $ErrorActionPreference = "Stop"
+    }
+    process {
+        $archetypePeridotDictionary = Get-ArchetypePeridotDictionary -Archetypes $archetypes -Peridots $allPeridots
 
         Write-Output '# Peridot closest to Archetype'
         Write-Output ''
@@ -50,7 +29,7 @@ function Format-Peridots {
                 MatchPercentage = $matchPercentage
             }
         } | Sort-Object -Property @{Expression = 'MatchPercentage'; Descending = $true },
-                                  @{Expression = { $_.Peridot.Name }; Descending = $true }
+        @{Expression = { $_.Peridot.Name }; Descending = $true }
 
         $orderedPeridots |
             Where-Object { $_.MatchPercentage -gt 0 } |
@@ -69,9 +48,9 @@ function Format-Peridots {
                 Write-Output '### Peridot Traits:'
                 $peridot | Format-MarkdownTableTableStyle Name, Ear, Face, Horn, Material, Pattern, Plumage, Tail -ShowMarkdown -DoNotCopyToClipboard -HideStandardOutput
 
-                if ($ArchetypeWithPeridots.ContainsKey($peridotId)) {
+                if ($archetypePeridotDictionary.ContainsKey($peridotId)) {
                     Write-Output '### Compatibility Table:'
-                    $archetypeNames = $ArchetypeWithPeridots[$peridotId]
+                    $archetypeNames = $archetypePeridotDictionary[$peridotId]
                     $matchingArchetypes = $Archetypes | Where-Object { $archetypeNames.Contains($_.Name) } | Sort-Object -Property Name
                     $matchingArchetypes | Format-MarkdownTableTableStyle Name, Ear, Face, Horn, Material, Pattern, Plumage, Tail -ShowMarkdown -DoNotCopyToClipboard -HideStandardOutput
                 }
