@@ -959,6 +959,9 @@
 |Static||||Static||||
 |Triceratops|Triceratops||Triceratops||Baguette||Asparagus|
 
+### Example(s):
+![Jinx007-Ghostface](./assets/Peridots/jinx007-ghostface-7.jpg)
+
 ## Archetypes: Static, Vampire, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
