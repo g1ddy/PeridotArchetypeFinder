@@ -29,13 +29,13 @@ Draco("Draco (Balloon,Patchwork)") --> Eclipse("Eclipse (Balloon,Rabbit,Static)"
 Echo("Echo (Static)") --> Foxtrot("Foxtrot (Unicorn)")
 Echo("Echo (Static)") --> Frosty("Frosty (Ram,Static)")
 Eclair("Eclair (Banana)") --> Fishhook("Fishhook (Cactus)")
+Eldritch("Eldritch (Kintsugi)") --> Farceur("Farceur (Jester)")
 Enrichment("Enrichment (Kintsugi,Royalty)") --> Fable("Fable (Kintsugi,Rabbit,Royalty)")
 Entropy("Entropy (Clownfish,Ram)") --> Farceratops("Farceratops (Ram)")
 Entropy("Entropy (Clownfish,Ram)") --> Fishline("Fishline (Clownfish)")
 Entropy("Entropy (Clownfish,Ram)") --> Floofish("Floofish (Clownfish,Monkey)")
 Ether("Ether (Celestial,Ram)") --> Fafnir("Fafnir (Celestial)")
 Jammie --> Lilith
-Eldritch("Eldritch (Kintsugi)") -...-> New_Archetype:_Jester
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Glacier("Glacier (Icicle,Rabbit)")
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Goldilocks("Goldilocks (Royalty)")
 Farceratops("Farceratops (Ram)") --> Grazerface("Grazerface (Triceratops)")
@@ -92,6 +92,7 @@ Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
+Trailmix("Trailmix (Paint)") --> Ultraviolet("Ultraviolet (Paint)")
 Turducken("Turducken (LED,Peacock)") --> UFO("UFO (LED)")
 Turducken("Turducken (LED,Peacock)") --> Uluguru("Uluguru (LED)")
 Uluguru("Uluguru (LED)") --> Volare("Volare (LED)")
