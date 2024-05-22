@@ -344,9 +344,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Lampent](./assets/Peridots/lampent-11.jpg)
-
 ![Mysterion](./assets/Peridots/mysterion-12.jpg)
+
+![Lampent](./assets/Peridots/lampent-11.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
@@ -958,6 +958,9 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 |Triceratops|Triceratops||Triceratops||Baguette||Asparagus|
+
+### Example(s):
+![Jinx007-Ghostface](./assets/Peridots/jinx007-ghostface-7.jpg)
 
 ## Archetypes: Static, Vampire, Count: 2
 ### Compatibility Table:

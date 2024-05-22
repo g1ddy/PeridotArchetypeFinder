@@ -29,6 +29,7 @@ Draco("Draco (Balloon,Patchwork)") --> Eclipse("Eclipse (Balloon,Rabbit,Static)"
 Echo("Echo (Static)") --> Foxtrot("Foxtrot (Unicorn)")
 Echo("Echo (Static)") --> Frosty("Frosty (Ram,Static)")
 Eclair("Eclair (Banana)") --> Fishhook("Fishhook (Cactus)")
+Eldritch("Eldritch (Kintsugi)") --> Farceur("Farceur (Jester)")
 Enrichment("Enrichment (Kintsugi,Royalty)") --> Fable("Fable (Kintsugi,Rabbit,Royalty)")
 Entropy("Entropy (Clownfish,Ram)") --> Farceratops("Farceratops (Ram)")
 Entropy("Entropy (Clownfish,Ram)") --> Fishline("Fishline (Clownfish)")
@@ -80,7 +81,6 @@ Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Mastodon("Mastodon (
 Kandle --> Lampent("Lampent (Candle,Clownfish)")
 Krypto("Krypto (Dewdrop,Rabbit)") --> Lychee("Lychee (Boba,Rabbit,Static)")
 Queezy("Queezy (Peacock)") --> Rockstar("Rockstar (Peacock,Psychedelic)")
-Jaguarundi("Jaguarundi (Elixir)") -...-> New_Archetype:_Jester
 Kira("Kira (Dragon,Static)") --> Leviathan("Leviathan (Dragon)")
 Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mexilotl("Mexilotl (Axolotl)")
 Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mix_a_lotl("Mix a lotl (Axolotl,Clownfish)")
@@ -93,6 +93,7 @@ Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
+Trailmix("Trailmix (Paint)") --> Ultraviolet("Ultraviolet (Paint)")
 Turducken("Turducken (LED,Peacock)") --> UFO("UFO (LED)")
 Turducken("Turducken (LED,Peacock)") --> Uluguru("Uluguru (LED)")
 Uluguru("Uluguru (LED)") --> Volare("Volare (LED)")
