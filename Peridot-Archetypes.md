@@ -912,7 +912,7 @@
 |Watermelon|Slice|||Pulp|Watermelon|||
 
 ### Example(s):
-![Jinx007-Medusa](./assets/Peridots/jinx007-medusa-7.jpg)
+![Jinx007-Gallagher](./assets/Peridots/jinx007-gallagher-7.jpg)
 
 ## Archetypes: Royalty, Sunset, Count: 2
 ### Compatibility Table:
