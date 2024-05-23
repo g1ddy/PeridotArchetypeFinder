@@ -213,6 +213,9 @@
 |Anemone|||Demon|Slimy||Tentacles||
 |Sunset|||||Sunset||Fleur|
 
+### Example(s):
+![Medusa](./assets/Peridots/medusa-12.jpg)
+
 ## Archetypes: Aurora, Sunset, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
@@ -907,6 +910,9 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Ram|||Ram||||Asparagus|
 |Watermelon|Slice|||Pulp|Watermelon|||
+
+### Example(s):
+![Jinx007-Medusa](./assets/Peridots/jinx007-medusa-7.jpg)
 
 ## Archetypes: Royalty, Sunset, Count: 2
 ### Compatibility Table:
