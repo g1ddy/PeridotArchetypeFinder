@@ -347,9 +347,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Lampent](./assets/Peridots/lampent-11.jpg)
-
 ![Mysterion](./assets/Peridots/mysterion-12.jpg)
+
+![Lampent](./assets/Peridots/lampent-11.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
@@ -912,7 +912,7 @@
 |Watermelon|Slice|||Pulp|Watermelon|||
 
 ### Example(s):
-![Jinx007-Medusa](./assets/Peridots/jinx007-medusa-7.jpg)
+![Jinx007-Gallagher](./assets/Peridots/jinx007-gallagher-7.jpg)
 
 ## Archetypes: Royalty, Sunset, Count: 2
 ### Compatibility Table:
