@@ -10,6 +10,7 @@ Jinx007-Banshee("Jinx007-Banshee (Cheetah)") --> Jinx007-Clownking("Jinx007-Clow
 Jinx007-Fuzz("Jinx007-Fuzz (Static)") --> Jinx007-Lilith("Jinx007-Lilith (Static)")
 Jinx007-Fuzz("Jinx007-Fuzz (Static)") --> Jinx007-Turkey("Jinx007-Turkey (Static)")
 Jinx007-Fuzz("Jinx007-Fuzz (Static)") -..-> New_Archetype:_Patina
+Jinx007-Banshee("Jinx007-Banshee (Cheetah)") -...-> New_Archetype:_Embers
 Jinx007-Lilith("Jinx007-Lilith (Static)") --> Jinx007-Dottie("Jinx007-Dottie (Static)")
 Jinx007-Turkey("Jinx007-Turkey (Static)") --> Jinx007-Triumvirate("Jinx007-Triumvirate (Peacock,Psychedelic,Static)")
 Jinx007-Dottie("Jinx007-Dottie (Static)") --> Jinx007-Buggy_Bunny("Jinx007-Buggy Bunny (Clownfish,Rabbit,Static)")
@@ -40,8 +41,7 @@ Jinx007-Honeybunny("Jinx007-Honeybunny (Bee,Rabbit)") --> Jinx007-Golden_Idol("J
 Jinx007-Tulum("Jinx007-Tulum (Static)") --> Jinx007-Urchin("Jinx007-Urchin (Static)")
 Jinx007-Usurper("Jinx007-Usurper (Sunset)") --> Jinx007-Vici("Jinx007-Vici (Royalty,Sunset)")
 Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") --> Jinx007-Chip("Jinx007-Chip (Bismuth,Peacock)")
-Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") -.-> New_Archetype:_Watermelon
-Jinx007-Hippy("Jinx007-Hippy (Dewdrop)") -...-> New_Archetype:_Embers
+Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") --> Jinx007-Medusa("Jinx007-Medusa (Ram,Watermelon)")
 Jinx007-Clowndelabra("Jinx007-Clowndelabra (Candle,Clownfish)") --> Jinx007-Dobby("Jinx007-Dobby (Clownfish)")
 Jinx007-Faun("Jinx007-Faun (Clownfish)") --> Jinx007-Littlefoot("Jinx007-Littlefoot (Yeti)")
 Jinx007-Golden_Idol("Jinx007-Golden Idol (24Karat,Rabbit)") --> Jinx007-Helion("Jinx007-Helion (24Karat)")
@@ -58,17 +58,17 @@ Jinx007-Thistle("Jinx007-Thistle (Cactus)") --> Jinx007-Unbananable("Jinx007-Unb
 Jinx007-Xcalibur --> Jinx007-Yondu("Jinx007-Yondu (Jester)")
 Jinx007-Unbananable("Jinx007-Unbananable (Banana)") -..-> New_Archetype:_Patchwork
 New_Archetype:_Patchwork -..-> New_Archetype:_Scarecrow
-New_Archetype:_Scarecrow -..-> New_Archetype:_Balloon
-New_Archetype:_Elixir -..-> New_Archetype:_Triton
+New_Archetype:_Elixir -..-> New_Archetype:_Icicle
 New_Archetype:_Elixir -...-> New_Archetype:_Vampire
 New_Archetype:_Jellyfish -..-> New_Archetype:_Balloon
 New_Archetype:_Jellyfish -...-> New_Archetype:_Axolotl
+New_Archetype:_Balloon -..-> New_Archetype:_Scarecrow
 New_Archetype:_Seal -...-> New_Archetype:_Chameleon
 New_Archetype:_Seal -...-> New_Archetype:_Axolotl
 New_Archetype:_Chameleon -..-> New_Archetype:_Cinnabon
 New_Archetype:_Cinnabon -...-> New_Archetype:_Vampire
 New_Archetype:_Aurora -...-> New_Archetype:_Vampire
-New_Archetype:_Icicle -..-> New_Archetype:_Triton
 New_Archetype:_Paint -..-> New_Archetype:_LED
+New_Archetype:_Triton -..-> New_Archetype:_Icicle
 ```
 
