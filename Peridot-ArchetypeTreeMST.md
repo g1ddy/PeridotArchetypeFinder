@@ -36,6 +36,7 @@ Entropy("Entropy (Clownfish,Ram)") --> Fishline("Fishline (Clownfish)")
 Entropy("Entropy (Clownfish,Ram)") --> Floofish("Floofish (Clownfish,Monkey)")
 Ether("Ether (Celestial,Ram)") --> Fafnir("Fafnir (Celestial)")
 Jammie --> Lilith
+Eldritch("Eldritch (Kintsugi)") -...-> New_Archetype:_Jester
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Glacier("Glacier (Icicle,Rabbit)")
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Goldilocks("Goldilocks (Royalty)")
 Farceratops("Farceratops (Ram)") --> Grazerface("Grazerface (Triceratops)")
@@ -76,11 +77,11 @@ Orion("Orion (Aurora)") --> Predator("Predator (Vampire)")
 Jormungandr("Jormungandr (Static)") --> Kira("Kira (Dragon,Static)")
 Jubilee("Jubilee (Cinnabon)") --> Khroma("Khroma (Chameleon)")
 Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Lagostosa("Lagostosa (Clownfish,Lobster)")
-Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Lava_Lamp("Lava Lamp (Anemone,Psychedelic)")
 Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Mastodon("Mastodon (Anemone,Snowfall)")
 Kandle --> Lampent("Lampent (Candle,Clownfish)")
 Krypto("Krypto (Dewdrop,Rabbit)") --> Lychee("Lychee (Boba,Rabbit,Static)")
 Queezy("Queezy (Peacock)") --> Rockstar("Rockstar (Peacock,Psychedelic)")
+Predator("Predator (Vampire)") -....-> New_Archetype:_Jester
 Kira("Kira (Dragon,Static)") --> Leviathan("Leviathan (Dragon)")
 Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mexilotl("Mexilotl (Axolotl)")
 Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mix_a_lotl("Mix a lotl (Axolotl,Clownfish)")
@@ -100,4 +101,3 @@ Uluguru("Uluguru (LED)") --> Volare("Volare (LED)")
 Volare("Volare (LED)") --> Wallflower
 Wallflower --> Xenomorphic
 ```
-
