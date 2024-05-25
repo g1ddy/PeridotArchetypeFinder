@@ -96,6 +96,7 @@ skittles-12 --> trailmix-13("<img src='./assets/Peridots/trailmix-13.jpg'> <br /
 skittles-12 --> turducken-13("<img src='./assets/Peridots/turducken-13.jpg'> <br /> Turducken (LED,Peacock)")
 slushy-12 --> trifecta-13("<img src='./assets/Peridots/trifecta-13.jpg'> <br /> Trifecta")
 trailmix-13 --> ultraviolet-14("<img src='./assets/Peridots/ultraviolet-14.jpg'> <br /> Ultraviolet (Paint)")
+turducken-13 --> uber-14("<img src='./assets/Peridots/uber-14.jpg'> <br /> Uber (LED)")
 turducken-13 --> ufo-14("<img src='./assets/Peridots/ufo-14.jpg'> <br /> UFO (LED)")
 turducken-13 --> uluguru-14("<img src='./assets/Peridots/uluguru-14.jpg'> <br /> Uluguru (LED)")
 uluguru-14 --> volare-15("<img src='./assets/Peridots/volare-15.jpg'> <br /> Volare (LED)")
