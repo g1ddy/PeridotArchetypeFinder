@@ -38,7 +38,7 @@ jobs:
           Invoke-ArchetypeMinimumSpanningTreeFinder -PeridotPath ./assets/External.csv -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST-Jinx007.md
 
           # Update the Peridot-ArchetypeFinder-*.md files
-          Invoke-FindMissingArchetypes
+          Invoke-FindMissingArchetypes -PeridotPath ./assets/External.csv
 
       - name: Commit and push if it changed
         run: |
