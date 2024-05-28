@@ -332,6 +332,9 @@
 |Boba|||Straw||Bubbles|||
 |Static||||Static||||
 
+### Example(s):
+![Multiverse](./assets/Peridots/multiverse-12.jpg)
+
 ## Archetypes: Cactus, Clownfish, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
