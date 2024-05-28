@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jellyfish||||Slimy|Ghost|Tutu|Carnival|
 
+## Peridot: Jinx007-Irukandji, Score: 0.75
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Irukandji|Eeyore|Dots|None|Slimy|Ghost|Tutu|Accordian|
+
 ## Peridot: Jinx007-Vici, Score: 0.25
 
 ### Peridot Traits:

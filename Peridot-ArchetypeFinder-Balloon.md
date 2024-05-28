@@ -30,6 +30,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Sunset|||||Sunset||Fleur|
 
+## Peridot: Jinx007-Irukandji, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Irukandji|Eeyore|Dots|None|Slimy|Ghost|Tutu|Accordian|
+
 ## Peridot: Jinx007-Gallagher, Score: 0.333333333333333
 
 ### Peridot Traits:

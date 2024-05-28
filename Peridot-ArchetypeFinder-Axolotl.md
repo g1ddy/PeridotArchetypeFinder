@@ -17,6 +17,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Lobster|Pincers||Antennae|Slimy|||Mermaid|
 
+## Peridot: Jinx007-Irukandji, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Irukandji|Eeyore|Dots|None|Slimy|Ghost|Tutu|Accordian|
+
 ## Peridot: Jinx007-Watermelon, Score: 0.166666666666667
 
 ### Peridot Traits:
@@ -116,16 +123,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Snowfall||Dots|||Snowfall||Snowflake|
-
-## Peridot: Jinx007-Dusk, Score: 0.166666666666667
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Dusk|Rabbit|Dots|Demon|Slimy|Sunset|Tentacles|Snowflake|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Anemone|||Demon|Slimy||Tentacles||
 
