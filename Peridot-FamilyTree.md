@@ -67,6 +67,7 @@ imhotep-9 --> jormungandr-10("<img src='./assets/Peridots/jormungandr-10.jpg'> <
 imugi-9 --> jaguarundi-10("<img src='./assets/Peridots/jaguarundi-10.jpg'> <br /> Jaguarundi (Elixir)")
 incense-9 --> jack-olantern-10("<img src='./assets/Peridots/jack-olantern-10.jpg'> <br /> Jack Olantern (Embers)")
 isla-9 --> jubilee-10("<img src='./assets/Peridots/jubilee-10.jpg'> <br /> Jubilee (Cinnabon)")
+jaguarundi-9 --> kyoka-suigetsu-10("<img src='./assets/Peridots/kyoka-suigetsu-10.jpg'> <br /> Kyoka Suigetsu (Elixir)")
 jax-9 --> kalypso-10("<img src='./assets/Peridots/kalypso-10.jpg'> <br /> Kalypso (Clownfish,Glam)")
 jewelfish-9 --> kaleidoscope-10("<img src='./assets/Peridots/kaleidoscope-10.jpg'> <br /> Kaleidoscope (Anemone,Clownfish,Rabbit)")
 jewelfish-9 --> kandle-10("<img src='./assets/Peridots/kandle-10.jpg'> <br /> Kandle")
