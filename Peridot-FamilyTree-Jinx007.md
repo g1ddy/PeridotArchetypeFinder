@@ -45,6 +45,7 @@ jinx007-faun-7 --> jinx007-littlefoot-8("<img src='./assets/Peridots/jinx007-lit
 jinx007-golden-idol-7 --> jinx007-helion-8("<img src='./assets/Peridots/jinx007-helion-8.jpg'> <br /> Jinx007-Helion (24Karat)")
 jinx007-gumdrop-7 --> jinx007-herbelion-8("<img src='./assets/Peridots/jinx007-herbelion-8.jpg'> <br /> Jinx007-Herbelion (Dandelion)")
 jinx007-gumdrop-7 --> jinx007-hydrolion-8("<img src='./assets/Peridots/jinx007-hydrolion-8.jpg'> <br /> Jinx007-Hydrolion (Clownfish,Dandelion)")
+jinx007-rorschach-7 --> jinx007-horus-8("<img src='./assets/Peridots/jinx007-horus-8.jpg'> <br /> Jinx007-Horus")
 jinx007-rorschach-7 --> jinx007-sencha-8("<img src='./assets/Peridots/jinx007-sencha-8.jpg'> <br /> Jinx007-Sencha (Boba,Glam)")
 jinx007-rorschach-7 --> jinx007-sunfire-8("<img src='./assets/Peridots/jinx007-sunfire-8.jpg'> <br /> Jinx007-Sunfire (Lobster)")
 jinx007-snowstorm-7 --> jinx007-galaxy-gargoyle-8("<img src='./assets/Peridots/jinx007-galaxy-gargoyle-8.jpg'> <br /> Jinx007-Galaxy Gargoyle (Celestial)")

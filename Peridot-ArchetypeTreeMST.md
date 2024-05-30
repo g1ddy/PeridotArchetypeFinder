@@ -95,6 +95,7 @@ Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
+Om-Nominous("Om-Nominous (Watermelon)") --> Major_Lazer
 Trailmix("Trailmix (Paint)") --> Ultraviolet("Ultraviolet (Paint)")
 Turducken("Turducken (LED,Peacock)") --> Uber("Uber (LED)")
 Turducken("Turducken (LED,Peacock)") --> UFO("UFO (LED)")
