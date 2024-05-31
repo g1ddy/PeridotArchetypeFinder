@@ -41,6 +41,7 @@ jinx007-tulum-6 --> jinx007-urchin-7("<img src='./assets/Peridots/jinx007-urchin
 jinx007-usurper-6 --> jinx007-vici-7("<img src='./assets/Peridots/jinx007-vici-7.jpg'> <br /> Jinx007-Vici (Royalty,Sunset)")
 jinx007-watermelon-6 --> jinx007-chip-7("<img src='./assets/Peridots/jinx007-chip-7.jpg'> <br /> Jinx007-Chip (Bismuth,Peacock)")
 jinx007-watermelon-6 --> jinx007-gallagher-7("<img src='./assets/Peridots/jinx007-gallagher-7.jpg'> <br /> Jinx007-Gallagher (Ram,Watermelon)")
+jinx007-chip-7 --> jinx007-heiress-8("<img src='./assets/Peridots/jinx007-heiress-8.jpg'> <br /> Jinx007-Heiress")
 jinx007-clowndelabra-7 --> jinx007-dobby-8("<img src='./assets/Peridots/jinx007-dobby-8.jpg'> <br /> Jinx007-Dobby (Clownfish)")
 jinx007-faun-7 --> jinx007-littlefoot-8("<img src='./assets/Peridots/jinx007-littlefoot-8.jpg'> <br /> Jinx007-Littlefoot (Yeti)")
 jinx007-golden-idol-7 --> jinx007-helion-8("<img src='./assets/Peridots/jinx007-helion-8.jpg'> <br /> Jinx007-Helion (24Karat)")
