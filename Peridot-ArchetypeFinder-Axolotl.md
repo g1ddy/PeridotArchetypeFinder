@@ -88,6 +88,13 @@
 |Peacock|||None|||Spades|Peacock|
 |Static||||Static||||
 
+## Peridot: Jinx007-Horus, Score: 0.166666666666667
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Horus|Pharaoh|Dots|None|Geode|Okapi|Beetle Wings|None|
+
 ## Peridot: Jinx007-Hippy, Score: 0.166666666666667
 
 ### Peridot Traits:
@@ -111,16 +118,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
-
-## Peridot: Jinx007-Epsilon, Score: 0.166666666666667
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Epsilon|Fruit Bat|Dots|Slingshot|Slimy|Snowfall|Eyebrows|Snowflake|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Snowfall||Dots|||Snowfall||Snowflake|
 

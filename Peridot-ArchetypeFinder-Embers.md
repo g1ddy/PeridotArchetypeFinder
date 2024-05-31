@@ -42,6 +42,13 @@
 |Clownfish|||||Tropical Fish|||
 |Dandelion||||Furry||Dandelion|Dandelion|
 
+## Peridot: Jinx007-Horus, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Horus|Pharaoh|Dots|None|Geode|Okapi|Beetle Wings|None|
+
 ## Peridot: Jinx007-Hippy, Score: 0.25
 
 ### Peridot Traits:
