@@ -57,6 +57,7 @@ Hailstorm --> Iceberg("Iceberg (Icicle,Snowfall)")
 Hailstorm --> Imugi("Imugi (Triton)")
 Harry --> Isla("Isla (Beach)")
 Hippogriff("Hippogriff (Cheetah)") --> Incense
+Hippogriff("Hippogriff (Cheetah)") --> Inception
 Hypnos --> Imhotep("Imhotep (Scarab)")
 Hypnos --> Instar("Instar (Bee)")
 Icarus --> Jax("Jax (Clownfish)")
@@ -81,6 +82,7 @@ Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Mastodon("Mastodon (
 Kandle --> Lampent("Lampent (Candle,Clownfish)")
 Krypto("Krypto (Dewdrop,Rabbit)") --> Lychee("Lychee (Boba,Rabbit,Static)")
 Queezy("Queezy (Peacock)") --> Rockstar("Rockstar (Peacock,Psychedelic)")
+Jaguarundi("Jaguarundi (Elixir)") -..-> Kyoka_Suigetsu("Kyoka Suigetsu (Elixir)")
 Kira("Kira (Dragon,Static)") --> Leviathan("Leviathan (Dragon)")
 Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mexilotl("Mexilotl (Axolotl)")
 Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mix_a_lotl("Mix a lotl (Axolotl,Clownfish)")
@@ -95,6 +97,7 @@ Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
+Om-Nominous("Om-Nominous (Watermelon)") --> Major_Lazer
 Trailmix("Trailmix (Paint)") --> Ultraviolet("Ultraviolet (Paint)")
 Turducken("Turducken (LED,Peacock)") --> Uber("Uber (LED)")
 Turducken("Turducken (LED,Peacock)") --> UFO("UFO (LED)")
