@@ -23,6 +23,7 @@ Delta --> Echo("Echo (Static)")
 Delta --> Jammie
 Dill-Hulk("Dill-Hulk (Patchwork)") --> Eclair("Eclair (Banana)")
 Dill-Hulk("Dill-Hulk (Patchwork)") --> Escrow("Escrow (Rabbit,Scarecrow,Static)")
+Dorado("Dorado (24Karat,Ram)") --> Elite("Elite (24Karat)")
 Dorado("Dorado (24Karat,Ram)") --> Entropy("Entropy (Clownfish,Ram)")
 Dorado("Dorado (24Karat,Ram)") --> Ether("Ether (Celestial,Ram)")
 Draco("Draco (Balloon,Patchwork)") --> Eclipse("Eclipse (Balloon,Rabbit,Static)")
