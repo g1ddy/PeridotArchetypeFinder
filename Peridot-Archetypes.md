@@ -332,6 +332,9 @@
 |Boba|||Straw||Bubbles|||
 |Static||||Static||||
 
+### Example(s):
+![Multiverse](./assets/Peridots/multiverse-12.jpg)
+
 ## Archetypes: Cactus, Clownfish, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
@@ -347,9 +350,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Lampent](./assets/Peridots/lampent-11.jpg)
-
 ![Mysterion](./assets/Peridots/mysterion-12.jpg)
+
+![Lampent](./assets/Peridots/lampent-11.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
