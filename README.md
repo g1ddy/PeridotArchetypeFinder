@@ -38,11 +38,11 @@ There are also other functionanility that is more specific to your Peridot famil
 Other resources that this module can generate include:
 
 - [Peridot-FamilyTree.md](./Peridot-FamilyTree.md) - Your peridots represented as a family tree
-- [Peridot-ArchetypeTreeMST.md](./Peridot-ArchetypeTreeMST.md) - Your family tree with suggestions to achieve missing AT
+- [Peridot-ArchetypeTreeMST.md](./Peridot-ArchetypeTreeMST-.md) - Your family tree with suggestions to achieve missing AT
 
 ## Usage
 
-This repo uses GitHub Workflows to run the PowerShell Scripts and generate the Markdown resources mentioned above based on the Archetypes and Peridots CSV files. To get a [Peridot-FamilyTree.md](./Peridot-FamilyTree.md) or [Peridot-ArchetypeTreeMST.md](./Peridot-ArchetypeTreeMST.md) specific to your peridots all you would need to do is create a branch with your updated [Peridots.csv](./assets/Peridots.csv) and it should generate these files for you in your branch.
+This repo uses GitHub Workflows to run the PowerShell Scripts and generate the Markdown resources mentioned above based on the Archetypes and Peridots CSV files. To get a [Peridot-FamilyTree.md](./Peridot-FamilyTree.md) or [Peridot-ArchetypeTreeMST.md](./Peridot-ArchetypeTreeMST-.md) specific to your peridots all you would need to do is create a branch with your updated [Peridots.csv](./assets/Peridots.csv) and it should generate these files for you in your branch.
 
 1. Clone the repo:
 
@@ -117,7 +117,7 @@ Before running this script please make sure this list is up to date as new Arche
     ```
 
 3. Read the output in the Markdown view of your choice
-4. Sample output can be found [here](./Peridot-ArchetypeTreeMST.md)
+4. Sample output can be found [here](./Peridot-ArchetypeTreeMST-.md)
 
 ### Family Tree Usage
 
