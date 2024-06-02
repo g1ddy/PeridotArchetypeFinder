@@ -8,7 +8,7 @@ Alpha --> Bravo
 Beta --> Canary("Canary (Patchwork)")
 Beta --> Chevron("Chevron (Ram)")
 Bravo --> Charlie
-Canary("Canary (Patchwork)") --> Dill-Hulk("Dill-Hulk (Patchwork)")
+Canary("Canary (Patchwork)") --> Dill_Hulk("Dill Hulk (Patchwork)")
 Canary("Canary (Patchwork)") --> Draco("Draco (Balloon,Patchwork)")
 Charlie --> Delta
 Charlie --> Dolphin
@@ -21,8 +21,8 @@ Damascus("Damascus (Kintsugi,Ram)") --> Enrichment("Enrichment (Kintsugi,Royalty
 Damascus("Damascus (Kintsugi,Ram)") --> Escorpio
 Delta --> Echo("Echo (Static)")
 Delta --> Jammie
-Dill-Hulk("Dill-Hulk (Patchwork)") --> Eclair("Eclair (Banana)")
-Dill-Hulk("Dill-Hulk (Patchwork)") --> Escrow("Escrow (Rabbit,Scarecrow,Static)")
+Dill_Hulk("Dill Hulk (Patchwork)") --> Eclair("Eclair (Banana)")
+Dill_Hulk("Dill Hulk (Patchwork)") --> Escrow("Escrow (Rabbit,Scarecrow,Static)")
 Dorado("Dorado (24Karat,Ram)") --> Elite("Elite (24Karat)")
 Dorado("Dorado (24Karat,Ram)") --> Entropy("Entropy (Clownfish,Ram)")
 Dorado("Dorado (24Karat,Ram)") --> Ether("Ether (Celestial,Ram)")
@@ -94,11 +94,11 @@ Lychee("Lychee (Boba,Rabbit,Static)") --> Multiverse("Multiverse (Boba,Static)")
 Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
 Rockstar("Rockstar (Peacock,Psychedelic)") --> Skittles
 Rockstar("Rockstar (Peacock,Psychedelic)") --> Slushy("Slushy (Cotton Candy)")
-Night_Snow("Night Snow (Gargoyle)") --> Om-Nominous("Om-Nominous (Watermelon)")
+Night_Snow("Night Snow (Gargoyle)") --> Om_Nominous("Om Nominous (Watermelon)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
-Om-Nominous("Om-Nominous (Watermelon)") --> Major_Lazer
+Om_Nominous("Om Nominous (Watermelon)") --> Major_Lazer
 Trailmix("Trailmix (Paint)") --> Ultraviolet("Ultraviolet (Paint)")
 Turducken("Turducken (LED,Peacock)") --> Uber("Uber (LED)")
 Turducken("Turducken (LED,Peacock)") --> UFO("UFO (LED)")
