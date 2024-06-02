@@ -63,3 +63,10 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Burnout|None|Heart|Spire|Waxy|Tropical Fish|None|Fleur|
 
+## Peridot: g1ddy-Ambrosia, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Ambrosia|Rudders|Heart|Buns|Geode|Chromatic|Bat Wings|Radish|
+
