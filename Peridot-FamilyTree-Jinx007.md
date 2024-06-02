@@ -3,8 +3,6 @@
 ```mermaid
 flowchart
 
-g1ddy-ambrosia-1("<img src='./assets/Peridots/g1ddy-ambrosia-1.jpg'> <br /> g1ddy-Ambrosia")
-jinx007-aruba-1("<img src='./assets/Peridots/jinx007-aruba-1.jpg'> <br /> Jinx007-Aruba")
 jinx007-jasmine-1("<img src='./assets/Peridots/jinx007-jasmine-1.jpg'> <br /> Jinx007-Jasmine")
 jinx007-jasmine-1 --> jinx007-banshee-2("<img src='./assets/Peridots/jinx007-banshee-2.jpg'> <br /> Jinx007-Banshee (Cheetah)")
 jinx007-jasmine-1 --> jinx007-fuzz-2("<img src='./assets/Peridots/jinx007-fuzz-2.jpg'> <br /> Jinx007-Fuzz (Static)")
