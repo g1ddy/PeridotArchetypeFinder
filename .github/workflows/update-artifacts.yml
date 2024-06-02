@@ -33,9 +33,9 @@ jobs:
           Invoke-PeridotTreeGenerator -PeridotPath ./assets/External.csv | Set-Content .\Peridot-FamilyTree-Jinx007.md
 
           # Update the Peridot-ArchetypeTree.md files
-          Invoke-ArchetypeMinimumSpanningTreeFinder | Set-Content .\Peridot-ArchetypeTree.md
-          Invoke-ArchetypeMinimumSpanningTreeFinder -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST.md
-          Invoke-ArchetypeMinimumSpanningTreeFinder -PeridotPath ./assets/External.csv -IncludePeridots | Set-Content .\Peridot-ArchetypeTreeMST-Jinx007.md
+          Invoke-ArchetypeMinimumSpanningTreeFinder
+          Invoke-ArchetypeMinimumSpanningTreeFinder -IncludePeridots
+          Invoke-ArchetypeMinimumSpanningTreeFinder -PeridotPath ./assets/External.csv -IncludePeridots
 
           # Update the Peridot-ArchetypeFinder-*.md files
           Invoke-FindMissingArchetypes -PeridotPath ./assets/External.csv

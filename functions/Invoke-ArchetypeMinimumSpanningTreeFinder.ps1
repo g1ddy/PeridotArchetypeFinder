@@ -16,19 +16,29 @@ function Invoke-ArchetypeMinimumSpanningTreeFinder {
         $allPeridotArchetypeDictionary = Get-PeridotArchetypeDictionary -Archetypes $archetypes -Peridots $peridotCombinations
 
         $peridots = Get-Peridots -Path $PeridotPath
-        $samplePeridotArchetypeDictionary = Get-PeridotArchetypeDictionary -Archetypes $archetypes -Peridots $peridots
 
-        $graphNodes = Get-GraphNodes -ArchetypeDictionary $allPeridotArchetypeDictionary `
-            -PeridotDictionary $samplePeridotArchetypeDictionary `
-            -IncludePeridots:$IncludePeridots
+        # split peridot name by hyphen and add to dictionary based on first index
+        $peridotGroups = $peridots | Group-Object { $_.Name.Contains('-') ? $_.Name.Split('-')[0] : '' }
 
-        $graph = Get-ArchetypeGraph -GraphNodes $graphNodes
+        $peridotGroups | ForEach-Object {
+            $peridots = $_.Group
+            $keeperName = $_.Name
+            $keeperSuffix = $IncludePeridots ? "MST-${keeperName}" : ''
 
-        # Find MST using Kruskal's algorithm
-        $mst = Kruskal $graph
-        $mst = Get-SortedGraph -Edges $mst
+            $samplePeridotArchetypeDictionary = Get-PeridotArchetypeDictionary -Archetypes $archetypes -Peridots $peridots
 
-        Format-ArchetypeTree -Edges $mst
+            $graphNodes = Get-GraphNodes -ArchetypeDictionary $allPeridotArchetypeDictionary `
+                -PeridotDictionary $samplePeridotArchetypeDictionary `
+                -IncludePeridots:$IncludePeridots
+
+            $graph = Get-ArchetypeGraph -GraphNodes $graphNodes
+
+            # Find MST using Kruskal's algorithm
+            $mst = Kruskal $graph
+            $mst = Get-SortedGraph -Edges $mst
+
+            Format-ArchetypeTree -Edges $mst | Set-Content ".\Peridot-ArchetypeTree${keeperSuffix}.md"
+        }
     }
 }
 
