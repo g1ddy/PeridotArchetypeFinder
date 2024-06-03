@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Cinnabon|Mouse|Fangs|Buns||||Shell|
 
+## Peridot: jinxpride-April, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-April|Fairy|Fangs|Cow|Iridescent|Chromatic|Thorns|Paradise|
+
 ## Peridot: Jinx007-Ghostface, Score: 0.25
 
 ### Peridot Traits:
@@ -17,4 +24,11 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 |Triceratops|Triceratops||Triceratops||Baguette||Asparagus|
+
+## Peridot: g1ddy-Ambrosia, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Ambrosia|Rudders|Heart|Buns|Geode|Chromatic|Bat Wings|Radish|
 

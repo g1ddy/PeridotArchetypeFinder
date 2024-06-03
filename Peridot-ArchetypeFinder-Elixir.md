@@ -29,6 +29,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Clownfish|||||Tropical Fish|||
 
+## Peridot: Jinx007-Cthulhu, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Cthulhu|Monkey|Monkey|Trident|Glimmer|Saddle|Bat Wings|Radish|
+
 ## Peridot: Jinx007-Clowndelabra, Score: 0.25
 
 ### Peridot Traits:
@@ -48,4 +55,11 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Burnout|None|Heart|Spire|Waxy|Tropical Fish|None|Fleur|
+
+## Peridot: g1ddy-Ariel, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Ariel|Rabbit|Goggles|Shell|Glimmer|Chromatic|Scales|Fishbone|
 

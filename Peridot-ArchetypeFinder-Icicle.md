@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Icicle|||Crown|Glimmer||Thorns||
 
+## Peridot: jinxpride-April, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-April|Fairy|Fangs|Cow|Iridescent|Chromatic|Thorns|Paradise|
+
 ## Peridot: Jinx007-Wreck-It Ralph, Score: 0.333333333333333
 
 ### Peridot Traits:
@@ -86,4 +93,18 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
+
+## Peridot: Jinx007-Cthulhu, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Cthulhu|Monkey|Monkey|Trident|Glimmer|Saddle|Bat Wings|Radish|
+
+## Peridot: g1ddy-Ariel, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Ariel|Rabbit|Goggles|Shell|Glimmer|Chromatic|Scales|Fishbone|
 
