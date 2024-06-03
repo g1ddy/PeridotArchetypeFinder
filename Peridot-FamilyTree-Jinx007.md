@@ -4,10 +4,12 @@
 flowchart
 
 g1ddy-ambrosia-1("<img src='./assets/Peridots/g1ddy-ambrosia-1.jpg'> <br /> g1ddy-Ambrosia")
+g1ddy-arcoiris-1("<img src='./assets/Peridots/g1ddy-arcoiris-1.jpg'> <br /> g1ddy-Arcoiris")
 g1ddy-ariel-1("<img src='./assets/Peridots/g1ddy-ariel-1.jpg'> <br /> g1ddy-Ariel")
 jinx007-jasmine-1("<img src='./assets/Peridots/jinx007-jasmine-1.jpg'> <br /> Jinx007-Jasmine")
 jinxpride-april-1("<img src='./assets/Peridots/jinxpride-april-1.jpg'> <br /> jinxpride-April")
 jinxpride-aruba-1("<img src='./assets/Peridots/jinxpride-aruba-1.jpg'> <br /> jinxpride-Aruba")
+jinxpride-aurora-1("<img src='./assets/Peridots/jinxpride-aurora-1.jpg'> <br /> jinxpride-Aurora")
 jinx007-jasmine-1 --> jinx007-banshee-2("<img src='./assets/Peridots/jinx007-banshee-2.jpg'> <br /> Jinx007-Banshee (Cheetah)")
 jinx007-jasmine-1 --> jinx007-fuzz-2("<img src='./assets/Peridots/jinx007-fuzz-2.jpg'> <br /> Jinx007-Fuzz (Static)")
 jinx007-jasmine-1 --> jinx007-maximilian-2("<img src='./assets/Peridots/jinx007-maximilian-2.jpg'> <br /> Jinx007-Maximilian")
@@ -56,7 +58,9 @@ jinx007-rorschach-7 --> jinx007-sencha-8("<img src='./assets/Peridots/jinx007-se
 jinx007-rorschach-7 --> jinx007-sunfire-8("<img src='./assets/Peridots/jinx007-sunfire-8.jpg'> <br /> Jinx007-Sunfire (Lobster)")
 jinx007-snowstorm-7 --> jinx007-galaxy-gargoyle-8("<img src='./assets/Peridots/jinx007-galaxy-gargoyle-8.jpg'> <br /> Jinx007-Galaxy Gargoyle (Celestial)")
 jinx007-vici-7 --> jinx007-wreck-it-ralph-8("<img src='./assets/Peridots/jinx007-wreck-it-ralph-8.jpg'> <br /> Jinx007-Wreck-It Ralph (Kintsugi,Rabbit)")
+jinx007-galaxy-gargoyle-8 --> jinx007-igor-9("<img src='./assets/Peridots/jinx007-igor-9.jpg'> <br /> Jinx007-Igor (Celestial)")
 jinx007-galaxy-gargoyle-8 --> jinx007-interstellar-9("<img src='./assets/Peridots/jinx007-interstellar-9.jpg'> <br /> Jinx007-Interstellar (Celestial)")
+jinx007-herbelion-8 --> jinx007-inflammable-9("<img src='./assets/Peridots/jinx007-inflammable-9.jpg'> <br /> Jinx007-Inflammable (Cotton Candy)")
 jinx007-sencha-8 --> jinx007-thistle-9("<img src='./assets/Peridots/jinx007-thistle-9.jpg'> <br /> Jinx007-Thistle (Cactus)")
 jinx007-sunfire-8 --> jinx007-irukandji-9("<img src='./assets/Peridots/jinx007-irukandji-9.jpg'> <br /> Jinx007-Irukandji")
 jinx007-wreck-it-ralph-8 --> jinx007-xcalibur-9("<img src='./assets/Peridots/jinx007-xcalibur-9.jpg'> <br /> Jinx007-Xcalibur")
