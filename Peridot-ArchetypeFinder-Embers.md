@@ -5,13 +5,6 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Embers|Cat|||Gummy|Okapi||Matrix|
 
-## Peridot: jinxpride-Aruba, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|jinxpride-Aruba|Leaf|Cloud|Bull|Event Horizon|Chromatic|Scales|Matrix|
-
 ## Peridot: Jinx007-Sunfire, Score: 0.25
 
 ### Peridot Traits:
@@ -48,13 +41,6 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Clownfish|||||Tropical Fish|||
 |Dandelion||||Furry||Dandelion|Dandelion|
-
-## Peridot: Jinx007-Horus, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Horus|Pharaoh|Dots|None|Geode|Okapi|Beetle Wings|None|
 
 ## Peridot: Jinx007-Hippy, Score: 0.25
 

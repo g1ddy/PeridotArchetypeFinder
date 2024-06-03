@@ -18,10 +18,3 @@
 |Static||||Static||||
 |Triceratops|Triceratops||Triceratops||Baguette||Asparagus|
 
-## Peridot: g1ddy-Ambrosia, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Ambrosia|Rudders|Heart|Buns|Geode|Chromatic|Bat Wings|Radish|
-

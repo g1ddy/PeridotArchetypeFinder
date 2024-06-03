@@ -5,13 +5,6 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Triton|||Trident|Glimmer|||Whale|
 
-## Peridot: Jinx007-Cthulhu, Score: 0.666666666666667
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Cthulhu|Monkey|Monkey|Trident|Glimmer|Saddle|Bat Wings|Radish|
-
 ## Peridot: Jinx007-Turkey, Score: 0.333333333333333
 
 ### Peridot Traits:
