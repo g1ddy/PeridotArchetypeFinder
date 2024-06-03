@@ -24,6 +24,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Irukandji|Eeyore|Dots|None|Slimy|Ghost|Tutu|Accordian|
 
+## Peridot: jinxpride-Aurora, Score: 0.166666666666667
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aurora|Beaks|Kawaii|Spire|Geode|Chromatic|Beetle Wings|None|
+
 ## Peridot: Jinx007-Watermelon, Score: 0.166666666666667
 
 ### Peridot Traits:
@@ -106,16 +113,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Dewdrop||Star||Gummy|Gradient|||
-
-## Peridot: Jinx007-Fenrir, Score: 0.166666666666667
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Fenrir|Elven|Octopus|None|Static|Breezy|Thorns|Mouse|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Static||||Static||||
 

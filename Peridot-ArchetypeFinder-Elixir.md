@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Elixir|||Spire|Glimmer|Puddle|Ruff||
 
+## Peridot: jinxpride-Aurora, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aurora|Beaks|Kawaii|Spire|Geode|Chromatic|Beetle Wings|None|
+
 ## Peridot: Jinx007-Yondu, Score: 0.25
 
 ### Peridot Traits:

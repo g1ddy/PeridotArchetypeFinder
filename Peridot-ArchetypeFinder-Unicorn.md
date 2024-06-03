@@ -53,6 +53,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 
+## Peridot: Jinx007-Inflammable, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Inflammable|Beaks|Star|Narwhal|Furry|Bubbles|Curls|Accordian|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Cotton Candy|||Narwhal|Furry||||
+
 ## Peridot: Jinx007-Herbelion, Score: 0.25
 
 ### Peridot Traits:

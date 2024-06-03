@@ -114,6 +114,7 @@ Turducken("Turducken (LED,Peacock)") --> Uluguru("Uluguru (LED)")
 Uluguru("Uluguru (LED)") --> Volare("Volare (LED)")
 Volare("Volare (LED)") --> Wallflower
 Wallflower --> Xenomorphic
+Interspecies -..-> New_Archetype:_Clownfish,_Cotton_Candy,_Dandelion
 New_Archetype:_Clownfish,_Cotton_Candy,_Rabbit -..-> New_Archetype:_Clownfish,_Rabbit,_Static
 ```
 

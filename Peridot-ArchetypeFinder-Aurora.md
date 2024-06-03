@@ -67,6 +67,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Celestial||||Starry|Celestial|||
 
+## Peridot: Jinx007-Igor, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Igor|Slice|Dots|Demon|Starry|Celestial|Bat Wings|Snowflake|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Celestial||||Starry|Celestial|||
+
 ## Peridot: Jinx007-Galaxy Gargoyle, Score: 0.25
 
 ### Peridot Traits:

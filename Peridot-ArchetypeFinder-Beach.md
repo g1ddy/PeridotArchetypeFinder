@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Beach|||Shell|Geode|Beach|||
 
+## Peridot: jinxpride-Aurora, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aurora|Beaks|Kawaii|Spire|Geode|Chromatic|Beetle Wings|None|
+
 ## Peridot: Jinx007-Horus, Score: 0.333333333333333
 
 ### Peridot Traits:
