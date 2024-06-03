@@ -65,6 +65,7 @@ hypnos-8 --> instar-9("<img src='./assets/Peridots/instar-9.jpg'> <br /> Instar 
 icarus-8 --> jax-9("<img src='./assets/Peridots/jax-9.jpg'> <br /> Jax (Clownfish)")
 icarus-8 --> jewelfish-9("<img src='./assets/Peridots/jewelfish-9.jpg'> <br /> Jewelfish (Clownfish,Rabbit)")
 noise-8 --> orion-9("<img src='./assets/Peridots/orion-9.jpg'> <br /> Orion (Aurora)")
+hydrostatic-9 --> interspecies-10("<img src='./assets/Peridots/interspecies-10.jpg'> <br /> Interspecies")
 imhotep-9 --> jormungandr-10("<img src='./assets/Peridots/jormungandr-10.jpg'> <br /> Jormungandr (Static)")
 imugi-9 --> jaguarundi-10("<img src='./assets/Peridots/jaguarundi-10.jpg'> <br /> Jaguarundi (Elixir)")
 incense-9 --> jack-olantern-10("<img src='./assets/Peridots/jack-olantern-10.jpg'> <br /> Jack Olantern (Embers)")
