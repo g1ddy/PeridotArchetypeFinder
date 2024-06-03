@@ -62,6 +62,7 @@ Hailstorm --> Imugi("Imugi (Triton)")
 Harry --> Isla("Isla (Beach)")
 Hippogriff("Hippogriff (Cheetah)") --> Incense
 Hippogriff("Hippogriff (Cheetah)") --> Inception
+Hydrostatic("Hydrostatic (Clownfish,Dandelion)") --> Interspecies
 Hypnos --> Imhotep("Imhotep (Scarab)")
 Hypnos --> Instar("Instar (Bee)")
 Icarus --> Jax("Jax (Clownfish)")

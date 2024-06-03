@@ -60,6 +60,7 @@ hailstorm-8 --> imugi-9("<img src='./assets/Peridots/imugi-9.jpg'> <br /> Imugi 
 harry-8 --> isla-9("<img src='./assets/Peridots/isla-9.jpg'> <br /> Isla (Beach)")
 hippogriff-8 --> incense-9("<img src='./assets/Peridots/incense-9.jpg'> <br /> Incense")
 hippogriff-8 --> inception-9("<img src='./assets/Peridots/inception-9.jpg'> <br /> Inception")
+hydrostatic-8 --> interspecies-9("<img src='./assets/Peridots/interspecies-9.jpg'> <br /> Interspecies")
 hypnos-8 --> imhotep-9("<img src='./assets/Peridots/imhotep-9.jpg'> <br /> Imhotep (Scarab)")
 hypnos-8 --> instar-9("<img src='./assets/Peridots/instar-9.jpg'> <br /> Instar (Bee)")
 icarus-8 --> jax-9("<img src='./assets/Peridots/jax-9.jpg'> <br /> Jax (Clownfish)")
