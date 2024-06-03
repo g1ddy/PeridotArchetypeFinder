@@ -62,6 +62,7 @@ Hailstorm --> Imugi("Imugi (Triton)")
 Harry --> Isla("Isla (Beach)")
 Hippogriff("Hippogriff (Cheetah)") --> Incense
 Hippogriff("Hippogriff (Cheetah)") --> Inception
+Hydrostatic("Hydrostatic (Clownfish,Dandelion)") --> Interspecies
 Hypnos --> Imhotep("Imhotep (Scarab)")
 Hypnos --> Instar("Instar (Bee)")
 Icarus --> Jax("Jax (Clownfish)")
@@ -114,7 +115,6 @@ Turducken("Turducken (LED,Peacock)") --> Uluguru("Uluguru (LED)")
 Uluguru("Uluguru (LED)") --> Volare("Volare (LED)")
 Volare("Volare (LED)") --> Wallflower
 Wallflower --> Xenomorphic
-Interspecies -..-> New_Archetype:_Clownfish,_Cotton_Candy,_Dandelion
 New_Archetype:_Clownfish,_Cotton_Candy,_Rabbit -..-> New_Archetype:_Clownfish,_Rabbit,_Static
 ```
 
