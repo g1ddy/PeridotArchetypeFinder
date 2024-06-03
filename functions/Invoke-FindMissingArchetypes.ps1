@@ -22,9 +22,15 @@ function Invoke-FindMissingArchetypes {
         }
         $undiscoveredArchetypes = $archetypes | Where-Object { $achievedArchetypes -notcontains $_.Name }
 
+        # Create hitlist folder if not exist
+        $parentFolder = Split-Path -Path $PSScriptRoot -Parent
+        $parentFolder = Join-Path -Path $parentFolder -ChildPath "hitlist"
+        if (-not (Test-Path -Path $parentFolder)) {
+            New-Item -Path $parentFolder -ItemType Directory
+        }
+
         $undiscoveredArchetypes | ForEach-Object {
             $outputFileName = "Peridot-ArchetypeFinder-$($_.Name).md"
-            $parentFolder = Split-Path -Path $PSScriptRoot -Parent
             $outputPath = Join-Path -Path $parentFolder -ChildPath $outputFileName
 
             Find-ArchetypePeridot -TargetArchetype $_.Name `
