@@ -3,6 +3,7 @@ function Invoke-ArchetypeMinimumSpanningTreeFinder {
     param(
         [string]$ArchetypePath = "$PSScriptRoot\..\assets\Archetypes.csv",
         [string]$PeridotPath = "$PSScriptRoot\..\assets\Peridots.csv",
+        [int]$ArchetypeCombinations = 1,
         [switch]$IncludePeridots
     )
     begin {
@@ -29,7 +30,8 @@ function Invoke-ArchetypeMinimumSpanningTreeFinder {
 
             $graphNodes = Get-GraphNodes -ArchetypeDictionary $allPeridotArchetypeDictionary `
                 -PeridotDictionary $samplePeridotArchetypeDictionary `
-                -IncludePeridots:$IncludePeridots
+                -IncludePeridots:$IncludePeridots `
+                -ArchetypeCombinations $ArchetypeCombinations
 
             $graph = Get-ArchetypeGraph -GraphNodes $graphNodes
 
@@ -46,7 +48,8 @@ function Get-GraphNodes {
     param(
         $ArchetypeDictionary,
         $PeridotDictionary,
-        $IncludePeridots
+        $IncludePeridots,
+        $ArchetypeCombinations
     )
 
     $achievedArchetypes = New-Object System.Collections.Generic.HashSet[string]
@@ -82,8 +85,8 @@ function Get-GraphNodes {
 
     $ArchetypeDictionary.GetEnumerator() |
         Where-Object {
-            $undiscoveredArchetypes = ($_.Value.Archetypes | Where-Object { $achievedArchetypes -notcontains $_ })
-            $_.Value.Archetypes.Count -eq 1 -and $undiscoveredArchetypes
+            $undiscoveredArchetypes = $achievedArchetypes -notcontains $_.Key
+            $_.Value.Archetypes.Count -eq $ArchetypeCombinations -and $undiscoveredArchetypes
         } |
         ForEach-Object {
             $namePrefix = $IncludePeridots ? "New Archetype: " : ""
