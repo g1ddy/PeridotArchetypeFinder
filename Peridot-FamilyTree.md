@@ -78,6 +78,7 @@ jewelfish-9 --> queezy-10("<img src='./assets/Peridots/queezy-10.jpg'> <br /> Qu
 orion-9 --> phenotype-10("<img src='./assets/Peridots/phenotype-10.jpg'> <br /> Phenotype (Sunset)")
 orion-9 --> predator-10("<img src='./assets/Peridots/predator-10.jpg'> <br /> Predator (Vampire)")
 jaguarundi-10 --> kyoka-suigetsu-11("<img src='./assets/Peridots/kyoka-suigetsu-11.jpg'> <br /> Kyoka Suigetsu (Elixir)")
+jaguarundi-10 --> luminosity-11("<img src='./assets/Peridots/luminosity-11.jpg'> <br /> Luminosity (Rabbit)")
 jormungandr-10 --> kira-11("<img src='./assets/Peridots/kira-11.jpg'> <br /> Kira (Dragon,Static)")
 jubilee-10 --> khroma-11("<img src='./assets/Peridots/khroma-11.jpg'> <br /> Khroma (Chameleon)")
 kaleidoscope-10 --> lagostosa-11("<img src='./assets/Peridots/lagostosa-11.jpg'> <br /> Lagostosa (Clownfish,Lobster)")
