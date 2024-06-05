@@ -3,11 +3,15 @@
 ```mermaid
 flowchart
 
+g1ddy-adella-1("<img src='./assets/Peridots/g1ddy-adella-1.jpg'> <br /> g1ddy-Adella")
 g1ddy-ambrosia-1("<img src='./assets/Peridots/g1ddy-ambrosia-1.jpg'> <br /> g1ddy-Ambrosia")
 g1ddy-arcoiris-1("<img src='./assets/Peridots/g1ddy-arcoiris-1.jpg'> <br /> g1ddy-Arcoiris")
 g1ddy-ariel-1("<img src='./assets/Peridots/g1ddy-ariel-1.jpg'> <br /> g1ddy-Ariel")
+g1ddy-attina-1("<img src='./assets/Peridots/g1ddy-attina-1.jpg'> <br /> g1ddy-Attina")
 jinx007-jasmine-1("<img src='./assets/Peridots/jinx007-jasmine-1.jpg'> <br /> Jinx007-Jasmine")
 jinxpride-april-1("<img src='./assets/Peridots/jinxpride-april-1.jpg'> <br /> jinxpride-April")
+jinxpride-aquata-1("<img src='./assets/Peridots/jinxpride-aquata-1.jpg'> <br /> jinxpride-Aquata")
+jinxpride-arista-1("<img src='./assets/Peridots/jinxpride-arista-1.jpg'> <br /> jinxpride-Arista")
 jinxpride-aruba-1("<img src='./assets/Peridots/jinxpride-aruba-1.jpg'> <br /> jinxpride-Aruba")
 jinxpride-aurora-1("<img src='./assets/Peridots/jinxpride-aurora-1.jpg'> <br /> jinxpride-Aurora")
 jinx007-jasmine-1 --> jinx007-banshee-2("<img src='./assets/Peridots/jinx007-banshee-2.jpg'> <br /> Jinx007-Banshee (Cheetah)")
