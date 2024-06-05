@@ -34,7 +34,7 @@ jobs:
 
           # Update the Peridot-ArchetypeTree.md files
           Invoke-ArchetypeMinimumSpanningTreeFinder
-          Invoke-ArchetypeMinimumSpanningTreeFinder -IncludePeridots
+          Invoke-ArchetypeMinimumSpanningTreeFinder -IncludePeridots -ArchetypeCombinations 3
           Invoke-ArchetypeMinimumSpanningTreeFinder -PeridotPath ./assets/External.csv -IncludePeridots
 
           # Update the Peridot-ArchetypeFinder-*.md files

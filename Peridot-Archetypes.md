@@ -350,9 +350,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Mysterion](./assets/Peridots/mysterion-12.jpg)
-
 ![Lampent](./assets/Peridots/lampent-11.jpg)
+
+![Mysterion](./assets/Peridots/mysterion-12.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
@@ -684,6 +684,9 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Elixir|||Spire|Glimmer|Puddle|Ruff||
 |Rabbit|Rabbit||||||Rabbit|
+
+### Example(s):
+![Mandarin](./assets/Peridots/mandarin-12.jpg)
 
 ## Archetypes: Gargoyle, Psychedelic, Count: 2
 ### Compatibility Table:
