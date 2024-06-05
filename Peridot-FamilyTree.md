@@ -93,6 +93,7 @@ lagostosa-11 --> mix-a-lotl-12("<img src='./assets/Peridots/mix-a-lotl-12.jpg'> 
 lagostosa-11 --> moonlit-12("<img src='./assets/Peridots/moonlit-12.jpg'> <br /> Moonlit (Jellyfish)")
 lampent-11 --> mysterion-12("<img src='./assets/Peridots/mysterion-12.jpg'> <br /> Mysterion (Candle,Clownfish)")
 lava-lamp-11 --> medusa-12("<img src='./assets/Peridots/medusa-12.jpg'> <br /> Medusa (Anemone,Sunset)")
+luminosity-11 --> mandarin-12("<img src='./assets/Peridots/mandarin-12.jpg'> <br /> Mandarin (Elixir,Rabbit)")
 lychee-11 --> multiverse-12("<img src='./assets/Peridots/multiverse-12.jpg'> <br /> Multiverse (Boba,Static)")
 mastodon-11 --> night-snow-12("<img src='./assets/Peridots/night-snow-12.jpg'> <br /> Night Snow (Gargoyle)")
 rockstar-11 --> skittles-12("<img src='./assets/Peridots/skittles-12.jpg'> <br /> Skittles")

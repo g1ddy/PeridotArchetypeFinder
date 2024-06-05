@@ -68,6 +68,7 @@ jinx007-herbelion-8 --> jinx007-inflammable-9("<img src='./assets/Peridots/jinx0
 jinx007-sencha-8 --> jinx007-thistle-9("<img src='./assets/Peridots/jinx007-thistle-9.jpg'> <br /> Jinx007-Thistle (Cactus)")
 jinx007-sunfire-8 --> jinx007-irukandji-9("<img src='./assets/Peridots/jinx007-irukandji-9.jpg'> <br /> Jinx007-Irukandji")
 jinx007-wreck-it-ralph-8 --> jinx007-xcalibur-9("<img src='./assets/Peridots/jinx007-xcalibur-9.jpg'> <br /> Jinx007-Xcalibur")
+jinx007-irukandji-9 --> jinx007-jellybunny-10("<img src='./assets/Peridots/jinx007-jellybunny-10.jpg'> <br /> Jinx007-Jellybunny (Jellyfish)")
 jinx007-thistle-9 --> jinx007-umbrella-10("<img src='./assets/Peridots/jinx007-umbrella-10.jpg'> <br /> Jinx007-Umbrella")
 jinx007-thistle-9 --> jinx007-unbananable-10("<img src='./assets/Peridots/jinx007-unbananable-10.jpg'> <br /> Jinx007-Unbananable (Banana)")
 jinx007-xcalibur-9 --> jinx007-yondu-10("<img src='./assets/Peridots/jinx007-yondu-10.jpg'> <br /> Jinx007-Yondu (Jester)")
