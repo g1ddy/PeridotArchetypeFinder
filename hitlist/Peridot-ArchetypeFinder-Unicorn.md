@@ -102,3 +102,10 @@
 |Cotton Candy|||Narwhal|Furry||||
 |Rabbit|Rabbit||||||Rabbit|
 
+## Peridot: g1ddy-Attina, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Attina|Slice|Fangs|Goat|Glitter|Chromatic|Beetle Wings|Fern|
+

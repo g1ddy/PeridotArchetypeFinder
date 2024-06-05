@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Paint||Blob||LED|Deer||Radish|
 
+## Peridot: jinxpride-Aquata, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aquata|Llama|Fangs|Cow|LED|Chromatic|Eyebrows|Fishbone|
+
 ## Peridot: Jinx007-Maximilian, Score: 0.25
 
 ### Peridot Traits:
@@ -44,4 +51,11 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |g1ddy-Ambrosia|Rudders|Heart|Buns|Geode|Chromatic|Bat Wings|Radish|
+
+## Peridot: g1ddy-Adella, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Adella|Heart|Diamond|Stacked|Chrome|Chromatic|None|Radish|
 

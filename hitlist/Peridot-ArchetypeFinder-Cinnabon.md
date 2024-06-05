@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Cinnabon|Mouse|Fangs|Buns||||Shell|
 
+## Peridot: jinxpride-Aquata, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aquata|Llama|Fangs|Cow|LED|Chromatic|Eyebrows|Fishbone|
+
 ## Peridot: jinxpride-April, Score: 0.25
 
 ### Peridot Traits:
@@ -24,6 +31,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 |Triceratops|Triceratops||Triceratops||Baguette||Asparagus|
+
+## Peridot: g1ddy-Attina, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Attina|Slice|Fangs|Goat|Glitter|Chromatic|Beetle Wings|Fern|
 
 ## Peridot: g1ddy-Ambrosia, Score: 0.25
 

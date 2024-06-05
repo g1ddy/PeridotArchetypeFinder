@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |LED||||LED|Pulse|||
 
+## Peridot: jinxpride-Aquata, Score: 0.5
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aquata|Llama|Fangs|Cow|LED|Chromatic|Eyebrows|Fishbone|
+
 ## Peridot: Jinx007-Shimmerrosie, Score: 0.5
 
 ### Peridot Traits:

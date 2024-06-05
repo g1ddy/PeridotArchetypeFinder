@@ -5,6 +5,20 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Vampire|Bat|Fangs|||Sunset|Ruff|Peacock|
 
+## Peridot: jinxpride-Arista, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Arista|Bat|Goggles|Spire|Iridescent|Chromatic|Moth|Wavelength|
+
+## Peridot: jinxpride-Aquata, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aquata|Llama|Fangs|Cow|LED|Chromatic|Eyebrows|Fishbone|
+
 ## Peridot: jinxpride-April, Score: 0.2
 
 ### Peridot Traits:
@@ -99,30 +113,4 @@
 |Peacock|||None|||Spades|Peacock|
 |Psychedelic||Octopus|||Breezy||Peacock|
 |Static||||Static||||
-
-## Peridot: Jinx007-Shimmerrosie, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Shimmerrosie|Bear|Octopus|None|Static|Pulse|Spades|Peacock|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Peacock|||None|||Spades|Peacock|
-|Static||||Static||||
-
-## Peridot: Jinx007-Ghostface, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Ghostface|Triceratops|Fangs|Triceratops|Static|Baguette|None|Asparagus|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Static||||Static||||
-|Triceratops|Triceratops||Triceratops||Baguette||Asparagus|
 

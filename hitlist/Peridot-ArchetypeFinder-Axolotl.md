@@ -31,6 +31,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Aurora|Beaks|Kawaii|Spire|Geode|Chromatic|Beetle Wings|None|
 
+## Peridot: jinxpride-Arista, Score: 0.166666666666667
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Arista|Bat|Goggles|Spire|Iridescent|Chromatic|Moth|Wavelength|
+
 ## Peridot: Jinx007-Watermelon, Score: 0.166666666666667
 
 ### Peridot Traits:
@@ -95,22 +102,15 @@
 |Peacock|||None|||Spades|Peacock|
 |Static||||Static||||
 
-## Peridot: Jinx007-Horus, Score: 0.166666666666667
+## Peridot: Jinx007-Jellybunny, Score: 0.166666666666667
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Horus|Pharaoh|Dots|None|Geode|Okapi|Beetle Wings|None|
-
-## Peridot: Jinx007-Hippy, Score: 0.166666666666667
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Hippy|Rabbit|Star|None|Gummy|Gradient|Quills|Radiance|
+|Jinx007-Jellybunny|Eeyore|Dots|Demon|Slimy|Ghost|Tutu|Carnival|
 
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Dewdrop||Star||Gummy|Gradient|||
+|Jellyfish||||Slimy|Ghost|Tutu|Carnival|
 

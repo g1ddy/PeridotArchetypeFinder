@@ -30,6 +30,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Sunset|||||Sunset||Fleur|
 
+## Peridot: Jinx007-Jellybunny, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Jellybunny|Eeyore|Dots|Demon|Slimy|Ghost|Tutu|Carnival|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jellyfish||||Slimy|Ghost|Tutu|Carnival|
+
 ## Peridot: Jinx007-Irukandji, Score: 0.333333333333333
 
 ### Peridot Traits:
@@ -49,4 +61,11 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Ram|||Ram||||Asparagus|
 |Watermelon|Slice|||Pulp|Watermelon|||
+
+## Peridot: g1ddy-Adella, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Adella|Heart|Diamond|Stacked|Chrome|Chromatic|None|Radish|
 
