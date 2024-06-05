@@ -685,6 +685,9 @@
 |Elixir|||Spire|Glimmer|Puddle|Ruff||
 |Rabbit|Rabbit||||||Rabbit|
 
+### Example(s):
+![Mandarin](./assets/Peridots/mandarin-12.jpg)
+
 ## Archetypes: Gargoyle, Psychedelic, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|

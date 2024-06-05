@@ -3,11 +3,15 @@
 ```mermaid
 flowchart
 
+g1ddy-adella-1("<img src='./assets/Peridots/g1ddy-adella-1.jpg'> <br /> g1ddy-Adella")
 g1ddy-ambrosia-1("<img src='./assets/Peridots/g1ddy-ambrosia-1.jpg'> <br /> g1ddy-Ambrosia")
 g1ddy-arcoiris-1("<img src='./assets/Peridots/g1ddy-arcoiris-1.jpg'> <br /> g1ddy-Arcoiris")
 g1ddy-ariel-1("<img src='./assets/Peridots/g1ddy-ariel-1.jpg'> <br /> g1ddy-Ariel")
+g1ddy-attina-1("<img src='./assets/Peridots/g1ddy-attina-1.jpg'> <br /> g1ddy-Attina")
 jinx007-jasmine-1("<img src='./assets/Peridots/jinx007-jasmine-1.jpg'> <br /> Jinx007-Jasmine")
 jinxpride-april-1("<img src='./assets/Peridots/jinxpride-april-1.jpg'> <br /> jinxpride-April")
+jinxpride-aquata-1("<img src='./assets/Peridots/jinxpride-aquata-1.jpg'> <br /> jinxpride-Aquata")
+jinxpride-arista-1("<img src='./assets/Peridots/jinxpride-arista-1.jpg'> <br /> jinxpride-Arista")
 jinxpride-aruba-1("<img src='./assets/Peridots/jinxpride-aruba-1.jpg'> <br /> jinxpride-Aruba")
 jinxpride-aurora-1("<img src='./assets/Peridots/jinxpride-aurora-1.jpg'> <br /> jinxpride-Aurora")
 jinx007-jasmine-1 --> jinx007-banshee-2("<img src='./assets/Peridots/jinx007-banshee-2.jpg'> <br /> Jinx007-Banshee (Cheetah)")
@@ -64,6 +68,7 @@ jinx007-herbelion-8 --> jinx007-inflammable-9("<img src='./assets/Peridots/jinx0
 jinx007-sencha-8 --> jinx007-thistle-9("<img src='./assets/Peridots/jinx007-thistle-9.jpg'> <br /> Jinx007-Thistle (Cactus)")
 jinx007-sunfire-8 --> jinx007-irukandji-9("<img src='./assets/Peridots/jinx007-irukandji-9.jpg'> <br /> Jinx007-Irukandji")
 jinx007-wreck-it-ralph-8 --> jinx007-xcalibur-9("<img src='./assets/Peridots/jinx007-xcalibur-9.jpg'> <br /> Jinx007-Xcalibur")
+jinx007-irukandji-9 --> jinx007-jellybunny-10("<img src='./assets/Peridots/jinx007-jellybunny-10.jpg'> <br /> Jinx007-Jellybunny (Jellyfish)")
 jinx007-thistle-9 --> jinx007-umbrella-10("<img src='./assets/Peridots/jinx007-umbrella-10.jpg'> <br /> Jinx007-Umbrella")
 jinx007-thistle-9 --> jinx007-unbananable-10("<img src='./assets/Peridots/jinx007-unbananable-10.jpg'> <br /> Jinx007-Unbananable (Banana)")
 jinx007-xcalibur-9 --> jinx007-yondu-10("<img src='./assets/Peridots/jinx007-yondu-10.jpg'> <br /> Jinx007-Yondu (Jester)")
