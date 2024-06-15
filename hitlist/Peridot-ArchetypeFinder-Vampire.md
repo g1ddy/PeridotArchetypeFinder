@@ -63,6 +63,18 @@
 |Royalty||Countess|Crown|Ore||Tutu||
 |Sunset|||||Sunset||Fleur|
 
+## Peridot: Jinx007-Valyrian, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Valyrian|Seraph|Goggles|Bharal|Starry|Sunset|Tutu|Fleur|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Aurora|Seraph||Bharal|Starry|Sunset|||
+
 ## Peridot: Jinx007-Usurper, Score: 0.2
 
 ### Peridot Traits:
@@ -98,19 +110,5 @@
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Static||||Static||||
-
-## Peridot: Jinx007-Triumvirate, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Triumvirate|Bear|Octopus|None|Static|Breezy|Spades|Peacock|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Peacock|||None|||Spades|Peacock|
-|Psychedelic||Octopus|||Breezy||Peacock|
 |Static||||Static||||
 

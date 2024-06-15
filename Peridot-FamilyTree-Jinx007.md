@@ -48,6 +48,7 @@ jinx007-fluffish-6 --> jinx007-faun-7("<img src='./assets/Peridots/jinx007-faun-
 jinx007-fluffish-6 --> jinx007-gumdrop-7("<img src='./assets/Peridots/jinx007-gumdrop-7.jpg'> <br /> Jinx007-Gumdrop (Cotton Candy)")
 jinx007-honeybunny-6 --> jinx007-golden-idol-7("<img src='./assets/Peridots/jinx007-golden-idol-7.jpg'> <br /> Jinx007-Golden Idol (24Karat,Rabbit)")
 jinx007-tulum-6 --> jinx007-urchin-7("<img src='./assets/Peridots/jinx007-urchin-7.jpg'> <br /> Jinx007-Urchin (Static)")
+jinx007-usurper-6 --> jinx007-valyrian-7("<img src='./assets/Peridots/jinx007-valyrian-7.jpg'> <br /> Jinx007-Valyrian (Aurora)")
 jinx007-usurper-6 --> jinx007-vici-7("<img src='./assets/Peridots/jinx007-vici-7.jpg'> <br /> Jinx007-Vici (Royalty,Sunset)")
 jinx007-watermelon-6 --> jinx007-chip-7("<img src='./assets/Peridots/jinx007-chip-7.jpg'> <br /> Jinx007-Chip (Bismuth,Peacock)")
 jinx007-watermelon-6 --> jinx007-gallagher-7("<img src='./assets/Peridots/jinx007-gallagher-7.jpg'> <br /> Jinx007-Gallagher (Ram,Watermelon)")

@@ -18,6 +18,18 @@
 |Royalty||Countess|Crown|Ore||Tutu||
 |Sunset|||||Sunset||Fleur|
 
+## Peridot: Jinx007-Valyrian, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Valyrian|Seraph|Goggles|Bharal|Starry|Sunset|Tutu|Fleur|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Aurora|Seraph||Bharal|Starry|Sunset|||
+
 ## Peridot: Jinx007-Usurper, Score: 0.333333333333333
 
 ### Peridot Traits:
