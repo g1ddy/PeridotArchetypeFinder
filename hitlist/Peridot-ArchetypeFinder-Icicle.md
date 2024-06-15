@@ -5,12 +5,12 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Icicle|||Crown|Glimmer||Thorns||
 
-## Peridot: jinxpride-April, Score: 0.333333333333333
+## Peridot: jinxpride-Abalone, Score: 0.333333333333333
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|jinxpride-April|Fairy|Fangs|Cow|Iridescent|Chromatic|Thorns|Paradise|
+|jinxpride-Abalone|Fairy|Fangs|Cow|Iridescent|Chromatic|Thorns|Paradise|
 
 ## Peridot: Jinx007-Wreck-It Ralph, Score: 0.333333333333333
 

@@ -19,12 +19,12 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Aquata|Llama|Fangs|Cow|LED|Chromatic|Eyebrows|Fishbone|
 
-## Peridot: jinxpride-April, Score: 0.2
+## Peridot: jinxpride-Abalone, Score: 0.2
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|jinxpride-April|Fairy|Fangs|Cow|Iridescent|Chromatic|Thorns|Paradise|
+|jinxpride-Abalone|Fairy|Fangs|Cow|Iridescent|Chromatic|Thorns|Paradise|
 
 ## Peridot: Jinx007-Yondu, Score: 0.2
 

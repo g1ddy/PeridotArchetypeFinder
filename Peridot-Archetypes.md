@@ -350,9 +350,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Lampent](./assets/Peridots/lampent-11.jpg)
-
 ![Mysterion](./assets/Peridots/mysterion-12.jpg)
+
+![Lampent](./assets/Peridots/lampent-11.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
@@ -390,6 +390,9 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Celestial||||Starry|Celestial|||
 |Gargoyle|Slice||Demon|Starry||Bat Wings||
+
+### Example(s):
+![Jinx007-Jeronimo](./assets/Peridots/jinx007-jeronimo-9.jpg)
 
 ## Archetypes: Celestial, Peacock, Count: 2
 ### Compatibility Table:

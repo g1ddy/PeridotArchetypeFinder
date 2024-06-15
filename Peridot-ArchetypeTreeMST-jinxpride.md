@@ -3,9 +3,9 @@
 ```mermaid
 flowchart
 
-jinxpride-April -...-> jinxpride-Aquata
-jinxpride-April -...-> New_Archetype:_Cactus
-jinxpride-April -....-> jinxpride-Arista
+jinxpride-Abalone -...-> jinxpride-Aquata
+jinxpride-Abalone -...-> New_Archetype:_Cactus
+jinxpride-Abalone -....-> jinxpride-Arista
 jinxpride-Aquata -...-> New_Archetype:_LED
 New_Archetype:_Gargoyle -...-> New_Archetype:_Celestial
 New_Archetype:_Gargoyle -...-> New_Archetype:_Anemone

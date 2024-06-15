@@ -55,6 +55,19 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Gargoyle|Slice||Demon|Starry||Bat Wings||
 
+## Peridot: Jinx007-Jeronimo, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Jeronimo|Slice|Dots|Demon|Starry|Celestial|Bat Wings|Horse|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Celestial||||Starry|Celestial|||
+|Gargoyle|Slice||Demon|Starry||Bat Wings||
+
 ## Peridot: Jinx007-Interstellar, Score: 0.25
 
 ### Peridot Traits:
