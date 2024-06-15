@@ -89,7 +89,7 @@ Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Lava_Lamp("Lava Lamp
 Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Mastodon("Mastodon (Anemone,Snowfall)")
 Kandle --> Lampent("Lampent (Candle,Clownfish)")
 Krypto("Krypto (Dewdrop,Rabbit)") --> Lychee("Lychee (Boba,Rabbit,Static)")
-Phenotype("Phenotype (Sunset)") --> Quantum("Quantum (Sunset)")
+Phenotype("Phenotype (Sunset)") --> Quantum("Quantum (Aurora)")
 Queezy("Queezy (Peacock)") --> Rockstar("Rockstar (Peacock,Psychedelic)")
 Jubilee("Jubilee (Cinnabon)") -..-> New_Archetype:_Cinnabon,_Clownfish,_Static
 Kira("Kira (Dragon,Static)") --> Leviathan("Leviathan (Dragon)")
@@ -101,6 +101,7 @@ Lampent("Lampent (Candle,Clownfish)") --> Mysterion("Mysterion (Candle,Clownfish
 Lava_Lamp("Lava Lamp (Anemone,Psychedelic)") --> Medusa("Medusa (Anemone,Sunset)")
 Lychee("Lychee (Boba,Rabbit,Static)") --> Multiverse("Multiverse (Boba,Static)")
 Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
+Quantum("Quantum (Aurora)") --> Refracted("Refracted (Sunset)")
 Rockstar("Rockstar (Peacock,Psychedelic)") --> Skittles
 Rockstar("Rockstar (Peacock,Psychedelic)") --> Slushy("Slushy (Cotton Candy)")
 Rockstar("Rockstar (Peacock,Psychedelic)") -..-> New_Archetype:_Peacock,_Psychedelic,_Static
