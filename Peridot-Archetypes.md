@@ -391,9 +391,6 @@
 |Celestial||||Starry|Celestial|||
 |Gargoyle|Slice||Demon|Starry||Bat Wings||
 
-### Example(s):
-![Jinx007-Jeronimo](./assets/Peridots/jinx007-jeronimo-9.jpg)
-
 ## Archetypes: Celestial, Peacock, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
@@ -689,7 +686,7 @@
 |Rabbit|Rabbit||||||Rabbit|
 
 ### Example(s):
-![Mandarin](./assets/Peridots/mandarin-12.jpg)
+![Mandarin](./assets/Peridots/mandarin-13.jpg)
 
 ## Archetypes: Gargoyle, Psychedelic, Count: 2
 ### Compatibility Table:

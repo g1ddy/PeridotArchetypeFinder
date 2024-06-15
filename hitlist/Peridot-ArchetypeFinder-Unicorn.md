@@ -63,7 +63,6 @@
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Celestial||||Starry|Celestial|||
 |Gargoyle|Slice||Demon|Starry||Bat Wings||
 
 ## Peridot: Jinx007-Inflammable, Score: 0.25
