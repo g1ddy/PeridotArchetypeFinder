@@ -308,9 +308,6 @@
 |Boba|||Straw||Bubbles|||
 |Dandelion||||Furry||Dandelion|Dandelion|
 
-### Example(s):
-![Jade](./assets/Peridots/jade-10.jpg)
-
 ## Archetypes: Boba, Glam, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
@@ -353,9 +350,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Lampent](./assets/Peridots/lampent-11.jpg)
-
 ![Mysterion](./assets/Peridots/mysterion-12.jpg)
+
+![Lampent](./assets/Peridots/lampent-11.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
