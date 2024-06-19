@@ -686,7 +686,7 @@
 |Rabbit|Rabbit||||||Rabbit|
 
 ### Example(s):
-![Mandarin](./assets/Peridots/mandarin-12.jpg)
+![Mandarin](./assets/Peridots/mandarin-13.jpg)
 
 ## Archetypes: Gargoyle, Psychedelic, Count: 2
 ### Compatibility Table:

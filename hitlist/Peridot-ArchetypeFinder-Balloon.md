@@ -1,102 +1,90 @@
 # Peridot closest to Archetype
 
-## Target Archetype: Jester
+## Target Archetype: Balloon
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Jester|||Jester|Ore|Diamonds|Ruff||
+|Balloon|||Stacked||Patchwork|Tutu||
 
-## Peridot: Predator, Score: 0.25
+## Peridot: jinxpride-Archipelago, Score: 0.333333333333333
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Predator|Bat|Fangs|Bharal|Starry|Sunset|Ruff|Peacock|
+|jinxpride-Archipelago|Bear|Countess|Stacked|Starry|Chromatic|Curls|None|
 
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Vampire|Bat|Fangs|||Sunset|Ruff|Peacock|
-
-## Peridot: Jaguarundi, Score: 0.25
+## Peridot: Jinx007-Vici, Score: 0.333333333333333
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Jaguarundi|Seraph|Star|Spire|Glimmer|Puddle|Ruff|Whale|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Elixir|||Spire|Glimmer|Puddle|Ruff||
-
-## Peridot: Goldilocks, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Goldilocks|Rabbit|Countess|Crown|Ore|Circuit|Tutu|Ribcage|
+|Jinx007-Vici|Rabbit|Countess|Crown|Ore|Sunset|Tutu|Fleur|
 
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Royalty||Countess|Crown|Ore||Tutu||
+|Sunset|||||Sunset||Fleur|
 
-## Peridot: Fable, Score: 0.25
+## Peridot: Jinx007-Valyrian, Score: 0.333333333333333
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Fable|Rabbit|Countess|Crown|Ore|Cracked|Tutu|Rabbit|
+|Jinx007-Valyrian|Seraph|Goggles|Bharal|Starry|Sunset|Tutu|Fleur|
 
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Kintsugi||||Ore|Cracked|||
-|Rabbit|Rabbit||||||Rabbit|
-|Royalty||Countess|Crown|Ore||Tutu||
+|Aurora|Seraph||Bharal|Starry|Sunset|||
 
-## Peridot: Escorpio, Score: 0.25
+## Peridot: Jinx007-Usurper, Score: 0.333333333333333
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Escorpio|Tubes|Diamond|Jester|Glossy|Zebra|Thorns|Scalloped|
-
-## Peridot: Enrichment, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Enrichment|Square|Countess|Crown|Ore|Cracked|Tutu|Asparagus|
+|Jinx007-Usurper|Rabbit|Countess|Crown|Ore|Sunset|Tutu|Fleur|
 
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Kintsugi||||Ore|Cracked|||
-|Royalty||Countess|Crown|Ore||Tutu||
+|Sunset|||||Sunset||Fleur|
 
-## Peridot: Eldritch, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Eldritch|Sprouts|Fold|Ram|Ore|Cracked|Choker|Heart Cape|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Kintsugi||||Ore|Cracked|||
-
-## Peridot: Damascus, Score: 0.25
+## Peridot: Jinx007-Jellybunny, Score: 0.333333333333333
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Damascus|Square|Diamond|Ram|Ore|Cracked|Choker|Asparagus|
+|Jinx007-Jellybunny|Eeyore|Dots|Demon|Slimy|Ghost|Tutu|Carnival|
 
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Kintsugi||||Ore|Cracked|||
+|Jellyfish||||Slimy|Ghost|Tutu|Carnival|
+
+## Peridot: Jinx007-Irukandji, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Irukandji|Eeyore|Dots|None|Slimy|Ghost|Tutu|Accordian|
+
+## Peridot: Jinx007-Gallagher, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Gallagher|Slice|Diamond|Ram|Pulp|Watermelon|Tutu|Asparagus|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
 |Ram|||Ram||||Asparagus|
+|Watermelon|Slice|||Pulp|Watermelon|||
+
+## Peridot: g1ddy-Adella, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Adella|Heart|Diamond|Stacked|Chrome|Chromatic|None|Radish|
 
