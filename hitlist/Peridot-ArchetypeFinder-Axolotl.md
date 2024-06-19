@@ -63,6 +63,18 @@
 |Static||||Static||||
 |Sunset|||||Sunset||Fleur|
 
+## Peridot: Jinx007-Tumbleweed, Score: 0.166666666666667
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Tumbleweed|Picks|Kawaii|Straw|Bedazzled|Bubbles|Dandelion|None|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Boba|||Straw||Bubbles|||
+
 ## Peridot: Jinx007-Tulum, Score: 0.166666666666667
 
 ### Peridot Traits:
@@ -101,16 +113,4 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Peacock|||None|||Spades|Peacock|
 |Static||||Static||||
-
-## Peridot: Jinx007-Jellybunny, Score: 0.166666666666667
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Jellybunny|Eeyore|Dots|Demon|Slimy|Ghost|Tutu|Carnival|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jellyfish||||Slimy|Ghost|Tutu|Carnival|
 
