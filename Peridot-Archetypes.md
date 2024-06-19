@@ -353,9 +353,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Mysterion](./assets/Peridots/mysterion-12.jpg)
-
 ![Lampent](./assets/Peridots/lampent-11.jpg)
+
+![Mysterion](./assets/Peridots/mysterion-12.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
