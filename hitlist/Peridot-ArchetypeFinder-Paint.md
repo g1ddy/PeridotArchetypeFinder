@@ -5,6 +5,20 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Paint||Blob||LED|Deer||Radish|
 
+## Peridot: jinxpride-Athena, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Athena|Square|Bolt|Demon|LED|Chromatic|Feathers|Fleur|
+
+## Peridot: jinxpride-Ariel, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Ariel|None|Triangles|Meringue|LED|Chromatic|Quetzal|Matrix|
+
 ## Peridot: jinxpride-Aquata, Score: 0.25
 
 ### Peridot Traits:
@@ -44,6 +58,13 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Cthulhu|Monkey|Monkey|Trident|Glimmer|Saddle|Bat Wings|Radish|
+
+## Peridot: g1ddy-Archipelago, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Archipelago|Mouse|Blob|Hollowing|Furry|Chromatic|None|Matrix|
 
 ## Peridot: g1ddy-Ambrosia, Score: 0.25
 

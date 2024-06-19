@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Balloon|||Stacked||Patchwork|Tutu||
 
+## Peridot: jinxpride-Archipelago, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Archipelago|Bear|Countess|Stacked|Starry|Chromatic|Curls|None|
+
 ## Peridot: Jinx007-Vici, Score: 0.333333333333333
 
 ### Peridot Traits:

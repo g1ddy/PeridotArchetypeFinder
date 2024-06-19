@@ -5,6 +5,20 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |LED||||LED|Pulse|||
 
+## Peridot: jinxpride-Athena, Score: 0.5
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Athena|Square|Bolt|Demon|LED|Chromatic|Feathers|Fleur|
+
+## Peridot: jinxpride-Ariel, Score: 0.5
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Ariel|None|Triangles|Meringue|LED|Chromatic|Quetzal|Matrix|
+
 ## Peridot: jinxpride-Aquata, Score: 0.5
 
 ### Peridot Traits:

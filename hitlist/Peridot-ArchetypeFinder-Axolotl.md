@@ -31,12 +31,47 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Aurora|Beaks|Kawaii|Spire|Geode|Chromatic|Beetle Wings|None|
 
+## Peridot: jinxpride-Aura, Score: 0.166666666666667
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aura|Slice|Dots|Bharal|Ore|Chromatic|Moth|Flame|
+
 ## Peridot: jinxpride-Arista, Score: 0.166666666666667
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Arista|Bat|Goggles|Spire|Iridescent|Chromatic|Moth|Wavelength|
+
+## Peridot: jinxpride-Ariel, Score: 0.166666666666667
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Ariel|None|Triangles|Meringue|LED|Chromatic|Quetzal|Matrix|
+
+## Peridot: jinxpride-Aphrodite, Score: 0.166666666666667
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aphrodite|Slice|Diamond|Spire|Slimy|Chromatic|Whiskers|Carnival|
+
+## Peridot: jinxpride-Andrina, Score: 0.166666666666667
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Andrina|Tubes|Fold|Demon|Slimy|Chromatic|None|Accordion|
+
+## Peridot: jinxpride-Adella, Score: 0.166666666666667
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Adella|Monkey|Cloud|None|Furry|Chromatic|Scales|Agave|
 
 ## Peridot: Jinx007-Watermelon, Score: 0.166666666666667
 
@@ -49,68 +84,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Peacock|||None|||Spades|Peacock|
-
-## Peridot: Jinx007-Twilight, Score: 0.166666666666667
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Twilight|Rabbit|Star|None|Static|Sunset|Tentacles|Fleur|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Static||||Static||||
-|Sunset|||||Sunset||Fleur|
-
-## Peridot: Jinx007-Tumbleweed, Score: 0.166666666666667
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Tumbleweed|Picks|Kawaii|Straw|Bedazzled|Bubbles|Dandelion|None|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Boba|||Straw||Bubbles|||
-
-## Peridot: Jinx007-Tulum, Score: 0.166666666666667
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Tulum|Whirlybird|Octopus|None|Static|Scales|Quetzal|Horse|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Static||||Static||||
-
-## Peridot: Jinx007-Triumvirate, Score: 0.166666666666667
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Triumvirate|Bear|Octopus|None|Static|Breezy|Spades|Peacock|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Peacock|||None|||Spades|Peacock|
-|Psychedelic||Octopus|||Breezy||Peacock|
-|Static||||Static||||
-
-## Peridot: Jinx007-Shimmerrosie, Score: 0.166666666666667
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Shimmerrosie|Bear|Octopus|None|Static|Pulse|Spades|Peacock|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Peacock|||None|||Spades|Peacock|
-|Static||||Static||||
 

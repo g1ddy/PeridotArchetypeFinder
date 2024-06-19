@@ -69,3 +69,10 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |g1ddy-Ariel|Rabbit|Goggles|Shell|Glimmer|Chromatic|Scales|Fishbone|
 
+## Peridot: g1ddy-Aphrodite, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Aphrodite|Mouse|Goggles|Trident|Chrome|Chromatic|Beetle Wings|Shell|
+

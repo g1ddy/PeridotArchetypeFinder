@@ -5,6 +5,27 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Seal|None||||Cheetah|Whiskers|Mermaid|
 
+## Peridot: jinxpride-Ariel, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Ariel|None|Triangles|Meringue|LED|Chromatic|Quetzal|Matrix|
+
+## Peridot: jinxpride-Arcoiris, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Arcoiris|Heart|Monkey|Goat|Beetle|Chromatic|Whiskers|Ribcage|
+
+## Peridot: jinxpride-Aphrodite, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aphrodite|Slice|Diamond|Spire|Slimy|Chromatic|Whiskers|Carnival|
+
 ## Peridot: Jinx007-Sunfire, Score: 0.25
 
 ### Peridot Traits:

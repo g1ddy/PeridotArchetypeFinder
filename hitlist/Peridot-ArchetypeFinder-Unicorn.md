@@ -29,6 +29,20 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 
+## Peridot: jinxpride-Artemis, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Artemis|Seraph|Bandit|Demon|Glitter|Chromatic|None|Fletching|
+
+## Peridot: jinxpride-Ares, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Ares|Heart|Googles|Narwhal|Geode|Chromatic|Bee Wings|Mouse|
+
 ## Peridot: Jinx007-Urchin, Score: 0.25
 
 ### Peridot Traits:
@@ -100,24 +114,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Cotton Candy|||Narwhal|Furry||||
-
-## Peridot: Jinx007-Fluffish, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Fluffish|Rabbit|Octopus|Narwhal|Furry|Tropical Fish|Spades|Rabbit|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Cotton Candy|||Narwhal|Furry||||
-|Rabbit|Rabbit||||||Rabbit|
-
-## Peridot: g1ddy-Attina, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Attina|Slice|Fangs|Goat|Glitter|Chromatic|Beetle Wings|Fern|
 

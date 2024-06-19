@@ -17,6 +17,20 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Banana|||Banana|Matte|Banana|None|None|
 
+## Peridot: jinxpride-Athena, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Athena|Square|Bolt|Demon|LED|Chromatic|Feathers|Fleur|
+
+## Peridot: jinxpride-Andrina, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Andrina|Tubes|Fold|Demon|Slimy|Chromatic|None|Accordion|
+
 ## Peridot: Jinx007-Umbrella, Score: 0.25
 
 ### Peridot Traits:
@@ -48,4 +62,25 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Bismuth|Square|Diamond||Iridescent|Circuit|||
 |Peacock|||None|||Spades|Peacock|
+
+## Peridot: g1ddy-Aura, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Aura|Llama|Countess|Angler|Fuzzy|Chromatic|Beetle Wings|Accordion|
+
+## Peridot: g1ddy-Arista, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Arista|Nemo Fins|Triangles|Triceratops|Chrome|Chromatic|Quetzal|Accordion|
+
+## Peridot: g1ddy-Ares, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Ares|Rabbit|Bolt|Crown|Matte|Chromatic|Curls|Scalloped|
 
