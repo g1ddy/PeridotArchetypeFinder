@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Patina||||Rusty|Patina|||
 
+## Peridot: jinxpride-Ambrosia, Score: 0.5
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Ambrosia|Mouse|Bolt|Antelope|Rusty|Chromatic|Beetle Wings|Matrix|
+
 ## Peridot: Jinx007-Lilith, Score: 0.5
 
 ### Peridot Traits:

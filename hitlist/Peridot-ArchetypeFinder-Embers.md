@@ -12,6 +12,27 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Aruba|Leaf|Cloud|Bull|Event Horizon|Chromatic|Scales|Matrix|
 
+## Peridot: jinxpride-Ariel, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Ariel|None|Triangles|Meringue|LED|Chromatic|Quetzal|Matrix|
+
+## Peridot: jinxpride-Ambrosia, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Ambrosia|Mouse|Bolt|Antelope|Rusty|Chromatic|Beetle Wings|Matrix|
+
+## Peridot: jinxpride-Alana, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Alana|Picks|Octopus|Asparagus|Iridescent|Chromatic|Feathers|Matrix|
+
 ## Peridot: Jinx007-Sunfire, Score: 0.25
 
 ### Peridot Traits:
@@ -79,28 +100,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Dandelion||||Furry||Dandelion|Dandelion|
-
-## Peridot: Jinx007-Gumdrop, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Gumdrop|Cat|Octopus|Narwhal|Furry|Tropical Fish|Dandelion|Dandelion|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Cotton Candy|||Narwhal|Furry||||
-
-## Peridot: Jinx007-Banshee, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Banshee|Cat|Monkey|None|Fuzzy|Cheetah|Hermes|Cat|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Cheetah|Cat|||Fuzzy|Cheetah||Cat|
 

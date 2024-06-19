@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Vampire|Bat|Fangs|||Sunset|Ruff|Peacock|
 
+## Peridot: jinxpride-Attina, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Attina|Bat|Cloud|Pitchfork|Chrome|Chromatic|Feathers|Cat|
+
 ## Peridot: jinxpride-Arista, Score: 0.2
 
 ### Peridot Traits:
@@ -99,16 +106,4 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 |Sunset|||||Sunset||Fleur|
-
-## Peridot: Jinx007-Turkey, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Turkey|Monkey|Heart|Trident|Static|Breezy|Spades|Peacock|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Static||||Static||||
 

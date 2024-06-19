@@ -12,6 +12,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Aurora|Beaks|Kawaii|Spire|Geode|Chromatic|Beetle Wings|None|
 
+## Peridot: jinxpride-Ares, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Ares|Heart|Googles|Narwhal|Geode|Chromatic|Bee Wings|Mouse|
+
 ## Peridot: Jinx007-Horus, Score: 0.333333333333333
 
 ### Peridot Traits:
@@ -32,4 +39,11 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |g1ddy-Ambrosia|Rudders|Heart|Buns|Geode|Chromatic|Bat Wings|Radish|
+
+## Peridot: g1ddy-Alana, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Alana|Seraph|Diamond|Bull|Geode|Chromatic|Spades|Asparagus|
 

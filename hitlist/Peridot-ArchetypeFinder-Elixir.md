@@ -19,6 +19,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Arista|Bat|Goggles|Spire|Iridescent|Chromatic|Moth|Wavelength|
 
+## Peridot: jinxpride-Aphrodite, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aphrodite|Slice|Diamond|Spire|Slimy|Chromatic|Whiskers|Carnival|
+
 ## Peridot: Jinx007-Yondu, Score: 0.25
 
 ### Peridot Traits:

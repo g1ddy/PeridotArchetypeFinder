@@ -5,12 +5,26 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Cinnabon|Mouse|Fangs|Buns||||Shell|
 
+## Peridot: g1ddy-Aphrodite, Score: 0.5
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Aphrodite|Mouse|Goggles|Trident|Chrome|Chromatic|Beetle Wings|Shell|
+
 ## Peridot: jinxpride-Aquata, Score: 0.25
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Aquata|Llama|Fangs|Cow|LED|Chromatic|Eyebrows|Fishbone|
+
+## Peridot: jinxpride-Ambrosia, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Ambrosia|Mouse|Bolt|Antelope|Rusty|Chromatic|Beetle Wings|Matrix|
 
 ## Peridot: jinxpride-Abalone, Score: 0.25
 
@@ -38,6 +52,27 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |g1ddy-Attina|Slice|Fangs|Goat|Glitter|Chromatic|Beetle Wings|Fern|
+
+## Peridot: g1ddy-Athena, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Athena|Fairy|Fold|Angler|Bedazzled|Chromatic|Horse|Shell|
+
+## Peridot: g1ddy-Archipelago, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Archipelago|Mouse|Blob|Hollowing|Furry|Chromatic|None|Matrix|
+
+## Peridot: g1ddy-Apollo, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Apollo|Bear|Goggles|Buns|Chrome|Chromatic|Dragon|Ribcage|
 
 ## Peridot: g1ddy-Ambrosia, Score: 0.25
 
