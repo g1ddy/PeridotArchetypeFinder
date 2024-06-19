@@ -73,6 +73,7 @@ New_Archetype:_Clownfish,_Icicle,_Rabbit -..-> New_Archetype:_Clownfish,_Rabbit,
 Imhotep("Imhotep (Scarab)") --> Jormungandr("Jormungandr (Static)")
 Imugi("Imugi (Triton)") --> Jaguarundi("Jaguarundi (Elixir)")
 Incense --> Jack_Olantern("Jack Olantern (Embers)")
+Interspecies --> Jade("Jade (Boba,Dandelion)")
 Isla("Isla (Beach)") --> Jubilee("Jubilee (Cinnabon)")
 Jax("Jax (Clownfish)") --> Kalypso("Kalypso (Clownfish,Glam)")
 Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)")

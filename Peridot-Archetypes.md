@@ -308,6 +308,9 @@
 |Boba|||Straw||Bubbles|||
 |Dandelion||||Furry||Dandelion|Dandelion|
 
+### Example(s):
+![Jade](./assets/Peridots/jade-10.jpg)
+
 ## Archetypes: Boba, Glam, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
