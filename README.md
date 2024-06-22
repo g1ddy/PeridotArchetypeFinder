@@ -126,7 +126,7 @@ Before running this script please make sure this list is up to date as new Arche
 
     ```powershell
     Invoke-PeridotTreeGenerator | Set-Content .\Peridot-FamilyTree.md
-    Invoke-PeridotTreeGenerator -PeridotPath ./assets/External.csv | Set-Content .\Peridot-FamilyTree-Jinx007.md
+    Invoke-PeridotTreeGenerator -PeridotPath ./assets/External.csv | Set-Content .\Peridot-FamilyTree-External.md
     ```
 
 3. Read the output in the Markdown view of your choice
