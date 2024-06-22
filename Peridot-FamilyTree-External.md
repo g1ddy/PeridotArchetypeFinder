@@ -53,6 +53,7 @@ jinx007-banshee-2 --> jinx007-clownking-3("<img src='./assets/Peridots/jinx007-c
 jinx007-fuzz-2 --> jinx007-lilith-3("<img src='./assets/Peridots/jinx007-lilith-3.jpg'> <br /> Jinx007-Lilith (Static)")
 jinx007-fuzz-2 --> jinx007-turkey-3("<img src='./assets/Peridots/jinx007-turkey-3.jpg'> <br /> Jinx007-Turkey (Static)")
 jinx007-maximilian-2 --> jinx007-cthulhu-3("<img src='./assets/Peridots/jinx007-cthulhu-3.jpg'> <br /> Jinx007-Cthulhu")
+jinx007-cthulhu-3 --> jinx007-domo-4("<img src='./assets/Peridots/jinx007-domo-4.jpg'> <br /> Jinx007-Domo (Elixir)")
 jinx007-lilith-3 --> jinx007-dottie-4("<img src='./assets/Peridots/jinx007-dottie-4.jpg'> <br /> Jinx007-Dottie (Static)")
 jinx007-turkey-3 --> jinx007-triumvirate-4("<img src='./assets/Peridots/jinx007-triumvirate-4.jpg'> <br /> Jinx007-Triumvirate (Peacock,Psychedelic,Static)")
 jinx007-dottie-4 --> jinx007-buggy-bunny-5("<img src='./assets/Peridots/jinx007-buggy-bunny-5.jpg'> <br /> Jinx007-Buggy Bunny (Clownfish,Rabbit,Static)")
