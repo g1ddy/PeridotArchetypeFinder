@@ -17,6 +17,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Banana|||Banana|Matte|Banana|None|None|
 
+## Peridot: g1ddy-Autumn, Score: 0.5
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Autumn|Square|Fangs|None|Matte|Chromatic|Hermes|Asparagus|
+
 ## Peridot: jinxpride-Athena, Score: 0.25
 
 ### Peridot Traits:
