@@ -63,6 +63,7 @@ jinx007-buggy-bunny-5 --> jinx007-fluffish-6("<img src='./assets/Peridots/jinx00
 jinx007-buggy-bunny-5 --> jinx007-honeybunny-6("<img src='./assets/Peridots/jinx007-honeybunny-6.jpg'> <br /> Jinx007-Honeybunny (Bee,Rabbit)")
 jinx007-buggy-bunny-5 --> jinx007-rocket-raccoon-6("<img src='./assets/Peridots/jinx007-rocket-raccoon-6.jpg'> <br /> Jinx007-Rocket Raccoon (Rabbit,Static)")
 jinx007-shimmerrosie-5 --> jinx007-fenrir-6("<img src='./assets/Peridots/jinx007-fenrir-6.jpg'> <br /> Jinx007-Fenrir (Static)")
+jinx007-shimmerrosie-5 --> jinx007-talon-6("<img src='./assets/Peridots/jinx007-talon-6.jpg'> <br /> Jinx007-Talon (LED,Rabbit)")
 jinx007-shimmerrosie-5 --> jinx007-watermelon-6("<img src='./assets/Peridots/jinx007-watermelon-6.jpg'> <br /> Jinx007-Watermelon (Peacock)")
 jinx007-spyro-5 --> jinx007-tulum-6("<img src='./assets/Peridots/jinx007-tulum-6.jpg'> <br /> Jinx007-Tulum (Static)")
 jinx007-twilight-5 --> jinx007-dark-blizzard-6("<img src='./assets/Peridots/jinx007-dark-blizzard-6.jpg'> <br /> Jinx007-Dark Blizzard (Anemone,Snowfall)")

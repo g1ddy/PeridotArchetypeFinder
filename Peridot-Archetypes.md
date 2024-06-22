@@ -804,6 +804,9 @@
 |LED||||LED|Pulse|||
 |Rabbit|Rabbit||||||Rabbit|
 
+### Example(s):
+![Jinx007-Talon](./assets/Peridots/jinx007-talon-6.jpg)
+
 ## Archetypes: LED, Ram, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|

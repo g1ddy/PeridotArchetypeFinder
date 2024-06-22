@@ -38,6 +38,19 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jester|||Jester|Ore|Diamonds|Ruff||
 
+## Peridot: Jinx007-Talon, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Talon|Rabbit|Owl|None|LED|Pulse|Ruff|Rabbit|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|LED||||LED|Pulse|||
+|Rabbit|Rabbit||||||Rabbit|
+
 ## Peridot: Jinx007-Dobby, Score: 0.25
 
 ### Peridot Traits:
