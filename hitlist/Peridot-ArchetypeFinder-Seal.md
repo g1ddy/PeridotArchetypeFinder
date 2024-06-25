@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Seal|None||||Cheetah|Whiskers|Mermaid|
 
+## Peridot: jinxpride-Autumn, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Autumn|Rabbit|Bandit|Narwhal|Chrome|Chromatic|Whiskers|Matrix|
+
 ## Peridot: jinxpride-Ariel, Score: 0.25
 
 ### Peridot Traits:

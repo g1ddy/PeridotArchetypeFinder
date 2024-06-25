@@ -29,6 +29,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 
+## Peridot: jinxpride-Autumn, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Autumn|Rabbit|Bandit|Narwhal|Chrome|Chromatic|Whiskers|Matrix|
+
 ## Peridot: jinxpride-Artemis, Score: 0.25
 
 ### Peridot Traits:
@@ -102,16 +109,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Dandelion||||Furry||Dandelion|Dandelion|
-
-## Peridot: Jinx007-Gumdrop, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Gumdrop|Cat|Octopus|Narwhal|Furry|Tropical Fish|Dandelion|Dandelion|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Cotton Candy|||Narwhal|Furry||||
 

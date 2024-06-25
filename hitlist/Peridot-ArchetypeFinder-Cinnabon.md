@@ -46,6 +46,13 @@
 |Static||||Static||||
 |Triceratops|Triceratops||Triceratops||Baguette||Asparagus|
 
+## Peridot: g1ddy-Autumn, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Autumn|Square|Fangs|None|Matte|Chromatic|Hermes|Asparagus|
+
 ## Peridot: g1ddy-Attina, Score: 0.25
 
 ### Peridot Traits:
@@ -73,11 +80,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |g1ddy-Apollo|Bear|Goggles|Buns|Chrome|Chromatic|Dragon|Ribcage|
-
-## Peridot: g1ddy-Ambrosia, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Ambrosia|Rudders|Heart|Buns|Geode|Chromatic|Bat Wings|Radish|
 

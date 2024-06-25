@@ -70,6 +70,7 @@ Icarus --> Jewelfish("Jewelfish (Clownfish,Rabbit)")
 Noise("Noise (Static)") --> Orion("Orion (Aurora)")
 Hydrostatic("Hydrostatic (Clownfish,Dandelion)") -..-> New_Archetype:_Clownfish,_Cotton_Candy,_Dandelion
 New_Archetype:_Clownfish,_Icicle,_Rabbit -..-> New_Archetype:_Clownfish,_Rabbit,_Static
+Iceberg("Iceberg (Icicle,Snowfall)") --> Javelin("Javelin (Snowfall)")
 Imhotep("Imhotep (Scarab)") --> Jormungandr("Jormungandr (Static)")
 Imugi("Imugi (Triton)") --> Jaguarundi("Jaguarundi (Elixir)")
 Incense --> Jack_Olantern("Jack Olantern (Embers)")
@@ -108,6 +109,7 @@ Rockstar("Rockstar (Peacock,Psychedelic)") --> Slushy("Slushy (Cotton Candy)")
 Rockstar("Rockstar (Peacock,Psychedelic)") -..-> New_Archetype:_Peacock,_Psychedelic,_Static
 Luminosity("Luminosity (Rabbit)") --> Mandarin("Mandarin (Elixir,Rabbit)")
 Night_Snow("Night Snow (Gargoyle)") --> Om_Nominous("Om Nominous (Watermelon)")
+Refracted("Refracted (Sunset)") --> Sullen("Sullen (Sunset)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta

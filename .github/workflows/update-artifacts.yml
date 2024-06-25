@@ -30,7 +30,7 @@ jobs:
 
           # Update the Peridot-FamilyTree.md files
           Invoke-PeridotTreeGenerator | Set-Content .\Peridot-FamilyTree.md
-          Invoke-PeridotTreeGenerator -PeridotPath ./assets/External.csv | Set-Content .\Peridot-FamilyTree-Jinx007.md
+          Invoke-PeridotTreeGenerator -PeridotPath ./assets/External.csv | Set-Content .\Peridot-FamilyTree-External.md
 
           # Update the Peridot-ArchetypeTree.md files
           Invoke-ArchetypeMinimumSpanningTreeFinder
