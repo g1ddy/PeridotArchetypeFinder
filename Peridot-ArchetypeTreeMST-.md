@@ -14,6 +14,7 @@ Charlie --> Delta
 Charlie --> Dolphin
 Chevron("Chevron (Ram)") --> Damascus("Damascus (Kintsugi,Ram)")
 Chevron("Chevron (Ram)") --> Dorado("Dorado (24Karat,Ram)")
+Chevron("Chevron (Ram)") --> Dormammu("Dormammu (Ram)")
 Chevron("Chevron (Ram)") --> Duranium("Duranium (Patina,Ram)")
 Chevron("Chevron (Ram)") --> Echelon("Echelon (Bismuth,Ram)")
 Damascus("Damascus (Kintsugi,Ram)") --> Eldritch("Eldritch (Kintsugi)")
@@ -88,6 +89,7 @@ Jormungandr("Jormungandr (Static)") --> Kira("Kira (Dragon,Static)")
 Jubilee("Jubilee (Cinnabon)") --> Khroma("Khroma (Chameleon)")
 Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Lagostosa("Lagostosa (Clownfish,Lobster)")
 Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Lava_Lamp("Lava Lamp (Anemone,Psychedelic)")
+Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Lionfish("Lionfish (Clownfish)")
 Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Mastodon("Mastodon (Anemone,Snowfall)")
 Kandle --> Lampent("Lampent (Candle,Clownfish)")
 Krypto("Krypto (Dewdrop,Rabbit)") --> Lychee("Lychee (Boba,Rabbit,Static)")
@@ -119,6 +121,7 @@ Trailmix("Trailmix (Paint)") --> Ultraviolet("Ultraviolet (Paint)")
 Turducken("Turducken (LED,Peacock)") --> Uber("Uber (LED)")
 Turducken("Turducken (LED,Peacock)") --> UFO("UFO (LED)")
 Turducken("Turducken (LED,Peacock)") --> Uluguru("Uluguru (LED)")
+Ultraviolet("Ultraviolet (Paint)") --> Vega
 Uluguru("Uluguru (LED)") --> Volare("Volare (LED)")
 Volare("Volare (LED)") --> Wallflower
 Wallflower --> Xenomorphic
