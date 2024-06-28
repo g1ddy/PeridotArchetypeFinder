@@ -81,6 +81,20 @@
 |Ram|||Ram||||Asparagus|
 |Watermelon|Slice|||Pulp|Watermelon|||
 
+## Peridot: g1ddy-Aster, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Aster|Monkey|Cloud|Stacked|Geode|Chromatic|Skirt|Accordion|
+
+## Peridot: g1ddy-Amethyst, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Amethyst|Leaf|Triangles|Stacked|Slimy|Chromatic|Skirt|Shell|
+
 ## Peridot: g1ddy-Adella, Score: 0.333333333333333
 
 ### Peridot Traits:

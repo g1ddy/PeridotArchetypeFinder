@@ -26,6 +26,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Aquata|Llama|Fangs|Cow|LED|Chromatic|Eyebrows|Fishbone|
 
+## Peridot: jinxpride-Ambrosia, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Ambrosia|Rudders|Heart|Buns|Geode|Chromatic|Bat Wings|Radish|
+
 ## Peridot: Jinx007-Talon, Score: 0.25
 
 ### Peridot Traits:
@@ -78,11 +85,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |g1ddy-Archipelago|Mouse|Blob|Hollowing|Furry|Chromatic|None|Matrix|
-
-## Peridot: g1ddy-Ambrosia, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Ambrosia|Rudders|Heart|Buns|Geode|Chromatic|Bat Wings|Radish|
 

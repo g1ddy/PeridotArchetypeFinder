@@ -12,6 +12,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Ariel|None|Triangles|Meringue|LED|Chromatic|Quetzal|Matrix|
 
+## Peridot: jinxpride-Ambrosia, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Ambrosia|Rudders|Heart|Buns|Geode|Chromatic|Bat Wings|Radish|
+
 ## Peridot: Jinx007-Turkey, Score: 0.2
 
 ### Peridot Traits:
@@ -90,11 +97,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |g1ddy-Aphrodite|Mouse|Goggles|Trident|Chrome|Chromatic|Beetle Wings|Shell|
-
-## Peridot: g1ddy-Ambrosia, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Ambrosia|Rudders|Heart|Buns|Geode|Chromatic|Bat Wings|Radish|
 

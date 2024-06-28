@@ -26,12 +26,12 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Ariel|None|Triangles|Meringue|LED|Chromatic|Quetzal|Matrix|
 
-## Peridot: jinxpride-Ambrosia, Score: 0.25
+## Peridot: jinxpride-Amethyst, Score: 0.25
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|jinxpride-Ambrosia|Mouse|Bolt|Antelope|Rusty|Chromatic|Beetle Wings|Matrix|
+|jinxpride-Amethyst|Bat|Diamond|Asparagus|Glitter|Chromatic|Spades|Matrix|
 
 ## Peridot: jinxpride-Alana, Score: 0.25
 

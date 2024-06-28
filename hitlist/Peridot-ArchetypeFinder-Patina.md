@@ -5,19 +5,19 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Patina||||Rusty|Patina|||
 
+## Peridot: jinxpride-Aureus, Score: 0.5
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aureus|Beaks|Fold|Antelope|Rusty|Chromatic|Scales|Fan|
+
 ## Peridot: jinxpride-Aquaman, Score: 0.5
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Aquaman|Butterfly|Dots|Demon|Rusty|Chromatic|Spades|Snowflake|
-
-## Peridot: jinxpride-Ambrosia, Score: 0.5
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|jinxpride-Ambrosia|Mouse|Bolt|Antelope|Rusty|Chromatic|Beetle Wings|Matrix|
 
 ## Peridot: Jinx007-Lilith, Score: 0.5
 

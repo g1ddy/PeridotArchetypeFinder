@@ -12,6 +12,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Cthulhu|Monkey|Monkey|Trident|Glimmer|Saddle|Bat Wings|Radish|
 
+## Peridot: jinxpride-Aster, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aster|Square|Owl|Devil|Glimmer|Chromatic|Whiskers|Snowflake|
+
 ## Peridot: Jinx007-Turkey, Score: 0.333333333333333
 
 ### Peridot Traits:

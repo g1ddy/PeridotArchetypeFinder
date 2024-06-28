@@ -12,6 +12,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Autumn|Rabbit|Bandit|Narwhal|Chrome|Chromatic|Whiskers|Matrix|
 
+## Peridot: jinxpride-Aster, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aster|Square|Owl|Devil|Glimmer|Chromatic|Whiskers|Snowflake|
+
 ## Peridot: jinxpride-Ariel, Score: 0.25
 
 ### Peridot Traits:
@@ -76,4 +83,11 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Cheetah|Cat|||Fuzzy|Cheetah||Cat|
+
+## Peridot: g1ddy-Aureus, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Aureus|Seraph|Round|Triumvirate|Satin|Chromatic|Whiskers|Wavelength|
 
