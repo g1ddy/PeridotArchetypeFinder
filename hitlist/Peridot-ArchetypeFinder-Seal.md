@@ -65,6 +65,18 @@
 |Candle|None||Spire|Waxy||None||
 |Clownfish|||||Tropical Fish|||
 
+## Peridot: Jinx007-Chimera, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Chimera|Cat|Goggles|Flerken|Fuzzy|Cheetah|Horse|Cat|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Cheetah|Cat|||Fuzzy|Cheetah||Cat|
+
 ## Peridot: Jinx007-Burnout, Score: 0.25
 
 ### Peridot Traits:
@@ -83,11 +95,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Cheetah|Cat|||Fuzzy|Cheetah||Cat|
-
-## Peridot: g1ddy-Aureus, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Aureus|Seraph|Round|Triumvirate|Satin|Chromatic|Whiskers|Wavelength|
 

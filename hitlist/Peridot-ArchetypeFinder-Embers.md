@@ -64,6 +64,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Scarab|||Antennae|Scarab|Okapi|Beetle Wings|None|
 
+## Peridot: Jinx007-Jujuba, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Jujuba|Manifold|Star|None|Gummy|Gradient|Choker|Winged|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Dewdrop||Star||Gummy|Gradient|||
+
 ## Peridot: Jinx007-Hydrolion, Score: 0.25
 
 ### Peridot Traits:
@@ -83,16 +95,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Horus|Pharaoh|Dots|None|Geode|Okapi|Beetle Wings|None|
-
-## Peridot: Jinx007-Hippy, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Hippy|Rabbit|Star|None|Gummy|Gradient|Quills|Radiance|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Dewdrop||Star||Gummy|Gradient|||
 
