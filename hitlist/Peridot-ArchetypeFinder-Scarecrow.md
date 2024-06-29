@@ -31,6 +31,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 
+## Peridot: g1ddy-Arya, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|g1ddy-Arya|Fairy|Kawaii|Antennae|Glitter|Chromatic|Quetzal|Rabbit|
+
 ## Peridot: g1ddy-Arista, Score: 0.333333333333333
 
 ### Peridot Traits:

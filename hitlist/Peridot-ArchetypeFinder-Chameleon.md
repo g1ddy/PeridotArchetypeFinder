@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Chameleon|None||Buns||Breezy|Mohawk|Shell|
 
+## Peridot: jinxpride-Arya, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Arya|Seraph|Octopus|Buns|Furry|Chromatic|None|Horse|
+
 ## Peridot: jinxpride-Ariel, Score: 0.2
 
 ### Peridot Traits:
@@ -84,17 +91,10 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |g1ddy-Athena|Fairy|Fold|Angler|Bedazzled|Chromatic|Horse|Shell|
 
-## Peridot: g1ddy-Apollo, Score: 0.2
+## Peridot: g1ddy-Aspen, Score: 0.2
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Apollo|Bear|Goggles|Buns|Chrome|Chromatic|Dragon|Ribcage|
-
-## Peridot: g1ddy-Aphrodite, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Aphrodite|Mouse|Goggles|Trident|Chrome|Chromatic|Beetle Wings|Shell|
+|g1ddy-Aspen|Bamboo Spear|Diamond|Buns|Chrome|Chromatic|Beetle Wings|Rabbit|
 
