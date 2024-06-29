@@ -12,6 +12,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Autumn|Rabbit|Bandit|Narwhal|Chrome|Chromatic|Whiskers|Matrix|
 
+## Peridot: jinxpride-Aster, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aster|Square|Owl|Devil|Glimmer|Chromatic|Whiskers|Snowflake|
+
 ## Peridot: jinxpride-Ariel, Score: 0.25
 
 ### Peridot Traits:
@@ -57,6 +64,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Candle|None||Spire|Waxy||None||
 |Clownfish|||||Tropical Fish|||
+
+## Peridot: Jinx007-Chimera, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Chimera|Cat|Goggles|Flerken|Fuzzy|Cheetah|Horse|Cat|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Cheetah|Cat|||Fuzzy|Cheetah||Cat|
 
 ## Peridot: Jinx007-Burnout, Score: 0.25
 

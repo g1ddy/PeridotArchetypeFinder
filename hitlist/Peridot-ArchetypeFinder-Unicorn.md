@@ -36,6 +36,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Autumn|Rabbit|Bandit|Narwhal|Chrome|Chromatic|Whiskers|Matrix|
 
+## Peridot: jinxpride-Arya, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Arya|Seraph|Octopus|Buns|Furry|Chromatic|None|Horse|
+
 ## Peridot: jinxpride-Artemis, Score: 0.25
 
 ### Peridot Traits:
@@ -49,6 +56,13 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Ares|Heart|Googles|Narwhal|Geode|Chromatic|Bee Wings|Mouse|
+
+## Peridot: jinxpride-Amethyst, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Amethyst|Bat|Diamond|Asparagus|Glitter|Chromatic|Spades|Matrix|
 
 ## Peridot: Jinx007-Urchin, Score: 0.25
 
@@ -85,28 +99,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Gargoyle|Slice||Demon|Starry||Bat Wings||
-
-## Peridot: Jinx007-Inflammable, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Inflammable|Beaks|Star|Narwhal|Furry|Bubbles|Curls|Accordian|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Cotton Candy|||Narwhal|Furry||||
-
-## Peridot: Jinx007-Herbelion, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Herbelion|Cat|Octopus|Narwhal|Furry|Tropical Fish|Dandelion|Dandelion|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Dandelion||||Furry||Dandelion|Dandelion|
 

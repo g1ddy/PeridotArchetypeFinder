@@ -5,12 +5,38 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Chameleon|None||Buns||Breezy|Mohawk|Shell|
 
+## Peridot: Jinx007-Umbra, Score: 0.4
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Umbra|???|Dots|Bull|Static|Breezy|Koosh Ball|Shell|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Static||||Static||||
+
+## Peridot: jinxpride-Arya, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Arya|Seraph|Octopus|Buns|Furry|Chromatic|None|Horse|
+
 ## Peridot: jinxpride-Ariel, Score: 0.2
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Ariel|None|Triangles|Meringue|LED|Chromatic|Quetzal|Matrix|
+
+## Peridot: jinxpride-Ambrosia, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Ambrosia|Rudders|Heart|Buns|Geode|Chromatic|Bat Wings|Radish|
 
 ## Peridot: Jinx007-Turkey, Score: 0.2
 
@@ -36,6 +62,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Peacock|||None|||Spades|Peacock|
 |Psychedelic||Octopus|||Breezy||Peacock|
+|Static||||Static||||
+
+## Peridot: Jinx007-Hunter, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Hunter|Triceratops|Fangs|Bull|Static|Baguette|Mohawk|???|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 
 ## Peridot: Jinx007-Fenrir, Score: 0.2
@@ -69,32 +107,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Burnout|None|Heart|Spire|Waxy|Tropical Fish|None|Fleur|
-
-## Peridot: g1ddy-Athena, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Athena|Fairy|Fold|Angler|Bedazzled|Chromatic|Horse|Shell|
-
-## Peridot: g1ddy-Apollo, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Apollo|Bear|Goggles|Buns|Chrome|Chromatic|Dragon|Ribcage|
-
-## Peridot: g1ddy-Aphrodite, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Aphrodite|Mouse|Goggles|Trident|Chrome|Chromatic|Beetle Wings|Shell|
-
-## Peridot: g1ddy-Ambrosia, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Ambrosia|Rudders|Heart|Buns|Geode|Chromatic|Bat Wings|Radish|
 

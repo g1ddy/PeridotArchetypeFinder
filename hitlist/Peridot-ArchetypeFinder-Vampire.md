@@ -26,6 +26,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Aquata|Llama|Fangs|Cow|LED|Chromatic|Eyebrows|Fishbone|
 
+## Peridot: jinxpride-Amethyst, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Amethyst|Bat|Diamond|Asparagus|Glitter|Chromatic|Spades|Matrix|
+
 ## Peridot: jinxpride-Abalone, Score: 0.2
 
 ### Peridot Traits:
@@ -92,18 +99,5 @@
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Sunset|||||Sunset||Fleur|
-
-## Peridot: Jinx007-Twilight, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Twilight|Rabbit|Star|None|Static|Sunset|Tentacles|Fleur|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Static||||Static||||
 |Sunset|||||Sunset||Fleur|
 
