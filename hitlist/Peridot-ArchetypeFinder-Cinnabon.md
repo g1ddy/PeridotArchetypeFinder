@@ -40,6 +40,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Abalone|Fairy|Fangs|Cow|Iridescent|Chromatic|Thorns|Paradise|
 
+## Peridot: Jinx007-Umbra, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Umbra|???|Dots|Bull|Static|Breezy|Koosh Ball|Shell|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Static||||Static||||
+
 ## Peridot: Jinx007-Instar, Score: 0.25
 
 ### Peridot Traits:
@@ -51,6 +63,18 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Bee|||Antennae|Fuzzy|Bee|Bee Wings||
+
+## Peridot: Jinx007-Hunter, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Hunter|Triceratops|Fangs|Bull|Static|Baguette|Mohawk|???|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Static||||Static||||
 
 ## Peridot: Jinx007-Ghostface, Score: 0.25
 
@@ -71,18 +95,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |g1ddy-Autumn|Square|Fangs|None|Matte|Chromatic|Hermes|Asparagus|
-
-## Peridot: g1ddy-Attina, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Attina|Slice|Fangs|Goat|Glitter|Chromatic|Beetle Wings|Fern|
-
-## Peridot: g1ddy-Athena, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Athena|Fairy|Fold|Angler|Bedazzled|Chromatic|Horse|Shell|
 

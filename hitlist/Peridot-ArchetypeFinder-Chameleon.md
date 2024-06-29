@@ -5,6 +5,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Chameleon|None||Buns||Breezy|Mohawk|Shell|
 
+## Peridot: Jinx007-Umbra, Score: 0.4
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Umbra|???|Dots|Bull|Static|Breezy|Koosh Ball|Shell|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Static||||Static||||
+
 ## Peridot: jinxpride-Arya, Score: 0.2
 
 ### Peridot Traits:
@@ -52,6 +64,18 @@
 |Psychedelic||Octopus|||Breezy||Peacock|
 |Static||||Static||||
 
+## Peridot: Jinx007-Hunter, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Hunter|Triceratops|Fangs|Bull|Static|Baguette|Mohawk|???|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Static||||Static||||
+
 ## Peridot: Jinx007-Fenrir, Score: 0.2
 
 ### Peridot Traits:
@@ -83,18 +107,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Burnout|None|Heart|Spire|Waxy|Tropical Fish|None|Fleur|
-
-## Peridot: g1ddy-Athena, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Athena|Fairy|Fold|Angler|Bedazzled|Chromatic|Horse|Shell|
-
-## Peridot: g1ddy-Aspen, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Aspen|Bamboo Spear|Diamond|Buns|Chrome|Chromatic|Beetle Wings|Rabbit|
 
