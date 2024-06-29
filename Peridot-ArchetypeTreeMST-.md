@@ -32,6 +32,7 @@ Echo("Echo (Static)") --> Foxtrot("Foxtrot (Unicorn)")
 Echo("Echo (Static)") --> Frosty("Frosty (Ram,Static)")
 Eclair("Eclair (Banana)") --> Fishhook("Fishhook (Cactus)")
 Eldritch("Eldritch (Kintsugi)") --> Farceur("Farceur (Jester)")
+Eldritch("Eldritch (Kintsugi)") --> Flutter("Flutter (Kintsugi)")
 Enrichment("Enrichment (Kintsugi,Royalty)") --> Fable("Fable (Kintsugi,Rabbit,Royalty)")
 Entropy("Entropy (Clownfish,Ram)") --> Farceratops("Farceratops (Ram)")
 Entropy("Entropy (Clownfish,Ram)") --> Fishline("Fishline (Clownfish)")
@@ -69,7 +70,6 @@ Hypnos --> Instar("Instar (Bee)")
 Icarus --> Jax("Jax (Clownfish)")
 Icarus --> Jewelfish("Jewelfish (Clownfish,Rabbit)")
 Noise("Noise (Static)") --> Orion("Orion (Aurora)")
-Hydrostatic("Hydrostatic (Clownfish,Dandelion)") -..-> New_Archetype:_Clownfish,_Cotton_Candy,_Dandelion
 New_Archetype:_Clownfish,_Icicle,_Rabbit -..-> New_Archetype:_Clownfish,_Rabbit,_Static
 Iceberg("Iceberg (Icicle,Snowfall)") --> Javelin("Javelin (Snowfall)")
 Imhotep("Imhotep (Scarab)") --> Jormungandr("Jormungandr (Static)")
@@ -84,6 +84,7 @@ Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Krypto("Krypto (Dewdrop,Rabbit)")
 Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Queezy("Queezy (Peacock)")
 Orion("Orion (Aurora)") --> Phenotype("Phenotype (Sunset)")
 Orion("Orion (Aurora)") --> Predator("Predator (Vampire)")
+Interspecies -..-> New_Archetype:_Clownfish,_Cotton_Candy,_Dandelion
 Jaguarundi("Jaguarundi (Elixir)") --> Kyoka_Suigetsu("Kyoka Suigetsu (Elixir)")
 Jormungandr("Jormungandr (Static)") --> Kira("Kira (Dragon,Static)")
 Jubilee("Jubilee (Cinnabon)") --> Khroma("Khroma (Chameleon)")
@@ -117,6 +118,7 @@ Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
 New_Archetype:_Peacock,_Psychedelic,_Static -..-> New_Archetype:_Clownfish,_Peacock,_Static
 Om_Nominous("Om Nominous (Watermelon)") --> Major_Lazer
+Sullen("Sullen (Sunset)") --> Troposphere("Troposphere (Sunset)")
 Trailmix("Trailmix (Paint)") --> Ultraviolet("Ultraviolet (Paint)")
 Turducken("Turducken (LED,Peacock)") --> Uber("Uber (LED)")
 Turducken("Turducken (LED,Peacock)") --> UFO("UFO (LED)")
