@@ -12,6 +12,19 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Archipelago|Bear|Countess|Stacked|Starry|Chromatic|Curls|None|
 
+## Peridot: Jinx007-Werecrow, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Werecrow|Square|Star|Pitchfork|Matte|Patchwork|Quetzal|Accordion|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Patchwork|Square|||Matte|Patchwork||Accordion|
+|Scarecrow|||Pitchfork||Patchwork|Quetzal||
+
 ## Peridot: Jinx007-Vici, Score: 0.333333333333333
 
 ### Peridot Traits:
@@ -94,11 +107,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |g1ddy-Amethyst|Leaf|Triangles|Stacked|Slimy|Chromatic|Skirt|Shell|
-
-## Peridot: g1ddy-Adella, Score: 0.333333333333333
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Adella|Heart|Diamond|Stacked|Chrome|Chromatic|None|Radish|
 

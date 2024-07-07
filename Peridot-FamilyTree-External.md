@@ -30,6 +30,7 @@ g1ddy-aura-1("<img src='./assets/Peridots/g1ddy-aura-1.jpg'> <br /> g1ddy-Aura")
 g1ddy-aureus-1("<img src='./assets/Peridots/g1ddy-aureus-1.jpg'> <br /> g1ddy-Aureus")
 g1ddy-aurora-1("<img src='./assets/Peridots/g1ddy-aurora-1.jpg'> <br /> g1ddy-Aurora")
 g1ddy-autumn-1("<img src='./assets/Peridots/g1ddy-autumn-1.jpg'> <br /> g1ddy-Autumn")
+g1ddy-aveline-1("<img src='./assets/Peridots/g1ddy-aveline-1.jpg'> <br /> g1ddy-Aveline")
 jinx007-jasmine-1("<img src='./assets/Peridots/jinx007-jasmine-1.jpg'> <br /> Jinx007-Jasmine")
 jinxpride-abalone-1("<img src='./assets/Peridots/jinxpride-abalone-1.jpg'> <br /> jinxpride-Abalone")
 jinxpride-adella-1("<img src='./assets/Peridots/jinxpride-adella-1.jpg'> <br /> jinxpride-Adella")
@@ -58,6 +59,7 @@ jinxpride-aura-1("<img src='./assets/Peridots/jinxpride-aura-1.jpg'> <br /> jinx
 jinxpride-aureus-1("<img src='./assets/Peridots/jinxpride-aureus-1.jpg'> <br /> jinxpride-Aureus")
 jinxpride-aurora-1("<img src='./assets/Peridots/jinxpride-aurora-1.jpg'> <br /> jinxpride-Aurora")
 jinxpride-autumn-1("<img src='./assets/Peridots/jinxpride-autumn-1.jpg'> <br /> jinxpride-Autumn")
+jinxpride-aveline-1("<img src='./assets/Peridots/jinxpride-aveline-1.jpg'> <br /> jinxpride-Aveline")
 jinx007-jasmine-1 --> jinx007-banshee-2("<img src='./assets/Peridots/jinx007-banshee-2.jpg'> <br /> Jinx007-Banshee (Cheetah)")
 jinx007-jasmine-1 --> jinx007-fuzz-2("<img src='./assets/Peridots/jinx007-fuzz-2.jpg'> <br /> Jinx007-Fuzz (Static)")
 jinx007-jasmine-1 --> jinx007-maximilian-2("<img src='./assets/Peridots/jinx007-maximilian-2.jpg'> <br /> Jinx007-Maximilian")
@@ -126,5 +128,6 @@ jinx007-irukandji-9 --> jinx007-jellybunny-10("<img src='./assets/Peridots/jinx0
 jinx007-thistle-9 --> jinx007-umbrella-10("<img src='./assets/Peridots/jinx007-umbrella-10.jpg'> <br /> Jinx007-Umbrella")
 jinx007-thistle-9 --> jinx007-unbananable-10("<img src='./assets/Peridots/jinx007-unbananable-10.jpg'> <br /> Jinx007-Unbananable (Banana)")
 jinx007-xcalibur-9 --> jinx007-yondu-10("<img src='./assets/Peridots/jinx007-yondu-10.jpg'> <br /> Jinx007-Yondu (Jester)")
+jinx007-unbananable-10 --> jinx007-werecrow-11("<img src='./assets/Peridots/jinx007-werecrow-11.jpg'> <br /> Jinx007-Werecrow (Patchwork,Scarecrow)")
 ```
 

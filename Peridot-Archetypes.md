@@ -350,9 +350,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Lampent](./assets/Peridots/lampent-11.jpg)
-
 ![Mysterion](./assets/Peridots/mysterion-12.jpg)
+
+![Lampent](./assets/Peridots/lampent-11.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
@@ -820,6 +820,9 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Patchwork|Square|||Matte|Patchwork||Accordion|
 |Scarecrow|||Pitchfork||Patchwork|Quetzal||
+
+### Example(s):
+![Jinx007-Werecrow](./assets/Peridots/jinx007-werecrow-11.jpg)
 
 ## Archetypes: Patina, Peacock, Count: 2
 ### Compatibility Table:
