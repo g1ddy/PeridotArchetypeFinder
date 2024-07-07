@@ -95,16 +95,10 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 
-## Peridot: Jinx007-Clowndelabra, Score: 0.2
+## Peridot: Jinx007-Dyno, Score: 0.2
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Clowndelabra|None|Heart|Spire|Waxy|Tropical Fish|None|Fleur|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Candle|None||Spire|Waxy||None||
-|Clownfish|||||Tropical Fish|||
+|Jinx007-Dyno|Tubes|Monkey|Trident|Glimmer|Breezy|Dragon|Radish|
 
