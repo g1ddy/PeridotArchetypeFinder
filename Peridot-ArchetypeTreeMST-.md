@@ -111,6 +111,7 @@ Rockstar("Rockstar (Peacock,Psychedelic)") --> Skittles
 Rockstar("Rockstar (Peacock,Psychedelic)") --> Slushy("Slushy (Cotton Candy)")
 Rockstar("Rockstar (Peacock,Psychedelic)") -..-> New_Archetype:_Peacock,_Psychedelic,_Static
 Luminosity("Luminosity (Rabbit)") --> Mandarin("Mandarin (Elixir,Rabbit)")
+Medusa("Medusa (Anemone,Sunset)") --> Neonimbus("Neonimbus (Anemone,Sunset)")
 Night_Snow("Night Snow (Gargoyle)") --> Om_Nominous("Om Nominous (Watermelon)")
 Refracted("Refracted (Sunset)") --> Sullen("Sullen (Sunset)")
 Skittles --> Trailmix("Trailmix (Paint)")

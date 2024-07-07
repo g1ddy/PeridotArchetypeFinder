@@ -216,6 +216,8 @@
 ### Example(s):
 ![Medusa](./assets/Peridots/medusa-12.jpg)
 
+![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
+
 ## Archetypes: Aurora, Sunset, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|

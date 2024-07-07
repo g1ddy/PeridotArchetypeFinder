@@ -105,6 +105,7 @@ quantum-11 --> refracted-12("<img src='./assets/Peridots/refracted-12.jpg'> <br 
 rockstar-11 --> skittles-12("<img src='./assets/Peridots/skittles-12.jpg'> <br /> Skittles")
 rockstar-11 --> slushy-12("<img src='./assets/Peridots/slushy-12.jpg'> <br /> Slushy (Cotton Candy)")
 luminosity-12 --> mandarin-13("<img src='./assets/Peridots/mandarin-13.jpg'> <br /> Mandarin (Elixir,Rabbit)")
+medusa-12 --> neonimbus-13("<img src='./assets/Peridots/neonimbus-13.jpg'> <br /> Neonimbus (Anemone,Sunset)")
 night-snow-12 --> om-nominous-13("<img src='./assets/Peridots/om-nominous-13.jpg'> <br /> Om Nominous (Watermelon)")
 refracted-12 --> sullen-13("<img src='./assets/Peridots/sullen-13.jpg'> <br /> Sullen (Sunset)")
 skittles-12 --> trailmix-13("<img src='./assets/Peridots/trailmix-13.jpg'> <br /> Trailmix (Paint)")
