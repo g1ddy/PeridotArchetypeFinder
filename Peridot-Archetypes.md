@@ -90,6 +90,8 @@
 |Static||||Static||||
 
 ### Example(s):
+![Grainy](./assets/Peridots/grainy-7.jpg)
+
 ![Jinx007-Buggy Bunny](./assets/Peridots/jinx007-buggy-bunny-5.jpg)
 
 ## Archetypes: Clownfish, Ram, Static, Count: 3
@@ -251,6 +253,9 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Balloon|||Stacked||Patchwork|Tutu||
 |Rabbit|Rabbit||||||Rabbit|
+
+### Example(s):
+![Jinx007-Vortex](./assets/Peridots/jinx007-vortex-12.jpg)
 
 ## Archetypes: Balloon, Static, Count: 2
 ### Compatibility Table:

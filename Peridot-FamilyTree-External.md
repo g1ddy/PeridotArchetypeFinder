@@ -130,5 +130,6 @@ jinx007-thistle-9 --> jinx007-umbrella-10("<img src='./assets/Peridots/jinx007-u
 jinx007-thistle-9 --> jinx007-unbananable-10("<img src='./assets/Peridots/jinx007-unbananable-10.jpg'> <br /> Jinx007-Unbananable (Banana)")
 jinx007-xcalibur-9 --> jinx007-yondu-10("<img src='./assets/Peridots/jinx007-yondu-10.jpg'> <br /> Jinx007-Yondu (Jester)")
 jinx007-unbananable-10 --> jinx007-werecrow-11("<img src='./assets/Peridots/jinx007-werecrow-11.jpg'> <br /> Jinx007-Werecrow (Patchwork,Scarecrow)")
+jinx007-werecrow-11 --> jinx007-vortex-12("<img src='./assets/Peridots/jinx007-vortex-12.jpg'> <br /> Jinx007-Vortex (Balloon,Rabbit)")
 ```
 

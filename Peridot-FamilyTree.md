@@ -42,6 +42,7 @@ ether-5 --> fafnir-6("<img src='./assets/Peridots/fafnir-6.jpg'> <br /> Fafnir (
 jammie-5 --> lilith-6("<img src='./assets/Peridots/lilith-6.jpg'> <br /> Lilith")
 fable-6 --> glacier-7("<img src='./assets/Peridots/glacier-7.jpg'> <br /> Glacier (Icicle,Rabbit)")
 fable-6 --> goldilocks-7("<img src='./assets/Peridots/goldilocks-7.jpg'> <br /> Goldilocks (Royalty)")
+fable-6 --> grainy-7("<img src='./assets/Peridots/grainy-7.jpg'> <br /> Grainy (Clownfish,Rabbit,Static)")
 farceratops-6 --> grazerface-7("<img src='./assets/Peridots/grazerface-7.jpg'> <br /> Grazerface (Triceratops)")
 fishline-6 --> guardian-7("<img src='./assets/Peridots/guardian-7.jpg'> <br /> Guardian (Clownfish,Yeti)")
 floofish-6 --> guina-7("<img src='./assets/Peridots/guina-7.jpg'> <br /> Guina")

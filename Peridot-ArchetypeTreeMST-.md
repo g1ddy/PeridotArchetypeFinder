@@ -41,6 +41,7 @@ Ether("Ether (Celestial,Ram)") --> Fafnir("Fafnir (Celestial)")
 Jammie --> Lilith
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Glacier("Glacier (Icicle,Rabbit)")
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Goldilocks("Goldilocks (Royalty)")
+Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Grainy("Grainy (Clownfish,Rabbit,Static)")
 Farceratops("Farceratops (Ram)") --> Grazerface("Grazerface (Triceratops)")
 Fishline("Fishline (Clownfish)") --> Guardian("Guardian (Clownfish,Yeti)")
 Floofish("Floofish (Clownfish,Monkey)") --> Guina
@@ -70,7 +71,7 @@ Hypnos --> Instar("Instar (Bee)")
 Icarus --> Jax("Jax (Clownfish)")
 Icarus --> Jewelfish("Jewelfish (Clownfish,Rabbit)")
 Noise("Noise (Static)") --> Orion("Orion (Aurora)")
-New_Archetype:_Clownfish,_Icicle,_Rabbit -..-> New_Archetype:_Clownfish,_Rabbit,_Static
+Hydrostatic("Hydrostatic (Clownfish,Dandelion)") -..-> New_Archetype:_Clownfish,_Cotton_Candy,_Dandelion
 Iceberg("Iceberg (Icicle,Snowfall)") --> Javelin("Javelin (Snowfall)")
 Imhotep("Imhotep (Scarab)") --> Jormungandr("Jormungandr (Static)")
 Imugi("Imugi (Triton)") --> Jaguarundi("Jaguarundi (Elixir)")
@@ -84,7 +85,6 @@ Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Krypto("Krypto (Dewdrop,Rabbit)")
 Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Queezy("Queezy (Peacock)")
 Orion("Orion (Aurora)") --> Phenotype("Phenotype (Sunset)")
 Orion("Orion (Aurora)") --> Predator("Predator (Vampire)")
-Interspecies -..-> New_Archetype:_Clownfish,_Cotton_Candy,_Dandelion
 Jaguarundi("Jaguarundi (Elixir)") --> Kyoka_Suigetsu("Kyoka Suigetsu (Elixir)")
 Jormungandr("Jormungandr (Static)") --> Kira("Kira (Dragon,Static)")
 Jubilee("Jubilee (Cinnabon)") --> Khroma("Khroma (Chameleon)")
@@ -128,6 +128,6 @@ Ultraviolet("Ultraviolet (Paint)") --> Vega
 Uluguru("Uluguru (LED)") --> Volare("Volare (LED)")
 Volare("Volare (LED)") --> Wallflower
 Wallflower --> Xenomorphic
-New_Archetype:_Clownfish,_Cotton_Candy,_Rabbit -..-> New_Archetype:_Clownfish,_Rabbit,_Static
+New_Archetype:_Clownfish,_Cotton_Candy,_Rabbit -..-> New_Archetype:_Clownfish,_Cotton_Candy,_Dandelion
 ```
 
