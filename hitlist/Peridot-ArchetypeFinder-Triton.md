@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Triton|||Trident|Glimmer|||Whale|
 
+## Peridot: Jinx007-Dyno, Score: 0.666666666666667
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Dyno|Tubes|Monkey|Trident|Glimmer|Breezy|Dragon|Radish|
+
 ## Peridot: Jinx007-Cthulhu, Score: 0.666666666666667
 
 ### Peridot Traits:
@@ -87,11 +94,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |g1ddy-Ariel|Rabbit|Goggles|Shell|Glimmer|Chromatic|Scales|Fishbone|
-
-## Peridot: g1ddy-Aphrodite, Score: 0.333333333333333
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Aphrodite|Mouse|Goggles|Trident|Chrome|Chromatic|Beetle Wings|Shell|
 

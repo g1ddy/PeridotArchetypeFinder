@@ -17,6 +17,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 
+## Peridot: jinxpride-Aveline, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aveline|Llama|Diamond|Narwhal|Ore|Chromatic|Mohawk|Kelp|
+
 ## Peridot: jinxpride-Arya, Score: 0.2
 
 ### Peridot Traits:
@@ -88,23 +95,10 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 
-## Peridot: Jinx007-Clowndelabra, Score: 0.2
+## Peridot: Jinx007-Dyno, Score: 0.2
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Clowndelabra|None|Heart|Spire|Waxy|Tropical Fish|None|Fleur|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Candle|None||Spire|Waxy||None||
-|Clownfish|||||Tropical Fish|||
-
-## Peridot: Jinx007-Burnout, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Burnout|None|Heart|Spire|Waxy|Tropical Fish|None|Fleur|
+|Jinx007-Dyno|Tubes|Monkey|Trident|Glimmer|Breezy|Dragon|Radish|
 

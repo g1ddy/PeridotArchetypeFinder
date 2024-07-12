@@ -90,6 +90,8 @@
 |Static||||Static||||
 
 ### Example(s):
+![Grainy](./assets/Peridots/grainy-7.jpg)
+
 ![Jinx007-Buggy Bunny](./assets/Peridots/jinx007-buggy-bunny-5.jpg)
 
 ## Archetypes: Clownfish, Ram, Static, Count: 3
@@ -216,6 +218,8 @@
 ### Example(s):
 ![Medusa](./assets/Peridots/medusa-12.jpg)
 
+![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
+
 ## Archetypes: Aurora, Sunset, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
@@ -249,6 +253,9 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Balloon|||Stacked||Patchwork|Tutu||
 |Rabbit|Rabbit||||||Rabbit|
+
+### Example(s):
+![Jinx007-Vortex](./assets/Peridots/jinx007-vortex-12.jpg)
 
 ## Archetypes: Balloon, Static, Count: 2
 ### Compatibility Table:
@@ -820,6 +827,9 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Patchwork|Square|||Matte|Patchwork||Accordion|
 |Scarecrow|||Pitchfork||Patchwork|Quetzal||
+
+### Example(s):
+![Jinx007-Werecrow](./assets/Peridots/jinx007-werecrow-11.jpg)
 
 ## Archetypes: Patina, Peacock, Count: 2
 ### Compatibility Table:

@@ -29,6 +29,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 
+## Peridot: jinxpride-Aveline, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Aveline|Llama|Diamond|Narwhal|Ore|Chromatic|Mohawk|Kelp|
+
 ## Peridot: jinxpride-Autumn, Score: 0.25
 
 ### Peridot Traits:
@@ -87,16 +94,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
-
-## Peridot: Jinx007-Jeronimo, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Jeronimo|Slice|Dots|Demon|Starry|Celestial|Bat Wings|Horse|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Gargoyle|Slice||Demon|Starry||Bat Wings||
 
