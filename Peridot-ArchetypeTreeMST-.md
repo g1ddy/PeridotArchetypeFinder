@@ -43,6 +43,7 @@ Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Glacier("Glacier (Icicle,Rabbit)")
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Goldilocks("Goldilocks (Royalty)")
 Fable("Fable (Kintsugi,Rabbit,Royalty)") --> Grainy("Grainy (Clownfish,Rabbit,Static)")
 Farceratops("Farceratops (Ram)") --> Grazerface("Grazerface (Triceratops)")
+Farceur("Farceur (Jester)") --> Gatekeeper
 Fishline("Fishline (Clownfish)") --> Guardian("Guardian (Clownfish,Yeti)")
 Floofish("Floofish (Clownfish,Monkey)") --> Guina
 Foxtrot("Foxtrot (Unicorn)") --> Goldie
@@ -85,9 +86,11 @@ Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Krypto("Krypto (Dewdrop,Rabbit)")
 Jewelfish("Jewelfish (Clownfish,Rabbit)") --> Queezy("Queezy (Peacock)")
 Orion("Orion (Aurora)") --> Phenotype("Phenotype (Sunset)")
 Orion("Orion (Aurora)") --> Predator("Predator (Vampire)")
+New_Archetype:_Clownfish,_Cotton_Candy,_Dandelion -..-> New_Archetype:_Clownfish,_Cotton_Candy,_Rabbit
 Jaguarundi("Jaguarundi (Elixir)") --> Kyoka_Suigetsu("Kyoka Suigetsu (Elixir)")
 Jormungandr("Jormungandr (Static)") --> Kira("Kira (Dragon,Static)")
 Jubilee("Jubilee (Cinnabon)") --> Khroma("Khroma (Chameleon)")
+Jubilee("Jubilee (Cinnabon)") --> Kpax("Kpax (Cinnabon,Static)")
 Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Lagostosa("Lagostosa (Clownfish,Lobster)")
 Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Lava_Lamp("Lava Lamp (Anemone,Psychedelic)")
 Kaleidoscope("Kaleidoscope (Anemone,Clownfish,Rabbit)") --> Lionfish("Lionfish (Clownfish)")
@@ -96,7 +99,7 @@ Kandle --> Lampent("Lampent (Candle,Clownfish)")
 Krypto("Krypto (Dewdrop,Rabbit)") --> Lychee("Lychee (Boba,Rabbit,Static)")
 Phenotype("Phenotype (Sunset)") --> Quantum("Quantum (Aurora)")
 Queezy("Queezy (Peacock)") --> Rockstar("Rockstar (Peacock,Psychedelic)")
-Jubilee("Jubilee (Cinnabon)") -..-> New_Archetype:_Cinnabon,_Clownfish,_Static
+Khroma("Khroma (Chameleon)") --> Limelight("Limelight (Chameleon,Static)")
 Kira("Kira (Dragon,Static)") --> Leviathan("Leviathan (Dragon)")
 Kyoka_Suigetsu("Kyoka Suigetsu (Elixir)") --> Luminosity("Luminosity (Rabbit)")
 Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mexilotl("Mexilotl (Axolotl)")
@@ -106,10 +109,12 @@ Lampent("Lampent (Candle,Clownfish)") --> Mysterion("Mysterion (Candle,Clownfish
 Lava_Lamp("Lava Lamp (Anemone,Psychedelic)") --> Medusa("Medusa (Anemone,Sunset)")
 Lychee("Lychee (Boba,Rabbit,Static)") --> Multiverse("Multiverse (Boba,Static)")
 Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
+Quantum("Quantum (Aurora)") --> Radioactive
 Quantum("Quantum (Aurora)") --> Refracted("Refracted (Sunset)")
 Rockstar("Rockstar (Peacock,Psychedelic)") --> Skittles
 Rockstar("Rockstar (Peacock,Psychedelic)") --> Slushy("Slushy (Cotton Candy)")
-Rockstar("Rockstar (Peacock,Psychedelic)") -..-> New_Archetype:_Peacock,_Psychedelic,_Static
+Rockstar("Rockstar (Peacock,Psychedelic)") --> Sparkler("Sparkler (Peacock,Psychedelic,Static)")
+Kpax("Kpax (Cinnabon,Static)") -..-> New_Archetype:_Cinnabon,_Clownfish,_Static
 Luminosity("Luminosity (Rabbit)") --> Mandarin("Mandarin (Elixir,Rabbit)")
 Medusa("Medusa (Anemone,Sunset)") --> Neonimbus("Neonimbus (Anemone,Sunset)")
 Night_Snow("Night Snow (Gargoyle)") --> Om_Nominous("Om Nominous (Watermelon)")
@@ -117,17 +122,18 @@ Refracted("Refracted (Sunset)") --> Sullen("Sullen (Sunset)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
 Slushy("Slushy (Cotton Candy)") --> Trifecta
-New_Archetype:_Peacock,_Psychedelic,_Static -..-> New_Archetype:_Clownfish,_Peacock,_Static
+Sparkler("Sparkler (Peacock,Psychedelic,Static)") -..-> New_Archetype:_Clownfish,_Peacock,_Static
 Om_Nominous("Om Nominous (Watermelon)") --> Major_Lazer
 Sullen("Sullen (Sunset)") --> Troposphere("Troposphere (Sunset)")
 Trailmix("Trailmix (Paint)") --> Ultraviolet("Ultraviolet (Paint)")
 Turducken("Turducken (LED,Peacock)") --> Uber("Uber (LED)")
 Turducken("Turducken (LED,Peacock)") --> UFO("UFO (LED)")
+Turducken("Turducken (LED,Peacock)") --> Ultron("Ultron (Bismuth,Peacock)")
 Turducken("Turducken (LED,Peacock)") --> Uluguru("Uluguru (LED)")
+UFO("UFO (LED)") --> Variant("Variant (LED)")
 Ultraviolet("Ultraviolet (Paint)") --> Vega
 Uluguru("Uluguru (LED)") --> Volare("Volare (LED)")
 Volare("Volare (LED)") --> Wallflower
 Wallflower --> Xenomorphic
-New_Archetype:_Clownfish,_Cotton_Candy,_Rabbit -..-> New_Archetype:_Clownfish,_Cotton_Candy,_Dandelion
 ```
 
