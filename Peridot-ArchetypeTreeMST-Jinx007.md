@@ -72,7 +72,7 @@ Jinx007-Snowstorm("Jinx007-Snowstorm (Gargoyle)") --> Jinx007-Galaxy_Gargoyle("J
 Jinx007-Snowstorm("Jinx007-Snowstorm (Gargoyle)") --> Jinx007-Igor("Jinx007-Igor (Celestial)")
 Jinx007-Vici("Jinx007-Vici (Royalty,Sunset)") --> Jinx007-Wreck-It_Ralph("Jinx007-Wreck-It Ralph (Kintsugi,Rabbit)")
 Jinx007-Galaxy_Gargoyle("Jinx007-Galaxy Gargoyle (Celestial)") --> Jinx007-Interstellar("Jinx007-Interstellar (Celestial)")
-Jinx007-Herbelion("Jinx007-Herbelion (Dandelion)") --> Jinx007-Indy("Jinx007-Indy (Cotton Candy)")
+Jinx007-Herbelion("Jinx007-Herbelion (Dandelion)") --> Jinx007-Indy
 Jinx007-Herbelion("Jinx007-Herbelion (Dandelion)") --> Jinx007-Inflammable("Jinx007-Inflammable (Cotton Candy)")
 Jinx007-Igor("Jinx007-Igor (Celestial)") --> Jinx007-Jeronimo("Jinx007-Jeronimo (Gargoyle)")
 Jinx007-Sencha("Jinx007-Sencha (Boba,Glam)") --> Jinx007-Thistle("Jinx007-Thistle (Cactus)")
