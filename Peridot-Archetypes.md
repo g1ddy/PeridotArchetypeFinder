@@ -216,9 +216,9 @@
 |Sunset|||||Sunset||Fleur|
 
 ### Example(s):
-![Medusa](./assets/Peridots/medusa-12.jpg)
-
 ![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
+
+![Medusa](./assets/Peridots/medusa-12.jpg)
 
 ## Archetypes: Aurora, Sunset, Count: 2
 ### Compatibility Table:

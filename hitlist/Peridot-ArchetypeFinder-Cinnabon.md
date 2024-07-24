@@ -12,6 +12,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |g1ddy-Aphrodite|Mouse|Goggles|Trident|Chrome|Chromatic|Beetle Wings|Shell|
 
+## Peridot: jinxpride-Azure, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Azure|Picks|Fangs|Antennae|Waxy|Chromatic|Horse|Scalloped|
+
 ## Peridot: jinxpride-Arya, Score: 0.25
 
 ### Peridot Traits:
@@ -25,6 +32,13 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Aquata|Llama|Fangs|Cow|LED|Chromatic|Eyebrows|Fishbone|
+
+## Peridot: jinxpride-Apollo, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Apollo|Mouse|Octopus|Staircase|Slimy|Chromatic|Hermes|Bear|
 
 ## Peridot: jinxpride-Ambrosia, Score: 0.25
 
@@ -75,24 +89,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
-
-## Peridot: Jinx007-Ghostface, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Ghostface|Triceratops|Fangs|Triceratops|Static|Baguette|None|Asparagus|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Static||||Static||||
-|Triceratops|Triceratops||Triceratops||Baguette||Asparagus|
-
-## Peridot: g1ddy-Autumn, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|g1ddy-Autumn|Square|Fangs|None|Matte|Chromatic|Hermes|Asparagus|
 

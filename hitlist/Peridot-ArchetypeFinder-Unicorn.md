@@ -29,6 +29,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 
+## Peridot: jinxpride-Azure, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Azure|Picks|Fangs|Antennae|Waxy|Chromatic|Horse|Scalloped|
+
 ## Peridot: jinxpride-Aveline, Score: 0.25
 
 ### Peridot Traits:
@@ -77,18 +84,6 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Urchin|Whirlybird|Octopus|???|Static|shimashima|Seraph|Horse|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Static||||Static||||
-
-## Peridot: Jinx007-Tulum, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Tulum|Whirlybird|Octopus|None|Static|Scales|Quetzal|Horse|
 
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|

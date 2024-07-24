@@ -24,6 +24,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Irukandji|Eeyore|Dots|None|Slimy|Ghost|Tutu|Accordian|
 
+## Peridot: jinxpride-Azure, Score: 0.166666666666667
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Azure|Picks|Fangs|Antennae|Waxy|Chromatic|Horse|Scalloped|
+
 ## Peridot: jinxpride-Aurora, Score: 0.166666666666667
 
 ### Peridot Traits:
@@ -52,6 +59,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Ariel|None|Triangles|Meringue|LED|Chromatic|Quetzal|Matrix|
 
+## Peridot: jinxpride-Apollo, Score: 0.166666666666667
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|jinxpride-Apollo|Mouse|Octopus|Staircase|Slimy|Chromatic|Hermes|Bear|
+
 ## Peridot: jinxpride-Aphrodite, Score: 0.166666666666667
 
 ### Peridot Traits:
@@ -65,23 +79,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Andrina|Tubes|Fold|Demon|Slimy|Chromatic|None|Accordion|
-
-## Peridot: jinxpride-Adella, Score: 0.166666666666667
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|jinxpride-Adella|Monkey|Cloud|None|Furry|Chromatic|Scales|Agave|
-
-## Peridot: Jinx007-Watermelon, Score: 0.166666666666667
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Watermelon|Slice|Octopus|None|Pulp|Watermelon|Spades|Peacock|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Peacock|||None|||Spades|Peacock|
 
