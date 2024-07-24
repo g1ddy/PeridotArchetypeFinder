@@ -130,7 +130,7 @@ Turducken("Turducken (LED,Peacock)") --> Uber("Uber (LED)")
 Turducken("Turducken (LED,Peacock)") --> UFO("UFO (LED)")
 Turducken("Turducken (LED,Peacock)") --> Ultron("Ultron (Bismuth,Peacock)")
 Turducken("Turducken (LED,Peacock)") --> Uluguru("Uluguru (LED)")
-UFO("UFO (LED)") --> Variant("Variant (LED)")
+UFO("UFO (LED)") --> Variant
 Ultraviolet("Ultraviolet (Paint)") --> Vega
 Uluguru("Uluguru (LED)") --> Volare("Volare (LED)")
 Volare("Volare (LED)") --> Wallflower
