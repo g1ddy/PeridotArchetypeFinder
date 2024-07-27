@@ -237,6 +237,8 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
+![Neon](./assets/Peridots/neon-13.jpg)
+
 ![Mix a lotl](./assets/Peridots/mix-a-lotl-12.jpg)
 
 ## Archetypes: Balloon, Patchwork, Count: 2
@@ -361,9 +363,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Lampent](./assets/Peridots/lampent-11.jpg)
-
 ![Mysterion](./assets/Peridots/mysterion-12.jpg)
+
+![Lampent](./assets/Peridots/lampent-11.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
@@ -863,6 +865,8 @@
 |Ram|||Ram||||Asparagus|
 
 ### Example(s):
+![Effervescent](./assets/Peridots/effervescent-5.jpg)
+
 ![Duranium](./assets/Peridots/duranium-4.jpg)
 
 ## Archetypes: Peacock, Psychedelic, Count: 2
