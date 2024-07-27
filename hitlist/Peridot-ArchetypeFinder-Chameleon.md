@@ -5,6 +5,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Chameleon|None||Buns||Breezy|Mohawk|Shell|
 
+## Peridot: Jinx007-Voltron, Score: 0.8
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Voltron|???|Dots|Buns|Static|Breezy|Mohawk|Shell|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Static||||Static||||
+
 ## Peridot: Jinx007-Umbra, Score: 0.4
 
 ### Peridot Traits:
@@ -45,6 +57,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Ambrosia|Rudders|Heart|Buns|Geode|Chromatic|Bat Wings|Radish|
 
+## Peridot: Jinx007-Weaver, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Weaver|Elephant|Dots|Floater|Static|Breezy|Choker|Wavelength|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Static||||Static||||
+
 ## Peridot: Jinx007-Turkey, Score: 0.2
 
 ### Peridot Traits:
@@ -82,23 +106,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
-
-## Peridot: Jinx007-Fenrir, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Fenrir|Elven|Octopus|None|Static|Breezy|Thorns|Mouse|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Static||||Static||||
-
-## Peridot: Jinx007-Dyno, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Dyno|Tubes|Monkey|Trident|Glimmer|Breezy|Dragon|Radish|
 

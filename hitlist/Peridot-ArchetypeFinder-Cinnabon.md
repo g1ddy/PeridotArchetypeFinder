@@ -5,6 +5,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Cinnabon|Mouse|Fangs|Buns||||Shell|
 
+## Peridot: Jinx007-Voltron, Score: 0.5
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Voltron|???|Dots|Buns|Static|Breezy|Mohawk|Shell|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Static||||Static||||
+
 ## Peridot: g1ddy-Aphrodite, Score: 0.5
 
 ### Peridot Traits:
@@ -77,16 +89,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Bee|||Antennae|Fuzzy|Bee|Bee Wings||
-
-## Peridot: Jinx007-Hunter, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Hunter|Triceratops|Fangs|Bull|Static|Baguette|Mohawk|???|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Static||||Static||||
 
