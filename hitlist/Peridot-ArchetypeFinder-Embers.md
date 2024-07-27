@@ -47,6 +47,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Alana|Picks|Octopus|Asparagus|Iridescent|Chromatic|Feathers|Matrix|
 
+## Peridot: Jinx007-Thunderpunch, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Thunderpunch|Snap Peas|Fold|Bull|Slimy|Okapi|Moth|Tree Fan|
+
 ## Peridot: Jinx007-Sunfire, Score: 0.25
 
 ### Peridot Traits:
@@ -82,17 +89,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Dewdrop||Star||Gummy|Gradient|||
-
-## Peridot: Jinx007-Hydrolion, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Hydrolion|Cat|Octopus|Jester|Furry|Tropical Fish|Dandelion|Dandelion|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Clownfish|||||Tropical Fish|||
-|Dandelion||||Furry||Dandelion|Dandelion|
 

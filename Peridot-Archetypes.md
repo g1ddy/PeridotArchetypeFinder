@@ -237,9 +237,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Neon](./assets/Peridots/neon-13.jpg)
-
 ![Mix a lotl](./assets/Peridots/mix-a-lotl-12.jpg)
+
+![Neon](./assets/Peridots/neon-13.jpg)
 
 ## Archetypes: Balloon, Patchwork, Count: 2
 ### Compatibility Table:

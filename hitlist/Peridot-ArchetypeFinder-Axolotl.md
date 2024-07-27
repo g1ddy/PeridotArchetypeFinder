@@ -5,6 +5,13 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Axolotl|None|Kawaii|None|Slimy||Moth|Scalloped|
 
+## Peridot: Jinx007-Thunderpunch, Score: 0.333333333333333
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Thunderpunch|Snap Peas|Fold|Bull|Slimy|Okapi|Moth|Tree Fan|
+
 ## Peridot: Jinx007-Sunfire, Score: 0.333333333333333
 
 ### Peridot Traits:
@@ -72,11 +79,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Aphrodite|Slice|Diamond|Spire|Slimy|Chromatic|Whiskers|Carnival|
-
-## Peridot: jinxpride-Andrina, Score: 0.166666666666667
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|jinxpride-Andrina|Tubes|Fold|Demon|Slimy|Chromatic|None|Accordion|
 
