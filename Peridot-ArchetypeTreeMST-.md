@@ -119,7 +119,7 @@ Rockstar("Rockstar (Peacock,Psychedelic)") --> Sparkler("Sparkler (Peacock,Psych
 Kpax("Kpax (Cinnabon,Static)") -..-> New_Archetype:_Cinnabon,_Clownfish,_Static
 Luminosity("Luminosity (Rabbit)") --> Mandarin("Mandarin (Elixir,Rabbit)")
 Medusa("Medusa (Anemone,Sunset)") --> Neonimbus("Neonimbus (Anemone,Sunset)")
-Mix_a_lotl("Mix a lotl (Axolotl,Clownfish)") --> Neon("Neon (Axolotl,Clownfish)")
+Mix_a_lotl("Mix a lotl (Axolotl,Clownfish)") --> Neon("Neon (Axolotl)")
 Night_Snow("Night Snow (Gargoyle)") --> Om_Nominous("Om Nominous (Watermelon)")
 Refracted("Refracted (Sunset)") --> Sullen("Sullen (Sunset)")
 Skittles --> Trailmix("Trailmix (Paint)")

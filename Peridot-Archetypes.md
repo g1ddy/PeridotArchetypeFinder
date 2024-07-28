@@ -218,9 +218,9 @@
 |Sunset|||||Sunset||Fleur|
 
 ### Example(s):
-![Medusa](./assets/Peridots/medusa-12.jpg)
-
 ![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
+
+![Medusa](./assets/Peridots/medusa-12.jpg)
 
 ## Archetypes: Aurora, Sunset, Count: 2
 ### Compatibility Table:
@@ -238,8 +238,6 @@
 
 ### Example(s):
 ![Mix a lotl](./assets/Peridots/mix-a-lotl-12.jpg)
-
-![Neon](./assets/Peridots/neon-13.jpg)
 
 ## Archetypes: Balloon, Patchwork, Count: 2
 ### Compatibility Table:
@@ -865,9 +863,9 @@
 |Ram|||Ram||||Asparagus|
 
 ### Example(s):
-![Effervescent](./assets/Peridots/effervescent-5.jpg)
-
 ![Duranium](./assets/Peridots/duranium-4.jpg)
+
+![Effervescent](./assets/Peridots/effervescent-5.jpg)
 
 ## Archetypes: Peacock, Psychedelic, Count: 2
 ### Compatibility Table:
