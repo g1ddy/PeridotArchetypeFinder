@@ -125,6 +125,8 @@
 |Static||||Static||||
 
 ### Example(s):
+![Sparkler](./assets/Peridots/sparkler-12.jpg)
+
 ![Jinx007-Triumvirate](./assets/Peridots/jinx007-triumvirate-4.jpg)
 
 ## Archetypes: Rabbit, Scarecrow, Static, Count: 3
@@ -216,9 +218,9 @@
 |Sunset|||||Sunset||Fleur|
 
 ### Example(s):
-![Medusa](./assets/Peridots/medusa-12.jpg)
-
 ![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
+
+![Medusa](./assets/Peridots/medusa-12.jpg)
 
 ## Archetypes: Aurora, Sunset, Count: 2
 ### Compatibility Table:
@@ -289,6 +291,8 @@
 |Peacock|||None|||Spades|Peacock|
 
 ### Example(s):
+![Ultron](./assets/Peridots/ultron-14.jpg)
+
 ![Jinx007-Chip](./assets/Peridots/jinx007-chip-7.jpg)
 
 ## Archetypes: Bismuth, Ram, Count: 2
@@ -357,9 +361,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Lampent](./assets/Peridots/lampent-11.jpg)
-
 ![Mysterion](./assets/Peridots/mysterion-12.jpg)
+
+![Lampent](./assets/Peridots/lampent-11.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
@@ -429,6 +433,9 @@
 |Chameleon|None||Buns||Breezy|Mohawk|Shell|
 |Static||||Static||||
 
+### Example(s):
+![Limelight](./assets/Peridots/limelight-12.jpg)
+
 ## Archetypes: Cinnabon, Clownfish, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
@@ -463,6 +470,9 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Cinnabon|Mouse|Fangs|Buns||||Shell|
 |Static||||Static||||
+
+### Example(s):
+![Kpax](./assets/Peridots/kpax-11.jpg)
 
 ## Archetypes: Clownfish, Cotton Candy, Count: 2
 ### Compatibility Table:
@@ -854,6 +864,8 @@
 
 ### Example(s):
 ![Duranium](./assets/Peridots/duranium-4.jpg)
+
+![Effervescent](./assets/Peridots/effervescent-5.jpg)
 
 ## Archetypes: Peacock, Psychedelic, Count: 2
 ### Compatibility Table:
