@@ -51,10 +51,10 @@ Foxtrot("Foxtrot (Unicorn)") --> Goldie
 Foxtrot("Foxtrot (Unicorn)") --> Goral("Goral (Clownfish,Unicorn)")
 Lilith --> Maximus
 Frosty("Frosty (Ram,Static)") -.-> New_Archetype:_Clownfish,_Ram,_Static
-Fable("Fable (Kintsugi,Rabbit,Royalty)") -..-> New_Archetype:_Clownfish,_Rabbit,_Royalty
 Glacier("Glacier (Icicle,Rabbit)") --> Hailstorm
 Goldie --> Harry
 Goldie --> Icarus
+Grainy("Grainy (Clownfish,Rabbit,Static)") --> Hierarch("Hierarch (Clownfish,Royalty)")
 Grazerface("Grazerface (Triceratops)") --> Hologlittersaur("Hologlittersaur (Triceratops)")
 Guardian("Guardian (Clownfish,Yeti)") --> Hydrostatic("Hydrostatic (Clownfish,Dandelion)")
 Guina --> Hammerhead("Hammerhead (Seal,Static)")
@@ -73,7 +73,9 @@ Hypnos --> Instar("Instar (Bee)")
 Icarus --> Jax("Jax (Clownfish)")
 Icarus --> Jewelfish("Jewelfish (Clownfish,Rabbit)")
 Noise("Noise (Static)") --> Orion("Orion (Aurora)")
+Hierarch("Hierarch (Clownfish,Royalty)") -..-> New_Archetype:_Clownfish,_Rabbit,_Royalty
 Iceberg("Iceberg (Icicle,Snowfall)") --> Javelin("Javelin (Snowfall)")
+Iceberg("Iceberg (Icicle,Snowfall)") --> Jokulhlaup("Jokulhlaup (Icicle,Snowfall)")
 Imhotep("Imhotep (Scarab)") --> Jormungandr("Jormungandr (Static)")
 Imugi("Imugi (Triton)") --> Jaguarundi("Jaguarundi (Elixir)")
 Incense --> Jack_Olantern("Jack Olantern (Embers)")
@@ -109,6 +111,7 @@ Lagostosa("Lagostosa (Clownfish,Lobster)") --> Mix_a_lotl("Mix a lotl (Axolotl,C
 Lagostosa("Lagostosa (Clownfish,Lobster)") --> Moonlit("Moonlit (Jellyfish)")
 Lampent("Lampent (Candle,Clownfish)") --> Mysterion("Mysterion (Candle,Clownfish)")
 Lava_Lamp("Lava Lamp (Anemone,Psychedelic)") --> Medusa("Medusa (Anemone,Sunset)")
+Lava_Lamp("Lava Lamp (Anemone,Psychedelic)") --> Misfit
 Lychee("Lychee (Boba,Rabbit,Static)") --> Multiverse("Multiverse (Boba,Static)")
 Mastodon("Mastodon (Anemone,Snowfall)") --> Night_Snow("Night Snow (Gargoyle)")
 Quantum("Quantum (Aurora)") --> Radioactive
@@ -121,6 +124,7 @@ Luminosity("Luminosity (Rabbit)") --> Mandarin("Mandarin (Elixir,Rabbit)")
 Medusa("Medusa (Anemone,Sunset)") --> Neonimbus("Neonimbus (Anemone,Sunset)")
 Mix_a_lotl("Mix a lotl (Axolotl,Clownfish)") --> Neon("Neon (Axolotl)")
 Night_Snow("Night Snow (Gargoyle)") --> Om_Nominous("Om Nominous (Watermelon)")
+Night_Snow("Night Snow (Gargoyle)") --> Onyx("Onyx (Celestial,Gargoyle)")
 Refracted("Refracted (Sunset)") --> Sullen("Sullen (Sunset)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")
@@ -133,6 +137,7 @@ Turducken("Turducken (LED,Peacock)") --> Uber("Uber (LED)")
 Turducken("Turducken (LED,Peacock)") --> UFO("UFO (LED)")
 Turducken("Turducken (LED,Peacock)") --> Ultron("Ultron (Bismuth,Peacock)")
 Turducken("Turducken (LED,Peacock)") --> Uluguru("Uluguru (LED)")
+Turducken("Turducken (LED,Peacock)") --> Undertaker("Undertaker (LED)")
 UFO("UFO (LED)") --> Variant
 Ultraviolet("Ultraviolet (Paint)") --> Vega
 Ultraviolet("Ultraviolet (Paint)") --> Violet

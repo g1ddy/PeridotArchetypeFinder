@@ -218,9 +218,9 @@
 |Sunset|||||Sunset||Fleur|
 
 ### Example(s):
-![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
-
 ![Medusa](./assets/Peridots/medusa-12.jpg)
+
+![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
 
 ## Archetypes: Aurora, Sunset, Count: 2
 ### Compatibility Table:
@@ -402,6 +402,9 @@
 |Celestial||||Starry|Celestial|||
 |Gargoyle|Slice||Demon|Starry||Bat Wings||
 
+### Example(s):
+![Onyx](./assets/Peridots/onyx-13.jpg)
+
 ## Archetypes: Celestial, Peacock, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
@@ -572,6 +575,9 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Clownfish|||||Tropical Fish|||
 |Royalty||Countess|Crown|Ore||Tutu||
+
+### Example(s):
+![Hierarch](./assets/Peridots/hierarch-8.jpg)
 
 ## Archetypes: Clownfish, Static, Count: 2
 ### Compatibility Table:
@@ -751,6 +757,8 @@
 |Snowfall||Dots|||Snowfall||Snowflake|
 
 ### Example(s):
+![Jokulhlaup](./assets/Peridots/jokulhlaup-10.jpg)
+
 ![Iceberg](./assets/Peridots/iceberg-9.jpg)
 
 ## Archetypes: Icicle, Sunset, Count: 2
