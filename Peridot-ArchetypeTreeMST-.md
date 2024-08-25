@@ -54,7 +54,7 @@ Frosty("Frosty (Ram,Static)") -.-> New_Archetype:_Clownfish,_Ram,_Static
 Glacier("Glacier (Icicle,Rabbit)") --> Hailstorm
 Goldie --> Harry
 Goldie --> Icarus
-Grainy("Grainy (Clownfish,Rabbit,Static)") --> Hierarch("Hierarch (Clownfish,Royalty)")
+Grainy("Grainy (Clownfish,Rabbit,Static)") --> Hierarch("Hierarch (Royalty)")
 Grazerface("Grazerface (Triceratops)") --> Hologlittersaur("Hologlittersaur (Triceratops)")
 Guardian("Guardian (Clownfish,Yeti)") --> Hydrostatic("Hydrostatic (Clownfish,Dandelion)")
 Guina --> Hammerhead("Hammerhead (Seal,Static)")
@@ -73,9 +73,9 @@ Hypnos --> Instar("Instar (Bee)")
 Icarus --> Jax("Jax (Clownfish)")
 Icarus --> Jewelfish("Jewelfish (Clownfish,Rabbit)")
 Noise("Noise (Static)") --> Orion("Orion (Aurora)")
-Hierarch("Hierarch (Clownfish,Royalty)") -..-> New_Archetype:_Clownfish,_Rabbit,_Royalty
+Hierarch("Hierarch (Royalty)") -..-> New_Archetype:_Clownfish,_Rabbit,_Royalty
 Iceberg("Iceberg (Icicle,Snowfall)") --> Javelin("Javelin (Snowfall)")
-Iceberg("Iceberg (Icicle,Snowfall)") --> Jokulhlaup("Jokulhlaup (Icicle,Snowfall)")
+Iceberg("Iceberg (Icicle,Snowfall)") --> Jokulhlaup("Jokulhlaup (Icicle)")
 Imhotep("Imhotep (Scarab)") --> Jormungandr("Jormungandr (Static)")
 Imugi("Imugi (Triton)") --> Jaguarundi("Jaguarundi (Elixir)")
 Incense --> Jack_Olantern("Jack Olantern (Embers)")
@@ -124,7 +124,7 @@ Luminosity("Luminosity (Rabbit)") --> Mandarin("Mandarin (Elixir,Rabbit)")
 Medusa("Medusa (Anemone,Sunset)") --> Neonimbus("Neonimbus (Anemone,Sunset)")
 Mix_a_lotl("Mix a lotl (Axolotl,Clownfish)") --> Neon("Neon (Axolotl)")
 Night_Snow("Night Snow (Gargoyle)") --> Om_Nominous("Om Nominous (Watermelon)")
-Night_Snow("Night Snow (Gargoyle)") --> Onyx("Onyx (Celestial,Gargoyle)")
+Night_Snow("Night Snow (Gargoyle)") --> Onyx("Onyx (Celestial)")
 Refracted("Refracted (Sunset)") --> Sullen("Sullen (Sunset)")
 Skittles --> Trailmix("Trailmix (Paint)")
 Skittles --> Turducken("Turducken (LED,Peacock)")

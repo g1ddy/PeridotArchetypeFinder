@@ -101,10 +101,15 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Static||||Static||||
 
-## Peridot: Jinx007-Dyno, Score: 0.333333333333333
+## Peridot: Jinx007-Ethereal, Score: 0.333333333333333
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Dyno|Tubes|Monkey|Trident|Glimmer|Breezy|Dragon|Radish|
+|Jinx007-Ethereal|Seraph|Star|Trident|Glimmer|Breezy|Dragon|Whale|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Triton|||Trident|Glimmer|||Whale|
 
