@@ -40,6 +40,19 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |jinxpride-Aphrodite|Slice|Diamond|Spire|Slimy|Chromatic|Whiskers|Carnival|
 
+## Peridot: Jinx007-Wasted, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Wasted|None|Dots|Buns|Static|Breezy|Mohawk|Shell|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Chameleon|None||Buns||Breezy|Mohawk|Shell|
+|Static||||Static||||
+
 ## Peridot: Jinx007-Sunfire, Score: 0.25
 
 ### Peridot Traits:
@@ -83,16 +96,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Burnout|None|Heart|Spire|Waxy|Tropical Fish|None|Fleur|
-
-## Peridot: Jinx007-Banshee, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Banshee|Cat|Monkey|None|Fuzzy|Cheetah|Hermes|Cat|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Cheetah|Cat|||Fuzzy|Cheetah||Cat|
 

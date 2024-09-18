@@ -59,6 +59,18 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jester|||Jester|Ore|Diamonds|Ruff||
 
+## Peridot: Jinx007-Xover, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Xover|Flappy|Octopus|None|Pulp|Watermelon|Spades|Peacock|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Peacock|||None|||Spades|Peacock|
+
 ## Peridot: Jinx007-Watermelon, Score: 0.2
 
 ### Peridot Traits:
@@ -83,16 +95,4 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Royalty||Countess|Crown|Ore||Tutu||
 |Sunset|||||Sunset||Fleur|
-
-## Peridot: Jinx007-Valyrian, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Valyrian|Seraph|Goggles|Bharal|Starry|Sunset|Tutu|Fleur|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Aurora|Seraph||Bharal|Starry|Sunset|||
 

@@ -218,9 +218,9 @@
 |Sunset|||||Sunset||Fleur|
 
 ### Example(s):
-![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
-
 ![Medusa](./assets/Peridots/medusa-12.jpg)
+
+![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
 
 ## Archetypes: Aurora, Sunset, Count: 2
 ### Compatibility Table:
@@ -436,6 +436,8 @@
 ### Example(s):
 ![Limelight](./assets/Peridots/limelight-12.jpg)
 
+![Jinx007-Wasted](./assets/Peridots/jinx007-wasted-6.jpg)
+
 ## Archetypes: Cinnabon, Clownfish, Count: 2
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
@@ -596,6 +598,8 @@
 
 ### Example(s):
 ![Goral](./assets/Peridots/goral-7.jpg)
+
+![Jinx007-Euphoria](./assets/Peridots/jinx007-euphoria-5.jpg)
 
 ## Archetypes: Clownfish, Yeti, Count: 2
 ### Compatibility Table:
@@ -863,9 +867,9 @@
 |Ram|||Ram||||Asparagus|
 
 ### Example(s):
-![Duranium](./assets/Peridots/duranium-4.jpg)
-
 ![Effervescent](./assets/Peridots/effervescent-5.jpg)
+
+![Duranium](./assets/Peridots/duranium-4.jpg)
 
 ## Archetypes: Peacock, Psychedelic, Count: 2
 ### Compatibility Table:
