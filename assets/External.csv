@@ -43,7 +43,7 @@ jinxpride-Aquaman,1,,Chromatic,Snowflake,Demon,Spades,Rusty,Dots,Butterfly,
 jinxpride-Aquata,1,,Chromatic,Fishbone,Cow,Eyebrows,LED,Fangs,Llama,
 jinxpride-Archipelago,1,,Chromatic,None,Stacked,Curls,Starry,Countess,Bear,
 jinxpride-Arcoiris,1,,Chromatic,Ribcage,Goat,Whiskers,Beetle,Monkey,Heart,
-jinxpride-Ares,1,,Chromatic,Mouse,Narwhal,Bee Wings,Geode,Googles,Heart,
+jinxpride-Ares,1,,Chromatic,Mouse,Narwhal,Bee Wings,Geode,Goggles,Heart,
 jinxpride-Ariel,1,,Chromatic,Matrix,Meringue,Quetzal,LED,Triangles,None,
 jinxpride-Arista,1,,Chromatic,Wavelength,Spire,Moth,Iridescent,Goggles,Bat,
 jinxpride-Artemis,1,,Chromatic,Fletching,Demon,None,Glitter,Bandit,Seraph,
@@ -82,6 +82,7 @@ Jinx007-Buggy Bunny,5,Jinx007-Dottie,Tropical Fish,Rabbit,Cow,None,Static,Star,R
 Jinx007-Euphoria,5,Jinx007-Dottie,Tropical Fish,Horse,Narwhal,Horse,Glitter,Star,Rabbit,
 Jinx007-Ethereal,5,Jinx007-Dyno,Breezy,Whale,Trident,Dragon,Glimmer,Star,Seraph,
 Jinx007-Pinkachu,5,Jinx007-Opal,Deer,Radish,Demon,Flowy Feathers,LED,Blob,Squircle,
+Jinx007-Punky,5,Jinx007-Opal,Deer,Rosetail,Ram,Flowy Feathers,LED,Heart,Dragonfly?,
 Jinx007-Twilight,5,Jinx007-Triumvirate,Sunset,Fleur,None,Tentacles,Static,Star,Rabbit,
 Jinx007-Shimmerrosie,5,Jinx007-Triumvirate,Pulse,Peacock,None,Spades,Static,Octopus,Bear,
 Jinx007-Spyro,5,Jinx007-Triumvirate,Scales,Flame,Bull,Dragon,Static,Octopus,Bear,
@@ -102,6 +103,7 @@ Jinx007-Watermelon,6,Jinx007-Shimmerrosie,Watermelon,Peacock,None,Spades,Pulp,Oc
 Jinx007-Weaver,6,Jinx007-Voltron,Breezy,Wavelength,Floater,Choker,Static,Dots,Elephant,
 Jinx007-Tulum,6,Jinx007-Spyro,Scales,Horse,None,Quetzal,Static,Octopus,Whirlybird,
 Jinx007-Chip,7,Jinx007-Watermelon,Circuit,Peacock,None,Spades,Iridescent,Diamond,Square,
+Jinx007-Xbreed,7,Jinx007-Watermelon,Watermelon,Peacock,None,Spades,Pulp,Goggles,Slice,
 Jinx007-Xover,7,Jinx007-Watermelon,Watermelon,Peacock,None,Spades,Pulp,Octopus,Flappy,
 Jinx007-Clowndelabra,7,Jinx007-Burnout,Tropical Fish,Fleur,Spire,None,Waxy,Heart,None,
 Jinx007-Epsilon,7,Jinx007-Dark Blizzard,Snowfall,Snowflake,Slingshot,Eyebrows,Slimy,Dots,Fruit Bat,
@@ -119,6 +121,7 @@ Jinx007-Urchin,7,Jinx007-Tulum,shimashima,Horse,???,Seraph,Static,Octopus,Whirly
 Jinx007-Valyrian,7,Jinx007-Usurper,Sunset,Fleur,Bharal,Tutu,Starry,Goggles,Seraph,Aurora
 Jinx007-Vici,7,Jinx007-Usurper,Sunset,Fleur,Crown,Tutu,Ore,Countess,Rabbit,
 Jinx007-Dobby,8,Jinx007-Clowndelabra,Tropical Fish,???,Spire,None,Waxy,Heart,Flying Nun,
+Jinx007-Hotshot,8,Jinx007-Clowndelabra,Tropical Fish,Fleur,Spire,None,Waxy,Heart,None,
 Jinx007-Heiress,8,Jinx007-Chip,Circuit,torn,Antennae,Spades,Iridescent,Diamond,Manchu,
 Jinx007-Hunter,8,Jinx007-Ghostface,Baguette,???,Bull,Mohawk,Static,Fangs,Triceratops,
 Jinx007-Helion,8,Jinx007-Golden Idol,Solid,Garuda,Eyebrows,Bee Wings,Chrome,Star,Rabbit,
@@ -134,6 +137,7 @@ Jinx007-Wreck-It Ralph,8,Jinx007-Vici,Cracked,Rabbit,Crown,Skirt,Ore,Countess,Ra
 Jinx007-Interstellar,9,Jinx007-Galaxy Gargoyle,Celestial,Bow,Demon,Fringe,Starry,Dots,Slice,
 Jinx007-Jeronimo,9,Jinx007-Igor,Celestial,Horse,Demon,Bat Wings,Starry,Dots,Slice,Gargoyle
 Jinx007-Indy,9,Jinx007-Herbelion,Watermelon,Peacock,Narwhal,None,Furry,Octopus,Tulip Bud,Dandelion
+Jinx007-Inkling,9,Jinx007-Herbelion,Bubbles,Dandelion,Narwhal,Dandelion,Furry,Octopus,Cat,Dandelion
 Jinx007-Inflammable,9,Jinx007-Herbelion,Bubbles,Accordian,Narwhal,Curls,Furry,Star,Beaks,
 Jinx007-Icarus,9,Jinx007-Horus,Beach,Fishbone,Shell,Dragon,Geode,Heart,Pharaoh,
 Jinx007-Irukandji,9,Jinx007-Sunfire,Ghost,Accordian,None,Tutu,Slimy,Dots,Eeyore,
@@ -149,3 +153,4 @@ Jinx007-Uva,10,Jinx007-Tumbleweed,Bubbles,None,Straw,Talaria,Bedazzled,Kawaii,Pi
 Jinx007-Yondu,10,Jinx007-Xcalibur,Diamonds,FracturedButfly,Jester,Ruff,Ore,Monkey,Llama,
 Jinx007-Werecrow,11,Jinx007-Unbananable,Patchwork,Accordion,Pitchfork,Quetzal,Matte,Star,Square,
 Jinx007-Vortex,12,Jinx007-Werecrow,Patchwork,Rabbit,Stacked,Tutu,Matte,Goggles,Rabbit,
+Jinx007-Wraith,13,Jinx007-Vortex,Patchwork,Rabbit,Stacked,Tutu,Static,Goggles,Rabbit,
