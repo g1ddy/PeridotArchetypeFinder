@@ -22,6 +22,8 @@
 ### Example(s):
 ![Eclipse](./assets/Peridots/eclipse-5.jpg)
 
+![Jinx007-Wraith](./assets/Peridots/jinx007-wraith-13.jpg)
+
 ## Archetypes: Boba, Rabbit, Static, Count: 3
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
@@ -218,9 +220,9 @@
 |Sunset|||||Sunset||Fleur|
 
 ### Example(s):
-![Medusa](./assets/Peridots/medusa-12.jpg)
-
 ![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
+
+![Medusa](./assets/Peridots/medusa-12.jpg)
 
 ## Archetypes: Aurora, Sunset, Count: 2
 ### Compatibility Table:
@@ -366,6 +368,8 @@
 ![Lampent](./assets/Peridots/lampent-11.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
+
+![Jinx007-Hotshot](./assets/Peridots/jinx007-hotshot-8.jpg)
 
 ## Archetypes: Candle, Psychedelic, Count: 2
 ### Compatibility Table:
@@ -867,9 +871,9 @@
 |Ram|||Ram||||Asparagus|
 
 ### Example(s):
-![Effervescent](./assets/Peridots/effervescent-5.jpg)
-
 ![Duranium](./assets/Peridots/duranium-4.jpg)
+
+![Effervescent](./assets/Peridots/effervescent-5.jpg)
 
 ## Archetypes: Peacock, Psychedelic, Count: 2
 ### Compatibility Table:
@@ -897,6 +901,9 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Peacock|||None|||Spades|Peacock|
 |Watermelon|Slice|||Pulp|Watermelon|||
+
+### Example(s):
+![Jinx007-Xbreed](./assets/Peridots/jinx007-xbreed-7.jpg)
 
 ## Archetypes: Psychedelic, Static, Count: 2
 ### Compatibility Table:

@@ -65,6 +65,19 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Lobster|Pincers||Antennae|Slimy|||Mermaid|
 
+## Peridot: Jinx007-Hotshot, Score: 0.25
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Hotshot|None|Heart|Spire|Waxy|Tropical Fish|None|Fleur|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Candle|None||Spire|Waxy||None||
+|Clownfish|||||Tropical Fish|||
+
 ## Peridot: Jinx007-Clowndelabra, Score: 0.25
 
 ### Peridot Traits:
@@ -89,11 +102,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Cheetah|Cat|||Fuzzy|Cheetah||Cat|
-
-## Peridot: Jinx007-Burnout, Score: 0.25
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Burnout|None|Heart|Spire|Waxy|Tropical Fish|None|Fleur|
 

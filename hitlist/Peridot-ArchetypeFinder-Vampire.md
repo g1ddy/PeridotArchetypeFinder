@@ -71,6 +71,19 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Peacock|||None|||Spades|Peacock|
 
+## Peridot: Jinx007-Xbreed, Score: 0.2
+
+### Peridot Traits:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Jinx007-Xbreed|Slice|Goggles|None|Pulp|Watermelon|Spades|Peacock|
+
+### Compatibility Table:
+|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|Peacock|||None|||Spades|Peacock|
+|Watermelon|Slice|||Pulp|Watermelon|||
+
 ## Peridot: Jinx007-Watermelon, Score: 0.2
 
 ### Peridot Traits:
@@ -82,17 +95,4 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Peacock|||None|||Spades|Peacock|
-
-## Peridot: Jinx007-Vici, Score: 0.2
-
-### Peridot Traits:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jinx007-Vici|Rabbit|Countess|Crown|Ore|Sunset|Tutu|Fleur|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Royalty||Countess|Crown|Ore||Tutu||
-|Sunset|||||Sunset||Fleur|
 
