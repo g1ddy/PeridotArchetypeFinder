@@ -220,9 +220,9 @@
 |Sunset|||||Sunset||Fleur|
 
 ### Example(s):
-![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
-
 ![Medusa](./assets/Peridots/medusa-12.jpg)
+
+![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
 
 ## Archetypes: Aurora, Sunset, Count: 2
 ### Compatibility Table:
@@ -329,6 +329,8 @@
 |Glam|Picks|Star||Bedazzled||Curls|None|
 
 ### Example(s):
+![Lilac](./assets/Peridots/lilac-11.jpg)
+
 ![Jinx007-Sencha](./assets/Peridots/jinx007-sencha-8.jpg)
 
 ## Archetypes: Boba, Rabbit, Count: 2
@@ -363,9 +365,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Mysterion](./assets/Peridots/mysterion-12.jpg)
-
 ![Lampent](./assets/Peridots/lampent-11.jpg)
+
+![Mysterion](./assets/Peridots/mysterion-12.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
