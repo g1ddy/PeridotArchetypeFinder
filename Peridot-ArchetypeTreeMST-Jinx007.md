@@ -21,7 +21,7 @@ Jinx007-Neptune --> Jinx007-Opal("Jinx007-Opal (Paint)")
 Jinx007-Turkey("Jinx007-Turkey (Static)") --> Jinx007-Triumvirate("Jinx007-Triumvirate (Peacock,Psychedelic,Static)")
 Jinx007-Turkey("Jinx007-Turkey (Static)") --> Jinx007-Umbra("Jinx007-Umbra (Static)")
 Jinx007-Dottie("Jinx007-Dottie (Static)") --> Jinx007-Buggy_Bunny("Jinx007-Buggy Bunny (Clownfish,Rabbit,Static)")
-Jinx007-Dottie("Jinx007-Dottie (Static)") --> Jinx007-Euphoria("Jinx007-Euphoria (Clownfish,Unicorn)")
+Jinx007-Dottie("Jinx007-Dottie (Static)") --> Jinx007-Euphoria("Jinx007-Euphoria (Unicorn)")
 Jinx007-Dyno --> Jinx007-Ethereal("Jinx007-Ethereal (Triton)")
 Jinx007-Opal("Jinx007-Opal (Paint)") --> Jinx007-Pinkachu("Jinx007-Pinkachu (Paint)")
 Jinx007-Opal("Jinx007-Opal (Paint)") --> Jinx007-Punky
@@ -60,13 +60,13 @@ Jinx007-Usurper("Jinx007-Usurper (Sunset)") --> Jinx007-Valyrian("Jinx007-Valyri
 Jinx007-Usurper("Jinx007-Usurper (Sunset)") --> Jinx007-Vici("Jinx007-Vici (Royalty,Sunset)")
 Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") --> Jinx007-Chip("Jinx007-Chip (Bismuth,Peacock)")
 Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") --> Jinx007-Gallagher("Jinx007-Gallagher (Ram,Watermelon)")
-Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") --> Jinx007-Xbreed("Jinx007-Xbreed (Peacock,Watermelon)")
+Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") --> Jinx007-Xbreed("Jinx007-Xbreed (Peacock)")
 Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") --> Jinx007-Xover("Jinx007-Xover (Peacock)")
 Jinx007-Wasted("Jinx007-Wasted (Chameleon,Static)") -...-> New_Archetype:_Cinnabon
 Jinx007-Fenrir("Jinx007-Fenrir (Static)") -...-> New_Archetype:_Icicle
 Jinx007-Chip("Jinx007-Chip (Bismuth,Peacock)") --> Jinx007-Heiress
 Jinx007-Clowndelabra("Jinx007-Clowndelabra (Candle,Clownfish)") --> Jinx007-Dobby("Jinx007-Dobby (Clownfish)")
-Jinx007-Clowndelabra("Jinx007-Clowndelabra (Candle,Clownfish)") --> Jinx007-Hotshot("Jinx007-Hotshot (Candle,Clownfish)")
+Jinx007-Clowndelabra("Jinx007-Clowndelabra (Candle,Clownfish)") --> Jinx007-Hotshot("Jinx007-Hotshot (Candle)")
 Jinx007-Faun("Jinx007-Faun (Clownfish)") --> Jinx007-Littlefoot("Jinx007-Littlefoot (Yeti)")
 Jinx007-Ghostface("Jinx007-Ghostface (Static,Triceratops)") --> Jinx007-Hunter("Jinx007-Hunter (Static)")
 Jinx007-Golden_Idol("Jinx007-Golden Idol (24Karat,Rabbit)") --> Jinx007-Helion("Jinx007-Helion (24Karat)")

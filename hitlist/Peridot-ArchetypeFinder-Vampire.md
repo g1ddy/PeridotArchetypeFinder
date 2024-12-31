@@ -82,7 +82,6 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Peacock|||None|||Spades|Peacock|
-|Watermelon|Slice|||Pulp|Watermelon|||
 
 ## Peridot: Jinx007-Watermelon, Score: 0.2
 

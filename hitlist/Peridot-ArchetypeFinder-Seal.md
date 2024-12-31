@@ -76,7 +76,6 @@
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Candle|None||Spire|Waxy||None||
-|Clownfish|||||Tropical Fish|||
 
 ## Peridot: Jinx007-Clowndelabra, Score: 0.25
 

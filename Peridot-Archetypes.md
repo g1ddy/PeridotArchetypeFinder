@@ -220,9 +220,9 @@
 |Sunset|||||Sunset||Fleur|
 
 ### Example(s):
-![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
-
 ![Medusa](./assets/Peridots/medusa-12.jpg)
+
+![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
 
 ## Archetypes: Aurora, Sunset, Count: 2
 ### Compatibility Table:
@@ -365,13 +365,11 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Lampent](./assets/Peridots/lampent-11.jpg)
-
 ![Mysterion](./assets/Peridots/mysterion-12.jpg)
 
-![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
+![Lampent](./assets/Peridots/lampent-11.jpg)
 
-![Jinx007-Hotshot](./assets/Peridots/jinx007-hotshot-8.jpg)
+![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
 ## Archetypes: Candle, Psychedelic, Count: 2
 ### Compatibility Table:
@@ -604,8 +602,6 @@
 
 ### Example(s):
 ![Goral](./assets/Peridots/goral-7.jpg)
-
-![Jinx007-Euphoria](./assets/Peridots/jinx007-euphoria-5.jpg)
 
 ## Archetypes: Clownfish, Yeti, Count: 2
 ### Compatibility Table:
@@ -903,9 +899,6 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Peacock|||None|||Spades|Peacock|
 |Watermelon|Slice|||Pulp|Watermelon|||
-
-### Example(s):
-![Jinx007-Xbreed](./assets/Peridots/jinx007-xbreed-7.jpg)
 
 ## Archetypes: Psychedelic, Static, Count: 2
 ### Compatibility Table:
