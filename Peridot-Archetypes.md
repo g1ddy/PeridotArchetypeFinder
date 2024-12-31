@@ -22,6 +22,8 @@
 ### Example(s):
 ![Eclipse](./assets/Peridots/eclipse-5.jpg)
 
+![Jinx007-Wraith](./assets/Peridots/jinx007-wraith-13.jpg)
+
 ## Archetypes: Boba, Rabbit, Static, Count: 3
 ### Compatibility Table:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
@@ -218,9 +220,9 @@
 |Sunset|||||Sunset||Fleur|
 
 ### Example(s):
-![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
-
 ![Medusa](./assets/Peridots/medusa-12.jpg)
+
+![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
 
 ## Archetypes: Aurora, Sunset, Count: 2
 ### Compatibility Table:
@@ -327,6 +329,8 @@
 |Glam|Picks|Star||Bedazzled||Curls|None|
 
 ### Example(s):
+![Lilac](./assets/Peridots/lilac-11.jpg)
+
 ![Jinx007-Sencha](./assets/Peridots/jinx007-sencha-8.jpg)
 
 ## Archetypes: Boba, Rabbit, Count: 2
@@ -435,6 +439,8 @@
 
 ### Example(s):
 ![Limelight](./assets/Peridots/limelight-12.jpg)
+
+![Jinx007-Wasted](./assets/Peridots/jinx007-wasted-6.jpg)
 
 ## Archetypes: Cinnabon, Clownfish, Count: 2
 ### Compatibility Table:
