@@ -12,11 +12,14 @@ Damascus,4,Chevron,Cracked,Asparagus,Ram,Choker,Ore,Diamond,Square,
 Dorado,4,Chevron,Solid,Asparagus,Ram,Horse,Chrome,Cloud,Llama,24Karat
 Dormammu,4,Chevron,Breezy,Asparagus,Ram,Curls,Iridescent,Diamond,Bat Ears,
 Draco,4,Canary,Patchwork,Accordion,Stacked,Tutu,Matte,Diamond,Square,
+Dumpty,4,Canary,Patchwork,Accordion,Bull,4 eyes,Matte,Diamond,Square,
 Duranium,4,Chevron,Patina,Asparagus,Ram,Choker,Rusty,Star,Square,
 Echelon,4,Chevron,Circuit,Asparagus,Ram,Choker,Iridescent,Diamond,Square,
 Eclair,5,Dill Hulk,Banana,None,Banana,None,Matte,Heart,Square,
 Eclipse,5,Draco,Patchwork,Rabbit,Stacked,Tutu,Static,Goggles,Rabbit,
 Effervescent,5,Duranium,Patina,Asparagus,Ram,Paddles,Rusty,Dots,Mouse,
+Edison,5,Duranium,Patina,Bear,Mitsumata,Fence whips,Rusty,Star,Square,
+Epsilon,5,Duranium,Patina,Asparagus,Infinity,Beetle Wings,Rusty,Star,Square,
 Eldritch,5,Damascus,Cracked,Heart Cape,Ram,Choker,Ore,Fold,Sprouts,
 Enrichment,5,Damascus,Cracked,Asparagus,Crown,Tutu,Ore,Countess,Square,
 Escorpio,5,Damascus,Zebra,Scalloped,Jester,Thorns,Glossy,Diamond,Tubes,
@@ -45,6 +48,7 @@ Goldie,7,Foxtrot,Tropical Fish,Horse,Narwhal,Horse,Slimy,Star,Mouse,Golden
 Goral,7,Foxtrot,Tropical Fish,Horse,Narwhal,Horse,Glitter,Diamond,Cat,
 Grazerface,7,Farceratops,Baguette,Asparagus,Triceratops,Horse,Matte,Fangs,Triceratops,
 Guardian,7,Fishline,Tropical Fish,None,Devil,None,Furry,Heart,Llama,
+George,7,Floofish,Pulsar,Mouse,None,None,Fuzzy,Monkey,Monkey,
 Guina,7,Floofish,Cheetah,Mermaid,Narwhal,Whiskers,Fuzzy,Monkey,None,Yellow
 Maximus,7,Lilith,Chromatic,Fleur,Narwhal,Horse,Starry,Heart,Dragonfly,
 Noise,8,Maximus,Patina,Fleur,Narwhal,Spades,Static,Heart,Dragonfly,
@@ -67,6 +71,7 @@ Inception,9,Hippogriff,Cheetah,Cat,Mullet,Downhill Racer,Fuzzy,Monkey,Cat,Indigo
 Isla,9,Harry,Beach,Shell,Shell,None,Geode,Star,Fairy,
 Jack Olantern,10,Incense,Okapi,Matrix,Devil,Beetle Wings,Gummy,Triangles,Cat,
 Jade,10,Interspecies,Bubbles,Dandelion,Straw,Dandelion,Furry,Kawaii,Picks,Boba
+Janky,10,Interspecies,Bubbles,Dandelion,Narwhal,Dandelion,Furry,Star,Beaks,Cotton Candy
 Jax,9,Icarus,Tropical Fish,None,Triceratops,Curls,Bedazzled,Star,Seraph,
 Javelin,10,Iceberg,Snowfall,Snowflake,Crown,Bonnets,Glimmer,Dots,Spears,
 Jokulhlaup,10,Iceberg,Snowfall,Snowflake,Crown,Thorns,Glimmer,Dots,Seraph,Icicle
@@ -75,14 +80,19 @@ Orion,9,Noise,Sunset,Fleur,Bharal,Spades,Starry,Heart,Seraph,Aurora
 Jaguarundi,10,Imugi,Puddle,Whale,Spire,Ruff,Glimmer,Star,Seraph,
 Jormungandr,10,Imhotep,Scales,Flame,Bull,Beetle Wings,Static,Kawaii,Mouse,
 Jubilee,10,Isla,Breezy,Shell,Buns,Skirt,Glimmer,Fangs,Mouse,
+Peacocking,10,Isla,Beach,Peacocking,Shell,Dragon,Geode,Star,Slice,
 Kalypso,10,Jax,Tropical Fish,None,None,Curls,Bedazzled,Star,Picks,
 Kaleidoscope,10,Jewelfish,Tropical Fish,Rabbit,Demon,Tentacles,Slimy,Star,Rabbit,
 Kandle,10,Jewelfish,Tropical Fish,Rabbit,Spire,None,Waxy,Star,None,Yellow
 Khroma,11,Jubilee,Breezy,Shell,Buns,Mohawk,Glimmer,Fangs,None,
 Kpax,11,Jubilee,Breezy,Shell,Buns,Mohawk,Static,Fangs,Mouse,
+Klownfish,11,Jokulhlaup,Tropical Fish,Snowflake,Crown,Thorns,Glimmer,Star,Seraph,Icicle
+Kratos,11,Javelin,Snowfall,Snowflake,Triceratops,Bonnets,Beetle,Dots,???,
 Krypto,10,Jewelfish,Gradient,Rabbit,Cow,Horse,Gummy,Star,Rabbit,
 Queezy,10,Jewelfish,Breezy,Peacock,None,Spades,Bedazzled,Star,Bear,
+Lilac,11,Kalypso,Bubbles,None,Straw,Curls,Bedazzled,Star,Picks,
 Predator,10,Orion,Sunset,Peacock,Bharal,Ruff,Starry,Fangs,Bat,
+Persephone,10,Orion,Sunset,Fleur,Space Nubbies,Streamers,Ore,Owl,Seraph,
 Phenotype,10,Orion,Sunset,Fleur,Bharal,Spades,Starry,Heart,Seraph,Sunset
 Kira,11,Jormungandr,Scales,Flame,Bull,Dragon,Static,Fangs,Beaks,
 Kyoka Suigetsu,11,Jaguarundi,Puddle,Flower Mirror,Spire,Ruff,Glimmer,Star,Rabbit,
@@ -91,6 +101,8 @@ Lava Lamp,11,Kaleidoscope,Breezy,Peacock,Demon,Tentacles,Slimy,Octopus,Rabbit,
 Lampent,11,Kandle,Tropical Fish,Fleur,Spire,None,Waxy,Star,None,
 Limelight,12,Khroma,Breezy,Shell,Buns,Mohawk,Static,Dots,None,
 Leonopteryx,11,Krypto,Chromatic,???,Asparagus,Horse,Gummy,Round,Leonopteryx,
+Lemonsicle,12,Klownfish,Tropical Fish,Wavelength,Crown,Thorns,Glimmer,Star,Seraph,Icicle
+Luxe,12,Klownfish,Tropical Fish,Scalloped,Crown,Thorns,Glimmer,Star,Seraph,Icicle
 Lychee,11,Krypto,Bubbles,Rabbit,Straw,Horse,Static,Diamond,Rabbit,
 Lionfish,11,Kaleidoscope,Tropical Fish,Date tree leaf,Demon,Scuttlebutt,Slimy,Star,Rabbit,
 Mastodon,11,Kaleidoscope,Snowfall,Snowflake,Demon,Tentacles,Slimy,Dots,Rabbit,
@@ -113,8 +125,10 @@ Skittles,12,Rockstar,Deer,Peacock,None,None,LED,Blob,Monkey,
 Sparkler,12,Rockstar,Breezy,Peacock,None,Spades,Static,Octopus,Bear,
 Sullen,13,Refracted,Sunset,Fleur,Crown,Tutu,Starry,Countess,Slice,
 Mandarin,13,Luminosity,Puddle,Rabbit,Spire,Ruff,Glimmer,Star,Rabbit,
+Nervo,13,Multiverse,Bubbles,Rabbit,Straw,Facade,Polished,Fold,Llama,
 Neon,13,Mix a lotl,Tropical Fish,Scalloped,None,Moth,Slimy,Kawaii,None,Neon
 Neonimbus,13,Medusa,Sunset,Fleur,Demon,Tentacles,Slimy,Star,Dragonfly,
+Null,13,Mysterion,Stripes,Sentry Turret,Spire,None,Waxy,Monkey,None,
 Om Nominous,13,Night Snow,Watermelon,Snowflake,None,Bat Wings,Pulp,Dots,Slice,
 Onyx,13,Night Snow,Celestial,Snowflake,Demon,Bat Wings,Starry,Dots,Slice,Celestial
 Trailmix,13,Skittles,Deer,Radish,Demon,None,LED,Blob,Seraph,
@@ -122,12 +136,15 @@ Trifecta,13,Slushy,Breezy,Carnival,Crown,Tentacles,Furry,Kawaii,Seraph,
 Turducken,13,Skittles,Pulse,Peacock,None,Spades,LED,Blob,Bear,
 Troposphere,14,Sullen,Sunset,Fleur,Asparagus,String Theory,Starry,Countess,Slice,
 Major Lazer,14,Om Nominous,Watermelon,Ribbon,Excadrill,Bat Wings,Pulp,Monkey,Elven,
+Phantom,14,Onyx,Celestial,Broom,Demon,Bat Wings,Starry,Dots,Slice,Celestial
+Omniscient,14,Neon,Waves,Scalloped,None,Moth,Slimy,Kawaii,None,
 Uber,14,Turducken,Pulse,Peacock,Incognito,Quetzal,LED,Blob,Llama,
 UFO,14,Turducken,Pulse,Peacock,Trident,Beetle Wings,LED,Bolt,Triceratops,
 Undertaker,14,Turducken,Pulse,Radish,Antelope,Spades,LED,Dots,Picks,
 Ultraviolet,14,Trailmix,Deer,Radish,Demon,Flowy Feathers,LED,Blob,Dragonfly,
 Ultron,14,Turducken,Circuit,Peacock,None,Spades,Iridescent,Diamond,Square,
 Uluguru,14,Turducken,Pulse,Peacock,Diploe,Spades,LED,Blob,Dragonfly,
+Quest,15,Phantom,Giraffe,Scalloped,Demon,Bat Wings,Starry,Fold,Slice,
 Variant,15,UFO,Pulse,ThePrettyPagan,Trident,Beetle Wings,LED,Bolt,Triceratops,Blue
 Vega,15,Ultraviolet,Deer,Weeping Wings,Demon,Flowy Feathers,LED,Blob,Dragonfly,
 Violet,15,Ultraviolet,Deer,Raddish,Krusty,Thorns,LED,Blob,Dragonfly,
