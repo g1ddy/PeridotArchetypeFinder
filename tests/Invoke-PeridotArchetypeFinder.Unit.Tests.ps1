@@ -10,5 +10,10 @@ InModuleScope $moduleName {
         It "Should not throw" {
             { Invoke-PeridotArchetypeFinder } | Should -Not -Throw
         }
+
+        It "Should output header" {
+            $result = Invoke-PeridotArchetypeFinder
+            $result | Should -Contain '# Peridot with Multi Archetype'
+        }
     }
 }
