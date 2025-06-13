@@ -49,7 +49,9 @@ Class Peridot {
     [double] GetMatchPercentage([object]$archetype) {
         $definedProperties = $archetype | Get-Member -MemberType Properties |
             Select-Object -ExpandProperty Name |
-            Where-Object { $archetype.$_ -and $_ -notin @('Name', 'Color', 'Generation', 'Parent') }
+            Where-Object {
+                $archetype.$_ -and $_ -notin @('Name', 'Color', 'ColorRequirement', 'Generation', 'Parent')
+            }
 
         # force to return as array
         $definedProperties = @($definedProperties)
