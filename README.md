@@ -98,9 +98,9 @@ Before running this script please make sure this list is up to date as new Arche
 
     ```powershell
     Import-Module .\PeridotArchetypeFinder.psm1 -Force
-    Invoke-ArchetypePeridotFinder -TargetArchetype 'Cactus' | Set-Content .\Peridot-ArchetypeFinder-Cactus.md
-    Invoke-ArchetypePeridotFinder -TargetArchetype 'Elixir' | Set-Content .\Peridot-ArchetypeFinder-Elixir.md
-    Invoke-ArchetypePeridotFinder -TargetArchetype 'Jester' | Set-Content .\Peridot-ArchetypeFinder-Jester.md
+    Find-ArchetypePeridot -TargetArchetype 'Cactus' | Set-Content .\Peridot-ArchetypeFinder-Cactus.md
+    Find-ArchetypePeridot -TargetArchetype 'Elixir' | Set-Content .\Peridot-ArchetypeFinder-Elixir.md
+    Find-ArchetypePeridot -TargetArchetype 'Jester' | Set-Content .\Peridot-ArchetypeFinder-Jester.md
     ```
 
 2. Read the output in the Markdown view of your choice
