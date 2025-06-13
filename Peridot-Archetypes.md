@@ -365,9 +365,9 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
-![Mysterion](./assets/Peridots/mysterion-12.jpg)
-
 ![Lampent](./assets/Peridots/lampent-11.jpg)
+
+![Mysterion](./assets/Peridots/mysterion-12.jpg)
 
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
@@ -869,9 +869,9 @@
 |Ram|||Ram||||Asparagus|
 
 ### Example(s):
-![Duranium](./assets/Peridots/duranium-4.jpg)
-
 ![Effervescent](./assets/Peridots/effervescent-5.jpg)
+
+![Duranium](./assets/Peridots/duranium-4.jpg)
 
 ## Archetypes: Peacock, Psychedelic, Count: 2
 ### Compatibility Table:
