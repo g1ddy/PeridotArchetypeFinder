@@ -12,7 +12,7 @@ function Find-ArchetypePeridot{
         $ErrorActionPreference = "Stop"
     }
     process {
-        $archetypePeridotDictionary = Get-ArchetypePeridotDictionary -Archetypes $archetypes -Peridots $allPeridots
+        $archetypePeridotDictionary = Get-ArchetypePeridotDictionary -Archetypes $Archetype -Peridots $AllPeridots
 
         Write-Output '# Peridot closest to Archetype'
         Write-Output ''
