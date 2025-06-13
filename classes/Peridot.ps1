@@ -41,7 +41,12 @@ Class Peridot {
 
     [bool] MatchesArchetype([object]$archetype) {
         $matchesArchetype = $this.GetMatchPercentage($archetype) -ge 1
-        $matchesColor = !$archetype.Color -or !$this.Color -or $archetype.Name -eq $this.Color
+        $matchesColor = $true
+        if ($archetype.PSObject.Properties.Name -contains 'ColorRequirement') {
+            $matchesColor = !$archetype.ColorRequirement -or !$this.Color -or $archetype.Name -eq $this.Color
+        } elseif ($archetype.PSObject.Properties.Name -contains 'Color') {
+            $matchesColor = !$archetype.Color -or !$this.Color -or $archetype.Name -eq $this.Color
+        }
 
         return $matchesArchetype -and $matchesColor
     }
@@ -49,7 +54,7 @@ Class Peridot {
     [double] GetMatchPercentage([object]$archetype) {
         $definedProperties = $archetype | Get-Member -MemberType Properties |
             Select-Object -ExpandProperty Name |
-            Where-Object { $archetype.$_ -and $_ -notin @('Name', 'Color', 'Generation', 'Parent') }
+            Where-Object { $archetype.$_ -and $_ -notin @('Name', 'Color', 'ColorRequirement', 'Generation', 'Parent') }
 
         # force to return as array
         $definedProperties = @($definedProperties)
