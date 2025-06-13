@@ -47,23 +47,12 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Wasted|None|Dots|Buns|Static|Breezy|Mohawk|Shell|
 
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Chameleon|None||Buns||Breezy|Mohawk|Shell|
-|Static||||Static||||
-
 ## Peridot: Jinx007-Sunfire, Score: 0.25
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Sunfire|Pincers|Dots|Antennae|Slimy|Okapi|Moth|Mermaid|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Lobster|Pincers||Antennae|Slimy|||Mermaid|
 
 ## Peridot: Jinx007-Hotshot, Score: 0.25
 
@@ -72,11 +61,6 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Hotshot|None|Heart|Spire|Waxy|Tropical Fish|None|Fleur|
 
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Candle|None||Spire|Waxy||None||
-
 ## Peridot: Jinx007-Clowndelabra, Score: 0.25
 
 ### Peridot Traits:
@@ -84,21 +68,10 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Clowndelabra|None|Heart|Spire|Waxy|Tropical Fish|None|Fleur|
 
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Candle|None||Spire|Waxy||None||
-|Clownfish|||||Tropical Fish|||
-
 ## Peridot: Jinx007-Chimera, Score: 0.25
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Chimera|Cat|Goggles|Flerken|Fuzzy|Cheetah|Horse|Cat|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Cheetah|Cat|||Fuzzy|Cheetah||Cat|
 
