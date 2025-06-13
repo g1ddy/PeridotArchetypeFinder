@@ -16,7 +16,8 @@ Describe 'Peridot' {
             $archetype.Pattern = $peridot.Pattern
             $archetype.Plumage = $peridot.Plumage
             $archetype.Tail = $peridot.Tail
-            $archetype.ColorRequirement = $peridot.Color
+            $colorRequirement = $peridot.Color
+            $archetype.Color = $colorRequirement
 
             $result = $peridot.MatchesArchetype($archetype)
 
@@ -37,7 +38,8 @@ Describe 'Peridot' {
             $archetype.Pattern = $peridot.Pattern
             $archetype.Plumage = $peridot.Plumage
             $archetype.Tail = $peridot.Tail
-            $archetype.ColorRequirement = $peridot.Color
+            $colorRequirement = $peridot.Color
+            $archetype.Color = $colorRequirement
 
             $result = $peridot.MatchesArchetype($archetype)
 
@@ -54,7 +56,8 @@ Describe 'Peridot' {
             $archetype.Pattern = $peridot.Pattern
             $archetype.Plumage = $peridot.Plumage
             $archetype.Tail = $peridot.Tail
-            $archetype.ColorRequirement = $peridot.Color
+            $colorRequirement = $peridot.Color
+            $archetype.Color = $colorRequirement
 
             $result = $peridot.MatchesArchetype($archetype)
 
@@ -81,7 +84,8 @@ Describe 'Peridot' {
             $peridot = [Peridot]::new()
             $peridot.Color = 'Green'
             $archetype = [Archetype]::new()
-            $archetype.ColorRequirement = 'x'
+            $archetype.Name = 'Green'
+            $archetype.Color = 'x'
             $archetype.Ear = $peridot.Ear
             $archetype.Face = $peridot.Face
             $archetype.Horn = $peridot.Horn

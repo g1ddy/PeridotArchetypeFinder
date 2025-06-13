@@ -9,7 +9,8 @@ Class Archetype {
     [string]$Material
     [string]$Face
     [string]$Ear
-    # Indicates that this archetype has a color requirement. Any non-empty value
-    # represents that the Peridot's color must match this archetype's name.
-    [string]$ColorRequirement
+    # When non-empty (commonly 'x'), this value indicates the archetype has a
+    # color requirement. In that case a Peridot's color must match the
+    # archetype's Name.
+    [string]$Color
 }
