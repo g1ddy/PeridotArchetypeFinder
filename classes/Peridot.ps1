@@ -41,7 +41,7 @@ Class Peridot {
 
     [bool] MatchesArchetype([object]$archetype) {
         $matchesArchetype = $this.GetMatchPercentage($archetype) -ge 1
-        $matchesColor = !$archetype.Color -or !$this.Color -or $archetype.Name -eq $this.Color
+        $matchesColor = !$archetype.ColorRequirement -or !$this.Color -or $archetype.Name -eq $this.Color
 
         return $matchesArchetype -and $matchesColor
     }

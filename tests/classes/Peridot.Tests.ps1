@@ -16,7 +16,7 @@ Describe 'Peridot' {
             $archetype.Pattern = $peridot.Pattern
             $archetype.Plumage = $peridot.Plumage
             $archetype.Tail = $peridot.Tail
-            $archetype.Color = $peridot.Color
+            $archetype.ColorRequirement = $peridot.Color
 
             $result = $peridot.MatchesArchetype($archetype)
 
@@ -37,7 +37,7 @@ Describe 'Peridot' {
             $archetype.Pattern = $peridot.Pattern
             $archetype.Plumage = $peridot.Plumage
             $archetype.Tail = $peridot.Tail
-            $archetype.Color = $peridot.Color
+            $archetype.ColorRequirement = $peridot.Color
 
             $result = $peridot.MatchesArchetype($archetype)
 
@@ -54,14 +54,14 @@ Describe 'Peridot' {
             $archetype.Pattern = $peridot.Pattern
             $archetype.Plumage = $peridot.Plumage
             $archetype.Tail = $peridot.Tail
-            $archetype.Color = $peridot.Color
+            $archetype.ColorRequirement = $peridot.Color
 
             $result = $peridot.MatchesArchetype($archetype)
 
             $result | Should -Be $false
         }
 
-        It 'Should return true when Color property is not specified' {
+        It 'Should return true when no color requirement is specified' {
             $peridot = [Peridot]::new()
             $archetype = [Archetype]::new()
             $archetype.Ear = $peridot.Ear
@@ -77,11 +77,11 @@ Describe 'Peridot' {
             $result | Should -Be $true
         }
 
-        It 'Should return true when Color property matches Name property' {
+        It 'Should return true when color requirement passes' {
             $peridot = [Peridot]::new()
             $peridot.Color = 'Green'
             $archetype = [Archetype]::new()
-            $archetype.Name = 'Green'
+            $archetype.ColorRequirement = 'x'
             $archetype.Ear = $peridot.Ear
             $archetype.Face = $peridot.Face
             $archetype.Horn = $peridot.Horn
@@ -89,7 +89,6 @@ Describe 'Peridot' {
             $archetype.Pattern = $peridot.Pattern
             $archetype.Plumage = $peridot.Plumage
             $archetype.Tail = $peridot.Tail
-            $archetype.Color = 'x'
 
             $result = $peridot.MatchesArchetype($archetype)
 
