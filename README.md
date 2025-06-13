@@ -34,7 +34,7 @@ For your convenience a version of the generated Markdown and Archetype combinati
 
 [Peridot-Archetypes.md](./Peridot-Archetypes.md)
 
-There are also other functionanility that is more specific to your Peridot family specifically.
+There are also other functionality that is more specific to your Peridot family specifically.
 Other resources that this module can generate include:
 
 - [Peridot-FamilyTree.md](./Peridot-FamilyTree.md) - Your peridots represented as a family tree
