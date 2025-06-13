@@ -127,9 +127,9 @@
 |Static||||Static||||
 
 ### Example(s):
-![Sparkler](./assets/Peridots/sparkler-12.jpg)
-
 ![Jinx007-Triumvirate](./assets/Peridots/jinx007-triumvirate-4.jpg)
+
+![Sparkler](./assets/Peridots/sparkler-12.jpg)
 
 ## Archetypes: Rabbit, Scarecrow, Static, Count: 3
 ### Compatibility Table:
@@ -208,9 +208,9 @@
 |Snowfall||Dots|||Snowfall||Snowflake|
 
 ### Example(s):
-![Mastodon](./assets/Peridots/mastodon-11.jpg)
-
 ![Jinx007-Dark Blizzard](./assets/Peridots/jinx007-dark-blizzard-6.jpg)
+
+![Mastodon](./assets/Peridots/mastodon-11.jpg)
 
 ## Archetypes: Anemone, Sunset, Count: 2
 ### Compatibility Table:
@@ -293,9 +293,9 @@
 |Peacock|||None|||Spades|Peacock|
 
 ### Example(s):
-![Ultron](./assets/Peridots/ultron-14.jpg)
-
 ![Jinx007-Chip](./assets/Peridots/jinx007-chip-7.jpg)
+
+![Ultron](./assets/Peridots/ultron-14.jpg)
 
 ## Archetypes: Bismuth, Ram, Count: 2
 ### Compatibility Table:
@@ -329,9 +329,9 @@
 |Glam|Picks|Star||Bedazzled||Curls|None|
 
 ### Example(s):
-![Lilac](./assets/Peridots/lilac-11.jpg)
-
 ![Jinx007-Sencha](./assets/Peridots/jinx007-sencha-8.jpg)
+
+![Lilac](./assets/Peridots/lilac-11.jpg)
 
 ## Archetypes: Boba, Rabbit, Count: 2
 ### Compatibility Table:
@@ -365,11 +365,12 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
+
+![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
+
 ![Lampent](./assets/Peridots/lampent-11.jpg)
 
 ![Mysterion](./assets/Peridots/mysterion-12.jpg)
-
-![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
 ## Archetypes: Candle, Psychedelic, Count: 2
 ### Compatibility Table:
@@ -438,9 +439,9 @@
 |Static||||Static||||
 
 ### Example(s):
-![Limelight](./assets/Peridots/limelight-12.jpg)
-
 ![Jinx007-Wasted](./assets/Peridots/jinx007-wasted-6.jpg)
+
+![Limelight](./assets/Peridots/limelight-12.jpg)
 
 ## Archetypes: Cinnabon, Clownfish, Count: 2
 ### Compatibility Table:
@@ -697,9 +698,9 @@
 |Static||||Static||||
 
 ### Example(s):
-![Kira](./assets/Peridots/kira-11.jpg)
-
 ![Jinx007-Spyro](./assets/Peridots/jinx007-spyro-5.jpg)
+
+![Kira](./assets/Peridots/kira-11.jpg)
 
 ## Archetypes: Elixir, Rabbit, Count: 2
 ### Compatibility Table:

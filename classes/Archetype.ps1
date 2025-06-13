@@ -12,5 +12,5 @@ Class Archetype {
     # When non-empty (commonly 'x'), this value indicates the archetype has a
     # color requirement. In that case a Peridot's color must match the
     # archetype's Name.
-    [string]$Color
+    [string]$ColorRequirement
 }

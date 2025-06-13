@@ -11,6 +11,10 @@ function Get-Archetypes {
         Import-Csv -Path $Path | ForEach-Object {
             $hashObject = @{}
             $_.PSObject.Properties.ForEach({ $hashObject[$_.Name] = $_.Value })
+            if ($hashObject.ContainsKey('Color')) {
+                $hashObject['ColorRequirement'] = $hashObject['Color']
+                $hashObject.Remove('Color')
+            }
             $archetypeHash.Add($hashObject.Name, [Archetype]$hashObject)
         }
 

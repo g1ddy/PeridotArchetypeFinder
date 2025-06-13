@@ -60,7 +60,8 @@ function Format-PeridotArchetype {
 
             if ($SamplePeridotsWithArchetypes.ContainsKey($archetypeKey)) {
                 Write-Output '### Example(s):'
-                $matchingPeridots = $SamplePeridotsWithArchetypes[$archetypeKey].Peridots
+                $matchingPeridots = $SamplePeridotsWithArchetypes[$archetypeKey].Peridots |
+                    Sort-Object -Property { $_.GetId() }
 
                 foreach ($peridot in $matchingPeridots) {
                     $peridotId = $peridot.GetId()
