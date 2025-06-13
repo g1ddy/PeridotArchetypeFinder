@@ -869,9 +869,9 @@
 |Ram|||Ram||||Asparagus|
 
 ### Example(s):
-![Duranium](./assets/Peridots/duranium-4.jpg)
-
 ![Effervescent](./assets/Peridots/effervescent-5.jpg)
+
+![Duranium](./assets/Peridots/duranium-4.jpg)
 
 ## Archetypes: Peacock, Psychedelic, Count: 2
 ### Compatibility Table:
