@@ -54,22 +54,12 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Yondu|Llama|Monkey|Jester|Ore|Diamonds|Ruff|FracturedButfly|
 
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Jester|||Jester|Ore|Diamonds|Ruff||
-
 ## Peridot: Jinx007-Xover, Score: 0.2
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Xover|Flappy|Octopus|None|Pulp|Watermelon|Spades|Peacock|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Peacock|||None|||Spades|Peacock|
 
 ## Peridot: Jinx007-Xbreed, Score: 0.2
 
@@ -78,20 +68,10 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Xbreed|Slice|Goggles|None|Pulp|Watermelon|Spades|Peacock|
 
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Peacock|||None|||Spades|Peacock|
-
 ## Peridot: Jinx007-Watermelon, Score: 0.2
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Watermelon|Slice|Octopus|None|Pulp|Watermelon|Spades|Peacock|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Peacock|||None|||Spades|Peacock|
 

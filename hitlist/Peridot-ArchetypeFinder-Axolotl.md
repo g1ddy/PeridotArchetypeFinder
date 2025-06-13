@@ -19,11 +19,6 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Sunfire|Pincers|Dots|Antennae|Slimy|Okapi|Moth|Mermaid|
 
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Lobster|Pincers||Antennae|Slimy|||Mermaid|
-
 ## Peridot: Jinx007-Irukandji, Score: 0.333333333333333
 
 ### Peridot Traits:

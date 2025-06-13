@@ -61,11 +61,6 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Sunfire|Pincers|Dots|Antennae|Slimy|Okapi|Moth|Mermaid|
 
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Lobster|Pincers||Antennae|Slimy|||Mermaid|
-
 ## Peridot: Jinx007-Rorschach, Score: 0.25
 
 ### Peridot Traits:
@@ -73,20 +68,10 @@
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Rorschach|Rabbit|Dots|Antennae|Scarab|Okapi|Beetle Wings|None|
 
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Scarab|||Antennae|Scarab|Okapi|Beetle Wings|None|
-
 ## Peridot: Jinx007-Jujuba, Score: 0.25
 
 ### Peridot Traits:
 |Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Jinx007-Jujuba|Manifold|Star|None|Gummy|Gradient|Choker|Winged|
-
-### Compatibility Table:
-|Name|Ear|Face|Horn|Material|Pattern|Plumage|Tail|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|Dewdrop||Star||Gummy|Gradient|||
 
