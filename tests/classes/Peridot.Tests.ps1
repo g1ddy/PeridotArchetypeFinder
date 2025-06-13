@@ -17,7 +17,7 @@ Describe 'Peridot' {
             $archetype.Plumage = $peridot.Plumage
             $archetype.Tail = $peridot.Tail
             $colorRequirement = $peridot.Color
-            $archetype.ColorRequirement = $colorRequirement
+            $archetype.ColorRequirement = $peridot.Color
 
             $result = $peridot.MatchesArchetype($archetype)
 
@@ -38,8 +38,7 @@ Describe 'Peridot' {
             $archetype.Pattern = $peridot.Pattern
             $archetype.Plumage = $peridot.Plumage
             $archetype.Tail = $peridot.Tail
-            $colorRequirement = $peridot.Color
-            $archetype.ColorRequirement = $colorRequirement
+            $archetype.ColorRequirement = peridot.Color
 
             $result = $peridot.MatchesArchetype($archetype)
 
@@ -56,8 +55,7 @@ Describe 'Peridot' {
             $archetype.Pattern = $peridot.Pattern
             $archetype.Plumage = $peridot.Plumage
             $archetype.Tail = $peridot.Tail
-            $colorRequirement = $peridot.Color
-            $archetype.ColorRequirement = $colorRequirement
+            $archetype.ColorRequirement = $peridot.Color
 
             $result = $peridot.MatchesArchetype($archetype)
 

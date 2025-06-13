@@ -220,9 +220,9 @@
 |Sunset|||||Sunset||Fleur|
 
 ### Example(s):
-![Medusa](./assets/Peridots/medusa-12.jpg)
-
 ![Neonimbus](./assets/Peridots/neonimbus-13.jpg)
+
+![Medusa](./assets/Peridots/medusa-12.jpg)
 
 ## Archetypes: Aurora, Sunset, Count: 2
 ### Compatibility Table:
@@ -365,6 +365,7 @@
 |Clownfish|||||Tropical Fish|||
 
 ### Example(s):
+
 ![Jinx007-Clowndelabra](./assets/Peridots/jinx007-clowndelabra-7.jpg)
 
 ![Lampent](./assets/Peridots/lampent-11.jpg)
