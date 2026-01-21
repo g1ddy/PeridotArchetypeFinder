@@ -20,6 +20,12 @@ This script will:
 1.  Install PowerShell 7 (pwsh).
 2.  Install the required PowerShell modules: `FormatMarkdownTable` and `Pester`.
 
+To verify that the environment is correctly set up, run:
+
+```bash
+./scripts/verify.sh
+```
+
 ## Running Tests
 
 After setup, run tests using:
