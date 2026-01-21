@@ -20,7 +20,7 @@ REQUIRED_MODULES=("FormatMarkdownTable" "Pester")
 MISSING_MODULES=0
 
 for module in "${REQUIRED_MODULES[@]}"; do
-    if ! pwsh -Command "if (Get-Module -ListAvailable -Name $module) { exit 0 } else { exit 1 }" > /dev/null 2>&1; then
+    if ! pwsh -Command "if (Get-Module -ListAvailable -Name '$module') { exit 0 } else { exit 1 }" > /dev/null 2>&1; then
         echo "Error: Module '$module' is missing."
         MISSING_MODULES=1
     else
