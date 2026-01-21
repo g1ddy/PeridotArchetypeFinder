@@ -37,7 +37,7 @@ sudo pwsh -Command "
             Write-Host \"Module '\$module' is already installed.\"
         } else {
             Write-Host \"Installing module '\$module'...\"
-            Install-Module -Name $module -Scope AllUsers
+            Install-Module -Name \$module -Scope AllUsers
         }
     }
 "
