@@ -1,7 +1,11 @@
 #!/bin/bash
 set -e
 
-echo "Starting verification for PeridotArchetypeFinder environment..."
+# 0. Setup
+# Call the existing setup script to ensure the environment is ready
+sudo ./scripts/setup.sh
+
+echo "Setup complete. Starting verification..."
 
 # 1. Check PowerShell
 if ! command -v pwsh &> /dev/null; then
@@ -31,8 +35,9 @@ fi
 
 # 3. Dry run of Pester tests
 echo "Attempting to discover Pester tests (Dry Run)..."
-# We skip the actual run, just verify discovery works
-if ! pwsh -Command "Invoke-Pester -Configuration @{ Run = @{ Path = 'tests'; SkipRun = \$true; Exit = \$true } }" > /dev/null; then
+# We use a non-existent tag to verify the runner starts and discovers tests without executing them.
+# This is compatible with more Pester versions than SkipRun.
+if ! pwsh -Command "Invoke-Pester -Configuration @{ Run = @{ Path = 'tests'; Exit = \$true }; Filter = @{ Tag = 'NonExistentTag' } }" > /dev/null; then
      echo "Error: Failed to discover Pester tests."
      exit 1
 fi

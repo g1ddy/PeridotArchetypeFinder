@@ -8,23 +8,18 @@ The module depends on the `FormatMarkdownTable` module.
 
 `Archetype.ColorRequirement` is used as a flag (often `"x"`) that requires a Peridot's color to match the archetype name. Use this property for color restrictions.
 
-## Environment Setup
+## Environment Setup and Verification
 
-To set up the environment (e.g. on a Jules VM or Ubuntu), run the setup script:
-
-```bash
-sudo ./scripts/setup.sh
-```
-
-This script will:
-1.  Install PowerShell 7 (pwsh).
-2.  Install the required PowerShell modules: `FormatMarkdownTable` and `Pester`.
-
-To verify that the environment is correctly set up, run:
+To set up and verify the environment (e.g. on a Jules VM or Ubuntu), run the verify script:
 
 ```bash
 ./scripts/verify.sh
 ```
+
+This script will:
+1.  Run `scripts/setup.sh` to install PowerShell 7 and required modules (`FormatMarkdownTable`, `Pester`).
+2.  Verify that dependencies are correctly installed.
+3.  Perform a dry-run of the tests to ensure the test runner is working.
 
 ## Running Tests
 
