@@ -1,5 +1,5 @@
 $modulePath = Split-Path $PSScriptRoot
-$moduleName = Split-Path $modulePath -Leaf
+$moduleName = 'PeridotArchetypeFinder'
 Import-Module "$(Join-Path $modulePath $moduleName).psd1" -Force
 
 Set-StrictMode -Version Latest
