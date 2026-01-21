@@ -3,7 +3,7 @@ set -e
 
 # 0. Setup
 # Call the existing setup script to ensure the environment is ready
-sudo ./scripts/setup.sh
+./scripts/setup.sh
 
 echo "Setup complete. Starting verification..."
 

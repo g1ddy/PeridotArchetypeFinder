@@ -18,6 +18,7 @@ To set up and verify the environment (e.g. on a Jules VM or Ubuntu), run the ver
 
 This script will:
 1.  Run `scripts/setup.sh` to install PowerShell 7 and required modules (`FormatMarkdownTable`, `Pester`).
+    *   *Note: This step uses `sudo` and may prompt for your password.*
 2.  Verify that dependencies are correctly installed.
 3.  Perform a dry-run of the tests to ensure the test runner is working.
 
