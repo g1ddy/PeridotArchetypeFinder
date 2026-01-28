@@ -14,6 +14,9 @@ Class Peridot {
     [string]$Face
     [string]$Ear
 
+    # Static list of properties to check
+    static hidden [string[]] $TraitProperties = @('Pattern', 'Tail', 'Horn', 'Plumage', 'Material', 'Face', 'Ear')
+
     Peridot() {}
 
     Peridot(
@@ -52,13 +55,10 @@ Class Peridot {
     }
 
     [double] GetMatchPercentage([object]$archetype) {
-        # Static list of properties to check
-        $propertiesToCheck = @('Pattern', 'Tail', 'Horn', 'Plumage', 'Material', 'Face', 'Ear')
-
         $totalProperties = 0
         $matchingProperties = 0
 
-        foreach ($property in $propertiesToCheck) {
+        foreach ($property in [Peridot]::TraitProperties) {
             # Check if property is set on the archetype (truthy check)
             # This mimics the original behavior: Where-Object { $archetype.$_ ... }
             $val = $archetype.$property
@@ -83,13 +83,11 @@ Class Peridot {
             return 0
         }
 
-        # Static list of properties to check
-        $propertiesToCheck = @('Pattern', 'Tail', 'Horn', 'Plumage', 'Material', 'Face', 'Ear')
-        $totalProperties = $propertiesToCheck.Count
+        $totalProperties = [Peridot]::TraitProperties.Count
 
         $complexityIndex = 0
 
-        foreach ($property in $propertiesToCheck) {
+        foreach ($property in [Peridot]::TraitProperties) {
             if (!$this.$property) {
                 $complexityIndex++
             }
