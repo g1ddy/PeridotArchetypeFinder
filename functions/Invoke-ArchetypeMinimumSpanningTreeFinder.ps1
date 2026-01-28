@@ -166,8 +166,8 @@ function Kruskal ($graph) {
     $ds = [DisjointSet]::new($Vertices)
     $verticesCount = $Vertices.Count
 
-    # Initialize an empty array for the MST
-    $mst = @()
+    # Initialize a generic List for the MST
+    $mst = [System.Collections.Generic.List[Edge]]::new()
 
     # Loop through the edges
     foreach ($edge in $E) {
@@ -177,7 +177,7 @@ function Kruskal ($graph) {
 
         if ($source -ne $destination) {
             # Add the edge to the MST
-            $mst += $edge
+            $mst.Add($edge)
             # Merge the sets of the edge endpoints
             $ds.Union($edge.Source, $edge.Destination)
         }
