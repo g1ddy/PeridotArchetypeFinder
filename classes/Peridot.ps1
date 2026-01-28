@@ -52,24 +52,26 @@ Class Peridot {
     }
 
     [double] GetMatchPercentage([object]$archetype) {
-        $definedProperties = $archetype | Get-Member -MemberType Properties |
-            Select-Object -ExpandProperty Name |
-            Where-Object { $archetype.$_ -and $_ -notin @('Name', 'Color', 'ColorRequirement', 'Generation', 'Parent') }
+        # Static list of properties to check
+        $propertiesToCheck = @('Pattern', 'Tail', 'Horn', 'Plumage', 'Material', 'Face', 'Ear')
 
-        # force to return as array
-        $definedProperties = @($definedProperties)
-        $totalProperties = $definedProperties.Count
+        $totalProperties = 0
+        $matchingProperties = 0
+
+        foreach ($property in $propertiesToCheck) {
+            # Check if property is set on the archetype (truthy check)
+            # This mimics the original behavior: Where-Object { $archetype.$_ ... }
+            $val = $archetype.$property
+            if ($val) {
+                $totalProperties++
+                if ($this.$property -eq $val) {
+                    $matchingProperties++
+                }
+            }
+        }
 
         if ($totalProperties -eq 0) {
             return 1
-        }
-
-        $matchingProperties = 0
-
-        foreach ($property in $definedProperties) {
-            if ($this.$property -eq $archetype.$property) {
-                $matchingProperties++
-            }
         }
 
         $matchPercentage = ($matchingProperties / $totalProperties)
@@ -81,17 +83,13 @@ Class Peridot {
             return 0
         }
 
-        $properties = $otherPeridot | Get-Member -MemberType Properties |
-            Select-Object -ExpandProperty Name |
-            Where-Object { $_ -notin @('Name', 'Color', 'Generation', 'Parent') }
-
-        # force to return as array
-        $properties = @($properties)
-        $totalProperties = $properties.Count
+        # Static list of properties to check
+        $propertiesToCheck = @('Pattern', 'Tail', 'Horn', 'Plumage', 'Material', 'Face', 'Ear')
+        $totalProperties = $propertiesToCheck.Count
 
         $complexityIndex = 0
 
-        foreach ($property in $properties) {
+        foreach ($property in $propertiesToCheck) {
             if (!$this.$property) {
                 $complexityIndex++
             }
