@@ -76,7 +76,7 @@ function New-RandomGraph {
     param([int]$VertexCount, [int]$EdgeCount)
 
     $vertices = 1..$VertexCount | ForEach-Object { "V$_" }
-    $edges = New-Object System.Collections.Generic.List[Edge]
+    $edges = [System.Collections.Generic.List[Edge]]::new()
 
     $rng = [System.Random]::new()
 
