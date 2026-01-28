@@ -14,6 +14,9 @@ Class Peridot {
     [string]$Face
     [string]$Ear
 
+    # Static list of properties to check
+    static hidden [string[]] $TraitProperties = @('Pattern', 'Tail', 'Horn', 'Plumage', 'Material', 'Face', 'Ear')
+
     Peridot() {}
 
     Peridot(
@@ -52,24 +55,23 @@ Class Peridot {
     }
 
     [double] GetMatchPercentage([object]$archetype) {
-        $definedProperties = $archetype | Get-Member -MemberType Properties |
-            Select-Object -ExpandProperty Name |
-            Where-Object { $archetype.$_ -and $_ -notin @('Name', 'Color', 'ColorRequirement', 'Generation', 'Parent') }
+        $totalProperties = 0
+        $matchingProperties = 0
 
-        # force to return as array
-        $definedProperties = @($definedProperties)
-        $totalProperties = $definedProperties.Count
+        foreach ($property in [Peridot]::TraitProperties) {
+            # Check if property is set on the archetype (truthy check)
+            # This mimics the original behavior: Where-Object { $archetype.$_ ... }
+            $val = $archetype.$property
+            if ($val) {
+                $totalProperties++
+                if ($this.$property -eq $val) {
+                    $matchingProperties++
+                }
+            }
+        }
 
         if ($totalProperties -eq 0) {
             return 1
-        }
-
-        $matchingProperties = 0
-
-        foreach ($property in $definedProperties) {
-            if ($this.$property -eq $archetype.$property) {
-                $matchingProperties++
-            }
         }
 
         $matchPercentage = ($matchingProperties / $totalProperties)
@@ -81,17 +83,11 @@ Class Peridot {
             return 0
         }
 
-        $properties = $otherPeridot | Get-Member -MemberType Properties |
-            Select-Object -ExpandProperty Name |
-            Where-Object { $_ -notin @('Name', 'Color', 'Generation', 'Parent') }
-
-        # force to return as array
-        $properties = @($properties)
-        $totalProperties = $properties.Count
+        $totalProperties = [Peridot]::TraitProperties.Count
 
         $complexityIndex = 0
 
-        foreach ($property in $properties) {
+        foreach ($property in [Peridot]::TraitProperties) {
             if (!$this.$property) {
                 $complexityIndex++
             }
