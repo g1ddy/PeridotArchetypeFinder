@@ -62,8 +62,8 @@ Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") --> Jinx007-Chip("Jinx007-Chi
 Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") --> Jinx007-Gallagher("Jinx007-Gallagher (Ram,Watermelon)")
 Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") --> Jinx007-Xbreed("Jinx007-Xbreed (Peacock)")
 Jinx007-Watermelon("Jinx007-Watermelon (Peacock)") --> Jinx007-Xover("Jinx007-Xover (Peacock)")
-Jinx007-Wasted("Jinx007-Wasted (Chameleon,Static)") -...-> New_Archetype:_Cinnabon
 Jinx007-Fenrir("Jinx007-Fenrir (Static)") -...-> New_Archetype:_Icicle
+Jinx007-Wasted("Jinx007-Wasted (Chameleon,Static)") -...-> New_Archetype:_Cinnabon
 Jinx007-Chip("Jinx007-Chip (Bismuth,Peacock)") --> Jinx007-Heiress
 Jinx007-Clowndelabra("Jinx007-Clowndelabra (Candle,Clownfish)") --> Jinx007-Dobby("Jinx007-Dobby (Clownfish)")
 Jinx007-Clowndelabra("Jinx007-Clowndelabra (Candle,Clownfish)") --> Jinx007-Hotshot("Jinx007-Hotshot (Candle)")
