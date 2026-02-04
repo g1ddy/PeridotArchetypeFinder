@@ -15,12 +15,12 @@ function Invoke-FindMissingArchetypes {
         $peridots = Get-Peridots -Path $PeridotPath
         $peridotArchetypeDictionary = Get-PeridotArchetypeDictionary -Archetypes $archetypes -Peridots $peridots
 
-        $achievedArchetypes = New-Object System.Collections.Generic.HashSet[string]
+        $achievedArchetypes = New-Object System.Collections.Generic.HashSet[string] ([System.StringComparer]::OrdinalIgnoreCase)
         $peridotArchetypeDictionary.Keys | ForEach-Object {
             $individualArchetypes = $_.Split(', ')
             $individualArchetypes | ForEach-Object { $achievedArchetypes.Add($_) | Out-Null }
         }
-        $undiscoveredArchetypes = $archetypes | Where-Object { $achievedArchetypes -notcontains $_.Name }
+        $undiscoveredArchetypes = $archetypes | Where-Object { -not $achievedArchetypes.Contains($_.Name) }
 
         # Create hitlist folder if not exist
         $parentFolder = Split-Path -Path $PSScriptRoot -Parent
