@@ -49,31 +49,25 @@ function Find-ArchitypeCombinations {
         # Filter remaining items for compatibility with the first element
         $compatibleRestList = New-Object System.Collections.Generic.List[Archetype]
 
-        if (!$first) {
-            for ($i = $StartIndex + 1; $i -lt $Archetypes.Count; $i++) {
-                $compatibleRestList.Add($Archetypes[$i])
+        for ($i = $StartIndex + 1; $i -lt $Archetypes.Count; $i++) {
+            $other = $Archetypes[$i]
+
+            if (!$first -or !$other) {
+                $compatibleRestList.Add($other)
+                continue
             }
-        } else {
-            for ($i = $StartIndex + 1; $i -lt $Archetypes.Count; $i++) {
-                $other = $Archetypes[$i]
 
-                if (!$other) {
-                    $compatibleRestList.Add($other)
-                    continue
-                }
+            # Inline Confirm-ArchetypeCompatibility logic for performance
+            $compatible = (!$first.Ear -or !$other.Ear -or $first.Ear -eq $other.Ear) -and
+                (!$first.Face -or !$other.Face -or $first.Face -eq $other.Face) -and
+                (!$first.Horn -or !$other.Horn -or $first.Horn -eq $other.Horn) -and
+                (!$first.Material -or !$other.Material -or $first.Material -eq $other.Material) -and
+                (!$first.Pattern -or !$other.Pattern -or $first.Pattern -eq $other.Pattern) -and
+                (!$first.Plumage -or !$other.Plumage -or $first.Plumage -eq $other.Plumage) -and
+                (!$first.Tail -or !$other.Tail -or $first.Tail -eq $other.Tail)
 
-                # Inline Confirm-ArchetypeCompatibility logic for performance
-                $compatible = (!$first.Ear -or !$other.Ear -or $first.Ear -eq $other.Ear) -and
-                    (!$first.Face -or !$other.Face -or $first.Face -eq $other.Face) -and
-                    (!$first.Horn -or !$other.Horn -or $first.Horn -eq $other.Horn) -and
-                    (!$first.Material -or !$other.Material -or $first.Material -eq $other.Material) -and
-                    (!$first.Pattern -or !$other.Pattern -or $first.Pattern -eq $other.Pattern) -and
-                    (!$first.Plumage -or !$other.Plumage -or $first.Plumage -eq $other.Plumage) -and
-                    (!$first.Tail -or !$other.Tail -or $first.Tail -eq $other.Tail)
-
-                if ($compatible) {
-                    $compatibleRestList.Add($other)
-                }
+            if ($compatible) {
+                $compatibleRestList.Add($other)
             }
         }
         $compatibleRest = $compatibleRestList.ToArray()
